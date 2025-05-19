@@ -192,16 +192,14 @@ A handcrafted illustration that simulates traditional embroidery using colorful 
 
 <img src="./images/7.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣肖像">
 
-**提示词：**
+**提示词模版：**
 ```
 An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
-
-
+```
+*注意：可替换提示词中的 `[subject]`和`[colors]` 为具体主题和颜色，例如 "dragon on a castle", "woman's profile" 等。*
+**示例提示词：**
+```
 An embroidered portrait of Elon Musk, stitched with rich steel grey and electric blue thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
-
-An embroidered portrait of Oprah Winfrey, stitched with rich royal purple and warm bronze thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
-
-An embroidered portrait of Will Smith, stitched with rich midnight blue and gold thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
 ```
 
 <a id="prompt-6"></a>
