@@ -33,7 +33,7 @@
 
 ---
 <a id="prompt-21"></a>
-## 案例 21：产品变成纸玻璃 (by [@aziz4ai](https://x.com/aziz4ai/status/1923449494898618849))
+## 案例 21：产品变成纸玻璃 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1923449494898618849))
 
 <img src="./images/21.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-产品变成纸玻璃">
 
@@ -49,7 +49,7 @@ Vertical or square aspect ratio, ultra-detailed, poster-quality, visually soothi
 ```
 
 <a id="prompt-20"></a>
-## 案例 20：透明塑料袋装物体 (by [@azed_ai](https://x.com/azed_ai/status/1923376928918327386))
+## 案例 20：透明塑料袋装物体 (来源 [@azed_ai](https://x.com/azed_ai/status/1923376928918327386))
 
 <img src="./images/20.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透明塑料袋装物体">
 
@@ -59,7 +59,7 @@ A high-resolution photograph of a clear plastic drawstring bag placed on a light
 ```
 
 <a id="prompt-19"></a>
-## 案例 19：emoji变成一个花盆 (by [@azed_ai](https://x.com/azed_ai/status/1923739813414568075))
+## 案例 19：emoji变成一个花盆 (来源 [@azed_ai](https://x.com/azed_ai/status/1923739813414568075))
 
 <img src="./images/19.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-emoji变成一个花盆">
 
@@ -69,17 +69,18 @@ A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glo
 ```
 
 <a id="prompt-18"></a>
-## 案例 18：品牌我的世界风格 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923757741262164427))
+## 案例 18：品牌我的世界风格 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923757741262164427))
 
 <img src="./images/18.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌我的世界风格">
 <img src="./images/18-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌我的世界风格">
+
 **提示词：**
 ```
 "A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation  
 ```
 
 <a id="prompt-17"></a>
-## 案例 17：未来一瞥 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1921900687689941197))
+## 案例 17：未来一瞥 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1921900687689941197))
 
 <img src="./images/17.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-未来一瞥">
 
@@ -89,7 +90,7 @@ A cinematic rendering of [subject] walking through a rain-soaked street at night
 ```
 
 <a id="prompt-16"></a>
-## 案例 16：品牌星球世界 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923064017477628160))
+## 案例 16：品牌星球世界 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923064017477628160))
 
 <img src="./images/16.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌星球世界">
 
@@ -99,7 +100,7 @@ Planet [Brand name], Year 3025. A distant world shaped entirely by the essence o
 ```
 
 <a id="prompt-15"></a>
-## 案例 15：树屋 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923451797869371701))
+## 案例 15：树屋 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923451797869371701))
 
 <img src="./images/15.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-树屋">
 
@@ -109,7 +110,7 @@ A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden
 ```
 
 <a id="prompt-14"></a>
-## 案例 14：创意广告 (by [@azed_ai](https://x.com/azed_ai/status/1924090458298609881))
+## 案例 14：创意广告 (来源 [@azed_ai](https://x.com/azed_ai/status/1924090458298609881))
 
 <img src="./images/14.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
 
@@ -119,7 +120,7 @@ A high-impact advertisement set against a clean, dark or high-contrast backgroun
 ```
 
 <a id="prompt-13"></a>
-## 案例 13：创意广告 (by [@aziz4ai](https://x.com/aziz4ai/status/1923980304525537424))
+## 案例 13：创意广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1923980304525537424))
 
 <img src="./images/13.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
 
@@ -137,7 +138,7 @@ Use the uploaded product image exactly as it is — do not alter, redraw, or rei
 ```
 
 <a id="prompt-12"></a>
-## 案例 12：创意广告 (by [@azed_ai](https://x.com/azed_ai/status/1923016036120658122))
+## 案例 12：创意广告 (来源 [@azed_ai](https://x.com/azed_ai/status/1923016036120658122))
 
 <img src="./images/12.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
 
@@ -148,7 +149,7 @@ A real [Real Object] is integrated into a hand-drawn black ink doodle, using loo
 ```
 
 <a id="prompt-11"></a>
-## 案例 11：品牌之爱话术 (by [@aziz4ai](https://x.com/aziz4ai/status/1924046710218645932))
+## 案例 11：品牌之爱话术 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1924046710218645932))
 
 <img src="./images/11.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌之爱话术">
 
@@ -158,7 +159,7 @@ A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted fro
 ```
 
 <a id="prompt-10"></a>
-## 案例 10：熔化变异文本 (by [@gnrlyxyz](https://x.com/gnrlyxyz/status/1924102927154626885))
+## 案例 10：熔化变异文本 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1924102927154626885))
 
 <img src="./images/10.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-熔化变异文本">
 
@@ -168,7 +169,7 @@ Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”
 ```
 
 <a id="prompt-9"></a>
-## 案例 9：青花瓷风格 (by [@firatbilal](https://x.com/firatbilal/status/1923627963251052769))
+## 案例 9：青花瓷风格 (来源 [@firatbilal](https://x.com/firatbilal/status/1923627963251052769))
 
 <img src="./images/9.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-青花瓷风格">
 
@@ -178,7 +179,7 @@ Using the uploaded image as the exact visual base, transform it into a hyper-rea
 ```
 
 <a id="prompt-8"></a>
-## 案例 8：刺绣插图风格 (by [@Artedeingenio](https://x.com/Artedeingenio/status/1924032621220188340))
+## 案例 8：刺绣插图风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1924032621220188340))
 
 <img src="./images/8.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣插图风格">
 
@@ -188,7 +189,7 @@ A handcrafted illustration that simulates traditional embroidery using colorful 
 ```
 
 <a id="prompt-7"></a>
-## 案例 7：刺绣肖像 (by [@azed_ai](https://x.com/azed_ai/status/1924042329700372929))
+## 案例 7：刺绣肖像 (来源 [@azed_ai](https://x.com/azed_ai/status/1924042329700372929))
 
 <img src="./images/7.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣肖像">
 
@@ -204,7 +205,7 @@ An embroidered portrait of Elon Musk, stitched with rich steel grey and electric
 ```
 
 <a id="prompt-6"></a>
-## 案例 6：金色抽象综合风格 (by [@firatbilal](https://x.com/firatbilal/status/1924130071758962938))
+## 案例 6：金色抽象综合风格 (来源 [@firatbilal](https://x.com/firatbilal/status/1924130071758962938))
 
 <img src="./images/6.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将你的视觉效果和标志转化为宇宙-金色抽象综合风格">
 
@@ -239,7 +240,7 @@ An embroidered portrait of Elon Musk, stitched with rich steel grey and electric
 ```
 
 <a id="prompt-5"></a>
-## 案例 5：创建你自己的GTA角色 (by [@Anima_Labs](https://x.com/Anima_Labs/status/1924135446629728712))
+## 案例 5：创建你自己的GTA角色 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1924135446629728712))
 
 <img src="./images/5.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-使用Chat gpt4o创建你自己的GTA角色">
 
@@ -323,3 +324,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。 卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。 卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。 整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。 <h1><span style=""color:red"">「认知」</span>决定上限 <span style=""color:red"">「圈子」</span>决定机会</h1> - 你赚不到「认知」以外的钱， - 也遇不到「圈子」以外的机会。
 ```
 
+<a id="join_chat"></a>
+## 加入群聊《AI交流群-GPT4o提示词》
+<img src="./images/groupchat.jpg" width="300" align="center">
+<img src="./images/wechat.jpg" width="300" align="center">
