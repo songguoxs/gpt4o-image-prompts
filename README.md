@@ -326,5 +326,7 @@ make a colorful page of manga describing the theory of relativity. add some humo
 
 <a id="join_chat"></a>
 ## 加入群聊《AI交流群-GPT4o提示词》
-<img src="./images/groupchat.jpg" width="300" align="center">
-<img src="./images/wechat.jpg" width="300" align="center">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/groupchat.jpg" style="width: 48%;">
+<img src="./images/wechat.jpg" style="width: 48%;">
+</div>
