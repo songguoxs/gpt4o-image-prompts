@@ -10,12 +10,58 @@
 <a id="prompt-toc"></a>
 ## 📖 案例目录
 
-*   [案例 4：马斯克在公园画画 ](#prompt-3)
+*   [案例 5：创建你自己的GTA角色 ](#prompt-5)
+*   [案例 4：马斯克在公园画画 ](#prompt-4)
 *   [案例 3：蜜蜂科学城 ](#prompt-3)
 *   [案例 2：四格漫画 (相对论) ](#prompt-2)
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-5"></a>
+## 案例 5：创建你自己的GTA角色 (by [@Anima_Labs](https://x.com/Anima_Labs/status/1924135446629728712))
+
+<img src="./images/5.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-使用Chat gpt4o创建你自己的GTA角色">
+
+**提示词：**
+```
+Act as a creative director at Rockstar Games. Create a fictional GTA VI character sheet in the exact same style as the official GTA VI promotional images.
+
+The layout must be:
+
+A horizontal character sheet, with the character on the right, in a dynamic pose that reflects their personality.
+On the left, include the following structured text:
+A small "VI" logo at the top left (mention it visually).
+The character’s name in big bold text.
+A catchy slogan or tagline right below in a different bright color.
+A short backstory (3–5 lines) written in an ironic, street-smart, or playful tone — just like Rockstar’s tone of voice.
+
+Use the vibrant Vice City aesthetic with sunset lighting, neon accents, and cel-shaded comic style. The character’s clothing, action, and environment must reflect their archetype and background.
+
+Let me customize the following variables:
+
+Archetype: {your choice}
+
+Gender: {your choice}
+
+Skin tone: {your choice}
+
+Hairstyle: {your choice}
+
+Emotion : {your choice}
+
+Outfit: {your choice}
+
+Weapon or action: {your choice}
+
+Background details: {your choice}
+
+Generate a fictive name in tittle and a description in english
+
+Format the final result like a finished in-game asset reveal. The vibe should be over-the-top, stylish, and full of personality — as if part of the real GTA VI world.
+
+(if the "Your choice" sections are not filled with personalized information, it's up to you to generate it randomly by yourself) generate the visual directly from now on
+```
+
 <a id="prompt-4"></a>
 ## 案例 4：马斯克在公园画画
 
