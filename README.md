@@ -9,7 +9,22 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
-
+*   [案例 21：产品变成纸玻璃 ](#prompt-21)
+*   [案例 20：透明塑料袋装物体 ](#prompt-20)
+*   [案例 19：emoji变成一个花盆 ](#prompt-19)
+*   [案例 18：品牌我的世界风格 ](#prompt-18)
+*   [案例 17：未来一瞥 ](#prompt-17)
+*   [案例 16：品牌星球世界 ](#prompt-16)
+*   [案例 15：树屋 ](#prompt-15)
+*   [案例 14：创意广告 ](#prompt-14)
+*   [案例 13：创意广告 ](#prompt-13)
+*   [案例 12：创意广告 ](#prompt-12)
+*   [案例 11：品牌之爱话术 ](#prompt-11)
+*   [案例 10：熔化变异文本 ](#prompt-10)
+*   [案例 9：青花瓷风格 ](#prompt-9)
+*   [案例 8：刺绣插图风格 ](#prompt-8)
+*   [案例 7：刺绣肖像 ](#prompt-7)
+*   [案例 6：金色抽象综合风格 ](#prompt-6)
 *   [案例 5：创建你自己的GTA角色 ](#prompt-5)
 *   [案例 4：马斯克在公园画画 ](#prompt-4)
 *   [案例 3：蜜蜂科学城 ](#prompt-3)
@@ -17,6 +32,213 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-21"></a>
+## 案例 21：产品变成纸玻璃 (by [@aziz4ai](https://x.com/aziz4ai/status/1923449494898618849))
+
+<img src="./images/21.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-产品变成纸玻璃">
+
+**提示词：**
+```
+[Product by Brand] in a surreal, minimalist paper-glass style advertisement.
+The product is centered, crafted from translucent frosted glass-paper, placed against a clean white or softly tinted background.
+Soft cinematic lighting creates gentle contrast and ambient shadows.
+A single brand color subtly interacts with the scene through glow, mist, liquid, or foam.
+Include a bold, elegant 4-word slogan near the product.
+The brand logo appears subtly etched, glowing, or printed in a refined manner.
+Vertical or square aspect ratio, ultra-detailed, poster-quality, visually soothing and conceptually refined.
+```
+
+<a id="prompt-20"></a>
+## 案例 20：透明塑料袋装物体 (by [@azed_ai](https://x.com/azed_ai/status/1923376928918327386))
+
+<img src="./images/20.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透明塑料袋装物体">
+
+**提示词：**
+```
+A high-resolution photograph of a clear plastic drawstring bag placed on a light gray background. Inside the bag are multiple tiny 3D [subject] figures arranged neatly. The bag is tied with a soft white ribbon and has a black label tag that reads ‘[LABEL TEXT]’. Soft lighting and clean shadows emphasize the realistic textures and details
+```
+
+<a id="prompt-19"></a>
+## 案例 19：emoji变成一个花盆 (by [@azed_ai](https://x.com/azed_ai/status/1923739813414568075))
+
+<img src="./images/19.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-emoji变成一个花盆">
+
+**提示词：**
+```
+A high-quality photo of a cute ceramic [object/animal]-shaped planter with a glossy finish, filled with a variety of vibrant succulents and greenery including a spiky Haworthia, a rosette-shaped Echeveria, and delicate white flowers. The planter has a friendly face and sits on a soft, neutral background with diffused natural lighting, showcasing fine textures and color contrast in a clean, minimalistic composition
+```
+
+<a id="prompt-18"></a>
+## 案例 18：品牌我的世界风格 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923757741262164427))
+
+<img src="./images/18.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌我的世界风格">
+<img src="./images/18-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌我的世界风格">
+**提示词：**
+```
+"A Minecraft-style voxel recreation of a [BRAND NAME] [OBJECT], built entirely from pixelated cubes — detailed voxel modeling, signature brand colors and logo, blocky textures, clean lighting, stylized yet recognizable, 3D render, high resolution, playful and creative interpretation  
+```
+
+<a id="prompt-17"></a>
+## 案例 17：未来一瞥 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1921900687689941197))
+
+<img src="./images/17.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-未来一瞥">
+
+**提示词：**
+```
+A cinematic rendering of [subject] walking through a rain-soaked street at night, illuminated by moody neon lights, reflections dancing on wet pavement, and a hazy urban skyline in the background. The subject feels alive, caught between solitude and electricity.
+```
+
+<a id="prompt-16"></a>
+## 案例 16：品牌星球世界 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923064017477628160))
+
+<img src="./images/16.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌星球世界">
+
+**提示词：**
+```
+Planet [Brand name], Year 3025. A distant world shaped entirely by the essence of the brand. The landscapes echo its core identity — from surreal terrains to fantastical weather patterns. Native flora and fauna embody its signature ingredients and aesthetics. Rivers flow with iconic flavors. Architecture is inspired by its packaging and visual language, fused with futuristic technology. The atmosphere is rich in texture, cinematic lighting, and surreal detail. A dreamlike vision of brand identity reimagined as a sci-fi utopia.
+```
+
+<a id="prompt-15"></a>
+## 案例 15：树屋 (by [@TheRelianceAI](https://x.com/TheRelianceAI/status/1923451797869371701))
+
+<img src="./images/15.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-树屋">
+
+**提示词：**
+```
+A quiet morning in a luxury treehouse retreat created by [BRAND NAME] — golden light pours through windows framed in the brand’s signature colors. A cozy seating area features playful, thematic furniture, and a circular rug inspired by [BRAND SYMBOL OR PRODUCT]. The coffee table bears the embossed logo, while a screen on the wall loops the phrase: “[BRAND SLOGAN].” A curated display of iconic items adds a sense of nostalgia. Subtle ambient lighting glows in brand tones, and a tray with signature treats sits near the window. It’s cozy, imaginative, and unmistakably [BRAND NAME]
+```
+
+<a id="prompt-14"></a>
+## 案例 14：创意广告 (by [@azed_ai](https://x.com/azed_ai/status/1924090458298609881))
+
+<img src="./images/14.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+```
+A high-impact advertisement set against a clean, dark or high-contrast background. A [product] is centered, sharply lit and highly detailed. Around it, surreal, stylized visual [elements] illustrations explode outward (e.g., musicians, runners, curls, sunbursts), vibrant color palette, neon. bold uppercase ad copy at the top that reads [TEXT] and the brand logo at the bottom, modern Ad
+```
+
+<a id="prompt-13"></a>
+## 案例 13：创意广告 (by [@aziz4ai](https://x.com/aziz4ai/status/1923980304525537424))
+
+<img src="./images/13.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+```
+Use the uploaded product image exactly as it is — do not alter, redraw, or reinterpret any part of it. Follow the guidelines below to create a high-quality, cinematic product presentation:
+
+• Keep the product fully intact — all text, labels, proportions, packaging, and colors must remain exactly the same.
+• Use natural or cinematic lighting to enhance the product’s appeal.
+• Place the product on a realistic surface that matches its category (e.g. wooden kitchen table for bread, bathroom shelf for skincare, desk for tech gadgets).
+• Add complementary props if appropriate (e.g. toast and coffee for bread, leaves and water droplets for skincare) — but do not let them touch or cover the product.
+• Use a softly blurred or ambient background (e.g. kitchen, morning window light, minimal interior).
+• Include soft shadows and subtle reflections for a grounded, photo-realistic effect.
+• Final result should feel premium, natural, and visually appealing — with 100% fidelity to the uploaded product image.
+```
+
+<a id="prompt-12"></a>
+## 案例 12：创意广告 (by [@azed_ai](https://x.com/azed_ai/status/1923016036120658122))
+
+<img src="./images/12.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创意广告">
+
+**提示词：**
+```
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+```
+
+<a id="prompt-11"></a>
+## 案例 11：品牌之爱话术 (by [@aziz4ai](https://x.com/aziz4ai/status/1924046710218645932))
+
+<img src="./images/11.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌之爱话术">
+
+**提示词：**
+```
+A romantic square-format bouquet inspired by [Brand Name]. Roses are crafted from visual patterns or textures that reflect the brand’s identity. The bouquet is wrapped in luxurious material echoing the brand’s signature style (e.g. silk, velvet, leather), and elegantly tied with one of the brand’s iconic products, replacing a traditional ribbon. Place it on a surface that matches the brand’s aesthetic. Add a message card beside the bouquet with a short, emotional 3-word slogan representing the brand’s spirit. Include the [Brand Name] logo subtly in the scene. Cinematic lighting, ultra-detailed, elegant depth of field, premium editorial quality.
+```
+
+<a id="prompt-10"></a>
+## 案例 10：熔化变异文本 (by [@gnrlyxyz](https://x.com/gnrlyxyz/status/1924102927154626885))
+
+<img src="./images/10.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-熔化变异文本">
+
+**提示词：**
+```
+Create a psychedelic, grotesque cartoon-style text design that says “GNARLY”. Arrange the letters in a straight horizontal line. Each letter should be lumpy, melting, and oozing with bright, clashing flat colors like slime green, neon yellow, and hot pink. Each letter must be filled with only one solid flat color, with no gradients or transitions. All drips, melts, and oozes must be solid black with no shading or gradient. Make the design vector-friendly with clean, solid fills and bold black outlines. Add extra black and white eyeballs to make each letter feel like a weird mutated creature. Keep the composition chaotic but readable, like a mutant version of a Saturday morning cartoon. Black background. Square aspect ratio.
+```
+
+<a id="prompt-9"></a>
+## 案例 9：青花瓷风格 (by [@firatbilal](https://x.com/firatbilal/status/1923627963251052769))
+
+<img src="./images/9.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-青花瓷风格">
+
+**提示词：**
+```
+Using the uploaded image as the exact visual base, transform it into a hyper-realistic 3D object that retains the original shape and proportions of the logo only. Apply traditional Ottoman Iznik ceramic textures—featuring a warm white glazed base with delicate crackle lines, overlaid with vivid cobalt blue, turquoise, and bold red floral motifs such as tulips, carnations, and arabesque vines. The entire logo should be treated as a standalone porcelain sculpture with raised, hand-painted detailing and no background plate or tile structure. Ensure the decorative patterns elegantly follow the contours of the Bugatti logo, without altering its form. Render the object in a pure black background with Cinema 4D-style product lighting—highlighting realistic ceramic gloss, material depth, and subtle reflections. The final result should feel like a luxurious handcrafted ceramic reinterpretation, balancing heritage ornamentation with industrial branding.
+```
+
+<a id="prompt-8"></a>
+## 案例 8：刺绣插图风格 (by [@Artedeingenio](https://x.com/Artedeingenio/status/1924032621220188340))
+
+<img src="./images/8.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣插图风格">
+
+**提示词：**
+```
+A handcrafted illustration that simulates traditional embroidery using colorful threads on linen fabric. All elements are “stitched” with visible yarn textures, using techniques like satin stitch, backstitch, and French knots. Raised contours and directional thread flow create a tactile, cozy appearance. The background is made of woven linen, with gentle pastel or folk-inspired colors. The composition is friendly and magical, evoking a storybook charm. Include decorative details such as flowers, suns, clouds, trees or symbols to enhance the folk embroidery style.
+```
+
+<a id="prompt-7"></a>
+## 案例 7：刺绣肖像 (by [@azed_ai](https://x.com/azed_ai/status/1924042329700372929))
+
+<img src="./images/7.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣肖像">
+
+**提示词：**
+```
+An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+
+
+An embroidered portrait of Elon Musk, stitched with rich steel grey and electric blue thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+
+An embroidered portrait of Oprah Winfrey, stitched with rich royal purple and warm bronze thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+
+An embroidered portrait of Will Smith, stitched with rich midnight blue and gold thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
+```
+
+<a id="prompt-6"></a>
+## 案例 6：金色抽象综合风格 (by [@firatbilal](https://x.com/firatbilal/status/1924130071758962938))
+
+<img src="./images/6.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将你的视觉效果和标志转化为宇宙-金色抽象综合风格">
+
+**提示词：**
+```
+{
+    "base_image": "uploaded image",
+    "style_transfer": {
+        "visual_characteristics": {
+            "head_and_face": {
+                "material": "translucent resin with embedded starlight and glowing neural circuits",
+                "surface_effect": "mirror-gloss with gold filament veins and galaxy-like reflections",
+                "lighting": "dynamic cinematic rim lights with volumetric glow"
+            },
+            "body_structure": {
+                "texture": "high-polish white ceramic with embedded gold wiring",
+                "design": "futuristic like organic plating",
+                "highlight_elements": "subtle internal light flows mimicking synaptic energy"
+            },
+            "motion_effect": {
+                "visual_glitch": "subtle horizontal motion blur on head edges",
+                "energy_flow": "faint pulsing particle lights across body"
+            },
+            "background": {
+                "type": "neutral gradient or dark void",
+                "focus": "emphasize figure's luminous contrast"
+            }
+        },
+        "application_target": "Replace surface and material style of uploaded image with the characteristics described above, while preserving the original pose, structure, and composition of the target image."
+    }
+}
+```
+
 <a id="prompt-5"></a>
 ## 案例 5：创建你自己的GTA角色 (by [@Anima_Labs](https://x.com/Anima_Labs/status/1924135446629728712))
 
