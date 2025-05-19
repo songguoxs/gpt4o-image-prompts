@@ -196,7 +196,8 @@ A handcrafted illustration that simulates traditional embroidery using colorful 
 ```
 An embroidered portrait of [subject], [colors] thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
 ```
-*注意：可替换提示词中的 `[subject]`和`[colors]` 为具体主题和颜色，例如 "dragon on a castle", "woman's profile" 等。*
+*注意：可替换提示词中的 `[subject]`和`[colors]` 为具体主题和颜色，例如 "Elon Musk", "stitched with rich steel grey and electric blue" 等。*
+
 **示例提示词：**
 ```
 An embroidered portrait of Elon Musk, stitched with rich steel grey and electric blue thread on deep linen fabric. Visible needlework, layered textures, and handmade patterns give it an earthy, sacred feel.
