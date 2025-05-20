@@ -9,6 +9,8 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 42：Logo超写实微型摄影 ](#prompt-42)
+*   [案例 41：卡通角色转换成超写实人类 ](#prompt-41)
 *   [案例 40：品牌领导骑行 ](#prompt-40)
 *   [案例 39：网络矩阵梦境 ](#prompt-39)
 *   [案例 38：捷克木偶风格 ](#prompt-38)
@@ -51,6 +53,78 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-42"></a>
+## 案例 42：Logo超写实微型摄影 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1923036265013801025))
+
+<img src="./images/42.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Logo超写实微型摄影">
+
+**提示词：**
+```
+Recreate this [BRAND NAME] logo follow the JSON aesthetic below: 
+{
+    "style": "hyperrealistic miniature photography",
+    "scene": {
+        "main_subject": "uploaded logo scaled to appear as a large physical object",
+        "interaction": "tiny human figures interacting with the logo",
+        "activities": [
+            "cleaning the logo",
+            "painting parts of the logo",
+            "climbing ladders on the logo surface",
+            "taking photographs of the logo"
+        ],
+        "environment": "studio-style white background to focus on details",
+        "perspective": "frontal view with shallow depth of field for macro effect"
+    },
+    "logo_handling": {
+        "preserve_original_logo_shape": true,
+        "preserve_original_logo_colors": true,
+        "preserve_text_in_logo": true,
+        "use_logo_as_structural_object": true,
+        "adapt_logo_to_3D_surface": true
+    },
+    "miniature_elements": {
+        "figure_scale": "1:50 ratio to logo",
+        "figure_details": "tiny realistic humans with props like brushes, ropes, and scaffolding",
+        "interaction_type": "physical interaction, not illustration or overlay"
+    },
+    "lighting": {
+        "key_light": "soft diffused white light from above",
+        "fill_light": "mild side fill to reveal depth and volume",
+        "shadows": "realistic and subtle around base and figures"
+    },
+    "camera": {
+        "focus_mode": "macro with shallow depth of field",
+        "angle": "slightly top-down to give sense of scale",
+        "background": "clean white surface, no gradient, no transparency"
+    },
+    "post_processing": {
+        "realism_enhancement": "preserve logo clarity, crisp text, no artistic blurring",
+        "forbid_artistic_filters": true,
+        "forbid_color_modifications": true
+    },
+    "image_constraints": {
+        "transparent_background": false,
+        "include_text": true,
+        "adapt_to_uploaded_logo": true,
+        "obey_logo_shape": true,
+        "preserve_original_logo_colors": true
+    },
+    "notes": "The uploaded logo must be clearly recognizable, unmodified, and serve as the core structural element of the scene. Tiny people should interact with the logo realistically, as if it were a large 3D object in a physical miniature world."
+}
+```
+**提示：需上传一张Logo/图片**
+
+<a id="prompt-41"></a>
+## 案例 41：卡通角色转换成超写实人类 (来源 [@The_Real_Bersek](https://x.com/The_Real_Bersek/status/1917174101627617752))
+
+<img src="./images/41.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通角色转换成超写实人类">
+
+**提示词：**
+```
+Transform the cartoon character from the reference image into a hyper-realistic human while maintaining their core attributes (clothing, hairstyle, facial expression, accessories, and proportions, age and so on). Create a photorealistic portrait
+```
+**提示：需上传一张卡通图片**
+
 <a id="prompt-40"></a>
 ## 案例 40：品牌领导骑行 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1924527136657834468))
 
