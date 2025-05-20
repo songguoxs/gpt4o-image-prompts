@@ -205,7 +205,7 @@ Typography (top-left corner):
 <a id="prompt-34"></a>
 ## 案例 34：云的艺术 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1924473546216292441))
 
-<img src="./images/34.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-云的艺术">
+<img src="./images/34.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-云的艺术">
 
 **提示词：**
 ```
@@ -295,7 +295,7 @@ Create a bold, warped cartoon-style text design with two distinct layers. The to
 <a id="prompt-30"></a>
 ## 案例 30：公司金币 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1924526898840822207))
 
-<img src="./images/30.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-公司金币">
+<img src="./images/30.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-公司金币">
 
 **提示词：**
 ```
