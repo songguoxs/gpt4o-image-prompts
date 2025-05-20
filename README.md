@@ -9,6 +9,25 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 40：品牌领导骑行 ](#prompt-40)
+*   [案例 39：网络矩阵梦境 ](#prompt-39)
+*   [案例 38：捷克木偶风格 ](#prompt-38)
+*   [案例 37：logo放进我的世界中 ](#prompt-37)
+*   [案例 36：马赛克壁画 ](#prompt-36)
+*   [案例 35：人物戏剧夸张风格 ](#prompt-35)
+*   [案例 34：云的艺术 ](#prompt-34)
+*   [案例 33：复古像素UI图标 ](#prompt-33)
+*   [案例 32：卡通风格文本标志 ](#prompt-32)
+*   [案例 31：超写实拼图肖像 ](#prompt-31)
+*   [案例 30：公司金币 ](#prompt-30)
+*   [案例 29：面包形态 ](#prompt-29)
+*   [案例 28：狭窄走廊里奔跑 ](#prompt-28)
+*   [案例 27：品牌奢华之物从天而降 ](#prompt-27)
+*   [案例 26：水流身份 ](#prompt-26)
+*   [案例 25：按键删除周一 ](#prompt-25)
+*   [案例 24：新市场中的美妆品牌 ](#prompt-24)
+*   [案例 23：平面设计等边风格 ](#prompt-23)
+*   [案例 22：自定义气球 ](#prompt-22)
 *   [案例 21：产品变成纸玻璃 ](#prompt-21)
 *   [案例 20：透明塑料袋装物体 ](#prompt-20)
 *   [案例 19：emoji变成一个花盆 ](#prompt-19)
@@ -32,6 +51,353 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-40"></a>
+## 案例 40：品牌领导骑行 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1924527136657834468))
+
+<img src="./images/40.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌领导骑行">
+
+**提示词：**
+```
+A cinematic 1:1 scene featuring the iconic leader of [Brand Name] riding a futuristic electric motorcycle that reflects the brand’s identity. He wears a high-detail black or brand-colored carbon fiber leather jacket, with the [Brand Name] logo embroidered boldly on the chest and
+```
+
+<a id="prompt-39"></a>
+## 案例 39：网络矩阵梦境 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1924382022002250151))
+
+<img src="./images/39.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-网络矩阵梦境">
+<img src="./images/39-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-网络矩阵梦境">
+
+**提示词：**
+```
+[SUBJECT] reinterpreted through Cyber Matrix Dreamscapes, where cascading streams of digital code form the immersive backdrop. Imbue the scene with radical neon [COLOR1] and luminous [COLOR2] accents to evoke a futuristic reality where art converges with algorithm
+```
+
+<a id="prompt-38"></a>
+## 案例 38：捷克木偶风格 (来源 [@AllaAisling](https://x.com/AllaAisling/status/1924231647894896732))
+
+<img src="./images/38.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-捷克木偶风格">
+<img src="./images/38-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-捷克木偶风格">
+
+**提示词：**
+```
+Hand-Carved Wooden Puppet (Czech Marionette Style)
+
+A hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling.
+```
+
+<a id="prompt-37"></a>
+## 案例 37：logo放进我的世界中 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1924503062325989836))
+
+<img src="./images/37.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-logo放进我的世界中">
+
+**提示词：**
+```
+Recreate the [BRAND NAME] logo following the JSON Aesthetic below: {
+"style": "Minecraft-style voxel 3D rendering",
+"logo_handling": {
+"adapt_to_uploaded_logo": true,
+"rebuild_logo_using_voxel_blocks": true,
+"use_original_logo_as_strict_pixel-color map": true,
+"preserve_text_in_logo": true,
+"preserve_text_case": true,
+"preserve_original_logo_colors": true,
+"preserve_shape_and_layout": true
+"aspect_ratio": [INSERT ASPECT RATIO]
+},
+"minecraft_conversion": {
+"voxel_depth": "medium thickness to show 3D volume",
+"block_style": "authentic Minecraft texture mapping",
+"color_strategy": "each block in the logo must match a pixel from the uploaded logo exactly — no estimation or stylistic substitution",
+"voxel_material_match": "map logo pixels to Minecraft block colors that visually match pixel color as closely as possible — no creative enhancements",
+"disable_palette_expansion": true
+},
+"scene_environment": {
+"base": "neutral terrain (gray concrete or light stone)",
+"background": "simple sky (clouds, no sun flare)",
+"optional_elements": [
+"Minecraft animals at a distance",
+"terrain vegetation in background only"
+],
+"environment_color_policy": "environment must not share colors used in the logo to prevent blending or confusion"
+},
+"lighting": {
+"neutral directional light": true,
+"do_not_adjust_logo_colors_for_lighting": true,
+"prevent_ambient_light_color_bleed": true
+},
+"camera": {
+"angle": "slightly top-down with 3D logo centered",
+"focus": "sharp focus on voxel logo only, environment softly rendered"
+},
+"render_quality": {
+"voxel_texture_resolution": "high",
+"shadows": "natural voxel-style ambient shadows only",
+"disable_artistic_effects": true
+},
+"post_processing": {
+"no glow effects": true,
+"no color correction": true,
+"disable AI reinterpretation of tones or palette": true
+},
+"image_constraints": {
+"transparent_background": false,
+"include_text": true,
+"preserve_text_case": true,
+"preserve_original_logo_colors": true,
+"obey_uploaded_logo_shape": true,
+"match_uploaded_logo_layout": true,
+"enforce_color_source_from_logo_only": true
+},
+"notes": "Rebuild the uploaded logo using Minecraft-style voxel blocks. Every block must represent one pixel from the logo's original image. No creative license is allowed in color, shape, or layout. The environment is decorative only and must not affect logo readability or color perception. The final image should appear as if the logo were physically constructed in a Minecraft world using blocks that match its exact colors and shapes."
+}
+```
+**提示：需要上传Logo图，记得填写[BRAND NAME]和[INSERT ASPECT RATIO]变量，品牌名称和宽高比。**
+
+<a id="prompt-36"></a>
+## 案例 36：马赛克壁画 (来源 [@azed_ai](https://x.com/azed_ai/status/1924405701985853714))
+
+<img src="./images/36.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-马赛克壁画">
+
+**提示词：**
+```
+A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in sun-faded [color1] and weathered [color2]. Set into a cracked plaster wall, the irregular shapes and grout lines add a rustic, timeworn charm.
+```
+
+<a id="prompt-35"></a>
+## 案例 35：人物戏剧夸张风格 (来源 [@dotey](https://x.com/dotey/status/1924288320881750108))
+
+<img src="./images/35.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-人物戏剧夸张风格">
+<img src="./images/35-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-人物戏剧夸张风格">
+
+**提示词：**
+```
+A high-resolution vertical Pixar-style 3D character illustration.
+
+Main character:  
+Salvador Dalí — depicted as a tall, slim, and slightly exaggerated Pixar-style 3D character.  
+Wearing a classic blue shirt, yellow tie, high-waisted plaid trousers with suspenders, and leather shoes.  
+His iconic long upturned mustache, slick black hair, sharply arched eyebrows, and slightly eccentric posture.  
+Stands with chest out, one hand on hip, head tilted slightly back in his typical theatrical flair.
+
+Background:  
+Flat, clean yellow background with subtle surface texture.  
+Strong sunlight from top-left casts a distinct and enlarged shadow on the wall behind him.
+
+Key Concept – Shadow as spiritual projection:  
+The shadow cast behind him does **not** mirror his body shape.  
+Instead, it takes the form of one of his most iconic artworks —  
+a surreal melted clock with long dripping arms, inspired by “The Persistence of Memory”.
+
+The melted clock shadow is positioned diagonally, starting from his shoulder,  
+stretching wide and low across the yellow wall, surreal and fluid, yet unmistakably symbolic.
+
+This shadow is **Dalí’s legacy made visible** — a symbolic extension of his identity through time, dream, and visual distortion.
+
+Lighting & Rendering:  
+Pixar-like rendering with detailed but stylized textures.  
+Use subtle filmic grain, soft shadows, and warm color grading.  
+Subtle sparkles or light speckles inside the shadow to evoke dreamlike texture.
+
+Typography (top-left corner):  
+“Salvador Dalí” in minimalist black sans-serif font, “Dalí” bolded.
+```
+
+<a id="prompt-34"></a>
+## 案例 34：云的艺术 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1924473546216292441))
+
+<img src="./images/34.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-云的艺术">
+
+**提示词：**
+```
+A photograph captures a daytime scene with a [SUBJECT/OBJECT] formed by scattered clouds in the sky, positioned above a [LOCATION]
+```
+
+<a id="prompt-33"></a>
+## 案例 33：复古像素UI图标 (来源 [@egeberkina](https://x.com/egeberkina/status/1924462051474174222))
+
+<img src="./images/33.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-复古像素UI图标">
+
+**提示词：**
+```
+retexture the image attached in the following json aesthetic style:
+{
+  "style": "Retro Pixel UI Icons",
+  "resolution": "low (32x32 or 48x48)",
+  "color_palette": [
+    "#F2F2F2",  
+    "#C0C0C0",  
+    "#000000", 
+    "#FFFFFF",  
+    "#0000FF",  
+    "#00FF00",  
+    "#FFFF99",  
+    "#008080" 
+  ],
+  "outline": {
+    "enabled": true,
+    "color": "#000000",
+    "thickness": "1px"
+  },
+  "shading": {
+    "method": "dithering",
+    "colors_used": ["base color", "highlight", "shadow"],
+    "pattern": "checkerboard or diagonal lines"
+  },
+  "lighting": {
+    "type": "flat",
+    "source": "top-left",
+    "highlight_color": "#FFFFFF",
+    "shadow_color": "#808080"
+  },
+  "background": {
+    "color": "#F2F2F2",
+    "type": "plain",
+    "transparency": false
+  },
+  "object_properties": {
+    "style": "pixel art",
+    "perspective": "isometric or front-facing",
+    "animation": {
+      "enabled": false,
+      "frame_style": "static pixel art"
+    }
+  }
+}
+```
+**提示：需要上传一个参考图**
+
+<a id="prompt-32"></a>
+## 案例 32：卡通风格文本标志 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1924466922545877098))
+
+<img src="./images/32.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通风格文本标志">
+
+**提示词：**
+```
+Create a bold, warped cartoon-style text design with two distinct layers. The top layer should say “SUPER GNARLY” in warped bubble letters with a melty, drippy texture, like ghost slime or goo. The letters should feel heavy and organic, with a slightly psychedelic or paranormal vibe. The bottom layer should say “SOCIETY” in much smaller, script-like or handwritten-style letters that tuck underneath or nestle between the larger title letters. Both layers should be solid white with thick black outlines. No gradients, shading, or texture. Layout should be playful and a little chaotic, but still readable. Vector friendly. Blue background. Square aspect ratio.
+```
+
+<a id="prompt-31"></a>
+## 案例 31：超写实拼图肖像 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1923999321634283862))
+
+<img src="./images/31.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实拼图肖像">
+
+**提示词：**
+```
+高分辨率的摄影棚人像，一位惊艳年轻模特「安妮海瑟薇」为主角。她拥有一头顺直的黑发，背景为白色，无任何可辨识的元素。她的脸略微侧转，但目光直视镜头，目光强烈而专注，毫无动摇。
+
+她整张脸由拼图块组成——每一块都清晰可见，边缘整齐，具备细腻的立体感。她轻柔地用手指捏着一块刚从脸颊取下的拼图块，露出其下方一个空洞的黑色虚空。
+
+光线集中且具方向性，几乎不产生阴影，但准确地勾勒出皮肤的轮廓与拼图结构的立体感。整体氛围超现实、精准且高度写实。
+
+顶部有像时尚杂志一样的标题“ZHOGUE”（在人物后面）
+```
+
+<a id="prompt-30"></a>
+## 案例 30：公司金币 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1924526898840822207))
+
+<img src="./images/30.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-公司金币">
+
+**提示词：**
+```
+Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte
+```
+
+<a id="prompt-29"></a>
+## 案例 29：面包形态 (来源 [@azed_ai](https://x.com/azed_ai/status/1924479430157812140))
+
+<img src="./images/29.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-面包形态">
+
+**提示词：**
+```
+A highly realistic sculpture of a [object], made entirely from [bread type] with ultra-detailed texture and color. The surface shows the natural properties of the bread, golden-brown, glossy, flaky or crusty, with visible layers or seeds where appropriate, studio lighting, soft
+```
+
+<a id="prompt-28"></a>
+## 案例 28：狭窄走廊里奔跑 (来源 [@B_4AI](https://x.com/B_4AI/status/1924410511392719343))
+
+<img src="./images/28.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-狭窄走廊里奔跑">
+
+**提示词：**
+```
+A thrilling 3D cartoon scene: [CHARACTER1] runs through a narrow corridor inside [Place], chased at high speed by [CHARACTER2]. Their facial expressions reflect tension and focus, with beads of sweat glistening under dramatic lighting.
+```
+
+<a id="prompt-27"></a>
+## 案例 27：品牌奢华之物从天而降 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1924390055231287650))
+
+<img src="./images/27.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌奢华之物从天而降">
+
+**提示词：**
+```
+Create a image with 1:1 ratio
+a dreamy brand ad of [Brand], a brand designed bubble-like capsule with brand color parachute packaging their classic product, against blue sky and other blurry parachute packaging, white cloud, a small brand logo on top, a tiny slogan beneath it, cinematic day lighting, lens flare, dof, hdr
+```
+
+<a id="prompt-26"></a>
+## 案例 26：水流身份 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1924325011847884979))
+
+<img src="./images/26.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-水流身份">
+
+**提示词：**
+```
+An ultra-high resolution 8K cinematic render of the [Brand Name] logo, sculpted entirely from flowing crystal-clear water. The liquid forms every curve and edge of the brand’s logo with fluid precision, highlighted by vibrant neon accents inspired by [Brand Name]’s color identity. The background is pitch black, creating sharp contrast and drama. The lighting is dynamic, revealing sharp reflections, glowing edges, and the motion of water as it ripples and splashes. Droplets, shine, and soft glass-like textures give the logo a surreal, luxurious, and futuristic appearance — poster-quality, 1:1 format.
+```
+
+<a id="prompt-25"></a>
+## 案例 25：按键删除周一 (来源 [@michaelrabone](https://x.com/michaelrabone/status/1924374502529438005))
+
+<img src="./images/25.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-按键删除周一">
+
+**提示词：**
+```
+Detailed photographic image of a miniature person in bed feeling cranky under an opened 'Delete Monday' keyboard keycap, using the inside of the keycap as a mini bedroom complete with the usual bedroom stuff
+```
+
+<a id="prompt-24"></a>
+## 案例 24：新市场中的美妆品牌 (来源 [@azed_ai](https://x.com/azed_ai/status/1924439540028313693))
+
+<img src="./images/24.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-新市场中的美妆品牌">
+<img src="./images/24-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-新市场中的美妆品牌">
+
+**提示词：**
+```
+A product photography shot of a [PRODUCT] inspired by [FOOD BRAND], placed against a soft light gray background. The product is sharply focused with soft studio lighting. The packaging design includes the official [FOOD BRAND] logo and reflects the brand’s colors and style. The product is sleek, glossy, and realistic, with high detail and elegant presentation. No food items, just the makeup product. Include only the makeup item in the shot. Modern aesthetic, luxury cosmetic branding
+```
+
+<a id="prompt-23"></a>
+## 案例 23：平面设计等边风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1924388407939076377))
+
+<img src="./images/23.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-平面设计等边风格">
+
+**提示词：**
+```
+A flat isometric digital illustration of [describe the subject: e.g., a modern workspace, a city block, a group of app icons, a sports shop], clean lines and geometric forms, bright pastel colors, simplified perspective with 3D depth, minimal shading, white background or light gradient. Style resembles modern vector infographics, ideal for UI, app design or web visuals.
+```
+
+<a id="prompt-22"></a>
+## 案例 22：自定义气球 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1924121078559125841))
+
+<img src="./images/22.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义气球">
+
+**提示词：**
+```
+一件高度写实的 3D 装置艺术：字母 Z 被设计成充气球囊造型，整体形态如同流畅弯曲的“Z”字路径，由两段斜线和一个折角构成，边缘略微卷翘，充满柔软的气压感。
+
+视角为正面稍仰视角（约10°）的正交投影，主体置于画面正中央，占据几乎全部画幅，背景为纯黑色，形成类似剧院聚光灯的聚焦舞台效果。
+
+材质为高弹性亮面 PVC，表面涂有高光清漆。主色为柔亮粉色（#FF96AC），阴影部分渐变为淡紫粉色，表面同时具备镜面高光和柔和漫反射，呈现丝滑、饱满、有张力的视觉质感。
+
+左下角可见一个金属螺旋气嘴（银灰色），尺寸很小但极具真实感，暗示其为充气物体。右下笔画末端印有一串黑色的警示文字和安全图标，以“ZHOGUE”风格排版，呼应充气玩具视觉语言。
+
+主光源来自左上方约 35°，呈现清晰的硬边聚光灯效果：在顶部折角与中央斜线区域形成椭圆形白色高光，内折阴影区带有柔和的粉紫色内反射。
+
+辅光来自右后方，轻柔描边顶部和转折边缘，使形体与黑背景分离，整体光比约为 1:2，保持色彩通透与立体感。亮区色温偏冷，营造冷暖对比，进一步突显质感。
+
+球囊表面略显鼓胀，折角与转折区域有尖锐的折痕，带来软体与几何的视觉张力。最深的转折处投下细长阴影，仿佛即将破裂；下方末端则有轻微拉扯感，如气球尾部即将被牵动。
+
+整体概念融合了字母结构与充气玩具的材质语言，通过夸张体积、真实光感与极简舞台感构建出“字母也能呼吸”的视觉冲击，呈现理性几何与感性触觉的碰撞。
+```
+
 <a id="prompt-21"></a>
 ## 案例 21：产品变成纸玻璃 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1923449494898618849))
 
