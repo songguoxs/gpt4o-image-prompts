@@ -9,6 +9,13 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 50：通过钥匙孔看世界 ](#prompt-50)
+*   [案例 49：超现实海洋图案 ](#prompt-49)
+*   [案例 48：警方照片风格 ](#prompt-48)
+*   [案例 47：无声电影场景 ](#prompt-47)
+*   [案例 46：简单的输入中构思和创建有影响力的图像 ](#prompt-46)
+*   [案例 45：复古锡玩具立体模型风格 ](#prompt-45)
+*   [案例 44：附魔粒子泛光 ](#prompt-44)
 *   [案例 43：Airbnb风格的图标 ](#prompt-43)
 *   [案例 42：Logo超写实微型摄影 ](#prompt-42)
 *   [案例 41：卡通角色转换成超写实人类 ](#prompt-41)
@@ -54,6 +61,104 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-50"></a>
+## 案例 50：通过钥匙孔看世界 (来源 [@icreatelife](https://x.com/icreatelife/status/1925268371227971871))
+
+<img src="./images/50.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-通过钥匙孔看世界">
+
+**提示词：**
+```
+looking through a [MATERIAL] keyhole towards a mythical [WORLD] dark fantasy, [very black background] around keyhole, sharp focus, photographic
+```
+
+
+<a id="prompt-49"></a>
+## 案例 49：超现实海洋图案 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925424557638500838))
+
+<img src="./images/49.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实海洋图案">
+
+**提示词：**
+```
+Create a hyper-realistic image where [SHAPE] shape is formed by the magical parting of [wavy] blue ocean, with the [SHAPE] shape being a [COLOUR] empty land. The top view should show the water being pushed aside by an unseen force, creating the [SHAPE] with an ultra-thin line. The stark [COLOR] color of the [SHAPE] interior should contrast with the vibrant blue water around it, emphasizing the supernatural effect as if the water is being parted to reveal the [SHAPE] shape distinctly.
+```
+
+<a id="prompt-48"></a>
+## 案例 48：警方照片风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1925475465029919163))
+
+<img src="./images/48.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-警方照片风格">
+
+**提示词：**
+```
+Transform this image into a realistic police mugshot.
+Add a gray background with height markings, harsh frontal lighting, and a nameplate with the person's name and a case number.
+The photo should look like an official FBI or police booking photo, vertical format (4:5), with a neutral expression and no accessories.
+```
+
+```
+Convert this image into a 1940s noir-style police mugshot.
+Use black and white with high contrast, aged paper texture in the background, and a mechanical-style nameplate.
+The person should look like a classic film noir character.
+```
+
+```
+Transform this image into a police mugshot in comic book ink style.
+Use bold black lines, cross-hatching for shading, and a background with height chart lines.
+Add a placard with a prisoner number and a slightly dramatic or expressive pose.
+```
+
+```
+Turn this image into a satirical mugshot illustration.
+Include a broken or torn poster background, a placard with a ridiculous crime (e.g. “charged with too much style”), and theatrical lighting.
+Make the style cartoonish, exaggerated, and humorous.
+```
+**提示：上传一张图片**
+
+<a id="prompt-47"></a>
+## 案例 47：无声电影场景 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1925469185288572953))
+
+<img src="./images/47.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-无声电影场景">
+
+**提示词：**
+```
+[SUBJECT] depicted in a Sepia-Toned Silent Film Scene, evoking the drama and expression of early cinema. Use muted [COLOR1] and [COLOR2] sepia tones to enhance the nostalgic atmosphere
+```
+
+<a id="prompt-46"></a>
+## 案例 46：简单的输入中构思和创建有影响力的图像 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925397022011527192))
+
+<img src="./images/46.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-简单的输入中构思和创建有影响力的图像">
+
+**提示词：**
+```
+Create a surrealistic image about diabetes that conveys the message in a powerful and influential way. Plan and prepare the visual concept and prompt, then generate the image as a photograph with a caption.
+```
+
+<a id="prompt-45"></a>
+## 案例 45：复古锡玩具立体模型风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1920423915211375060))
+
+<img src="./images/45.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-复古锡玩具立体模型风格">
+
+**提示词：**
+```
+transform it into part of a miniature mechanical scene from the 1940s or ’50s, featuring:
+
+➕Shiny enamel-painted metal characters and objects.
+➕Riveted details and visible joints.
+➕Illustrated cardboard backdrops with vintage charm.
+➕Wind-up toy-style settings with gears and wheels.
+```
+**提示：上传一张图片**
+
+<a id="prompt-44"></a>
+## 案例 44：附魔粒子泛光 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1925069047948849443))
+
+<img src="./images/44.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-附魔粒子泛光">
+
+**提示词：**
+```
+[SUBJECT] surrounded by an Enchanted Particle Bloom, with particles resembling magical flower petals or leaves. Employ soft, enchanting hues of [COLOR1] and [COLOR2] to create a sense of natural magic.
+```
+
 <a id="prompt-43"></a>
 ## 案例 43：Airbnb风格的图标 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1924665909073084507))
 
