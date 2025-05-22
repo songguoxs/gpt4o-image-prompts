@@ -9,6 +9,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 43：Airbnb风格的图标 ](#prompt-43)
 *   [案例 42：Logo超写实微型摄影 ](#prompt-42)
 *   [案例 41：卡通角色转换成超写实人类 ](#prompt-41)
 *   [案例 40：品牌领导骑行 ](#prompt-40)
@@ -53,6 +54,64 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-43"></a>
+## 案例 43：Airbnb风格的图标 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1924665909073084507))
+
+<img src="./images/43.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Airbnb风格的图标">
+
+**提示词：**
+```
+generate[concept] icon with this json style:
+{
+    "icon_style": {
+        "perspective": "isometric",
+        "geometry": {
+            "proportions": "1:1 ratio canvas, with objects fitting comfortably within margins",
+            "element_arrangement": "central dominant object, with supporting elements symmetrically or diagonally placed"
+        },
+        "composition": {
+            "element_count": "2–4 main objects",
+            "spatial_depth": "layered to create sense of dimension and slight elevation",
+            "scale_consistency": "uniform object scale across icon set",
+            "scene_density": "minimal to moderate, maintaining clarity and visual focus"
+        },
+        "lighting": {
+            "type": "soft ambient light",
+            "light_source": "subtle top-right or front-top direction",
+            "shadow": "gentle drop shadows below and behind objects",
+            "highlighting": "mild edge illumination to define forms"
+        },
+        "textures": {
+            "material_finish": "semi-matte to satin surfaces",
+            "surface_treatment": "smooth with light tactile variation (e.g., wood grain, soft textures)",
+            "texture_realism": "stylized naturalism without hyper-realistic noise"
+        },
+        "render_quality": {
+            "resolution": "high-resolution octane 3D rendering",
+            "edge_definition": "crisp, no outlines; separation achieved via lighting and depth",
+            "visual_clarity": "clean, readable shapes with minimal clutter"
+        },
+        "color_palette": {
+            "tone": "naturalistic with slight saturation boost",
+            "range": "harmonious muted tones with gentle contrast",
+            "usage": "distinct colors per object to improve identification and readability"
+        },
+        "background": {
+            "color": "#FFFFFF",
+            "style": "pure white, flat",
+            "texture": "none"
+        },
+        "stylistic_tone": "premium, friendly, clean with lifestyle or service-oriented appeal",
+        "icon_behavior": {
+            "branding_alignment": "neutral enough for broad applications",
+            "scalability": "legible at small and medium sizes",
+            "interchangeability": "part of a cohesive icon system with interchangeable subject matter"
+        }
+    }
+}
+```
+**提示：[concept]替换为：Luxuries、Gym、Marketing、Fashion等等**
+
 <a id="prompt-42"></a>
 ## 案例 42：Logo超写实微型摄影 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1923036265013801025))
 
