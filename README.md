@@ -9,6 +9,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 60：令人垂涎欲滴的广告 ](#prompt-60)
+*   [案例 59：军事计划 ](#prompt-59)
+*   [案例 58：血月下的决斗 ](#prompt-58)
+*   [案例 57：手工毛线纹理 ](#prompt-57)
+*   [案例 56：玻璃盒内的图像可视化 ](#prompt-56)
+*   [案例 55：彩色卡通俏皮图标和徽标 ](#prompt-55)
+*   [案例 54：三种形状和三种颜色 ](#prompt-54)
+*   [案例 53：由鲜花组成的小房子 ](#prompt-53)
+*   [案例 52：清洁琴键的小人物 ](#prompt-52)
+*   [案例 51：霓虹灯发光的可爱动物 ](#prompt-51)
 *   [案例 50：通过钥匙孔看世界 ](#prompt-50)
 *   [案例 49：超现实海洋图案 ](#prompt-49)
 *   [案例 48：警方照片风格 ](#prompt-48)
@@ -61,6 +71,106 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-60"></a>
+## 案例 60：令人垂涎欲滴的广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925470550035476622))
+
+<img src="./images/60.jpg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-令人垂涎欲滴的广告">
+
+**提示词：**
+```
+a vertical 2:3 high-resolution food advertisement featuring the most iconic and delicious product from a well-known brand called [INSERT BRAND NAME]. The product appears centered with mouthwatering details — such as melted cheese, dripping chocolate, whipped cream, or condensation — depending on the product. The background should be a gradient or pastel tone inspired by the brand’s identity. At the top, display a bold slogan in a color that matches the brand’s style. At the bottom, include the official logo of the brand. Use cinematic studio lighting, soft shadows, and ultra-sharp textures to create a visually irresistible and minimal poster.
+```
+
+<a id="prompt-59"></a>
+## 案例 59：军事计划 (来源 [@B_4AI](https://x.com/B_4AI/status/1925479609442738486))
+
+<img src="./images/59.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-军事计划">
+
+**提示词：**
+```
+A humorous cartoon scene set inside a military training classroom, featuring a group of [Insect Name] soldiers sitting at desks, wearing tiny helmets and miniature combat gear. They listen attentively to their commander, who stands in front of a large board displaying a sketch of a threat to their existence — the enemy changes depending on the animal or insect. The commander explains the attack plan using a pointer, highlighting sensitive targets with red circles. Some soldiers take notes, others whisper tactical ideas to each other. The overall atmosphere blends seriousness with satire in an exaggerated cartoon style.
+```
+
+<a id="prompt-58"></a>
+## 案例 58：血月下的决斗  (来源 [@B_4AI](https://x.com/B_4AI/status/1925509492298375388))
+
+<img src="./images/58.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-血月下的决斗">
+
+**提示词：**
+```
+[SUBJECT] in a cinematic painting, battling amid crumbling ruins under a colossal blood moon — ambient sparks flying. Set in an ancient valley, illuminated by firelight and shadows. soft [COLOR1] and vibrant [COLOR2], mood intense and epic.
+```
+
+<a id="prompt-57"></a>
+## 案例 57：手工毛线纹理 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1925272798479405479))
+
+<img src="./images/57.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-手工毛线纹理">
+
+**提示词：**
+```
+Crea un render 3D fotorrealista de este logo hecho con hilo grueso y tejido a mano. El hilo debe parecer suave, esponjoso y de gran tamaño, con patrones visibles de tejido como bucles, giros y trenzas. Usa colores brillantes y saturados, estética cálida. Resalta la textura de las fibras, la suavidad del material y el acabado artesanal. Iluminación de estudio suave. Fondo blanco o crema limpio. El logo debe estar centrado y sin elementos adicionales. Cuadrado.
+```
+
+<a id="prompt-56"></a>
+## 案例 56：玻璃盒内的图像可视化 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925462472825442469))
+
+<img src="./images/56.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-玻璃盒内的图像可视化">
+
+**提示词：**
+```
+photorealistic image of a [COLOR] 3D [SUBJECT] encased in a luxurious transparent box, viewed from an enhanced side angle to better reveal the 3D shape of the [SUBJECT]. The box should be white, exquisitely designed, featuring crystal-clear glass with refined, sharp edges
+```
+
+<a id="prompt-55"></a>
+## 案例 55：彩色卡通俏皮图标和徽标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1925553233881145499))
+
+<img src="./images/55.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-彩色卡通俏皮图标和徽标">
+
+**提示词：**
+```
+Create a 2D digital illustration of the [FIREFOX] logo in a colorful cartoon style with bold black outlines. The icon design should feature playful, vibrant solid colors such as pink, teal, orange, yellow, and purple, applied in a flat, bold way. Give the shapes a slightly exaggerated, bubbly form with rounded edges and fun details like starbursts, stripes, or spark effects if relevant. Keep the illustration simple and stylized with a hand-drawn look. Use thick outlines to emphasize form. Vector friendly. White background. Square aspect ratio.
+```
+
+<a id="prompt-54"></a>
+## 案例 54：三种形状和三种颜色 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925569394924740817))
+
+<img src="./images/54.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-三种形状和三种颜色">
+
+**提示词：**
+```
+Create a minimalist image of a [SUBJECT] using three geometric shapes, using a different color in each shape
+```
+
+<a id="prompt-53"></a>
+## 案例 53：由鲜花组成的小房子 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1925461720639971505))
+
+<img src="./images/53.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-由鲜花组成的小房子">
+
+**提示词：**
+```
+A small house made of flowers, a tree with colorful leaves growing on top and around the door, in the style of fantasy, mountainscape in the background, natural lighting, soft colors, rich details, and a full atmosphere, subtle painterly style
+```
+
+<a id="prompt-52"></a>
+## 案例 52：清洁琴键的小人物 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1925522114972713147))
+
+<img src="./images/52.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-清洁琴键的小人物">
+
+**提示词：**
+```
+tilt-shift photo of a grand piano keyboard, side view from the left looking along the keys to the right, shallow depth of field, tiny human figures cleaning the piano keys with brushes, cloths, and buckets, whimsical and surreal scene, soft lighting, hyper-detailed, high realism
+```
+
+<a id="prompt-51"></a>
+## 案例 51：霓虹灯发光的可爱动物 (来源 [@icreatelife](https://x.com/icreatelife/status/1923819449305509924))
+
+<img src="./images/51.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯发光的可爱动物">
+
+**提示词：**
+```
+bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition
+```
+
 <a id="prompt-50"></a>
 ## 案例 50：通过钥匙孔看世界 (来源 [@icreatelife](https://x.com/icreatelife/status/1925268371227971871))
 
