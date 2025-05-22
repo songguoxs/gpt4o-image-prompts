@@ -74,7 +74,7 @@
 <a id="prompt-60"></a>
 ## 案例 60：令人垂涎欲滴的广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925470550035476622))
 
-<img src="./images/60.jpg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-令人垂涎欲滴的广告">
+<img src="./images/60.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-令人垂涎欲滴的广告">
 
 **提示词：**
 ```
