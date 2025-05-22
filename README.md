@@ -14,7 +14,7 @@
 *   [案例 40：品牌领导骑行 ](#prompt-40)
 *   [案例 39：网络矩阵梦境 ](#prompt-39)
 *   [案例 38：捷克木偶风格 ](#prompt-38)
-*   [案例 37：logo放进我的世界中 ](#prompt-37)
+*   [案例 37：Logo放进我的世界中 ](#prompt-37)
 *   [案例 36：马赛克壁画 ](#prompt-36)
 *   [案例 35：人物戏剧夸张风格 ](#prompt-35)
 *   [案例 34：云的艺术 ](#prompt-34)
@@ -32,7 +32,7 @@
 *   [案例 22：自定义气球 ](#prompt-22)
 *   [案例 21：产品变成纸玻璃 ](#prompt-21)
 *   [案例 20：透明塑料袋装物体 ](#prompt-20)
-*   [案例 19：emoji变成一个花盆 ](#prompt-19)
+*   [案例 19：Emoji变成一个花盆 ](#prompt-19)
 *   [案例 18：品牌我的世界风格 ](#prompt-18)
 *   [案例 17：未来一瞥 ](#prompt-17)
 *   [案例 16：品牌星球世界 ](#prompt-16)
@@ -160,9 +160,9 @@ A hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs,
 ```
 
 <a id="prompt-37"></a>
-## 案例 37：logo放进我的世界中 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1924503062325989836))
+## 案例 37：Logo放进我的世界中 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1924503062325989836))
 
-<img src="./images/37.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-logo放进我的世界中">
+<img src="./images/37.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-logo放进我的世界中">
 
 **提示词：**
 ```
@@ -499,7 +499,7 @@ A high-resolution photograph of a clear plastic drawstring bag placed on a light
 ```
 
 <a id="prompt-19"></a>
-## 案例 19：emoji变成一个花盆 (来源 [@azed_ai](https://x.com/azed_ai/status/1923739813414568075))
+## 案例 19：Emoji变成一个花盆 (来源 [@azed_ai](https://x.com/azed_ai/status/1923739813414568075))
 
 <img src="./images/19.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-emoji变成一个花盆">
 
