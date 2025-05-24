@@ -9,6 +9,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 70：重新构想的玫瑰金 ](#prompt-70)
+*   [案例 69：品牌折叠纸 ](#prompt-69)
+*   [案例 68：透明容器里有一个微型的3D世界 ](#prompt-68)
+*   [案例 67：可爱微缩场景 ](#prompt-67)
+*   [案例 66：霓虹灯风格工具 ](#prompt-66)
+*   [案例 65：皱巴巴的纸片 ](#prompt-65)
+*   [案例 64：洞壁画 ](#prompt-64)
+*   [案例 63：选择你的阵营 ](#prompt-63)
+*   [案例 62：品牌设计指南海报 ](#prompt-62)
+*   [案例 61：破碎的真相 ](#prompt-61)
 *   [案例 60：令人垂涎欲滴的广告 ](#prompt-60)
 *   [案例 59：军事计划 ](#prompt-59)
 *   [案例 58：血月下的决斗 ](#prompt-58)
@@ -71,6 +81,210 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-70"></a>
+## 案例 70：重新构想的玫瑰金 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925933649267970074))
+
+<img src="./images/70.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的玫瑰金">
+
+**提示词：**
+```
+Design a luxury-themed 1:1 image featuring a rose gold sculpture that embodies the essence of the jewelry brand “[BRAND NAME]”. The object must symbolically reflect the brand’s identity (e.g., falcon for Cartier, ring for Tiffany & Co., palm tree for Swarovski, camel for Prada). Embed premium crystal textures into key parts of the sculpture (e.g., wings, gem, leaves, or hump) to match the brand’s signature elegance. Use the brand’s iconic background color (e.g., Tiffany Blue, Swarovski White, Cartier Beige, Prada Sand) and place the official logo beneath the sculpture. Add a bold two-word slogan that aligns with the brand’s tone. Lighting should be pure white with high Kelvin value to ensure clarity and prevent yellow tint. The result must feel editorial, artistic, and visually exquisite.
+```
+
+<a id="prompt-69"></a>
+## 案例 69：品牌折叠纸 (来源 [@HBCoop_](https://x.com/HBCoop_/status/1925600123200881024))
+
+<img src="./images/69.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌折叠纸">
+
+**提示词：**
+```
+A flat branded paper folds itself into the full 3D shape of a [insert product or item, e.g. “Coca-Cola bottle”, “Nike sneaker”, “Big Mac”], mid-motion. 
+
+The paper colors match the [insert brand name] brand’s signature palette and the natural colors of the item (e.g., [describe key colors or ingredients, like “red and white for Coca-Cola”, “brown, green, yellow for Big Mac”]).
+
+Dramatic studio lighting, origami texture detail, soft gradient shadows. Stylized with Japanese minimalism and elegant negative space. The scene captures a clean, elevated transformation from flat brand identity into sculptural product form.
+```
+**示例：**
+```
+A flat branded paper folds itself into the full 3D shape of a Tesla Cybertruck, mid-motion. Paper colors match Tesla’s sleek minimal palette: matte silver with black glass panels and red accent lines. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel. No text.
+```
+
+<a id="prompt-68"></a>
+## 案例 68：透明容器里有一个微型的3D世界  (来源 [@KoppulaMahende9](https://x.com/KoppulaMahende9/status/1920442464810270851))
+
+<img src="./images/68.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透明容器里有一个微型的3D世界">
+
+**提示词：**
+```
+A giant [transparent or glossy] [object/container] with a miniature 3D diorama inside it, depicting [a symbolic or narrative scene], studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone (e.g., surreal, poetic, or sci-fi).
+```
+**示例：**
+```
+A giant glossy Water dropletwith a miniature 3D diorama inside it, depicting a Harvesting scene, studio-lit with soft shadows, placed on a neutral matte surface. Emphasize visual contrast between the scale of the capsule and the detail within. Highlight texture, light refraction, and emotional tone hyper-realistic.
+
+```
+
+<a id="prompt-67"></a>
+## 案例 67：可爱微缩场景 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1925878276133708224))
+
+<img src="./images/67.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱微缩场景">
+
+**提示词：**
+```
+{
+    "style": "miniature handcrafted diorama",
+    "material": "tree branches, cardboard, clay, moss, dried flowers, paper",
+    "surface_texture": "organic, rough and varied (wood grain, soft moss, paper texture)",
+    "lighting": {
+        "type": "soft ambient natural light",
+        "intensity": "low to moderate",
+        "direction": "diffused overhead",
+        "accent_colors": [
+            "forest green",
+            "earth brown",
+            "soft beige",
+            "muted pink"
+        ],
+        "reflections": false,
+        "refractions": false,
+        "dispersion_effects": false,
+        "bloom": false
+    },
+    "color_scheme": {
+        "primary": "natural greens and browns",
+        "secondary": "soft neutral tones (cardboard, clay, paper)",
+        "highlights": "light falling on the open book and cat’s glasses",
+        "rim_light": "subtle natural edge light from the forest opening"
+    },
+    "background": {
+        "color": "natural moss green",
+        "vignette": false,
+        "texture": "moss and dried floral structure"
+    },
+    "post_processing": {
+        "chromatic_aberration": false,
+        "glow": false,
+        "high_contrast": false,
+        "sharp_details": true,
+        "film_grain": false
+    },
+    "form_composition": {
+        "scene_elements": [
+            "a small girl sitting on a balcony holding an open miniature book",
+            "a cat with glasses observing the book's illustrations",
+            "a treehouse made from twigs, cardboard, and clay",
+            "balcony and surrounding forest made of moss and dried flowers"
+        ],
+        "scale": "miniature",
+        "theme": "childlike wonder and storytelling in a handcrafted world",
+        "visual_metaphor": [
+            "curiosity",
+            "quiet companionship",
+            "imagination in nature"
+        ]
+    },
+    "metadata": {
+        "artist": "-Zho-",
+        "series": "ZH4O"
+    }
+}
+```
+
+<a id="prompt-66"></a>
+## 案例 66：霓虹灯风格工具 (来源 [@egeberkina](https://x.com/egeberkina/status/1926005869331849235))
+
+<img src="./images/66.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯风格工具">
+
+**提示词：**
+```
+retexture the image attached based on the JSON aesthetic below
+{
+  "style": "hyperrealistic 3D render",
+  "material": "high-gloss translucent rubber with iridescent coating",
+  "surface_texture": "fine-grain pebbling with micro-specular highlights",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "multi-point with rim and backlight",
+    "colors": ["electric blue", "magenta", "neon purple", "sunset orange"],
+    "glow_effect": true,
+    "chromatic_aberration": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "iridescent gradient",
+    "highlights": "white light core reflections",
+    "accent_edges": "black outlines with subtle glow"
+  },
+  "background": {
+    "color": "solid black",
+    "texture": "none",
+    "contrast": "extreme to enhance subject glow"
+  },
+  "camera": {
+    "angle": "straight-on center view",
+    "focus": "sharp foreground, no depth blur",
+    "lens": "macro with light distortion"
+  },
+  "post_processing": {
+    "glow": true,
+    "contrast_boost": true,
+    "color_grading": "vibrant spectrum",
+    "noise": "minimal"
+  }
+}
+```
+
+<a id="prompt-65"></a>
+## 案例 65：皱巴巴的纸片 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925868463689462049))
+
+<img src="./images/65.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-皱巴巴的纸片">
+
+**提示词：**
+```
+ A photorealistic image of the word '[NAME]' spelled out using torn, highly crumpled pieces of white paper. Each letter is painted in bold [COLOR] on individual scraps, arranged loosely and unevenly, as if placed casually by hand, on a wooden table. The composition should convey a natural, handmade aesthetic with visible creases, shadows, and wood grain detail
+```
+
+<a id="prompt-64"></a>
+## 案例 64：洞壁画 (来源 [@azed_ai](https://x.com/azed_ai/status/1925854528831643689))
+
+<img src="./images/64.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-洞壁画">
+
+**提示词：**
+```
+A cave painting of a [subject], rendered with primitive ochres and charcoal lines on a rough stone wall. Smudged handprints, crude geometry, and flickering torchlight add a primal, ancient mood.
+```
+
+<a id="prompt-63"></a>
+## 案例 63：选择你的阵营 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925595213726097803))
+
+<img src="./images/63.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-选择你的阵营">
+
+**提示词：**
+```
+A dramatic cinematic scene featuring two rival products placed side by side in a custom-designed environment that visually reflects their identities. The composition should include high contrast lighting, atmospheric effects like mist, fog, or neon glow, and hyper-detailed textures. Incorporate a powerful 3D slogan below or behind the products in bold stylized typography that fits the scene’s mood. The products must reflect the essence of [Brand A] and [Brand B] through color, lighting, and placement. Ultra-realistic, moody tones, 1:1 square format, with sharp depth of field and high resolution.
+```
+
+<a id="prompt-62"></a>
+## 案例 62：品牌设计指南海报 (来源 [@ai4everyday](https://x.com/ai4everyday/status/1925838516979646795))
+
+<img src="./images/62.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌设计指南海报">
+
+**提示词：**
+```
+Create a vertical 9:16 brand design guide poster using the uploaded product image. Adapt the design style to match the product’s niche and visual identity. Structure the poster with clear, elegant sections: (1) Large logo display and safe zone usage, (2) Product mockup centered and highlighted, (3) Primary and secondary color palette swatches with hex codes, (4) Typography guide with heading, subheading, body font samples, and line spacing specs, (5) Iconography or graphic motif examples used by the brand, (6) Image treatment style with sample lifestyle or studio visuals, (7) Grid system or layout rules, (8) Packaging mockups and surface applications, (9) Do’s & Don’ts with annotated visuals. Use minimalist white or soft neutral background with structured layout dividers and drop shadows. The result must be visually rich, clean, and suitable for a printed or digital brand book.
+```
+
+<a id="prompt-61"></a>
+## 案例 61：破碎的真相 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925918144163450890))
+
+<img src="./images/61.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-破碎的真相">
+
+**提示词：**
+```
+A close-up of [SUBJECT 1] holding a mirror shard to their face. The shard reflects a completely different [SUBJECT 2]. Around them, small cracks spread through the air like fractures in invisible glass, warping the space itself.
+```
+
 <a id="prompt-60"></a>
 ## 案例 60：令人垂涎欲滴的广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925470550035476622))
 
