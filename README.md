@@ -9,6 +9,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 90：将您的标志变成毛毡纹理 ](#prompt-90)
+*   [案例 89：海洋中三艘不同的奇幻帆船 ](#prompt-89)
+*   [案例 88：AirBnB任何东西 ](#prompt-88)
+*   [案例 87：品牌解锁童年回忆 ](#prompt-87)
+*   [案例 86：未来的OpenAI可穿戴设备 ](#prompt-86)
+*   [案例 85：知名戏曲片段的MBTI人格类型卡片 ](#prompt-85)
+*   [案例 84：渐变挤出Google I/O 2025大会视觉效果 ](#prompt-84)
+*   [案例 83：Glitch矢量徽标样式 ](#prompt-83)
+*   [案例 82：霓虹花卉和谐插图 ](#prompt-82)
+*   [案例 81：品牌乐器 ](#prompt-81)
 *   [案例 80：水果的形状 ](#prompt-80)
 *   [案例 79：Alloy图标 ](#prompt-79)
 *   [案例 78：毛绒形式表情符号 ](#prompt-78)
@@ -91,6 +101,275 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-90"></a>
+## 案例 90：将您的标志变成毛毡纹理 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1925460683509899423))
+
+<img src="./images/90.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将您的标志变成毛毡纹理">
+
+**提示词：**
+```
+Retexture [BRAND NAME] logo following my JSON aesthetic below:
+{
+"style": "realistic needle-felted wool sculpture",
+"subject_handling": {
+"adapt_to_uploaded_image": true,
+"preserve_original_shape_and_layout": true,
+"preserve_uploaded_color_values": true,
+"preserve_text_if_present": true,
+"preserve_text_case": true,
+"preserve_exact_letterforms": true,
+"use_uploaded_image_as_pixel_map": true,
+"prevent_color_estimation_or_stylization": true
+},
+"needle_felting": {
+"material_type": "dyed wool fibers matched precisely to uploaded image pixels",
+"texture_description": "fluffy soft felt with clear fiber strands",
+"construction_style": "needle-felted, light irregularities allowed but no color bleeding",
+"color_application_method": "direct color transfer from uploaded image to wool sculpture",
+"prevent_auto_saturation_adjustment": true,
+"prevent_color_fading": true,
+"color_binding_mode": "pixel-level color fidelity per original image"
+},
+"lighting": {
+"lighting_type": "neutral soft studio lighting",
+"shadow": "soft, gray-toned shadows under the object only",
+"highlight_behavior": "matte highlights only from felt surface — no bloom or color shift"
+},
+"background": {
+"type": "plain matte studio",
+"background_color": "pastel tone that contrasts with logo color",
+"color_conflict_handling": "auto-adjust background brightness — do not alter logo colors"
+},
+"camera": {
+"focus_style": "macro lens",
+"depth_of_field": "shallow — full subject in sharp detail, soft background",
+"angle": "frontal or slightly elevated, full subject visible"
+},
+"post_processing": {
+"color_preservation_enforced": true,
+"disable_auto-enhancement_or_tinting": true,
+"no artistic reinterpretation": true,
+"no auto-correction, bloom, or white balance adjustments": true
+},
+"image_constraints": {
+"transparent_background": false,
+"aspect_ratio_locked": true,
+"include_text_if_present": true,
+"preserve_text_case": true,
+"preserve_uploaded_color_values": true,
+"prevent_shape_or_color_change": true,
+"enforce_exact_pixel_color_match_to_uploaded_image": true
+},
+"notes": "The uploaded image must be converted into a needle-felted wool sculpture using its exact colors and shape. Use pixel-level mapping to apply the uploaded color values to simulated dyed wool fibers. Do not change, brighten, dull, average, or blend colors. Text must remain intact and readable. Background should be soft pastel to contrast the logo — never adjust the logo to fit the scene."
+}
+```
+**提示：上传一张图片**
+
+<a id="prompt-89"></a>
+## 案例 89：海洋中三艘不同的奇幻帆船 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1925159751169810806))
+
+<img src="./images/89.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-海洋中三艘不同的奇幻帆船">
+
+**提示词：**
+```
+Three different fantasy sailboats in the ocean, multiple scenes of beautiful aurora borealis and colorful moons with snowy mountains, a dreamy, fantasy landscape, in the style of digital art.
+```
+
+<a id="prompt-88"></a>
+## 案例 88：AirBnB 任何东西 (来源 [@R2_fieldworks](https://x.com/R2_fieldworks/status/1924433924106727531))
+
+<img src="./images/88.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-AirBnB 任何东西">
+<img src="./images/88-2.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-AirBnB 任何东西">
+
+**提示词：**
+```
+A highly detailed 3D isometric icon of the following object: [OBJECT]
+
+Style: Airbnb 2024 icon language — miniature diorama / emoji-like object with crisp edges, realistic textures, and soft handcrafted realism.  
+
+Material: The object should clearly retains its fundamental qualities but look as if its made from a mixture of matte and plastic-like materials.  
+
+View: three-quarter front-left isometric view with a slight top-down angle.  
+
+Lighting: soft neutral studio lighting from the top-left with subtle shadows and gentle gloss highlights.  
+
+Color palette: retain the fundamental colors from the object and include subtle gradients and no harsh contrasts.  
+
+Background: clean white, no drop shadow or noise.  
+
+Mood: minimal, charming, utilitarian, premium.  
+
+Rendering: hyper-detailed, photorealistic object with depth and tactility, like a designer lifestyle emoji or miniature product model. 
+
+Optional Add-on for Replication:  Use the attached photo as a reference for proportions and layout. Do not copy exactly — reinterpret it in the Airbnb icon aesthetic.
+```
+
+<a id="prompt-87"></a>
+## 案例 87：品牌解锁童年回忆 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925606107608715268))
+
+<img src="./images/87.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌解锁童年回忆">
+
+**提示词：**
+```
+A realistic, cinematic photograph of a vintage [BRAND NAME] item being gently lifted from a dusty stack of old children's books in a dimly lit attic. The item is designed in classic [BRAND NAME] style—featuring authentic patterns, textures, or logos (e.g. monograms, embossing, or signature motifs relevant to the brand). It is partially opened to reveal a miniature, warmly lit classroom inspired by [COUNTRY] school interiors, complete with small regional-style desks, a chalkboard with delicate handwriting in [LANGUAGE], and traditional local details like shoes, posters, or flags. A paper airplane hovers mid-air. The lighting is moody and nostalgic, with soft shadows and golden highlights suggesting afternoon light filtering through attic beams. On the top book cover at the bottom of the image, the [BRAND NAME] logo is written in an elegant, fountain-pen calligraphy style—subtle, integrated into the scene, and not obscuring the main subject.
+```
+
+<a id="prompt-86"></a>
+## 案例 86：未来的OpenAI可穿戴设备 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1925589916844794154))
+
+<img src="./images/86.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-未来的OpenAI可穿戴设备">
+
+**提示词：**
+```
+Create image with 1:1 ratio A next-gen wearable ai [device type] blending Jony Ive–inspired refined minimalism with a new material and interaction language symbolizing the power ChatGPT. The device is crafted from translucent aerogel fused with polished ceramic titanium, feather-light yet futuristic.  No seams, buttons, or traditional UI. Photographed floating against a pure white background, with a soft, diffused, nearly shadowless studio light.
+```
+
+<a id="prompt-85"></a>
+## 案例 85：知名戏曲片段的MBTI人格类型卡片 (来源 [@op7418](https://x.com/op7418/status/1925869690120794320))
+
+<img src="./images/85.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-知名戏曲片段的MBTI人格类型卡片">
+
+**提示词：**
+```
+# 任务目标
+请生成一张基于中国古代知名戏曲片段的MBTI人格类型卡片图片，使戏曲场景扁平插画的情感内涵与MBTI人格特质相对应。，我需要生成的人各类型是[INTP]
+
+## 内容要求
+1. **场景选取**：从中国古代知名戏曲片段中提取能体现不同MBTI人格特质的代表性场景
+2. **场景意境**：画面需表现完整戏剧场景，通过场景氛围体现对应的人格特质
+3. **服饰真实性**：画面中人物必须穿着对应戏曲的正确戏服
+4. **人格对应**：每个场景需精准对应一种MBTI人格类型的核心特质
+
+## 卡片排版设计
+参考图片样式：
+- **顶部**：MBTI类型代码（如INFJ）
+- **中部**：渐变色彩的抽象几何图形作为主视觉
+- **底部**：
+- 中文人格类型名称（如"提倡者"）
+- 英文标语：（如"The world is your oyster"）
+- 装饰性边框和星形符号
+
+## 视觉风格
+- 采用现代极简设计语言
+- 渐变色彩与几何形状结合
+- 保持神秘感与艺术性
+- 整体色调柔和梦幻
+
+## 技术规格
+- 卡片尺寸采用标准比例
+- 每张卡片需清晰标注MBTI类型代码
+- 保持系列视觉一致性
+```
+
+<a id="prompt-84"></a>
+## 案例 84：渐变挤出Google I/O 2025大会视觉效果 (来源 [@hckmstrrahul](https://x.com/hckmstrrahul/status/1925567579856453701))
+
+<img src="./images/84.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-渐变挤出Google I/O 2025大会视觉效果">
+<img src="./images/84-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-渐变挤出Google I/O 2025大会视觉效果">
+
+**提示词：**
+```
+Retexture this image in the following JSON style aesthetic:
+{
+  "styleAesthetic": {
+    "title": "Isometric Multicolor Extrusion with Grid Control",
+    "overallVibe": "Playful modern 3D iconography with directional extrusion and dynamic isometric grids",
+    "viewAngle": {
+      "type": "Isometric",
+      "facingDirection": "right",  // options: left, right, front
+      "rotationDegrees": {
+        "x": 30,
+        "y": 30
+      }
+    },
+    "renderingStyle": "Clean 3D extruded vector with soft lighting and high contrast between faces",
+    "objectSurface": {
+      "frontFace": {
+        "color": "#ffffff",
+        "material": "Matte white plastic",
+        "lighting": "Soft diffuse"
+      },
+      "extrudedSide": {
+        "type": "Multicolor gradient",
+        "gradientStyle": "Diagonal sweep",
+        "colorStops": [
+          "#ff0040", "#ff8000", "#ffff00", "#00ff90", "#00cfff", "#8000ff"
+        ],
+        "material": "Glossy plastic",
+        "lighting": "Ambient with light falloff"
+      }
+    },
+    "extrusion": {
+      "direction": "right",  // determines which side is extruded: left, right, front
+      "depth": "moderate"
+    },
+    "shadows": {
+      "type": "Drop shadow",
+      "direction": "bottom-right",
+      "opacity": 0.15,
+      "blurRadius": "6px"
+    },
+    "background": {
+      "type": "Isometric grid",
+      "color": "#ffffff",
+      "gridStyle": {
+        "lineColor": "#e0e0e0",
+        "lineWeight": "1px",
+        "orientation": "opposite-extrusion"  // automatically flips grid lines to oppose the extrusion direction
+      }
+    },
+    "moodKeywords": [
+      "Dimensional",
+      "Clean",
+      "Geometric",
+      "Colorful",
+      "Tactile",
+      "Structured"
+    ]
+  }
+}
+```
+
+<a id="prompt-83"></a>
+## 案例 83：Glitch 矢量徽标样式 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1925844468294365289))
+
+<img src="./images/83.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Glitch 矢量徽标样式">
+
+**提示词：**
+```
+A bold vector logo design in glitch art style, featuring distorted typography with RGB color channel shifts, fragmented lines, misaligned edges, digital noise effects, and a cyberpunk aesthetic. The logo appears corrupted or hacked, as if captured from a malfunctioning screen. Use a black or dark background for contrast, neon or high-saturation color palette, and sharp angular forms.
+```
+**示例想法：**
+```
+1、"X-CODE" in futuristic glitch style, with pixel breakups and neon overlays
+2、A glitch vector logo for a rogue AI named “OBLIVION.EXE”, with red error overlays and corrupted circuitry
+3、A circular emblem for “Station 404”, a hacked orbital base with broken planetary symbols and static flicker
+4、A surveillance eye logo, distorted with chromatic aberration, layered static, and flickering digital interference
+```
+
+<a id="prompt-82"></a>
+## 案例 82：霓虹花卉和谐插图 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1926246931661042132))
+
+<img src="./images/82.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹花卉和谐插图">
+
+**提示词：**
+```
+A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outlined in glowing neon hues. Use vibrant [COLOR1] and [COLOR2] to create a serene yet electrifying botanical scene
+```
+**示例：**
+```
+A Neon Floral Harmony illustration of a graceful hummingbird, with flowers and plants outlined in glowing neon hues. Use vibrant turquoise and magenta to create a serene yet electrifying botanical scene
+```
+
+<a id="prompt-81"></a>
+## 案例 81：品牌乐器 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1926148686884606257))
+
+<img src="./images/81.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌乐器">
+
+**提示词：**
+```
+A highly stylized and vibrant promotional image of a [INSTRUMENT] designed in the visual style of the [BRAND] brand — the instrument is reimagined with iconic colors, patterns, and aesthetic elements of the brand. Set in a dynamic, music-inspired environment, with glowing accents, product-style lighting, and joyful energy. Artistic fusion of music and design. 3D render look, high detail, vibrant colors, futuristic but playful.
+```
 
 <a id="prompt-80"></a>
 ## 案例 80：水果的形状 (来源 [@xxxxxx](xxxxxx))
