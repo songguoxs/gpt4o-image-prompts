@@ -91,6 +91,180 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+
+<a id="prompt-80"></a>
+## 案例 80：水果的形状 (来源 [@xxxxxx](xxxxxx))
+
+<img src="./images/80.jpg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-水果的形状">
+
+**提示词：**
+```
+Create an image by arranging [NUMBER/AGGREGATE] of [FRUIT] strategically on a dark surface to form the shape of [OBJECT/EMOJI/LOGO]
+```
+
+<a id="prompt-79"></a>
+## 案例 79：Alloy图标 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1926095406871568670))
+
+<img src="./images/79.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Alloy图标">
+
+**提示词：**
+```
+create image with 1: 1 ratio  
+turn a vector [ type
+] icon with the following json style 
+{
+    "object": "icon",
+    "material": {
+        "primary_surface": "smooth matted translucent metallic",
+        "finish": "iridescent sheen",
+        "color_profile": {
+            "base_color": "deep blue",
+            "secondary_tones": [
+                "black",
+                "violet",
+                "copper-orange highlights"
+            ]
+        },
+        "panel_lines": {
+            "material": "metallic copper",
+            "visual_treatment": "glowing edge with subtle bevel"
+        },
+    },
+    "lighting": {
+        "type": "studio",
+        "key_light": {
+            "position": "top-left",
+            "effect": "smooth gradient highlight across the surface"
+        },
+        "rim_light": {
+            "position": "right side",
+            "effect": "sharp metallic edge glow"
+        },
+        "reflections": {
+            "character": "diffused but iridescent, hinting at a highly polished or lacquered surface"
+        },
+        "shadows": "soft edge, minimal ground contact due to floating presentation"
+    },
+    "background": {
+        "color": "#FFF",
+        "style": "solid matte",
+    },
+    "composition": {
+        "camera_angle": "centered, eye-level",
+        "depth_of_field": "none (sharp focus throughout)",
+        "presentation": "floating, isolated subject"     "angle": "isometric style"
+    },
+    "visual_style": {
+        "tone": "modern, high-impact",
+        "inspiration": "sports branding meets futuristic product design",
+        "aesthetic": "bold contrast, tech-luxury fusion"
+    }
+}
+```
+
+<a id="prompt-78"></a>
+## 案例 78：毛绒形式表情符号 (来源 [@alban_gz](https://x.com/alban_gz/status/1925833589431619616))
+
+<img src="./images/78.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-毛绒形式表情符号">
+
+**提示词：**
+```
+Recreate this [insert emoji] using the parameters from the JSON provided.
+{
+  "style": "Plushform Emoji",
+  "description": "Transform the emoji into a soft, realistic plush object with high-quality fabric and detailed construction. Do not anthropomorphize the emoji — avoid adding faces or cartoon features. Focus on accurate textures, natural forms, and subtle design to give the plush object character.",
+  "features": {
+    "shape": "matching the emoji's form, with soft, slightly rounded plush adaptation",
+    "texture": "realistic plush fabric with visible fiber detail and natural fabric folds",
+    "color": "faithful to the emoji's palette, using slightly muted, tactile tones",
+    "material": "stuffed toy fabric with visible stitching, seams, and high-quality finishing",
+    "background": "neutral or softly textured to emphasize the plush object's form",
+    "lighting": "soft professional studio lighting with subtle shadows and depth"
+  },
+  "examples": [
+    "👌 becomes a plush hand in the OK gesture, with realistic fabric folds and seams.",
+    "🎯 becomes a soft plush bullseye with layered fuzzy rings and slight dimensional padding.",
+    "🎁 becomes a cube-shaped plush box with fabric ribbon, visible stitching, and realistic fabric texture.",
+    "🌊 becomes a wave-shaped plush with curled foam tips, crafted in textured ocean blue fabrics."
+  ]
+}
+```
+
+<a id="prompt-77"></a>
+## 案例 77：3D零食卡通世界 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925895453217898847))
+
+<img src="./images/77.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D零食卡通世界">
+
+**提示词：**
+```
+A 3D-rendered digital illustration featuring a retro-style food truck inspired by the brand [INSERT BRAND NAME], designed with smooth pastel colors and soft textures. A black-and-white cartoon character stands beside the truck, holding a product that visually represents the brand. The environment reflects the brand’s world—playful hills, trees, and skies stylized with its color palette and product shapes. The brand’s logo is clearly displayed on the truck, and a short slogan appears naturally within the scene. Format: 1:1, isometric view, cinematic lighting, clean and joyful composition.
+```
+
+<a id="prompt-76"></a>
+## 案例 76：黑白漫画风格插图 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1923778050845528388))
+
+<img src="./images/76.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白漫画风格插图">
+
+**提示词：**
+```
+Highly dramatic and epic black and white manga-style illustration of [Your character and description].  Powerful, dynamic pose, exaggerated features emphasizing the intensity of the scene. Background with explosive energy bursts, lightning effects, and a whirlwind of debris
+```
+
+<a id="prompt-75"></a>
+## 案例 75：可爱干净的底座立体模型 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1925593447802540408))
+
+<img src="./images/75.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱干净的底座立体模型">
+<img src="./images/75-2.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱干净的底座立体模型">
+
+**提示词：**
+```
+Highly detailed 3D-rendered chibi figurine diorama of [Character A] and [Character B], captured in a [scene/action], inside a [thematic display case shape] with [material]. The background features [visual effects: debris, aura, lightning, scenery], dynamic pose. The title "[custom phrase]" is embossed at the top in [font/style], matching the tone. Lighting is [studio, cinematic, ambient], color palette of [main colors]. Designed in a collectible, stylized, viral-friendly aesthetic.
+```
+
+<a id="prompt-74"></a>
+## 案例 74：3D可爱粉彩粘土图标 (来源 [@icreatelife](https://x.com/icreatelife/status/1926014358783430945))
+
+<img src="./images/74.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D可爱粉彩粘土图标">
+
+**提示词：**
+```
+Tiny cute isometric [smiling - optional] [OBJECT] emoji, shape, soft lighting, soft pastel colors, [COLOR], 3d icon clay render, blender 3d, pastel background
+```
+
+<a id="prompt-73"></a>
+## 案例 73：有趣的毛茸茸字母 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1925933980781535629))
+
+<img src="./images/73.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的毛茸茸字母">
+
+**提示词：**
+```
+A highly realistic 3D render of the letter [A-Z] designed as a full-body fluffy monster. The letter shape itself is the creature’s body — no separate head or limbs. The eyes, mouth, and other monster features are embedded naturally into the letter form. The monster expresses a [mischievous / grumpy / shy / joyful / sleepy / surprised / confident] emotion through its eyes and mouth shape. The texture is dense, soft, and realistic fur, with subtle volume and shadow. The color palette is bold but clean — solid vibrant tones like mint, lilac, sky blue, or coral (avoid rainbow gradients). Studio lighting on a simple pastel background. No hats, no party props — just a minimal, high-quality character design with playful expression.
+```
+
+<a id="prompt-72"></a>
+## 案例 72：超现实主义油画 (来源 [@azed_ai](https://x.com/azed_ai/status/1926217150093549680))
+
+<img src="./images/72.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义油画">
+
+**提示词：**
+```
+A surreal oil painting of a [subject], executed in the style of early 20th-century dreamscapes. Melting shapes, floating forms, and swirling [color1] and [color2] brushstrokes create a dreamlike dissonance.
+```
+**示例：**
+```
+A surreal oil painting of a man with a candle for a head, executed in the style of early 20th-century dreamscapes. Melting shapes, floating forms, and swirling burnt orange and midnight blue brushstrokes create a dreamlike dissonance.
+```
+
+<a id="prompt-71"></a>
+## 案例 71：景观洞穴入口的形状 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1925819339413836010))
+
+<img src="./images/71.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-景观洞穴入口的形状">
+
+**提示词：**
+```
+Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
+```
+
 <a id="prompt-70"></a>
 ## 案例 70：重新构想的玫瑰金 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925933649267970074))
 
