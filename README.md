@@ -12,6 +12,7 @@
 <img src="./images/groupchat.jpg" style="width: 48%;">
 <img src="./images/wechat.jpg" style="width: 48%;">
 </div>
+
 ---
 
 <a id="prompt-toc"></a>
