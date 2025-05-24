@@ -95,7 +95,7 @@
 <a id="prompt-80"></a>
 ## 案例 80：水果的形状 (来源 [@xxxxxx](xxxxxx))
 
-<img src="./images/80.jpg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-水果的形状">
+<img src="./images/80.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-水果的形状">
 
 **提示词：**
 ```
