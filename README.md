@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 # GPT-4o Image Prompts
 
-🎉 欢迎来到 GPT‑4o 图片提示词（Prompts）精选！
+🎉 欢迎来到 GPT‑4o 图片提示词（Prompts）精选！提示词持续更新中。。。
 
 这里收集了 OpenAI 最新多模态模型 GPT‑4o 生成图片的精彩案例和提示词（Prompts）。
 
@@ -16,6 +16,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 100：终极跨界 ](#prompt-100)
+*   [案例 99：玩具盒中的历史 ](#prompt-99)
+*   [案例 98：3D卡通雕塑风格 ](#prompt-98)
+*   [案例 97：复古电脑开机画面解析为ASCII艺术 ](#prompt-97)
+*   [案例 96：3D蒸汽朋克Logo ](#prompt-96)
+*   [案例 95：品牌平面纸风格 ](#prompt-95)
+*   [案例 94：制药风格商品 ](#prompt-94)
+*   [案例 93：不同情绪状态的思想泡泡 ](#prompt-93)
+*   [案例 92：霓虹玻璃发光 ](#prompt-92)
+*   [案例 91：动感雕塑 ](#prompt-91)
 *   [案例 90：将您的标志变成毛毡纹理 ](#prompt-90)
 *   [案例 89：海洋中三艘不同的奇幻帆船 ](#prompt-89)
 *   [案例 88：AirBnB任何东西 ](#prompt-88)
@@ -108,6 +118,167 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-100"></a>
+## 案例 100：终极跨界 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925146916133712191))
+
+<img src="./images/100.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-终极跨界">
+<img src="./images/100-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-终极跨界">
+<img src="./images/100-3.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-终极跨界">
+
+**提示词：**
+```
+Imagine [CHARAKTER 1] and [Charakter 2] casually sitting together at a table in a [FAST FOOD BRAND] restaurant. The atmosphere is relaxed and light-hearted, with the two characters engaged in an amusing or deep conversation over trays of food and drinks.
+```
+
+<a id="prompt-99"></a>
+## 案例 99：玩具盒中的历史 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925223613055017251))
+
+<img src="./images/99.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-玩具盒中的历史">
+<img src="./images/99-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-玩具盒中的历史">
+
+**提示词：**
+```
+An ultra-realistic top-down photograph of a 3D-printed diorama inside a beige cardboard box, with the lid being held open by two human hands. The interior of the box reveals a miniature landscape of [COUNTRY NAME], featuring iconic landmarks, terrain, buildings, rivers, vegetation, and crowds of tiny, detailed human figures. The diorama is filled with vibrant, geographically appropriate elements, all crafted in a tactile, toy-like style using matte 3D-printed textures with visible layer lines. At the top, the inside of the box lid displays the phrase “[COUNTRY NAME]” in large, colorful, raised plastic letters—each letter in a different bright color. The lighting is warm and cinematic, highlighting the textures and shadows to evoke a sense of realism and charm, as if the viewer is opening a magical miniature version of the natio
+```
+
+<a id="prompt-98"></a>
+## 案例 98：3D卡通雕塑风格 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1925301120252924356))
+
+<img src="./images/98.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D卡通雕塑风格">
+<img src="./images/98-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D卡通雕塑风格">
+
+**提示词：**
+```
+a soft 3D cartoon-style sculpture of [brand product], made of smooth clay-like textures and vibrant pastel colors, placed in a minimalist isometric scene that complements the product’s nature, clean composition, gentle lighting, subtle shadows, with the product’s logo and a 3-word slogan displayed clearly belo
+```
+
+<a id="prompt-97"></a>
+## 案例 97：复古电脑开机画面解析为ASCII艺术 (来源 [@Gdgtify](https://x.com/Gdgtify/status/1925176250626159053))
+
+<img src="./images/97.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-复古电脑开机画面解析为ASCII艺术">
+<img src="./images/97-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-复古电脑开机画面解析为ASCII艺术">
+
+**提示词：**
+```
+Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest building
+```
+
+<a id="prompt-96"></a>
+## 案例 96：3D蒸汽朋克Logo (来源 [@MayorKingAI](https://x.com/MayorKingAI/status/1925144570553327620))
+
+<img src="./images/96.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D 蒸汽朋克 Logo">
+
+**提示词：**
+```
+3D sculpted logo of [LOGO NAME], in a steampunk style, made of aged brass and oxidized iron, with visible rivets, gears, and vintage mechanical elements, distressed and weathered surface, rich copper and bronze tones, engraved with Victorian-style filigree, retro-industrial design, soft spotlight lighting, neutral background, hyper-realistic render, ultra-high resolution, symmetrical composition
+```
+
+<a id="prompt-95"></a>
+## 案例 95：品牌平面纸风格 (来源 [@HBCoop_](https://x.com/HBCoop_/status/1925213900192043236))
+
+<img src="./images/95.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌平面纸风格">
+
+**提示词：**
+```
+A flat branded paper folds itself into the full 3D shape of a [Air Jordan 1 shoes], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.
+```
+```
+A flat branded paper folds itself into the full 3D shape of a [Jansport backpack], mid-motion. Dramatic studio lighting, origami texture detail, gradient shadows, Japanese minimalism feel.
+```
+
+<a id="prompt-94"></a>
+## 案例 94：制药风格商品 (来源 [@azed_ai](https://x.com/azed_ai/status/1925197464099049735))
+
+<img src="./images/94.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-制药风格商品">
+
+**提示词：**
+```
+A square-format digital photograph showing a fictional pharmaceutical-style product from [Brand Name] Pharmacy. The box is on the left, clean and minimalist, featuring bold text with the product name "[PRODUCT NAME]" and a witty line like "Take one [type] daily." Next to the box is a silver blister pack containing 6–10 themed pills or capsules shaped like [describe icon/logo/item, e.g., a coffee cup, burger, heart, Midjourney logo, etc.]. Neutral background, soft lighting, sharp focus, modern packaging aesthetic.
+```
+
+<a id="prompt-93"></a>
+## 案例 93：不同情绪状态的思想泡泡 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925098220398465145))
+
+<img src="./images/93.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-不同情绪状态的思想泡泡">
+
+**提示词：**
+```
+A [SUBJECT] sits alone in a minimalistic room filled with floating, semi-transparent thought bubbles. Each bubble contains a fragment of their face from different emotional states — smiling, crying, screaming — forming a psychological self-portrait suspended in mid-air.
+```
+
+<a id="prompt-92"></a>
+## 案例 92：霓虹玻璃发光 (来源 [@alban_gz](https://x.com/alban_gz/status/1925446996468371893))
+
+<img src="./images/92.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹玻璃发光">
+
+**提示词：**
+```
+Recreate this image using the parameters from the JSON provided.
+{
+  "name": "Neon Glass Glow",
+  "style": {
+    "material": {
+      "type": "glass",
+      "transparency": 0.92,
+      "reflectivity": 1.0,
+      "refractionIndex": 1.6,
+      "color": "#ff00ff",
+      "emission": {
+        "color": "#ff66ff",
+        "intensity": 0.8
+      },
+      "surfaceFinish": "glossy",
+      "bloom": true,
+      "detail": "high"
+    },
+    "outline": {
+      "enabled": true,
+      "color": "#ffccff",
+      "width": 1.8
+    },
+    "lighting": {
+      "type": "studio",
+      "keyLightColor": "#ffffff",
+      "keyLightIntensity": 1.0,
+      "fillLightColor": "#9900ff",
+      "fillLightIntensity": 0.7,
+      "rimLightColor": "#00ffff",
+      "rimLightIntensity": 0.7,
+      "shadows": "crisp"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#000000"
+    },
+    "render": {
+      "shadows": true,
+      "antiAliasing": true,
+      "superSampling": "4x",
+      "resolution": "high",
+      "depthOfField": {
+        "enabled": true,
+        "focusDistance": 0.8,
+        "blurAmount": 0.1
+      }
+    }
+  }
+}
+```
+
+<a id="prompt-91"></a>
+## 案例 91：动感雕塑 (来源 [@azed_ai](https://x.com/azed_ai/status/1925490847564669153))
+
+<img src="./images/91.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-动感雕塑">
+
+**提示词：**
+```
+A kinetic sculpture of a [subject], made of interlocking metal rods and panels in brushed [color1] and oxidized [color2]. Suspended in motion, with rotating parts casting mechanical shadows on a concrete pedestal.
+```
+**示例：**
+```
+A kinetic sculpture of a leaping dancer, made of interlocking metal rods and panels in brushed platinum and oxidized midnight blue. Suspended in motion, with rotating parts casting mechanical shadows on a concrete pedestal.
+```
+
 <a id="prompt-90"></a>
 ## 案例 90：将您的标志变成毛毡纹理 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1925460683509899423))
 
