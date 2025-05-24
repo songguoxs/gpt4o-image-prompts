@@ -167,7 +167,7 @@ Retro CRT computer boot screen that resolves into ASCII-art of NYC's tallest bui
 <a id="prompt-96"></a>
 ## 案例 96：3D蒸汽朋克Logo (来源 [@MayorKingAI](https://x.com/MayorKingAI/status/1925144570553327620))
 
-<img src="./images/96.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D 蒸汽朋克 Logo">
+<img src="./images/96.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3D 蒸汽朋克 Logo">
 
 **提示词：**
 ```
