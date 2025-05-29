@@ -17,6 +17,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 101：将你的Logo变成吉祥物 ](#prompt-101)
 *   [案例 100：终极跨界 ](#prompt-100)
 *   [案例 99：玩具盒中的历史 ](#prompt-99)
 *   [案例 98：3D卡通雕塑风格 ](#prompt-98)
@@ -119,6 +120,60 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-101"></a>
+## 案例 101：将你的Logo变成吉祥物 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1927308788610081088))
+
+<img src="./images/101.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将你的Logo变成吉祥物">
+
+**提示词：**
+```
+Create a mascot for [BRAND NAME] logo following the JSON aesthetic below:
+{
+"style": "brand-inspired creative mascot generation",
+"subject_handling": {
+"adapt_to_uploaded_image": true,
+"preserve_uploaded_logo_shape_and_text": true,
+"extract_dominant_brand_colors": true,
+"analyze_logo_style_for_mood": true,
+"use_uploaded_image_as_primary_reference": true
+},
+"mascot_generation": {
+"character_type": "open — could be an animal, humanoid, object, robot, fantasy creature, or abstract form",
+"design_strategy": "generate a mascot concept that visually complements the uploaded brand based on extracted brand colors, mood, and style",
+"style_alignment": "mascot should feel like part of the brand family — matching tone (playful, elegant, techy, minimal, etc.)",
+"color_usage": "use brand colors as dominant tones in mascot’s body, clothing, skin, or materials",
+"personality_embedding": "include expressive traits aligned with brand tone (e.g. curious, bold, serene, confident)"
+},
+"composition": {
+"include_uploaded_logo_in_final_image": true,
+"arrangement": "mascot and logo presented together in a clear and balanced composition",
+"environment": "minimal scene or brand-aligned abstract background — not too busy",
+"interaction": "mascot may pose near, hold, or gesture to logo — but must not obscure or alter it"
+},
+"lighting": {
+"type": "neutral or soft directional lighting depending on brand tone",
+"shadow_behavior": "soft contact shadows to ground elements"
+},
+"camera": {
+"view_angle": "centered frontal or three-quarter depending on layout",
+"focus": "both mascot and logo in clear focus"
+},
+"post_processing": {
+"enhance_color harmony between mascot and logo": true,
+"disable_style_overrides or artistic distortion": true
+},
+"image_constraints": {
+"transparent_background": false,
+"aspect_ratio": [INSERT ASPECT RATIO],
+"include_text_if_present_in_logo": true,
+"preserve_uploaded_logo_geometry": true,
+"prevent_logo_modification": true
+},
+"notes": "Use the uploaded logo or product image as the central brand reference. Automatically generate a unique mascot that feels like an original creation belonging to the brand — inspired by extracted colors, shapes, and mood. The mascot must not copy other mascots or use predefined templates. The final image should creatively showcase both the logo and its new mascot side-by-side, visually unified but distinct."
+}
+```
+**提示：上传一张参考图，然后调整[BRAND NAME]和[INSERT ASPECT RATIO]变量**
+
 <a id="prompt-100"></a>
 ## 案例 100：终极跨界 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1925146916133712191))
 
