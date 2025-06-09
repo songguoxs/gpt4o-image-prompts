@@ -17,6 +17,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 110：皮克斯风格角色表 ](#prompt-110)
+*   [案例 109：涂料飞溅Logo ](#prompt-109)
+*   [案例 108：标志液化 ](#prompt-108)
+*   [案例 107：超级动物英雄 ](#prompt-107)
+*   [案例 106：时间之神 ](#prompt-106)
+*   [案例 105：刺绣logo ](#prompt-105)
+*   [案例 104：珐琅马赛克瓷砖风格 ](#prompt-104)
+*   [案例 103：刺绣风格 ](#prompt-103)
+*   [案例 102：纹理化图片 ](#prompt-102)
 *   [案例 101：将你的Logo变成吉祥物 ](#prompt-101)
 *   [案例 100：终极跨界 ](#prompt-100)
 *   [案例 99：玩具盒中的历史 ](#prompt-99)
@@ -120,6 +129,228 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-110"></a>
+## 案例 110：皮克斯风格角色表 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1931750584090066979))
+
+<img src="./images/110.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-皮克斯风格角色表">
+
+**提示词：**
+```
+A character sheet of [detailed description of thecharacter], in the style of Pixar, featuring multiple poses and expressions from different angles, including concept art, pencil sketches, a full-body reference sheet, and a white background. The sheet includes wide shots, low-angle views, 3D renders, and Octane renderings, highly detailed result.
+```
+
+<a id="prompt-109"></a>
+## 案例 109：涂料飞溅Logo (来源 [@nim_null](https://x.com/nim_null/status/1928008305705664661))
+
+<img src="./images/109.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-涂料飞溅Logo">
+
+**提示词：**
+```
+make a hyper-realistic 3D render of the attached logo, formed by glossy liquid paint splashes. Paint sculpts the outline using the exact palette from the reference. Smooth, fluid high-gloss splashes catch highlights; logo floats on pure white.
+```
+
+<a id="prompt-108"></a>
+## 案例 108：标志液化 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1931723259734888582))
+
+<img src="./images/108.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-标志液化">
+<img src="./images/108-2.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-标志液化">
+
+**提示词：**
+```
+Create a photograph of a [BRAND] logo formed from four vibrant paint splashes: red, blue, green, and yellow, captured mid-motion. Each color flows dynamically across different parts of the logo, as if sculpted from liquid paint. Droplets are suspended in the air around it, enhancing the illusion of movement. Set against a dark background with soft, vivid lighting that accentuates the glossy texture and fluid motion
+
+Use appropriate colors for the logos.
+```
+
+<a id="prompt-107"></a>
+## 案例 107：超级动物英雄 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1931742320233230743))
+
+<img src="./images/107.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-超级动物英雄">
+<img src="./images/107-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-超级动物英雄">
+
+**提示词：**
+```
+A hyper-realistic square 1:1 portrait of a [YOUR ANIMAL] standing in a heroic pose, facing slightly left. The animal wears a textured dark gray superhero suit, form-fitting and matte, with visible fabric grain and subtle seams.
+
+On its chest, inside a golden metallic Superman-style diamond emblem, is a fabric-embroidered version of the [COUNTRY] national flag (realistic stitching, slightly raised).
+
+Draped over the animal’s shoulder is a flowing cape designed from the [COUNTRY] flag, with rich fabric folds and natural weight.
+
+Behind the subject, use a realistic fabric backdrop displaying the full [COUNTRY] flag, slightly out of focus to add depth, with soft shadows to enhance realism.
+
+Lighting should be warm and directional (studio-style), emphasizing the animal’s fur texture, suit material, and the contours of a subtly muscular chest. The overall tone is dramatic and cinematic, with a warm color grading and no excessive contrast. The head must be fully visible — no cropping.
+```
+
+<a id="prompt-106"></a>
+## 案例 106：时间之神 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1931726518952034462))
+
+<img src="./images/106.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时间之神">
+<img src="./images/106-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时间之神">
+
+**提示词：**
+```
+Colossal marble statue of [INSERT OBJECT OR CHARACTER HERE], wings (if applicable) spread in divine majesty, adorned with ornate golden armor and flowing baroque robes, cracked marble textures with soft patina, glowing sacred emblem on chest, standing within a celestial golden dome, surrounded by divine architecture, dramatic god rays from above, dynamic mid-action pose, ultra-detailed renaissance sculpture style, cinematic lighting, majestic and sacred atmosphere, 8k resolution
+```
+
+<a id="prompt-105"></a>
+## 案例 105：刺绣logo (来源 [@azed_ai](https://x.com/azed_ai/status/1931713849067241960))
+
+<img src="./images/105.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣logo">
+
+**提示词：**
+```
+A hyperrealistic embroidered textile artwork of the [SUBJECT], created with colored thread and soft fabric textures. The design features dense, tactile stitching and raised embroidery that mimics the actual form and branding. Set against a plain, off-white fabric background, with clean studio lighting and a sharp close-up view. Emphasize threadwork, texture, and handmade imperfections for a realistic soft sculpture look.
+```
+
+<a id="prompt-104"></a>
+## 案例 104：珐琅马赛克瓷砖风格 (来源 [@mariia_gonchar](https://x.com/mariia_gonchar/status/1931774946608370013))
+
+<img src="./images/104.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-珐琅马赛克瓷砖风格">
+
+**提示词：**
+```
+Visualize any selected emoji [] as an ultra-detailed, hyper-realistic 3D sculpture fully composed of luxurious enamel mosaic tiles. The emoji should retain its iconic silhouette and proportions, reinterpreted as a stylized 3D figure made entirely from curved, faceted, and geometrically interlocked enamel tiles in a radiant mosaic pattern.
+> Use high-gloss enamel tiles in varied shades derived from the emoji’s symbolic palette—integrating metallic accents, opalescent glazes, deep ceramic pigmentation, and subtle iridescence. Tile surfaces must exhibit gentle bevels, crisp joints, and tactile depth to emulate elite architectural mosaic work.
+> Ensure no visible support structures—the figure must appear freestanding and weightless, suspended mid-air at the exact center of the frame.
+> Background: pure white studio environment with soft ambient shadows directly beneath the sculpture to emphasize spatial presence and floating realism.
+> Lighting: cinematic, diffused from multiple angles to 
+```
+
+<a id="prompt-103"></a>
+## 案例 103：刺绣风格 (来源 [@firatbilal](https://x.com/firatbilal/status/1931762571876446256))
+
+<img src="./images/103.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣风格">
+
+**提示词：**
+```
+{
+  "title": "Adaptive Embroidered Brooch Prompt Generator",
+  "version": "2.0",
+  "description": "Generate a prompt for an embroidered brooch based on text description or uploaded image.",
+  "inputs": {
+    "reference_mode": {
+      "type": "select",
+      "label": "Reference Source",
+      "options": ["describe manually", "use uploaded image", "combine both"],
+      "default": "describe manually"
+    },
+    "theme_text": {
+      "type": "text",
+      "label": "Describe the Theme or Motif",
+      "placeholder": "e.g. an owl in a forest, biomechanical skull, dancing figures"
+    },
+    "image_reference_description": {
+      "type": "text",
+      "label": "Describe what's in the uploaded image (if using image mode)",
+      "placeholder": "e.g. a mechanical skull with succulents growing from it"
+    },
+    "shape": {
+      "type": "select",
+      "label": "Brooch Shape",
+      "options": ["circular", "oval", "square", "irregular"],
+      "default": "oval"
+    },
+    "style": {
+      "type": "select",
+      "label": "Embroidery Style",
+      "options": [
+        "traditional", 
+        "folkloric", 
+        "surreal", 
+        "biomech-organic fusion", 
+        "modern minimal"
+      ],
+      "default": "traditional"
+    },
+    "color_palette": {
+      "type": "select",
+      "label": "Color Palette",
+      "options": [
+        "earth tones and muted greens",
+        "pastel shades",
+        "neon surreal",
+        "rusted metal and white florals",
+        "monochrome with silver threads"
+      ],
+      "default": "earth tones and muted greens"
+    }
+  },
+  "prompt_template": "{final_theme} hand-embroidered brooch, {style} style, crafted with intricate threadwork and metallic accents, soft wool and silk embroidery, fine beadwork outlining the {shape} shape, natural color palette ({color_palette}), macro shot on neutral linen or stone background, ultra-detailed artisan aesthetic, realistic embroidery textures, soft atmospheric lighting --ar 1:1 --style raw --v 6 --q 2",
+  "logic": {
+    "final_theme": {
+      "if": "reference_mode == 'describe manually'",
+      "value": "{theme_text}"
+    },
+    "final_theme_alt": {
+      "if": "reference_mode == 'use uploaded image'",
+      "value": "{image_reference_description}"
+    },
+    "final_theme_combined": {
+      "if": "reference_mode == 'combine both'",
+      "value": "{theme_text} and elements from: {image_reference_description}"
+    }
+  }
+}
+```
+**提示：{shape}、{theme}、{style} 可自己修改**
+
+<a id="prompt-102"></a>
+## 案例 102：纹理化图片 (来源 [@egeberkina](https://x.com/egeberkina/status/1931727106590826828))
+
+<img src="./images/102.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-纹理化图片">
+
+**提示词：**
+```
+Retexture the image attached based on the json below
+{
+  "style": "C4D hyper-realistic 3D render",
+  "object_form": "detailed mechanical design",
+  "geometry": {
+    "shape": "sharp edges with smooth curves",
+    "scale": "real-world proportion",
+    "detailing": "high-poly mesh with intricate mechanical features"
+  },
+  "material": {
+    "base": "polished plastic and carbon fiber",
+    "texture": "fine surface variation with specular maps",
+    "finish": "high gloss with realistic reflections"
+  },
+  "design_elements": {
+    "decals": "subtle branding and panel lines",
+    "surface_effects": "anodized gradients, emissive lighting elements",
+    "aero_parts": "spoilers, splitters, and aggressive styling cues"
+  },
+  "color_scheme": {
+    "primary": "#0ae2c0",
+    "secondary": "#111111",
+    "accents": ["#ffffff", "#e00000"],
+    "reflections": "real-world HDRI light environment",
+    "background": "#ffffff"
+  },
+  "lighting": {
+    "type": "studio 3-point with HDRI",
+    "intensity": "balanced with key fill and rim lights",
+    "shadows": "soft, subtle contact shadow under object",
+    "highlights": "strong specular reflections on curves"
+  },
+  "rendering": {
+    "engine": "Cinema 4D Redshift or Octane",
+    "resolution": "ultra high-definition (4K+)",
+    "focus": "object-centered with floating illusion",
+    "background_blur": "none"
+  },
+  "composition": {
+    "layout": "centered in frame",
+    "object_count": 1,
+    "orientation": "three-quarter front view",
+    "camera": "35mm lens, slightly elevated",
+    "grounding": "floating mid-air with realistic soft shadow cast on white background"
+  }
+}
+```
+**提示：需上传一张参考图**
+
+
 <a id="prompt-101"></a>
 ## 案例 101：将你的Logo变成吉祥物 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1927308788610081088))
 
@@ -606,7 +837,7 @@ A highly stylized and vibrant promotional image of a [INSTRUMENT] designed in th
 ```
 
 <a id="prompt-80"></a>
-## 案例 80：水果的形状 (来源 [@xxxxxx](xxxxxx))
+## 案例 80：水果的形状 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1926182194159972503))
 
 <img src="./images/80.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-水果的形状">
 
