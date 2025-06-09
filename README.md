@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 120：奇趣风格3D乙烯基玩具 ](#prompt-120)
+*   [案例 119：城市绣花贴纸照片 ](#prompt-119)
+*   [案例 118：品牌产品数字广告 ](#prompt-118)
+*   [案例 117：动漫机甲风格化机械设计图 ](#prompt-117)
+*   [案例 116：任天堂风格的3D卡通插画 ](#prompt-116)
+*   [案例 115：冰爽优雅的产品海报 ](#prompt-115)
+*   [案例 114：Monochrome LCD效果 ](#prompt-114)
+*   [案例 113：发光图标 ](#prompt-113)
+*   [案例 112：重点线条勾勒 ](#prompt-112)
+*   [案例 111：3D超写实场景模型 ](#prompt-111)
 *   [案例 110：皮克斯风格角色表 ](#prompt-110)
 *   [案例 109：涂料飞溅Logo ](#prompt-109)
 *   [案例 108：标志液化 ](#prompt-108)
@@ -129,6 +139,202 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-120"></a>
+## 案例 120：奇趣风格3D乙烯基玩具 (来源 [@azed_ai](https://x.com/azed_ai/status/1931668551531929630))
+
+<img src="./images/120.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-奇趣风格3D乙烯基玩具">
+<img src="./images/120-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-奇趣风格3D乙烯基玩具">
+
+**提示词：**
+```
+Chibi-style 3D vinyl toy of [subject], rendered in [color1] and [color2] tones, front-facing on a white background. Minimalist composition with soft shadows, oversized head and tiny body proportions, clean OC renderer output in Cinema 4D. Toy-like shine and playful charm.
+```
+
+**中文提示词：**
+```
+[主体]的奇趣风格 3D 乙烯基玩具，以[颜色 1]和[颜色 2]色调呈现，正面朝向白色背景。极简主义构图，带有柔和的阴影，头部巨大而身体比例缩小，Cinema 4D 中的干净 OC 渲染输出。玩具般的光泽和充满趣味的魅力。
+```
+
+<a id="prompt-119"></a>
+## 案例 119：城市绣花贴纸照片 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1931040962513379672))
+
+<img src="./images/119.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-城市绣花贴纸照片">
+<img src="./images/119-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-城市绣花贴纸照片">
+
+**提示词：**
+```
+Create a close-up, square-format (1:1) photo of an embroidered patch inspired by the uploaded image. The design should feature a clean, cartoon-style embroidered interpretation of the original subject with rich thread texture and vibrant colors. The shape of the patch can vary (round, oval, shielded, silhouette-based), but the output image must remain square.
+Integrate the national colors of the country represented—such as in the text, the border, or small decorative accents—drawing inspiration from the flag to enhance local identity. Add embroidered capital-letter text like the name of the city or country, either curved or straight. Use a soft off-white fabric background and natural lighting to bring out texture and depth.
+```
+
+**中文提示词：**
+```
+创建一个近景、正方形格式（1:1）的绣花贴片照片，以上传的图片为灵感。设计应采用干净的卡通风格刺绣诠释原图主题，具有丰富的线紡纹理和鲜艳的颜色。贴片的形状可以变化（圆形、椭圆形、盾形、轮廓形），但输出图片必须保持正方形。
+融入所代表国家的国色——如文本、边框或小装饰细节中，从国旗中汲取灵感，增强地方身份。添加刺绣的大写字母文字，如城市或国家的名字，可以是曲线或直线。使用柔和的米白色背景布料和自然光线，以突出纹理和深度。
+```
+
+<a id="prompt-118"></a>
+## 案例 118：品牌产品数字广告 (来源 [@shushant_l](https://x.com/shushant_l/status/1931316125029339572))
+
+<img src="./images/118.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌产品数字广告">
+
+**提示词：**
+```
+ A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi can bursting open at its center, sending a refreshing splash of carbonated cola into the air, with effervescent bubbles and ice cubes flying outward. The can’s metallic surface is rendered with sharp, photorealistic textures, complete with condensation droplets, light reflections, and subtle scratches. Surrounding the scene are cold, translucent ice shards and a twist of lemon zest caught mid-motion, adding a vibrant contrast. The background features a deep electric blue gradient with cinematic volumetric lighting and soft lens flares. Green mint leaves and misty vapors add a refreshing, natural accent. The entire scene is rendered in 4K UHD using advanced global illumination, HDR lighting, and realistic shadows. The composition evokes premium beverage advertising with a dramatic tone, created using tools like Unreal Engine + Octane Render for maximum visual impact.
+```
+**中文提示词：**
+```
+一个超现实的、超详细的 3D 数字广告，展示百事罐在中心爆裂，喷出清凉的碳酸可乐，气泡和冰块飞溅。罐子的金属表面具有锐利的、写实的纹理，包括冷凝水滴、光线反射和细微的划痕。场景周围是冷的透明冰片和柠檬皮在空中飞舞，增添了鲜明的对比。背景是深电光渐变，带有电影级体积照明和柔和的镜头光晕。绿色薄荷叶和雾气增添了清凉的自然点缀。整个场景使用高级全局光照、HDR 照明和真实的阴影在 4K UHD 下渲染。构图以高端饮料广告的戏剧性基调呈现，使用 Unreal Engine + Octane Render 等工具以达到最大的视觉冲击力。
+```
+
+<a id="prompt-117"></a>
+## 案例 117：动漫机甲风格化机械设计图 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1931711452160651654))
+
+<img src="./images/117.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫机甲风格化机械设计图">
+<img src="./images/117-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫机甲风格化机械设计图">
+
+**提示词：**
+```
+Transform this image into a stylized mechanical design sheet inspired by Japanese anime mecha blueprints.
+Render the subject with precise, clean linework and semi-realistic cel-shading, as if it were a technical illustration from an anime artbook.
+Break down the design into parts (e.g. head, hand, accessory, full body) and arrange them like a reference sheet, with different angles and views.
+Include soft handwritten notes or Japanese characters scattered like concept annotations.
+Use muted digital colors (red, gray, metallic tones) and draw the background in a loose watercolor anime landscape style — cliffs, cityscapes, or grassland ruins.
+The final composition should feel like an official design page for an animated sci-fi series or manga.
+Keep the format horizontal, like a blueprint or character sheet, with a balance between precision and artistic flair.
+```
+
+<a id="prompt-116"></a>
+## 案例 116：任天堂风格的3D卡通插画 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1931647658382258183))
+
+<img src="./images/116.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-任天堂风格的3D卡通插画">
+<img src="./images/116-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-任天堂风格的3D卡通插画">
+
+**提示词：**
+```
+Transform this image into a Nintendo-inspired 3D cartoon style illustration.
+
+Use soft, rounded 3D shapes and clean, toy-like geometry to give the characters and objects a charming, handcrafted look.
+
+Characters should have exaggerated, childlike proportions (large heads, small limbs), with expressive, simplified faces and bright, colorful clothing — similar to designs seen in Zelda: Link’s Awakening, Animal Crossing, or Miitopia.
+
+Apply smooth, matte textures with no realistic detail — everything should look cheerful and slightly plastic, as if sculpted from soft clay or digital vinyl.
+
+The environment should be bright and whimsical, with stylized grass, puffy clouds, geometric trees, and soft lighting like a sunny afternoon.
+
+The overall tone should be lighthearted, clean, and family-friendly, like a frame from a Nintendo fantasy adventure game.
+```
+
+<a id="prompt-115"></a>
+## 案例 115：冰爽优雅的产品海报 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1931371954524545120))
+
+<img src="./images/115.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-冰霜优雅的海报">
+<img src="./images/115-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-冰霜优雅的海报">
+
+**提示词：**
+```
+Imagine a visual concept where [insert your product] — featuring Korean text on the label — is suspended inside a cracked, ultra-clear block of ice. The product is fully visible through the ice, with soft frost forming around it. It rests on smooth white silk, and the ambient lighting is cold and elegant, with reflections dancing across the surface. Describe the entire scene in rich visual detail, in the style of a luxurious Korean skincare advertisement.
+```
+
+<a id="prompt-114"></a>
+## 案例 114：Monochrome LCD 效果 (来源 [@hckmstrrahul](https://x.com/hckmstrrahul/status/1931412135277678837))
+
+<img src="./images/114.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Monochrome LCD 效果">
+<img src="./images/114-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Monochrome LCD 效果">
+
+**提示词：**
+```
+{
+  "styleAesthetic": {
+    "title": "Monochrome Pixel Mosaic",
+    "overallVibe": "Retro mobile-screen pixel art—clean, minimal, and slightly nostalgic",
+    "renderingStyle": "1-bit square-pixel grid with optional dithering to suggest tone and depth",
+    "viewAngle": "Orthographic front view (no perspective distortion)",
+    "pixelation": {
+      "pixelSize": 6,                     // width/height of each square in px (tweak per output res)
+      "pixelShape": "perfect square",
+      "gridAlignment": "uniform, no gaps",
+      "ditheringPattern": "Floyd–Steinberg or ordered 2×2"
+    },
+    "colorPalette": {
+      "pixelColor": "#000000",            // foreground pixels
+      "backgroundColor": "#8CA17C",       // muted pastel green sample; replace to recolor
+      "paletteType": "1-bit monochrome"
+    },
+    "lightingAndShadows": {
+      "pixelDropShadow": {
+        "enabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "blur": 2,
+        "opacity": 0.25
+      },
+    },
+    "materialsAndTextures": [
+      {
+        "type": "Matte LCD surface",
+        "description": "Flat display with very fine grain/noise to simulate old LCD texture",
+        "noiseIntensity": 0.01
+      }
+    ],
+    "typography": {
+      "fontFamily": "monospaced bitmap",
+      "weight": "bold",
+      "capitalization": "uppercase",
+      "letterSpacing": 0,
+      "align": "center"
+    },
+    "postProcessing": {
+      "edgeSmoothing": "none (hard pixel edges preserved)",
+      "filmGrain": 0.01,
+      "overallContrast": 1.0
+    },
+    "adaptabilityHints": {
+      "applyToPhotographs": "posterize → 1-bit → downsample to pixel grid → apply dithering",
+      "applyToVectorText": "render glyphs to bitmap grid using same pixel size and drop shadow",
+      "safeResize": "always scale by whole-number multiples to keep squares crisp"
+    }
+  }
+}
+```
+
+<a id="prompt-113"></a>
+## 案例 113：发光图标 (来源 [@azed_ai](https://x.com/azed_ai/status/1931350205649350935))
+
+<img src="./images/113.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-发光图标">
+<img src="./images/113-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-发光图标">
+
+**提示词：**
+```
+A close-up digital photo of a human hand gently holding a glowing neon blue square icon featuring the [LOGO NAME] logo, set against a smooth dark gradient background. The blue light from the icon softly illuminates the fingers, casting a futuristic glow. The background is minimal and blurred, emphasizing the icon and the hand. High detail, cinematic lighting, modern tech aesthetic.
+```
+
+<a id="prompt-112"></a>
+## 案例 112：重点线条勾勒 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1931637370639520011))
+
+<img src="./images/112.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重点线条勾勒">
+<img src="./images/112-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重点线条勾勒">
+
+**提示词：**
+```
+A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
+```
+
+<a id="prompt-111"></a>
+## 案例 111：3d 超写实场景模型 (来源 [@PatriciaRed_](https://x.com/PatriciaRed_/status/1931165199987278330))
+
+<img src="./images/111.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3d超写实场景模型">
+<img src="./images/111-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-3d超写实场景模型">
+
+**提示词：**
+```
+3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a curved staircase with an arched doorway at the end with a view to a tiny glowing moon, framed by lush climbing vines, setting over a round base made out of moss and tiny bioluminescent mushrooms, ethereal lighting, staging aesthetics, dark plain background --ar 4:5 --c 6 --s 100
+```
+
+```
+3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a staircase with a lush tree beside it, a two-story building in the background, setting over a round base made out of turquoise water and sand strip, warm lighting, staging aesthetics, plain background --c 6 --v 7.0 --ar 4:5
+```
+
 <a id="prompt-110"></a>
 ## 案例 110：皮克斯风格角色表 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1931750584090066979))
 
