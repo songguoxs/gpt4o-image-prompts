@@ -168,7 +168,7 @@ Create a surreal split-scene where the left half is an underwater version of a [
 <a id="prompt-129"></a>
 ## 案例 129：创建悬浮切片水果 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934562439326306814))
 
-<img src="./images/129.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+<img src="./images/129.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
 <img src="./images/129-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
 
 **提示词：**
