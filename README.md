@@ -152,8 +152,10 @@
 <a id="prompt-130"></a>
 ## 案例 130：创建超现实不可能的图像 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934903456596451734))
 
-<img src="./images/130.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
-<img src="./images/130-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/130.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
+<img src="./images/130-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
+</div>
 
 **提示词：**
 ```
