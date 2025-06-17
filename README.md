@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 140：现代数字动漫风格 ](#prompt-140)
+*   [案例 139：将您最喜欢的品牌变成生活方式产品 ](#prompt-139)
+*   [案例 138：Gumroad样式图标 ](#prompt-138)
+*   [案例 137：透视一切 ](#prompt-137)
+*   [案例 136：日常用品有皮肤 ](#prompt-136)
+*   [案例 135：棱柱形玻璃图标 ](#prompt-135)
+*   [案例 134：生成真实电影海报 ](#prompt-134)
+*   [案例 133：幽灵形态 ](#prompt-133)
+*   [案例 132：悬浮魔幻现实主义 ](#prompt-132)
+*   [案例 131：自定义毛绒钥匙扣 ](#prompt-131)
 *   [案例 130：创建超现实不可能的图像 ](#prompt-130)
 *   [案例 129：创建悬浮切片水果 ](#prompt-129)
 *   [案例 128：一个字的无限反射 ](#prompt-128)
@@ -149,6 +159,176 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-140"></a>
+## 案例 140：现代数字动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1934970943769559430))
+
+<img src="./images/140.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
+<img src="./images/140-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
+
+**提示词：**
+```
+Transform this image into a modern digital anime TV style. Use clean and sharp outlines, vivid and high-contrast colors, and digital cel shading with subtle gradients. Add visual effects like glows, particles, or light flares if appropriate. The character design should follow modern anime proportions, with detailed hair and expressive eyes. The background can be softly blurred or cinematic. The image should look like a frame from a high-quality anime series currently airing.
+```
+
+**中文提示词：**
+```
+将此图像转换为现代数字动漫电视风格。使用干净锐利的轮廓、鲜艳和高对比度的颜色，以及具有微妙渐变的数字卡通底纹。添加视觉效果，如发光、粒子或光晕（如果合适）。角色设计应遵循现代动漫的比例，拥有细致的头发和富有表现力的眼睛。背景可以是柔和的模糊或电影般的。该图像应看起来像当前正在播出的高质量动漫系列中的帧。
+```
+
+<a id="prompt-139"></a>
+## 案例 139：将您最喜欢的品牌变成生活方式产品 (来源 [@azed_ai](https://x.com/azed_ai/status/1934631664153760241))
+
+<img src="./images/139.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
+<img src="./images/139-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
+
+**提示词：**
+```
+A high-quality studio product photo of a [brand name]-branded [product type], [floating / standing] against a solid background in the brand’s signature color. The product features the brand logo prominently and uses the official brand color palette. Clean composition, soft shadows, ultra-realistic materials and textures, no text, no props, professional commercial lighting, sharp focus, minimalist aesthetic.
+```
+
+**中文提示词：**
+```
+一张高质量的工作室商品照片，其中包含 [品牌名称] 品牌 [商品类型]、[浮动/直立] 和纯色背景，采用品牌标志性的颜色。该商品突出品牌徽标，并使用官方品牌调色板。干净的构图，柔和的阴影，超逼真的材质和纹理，无文字，无道具，专业的商业照明，锐利的焦点，极简的美学。
+```
+
+<a id="prompt-138"></a>
+## 案例 138：Gumroad样式图标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1934745654888124753))
+
+<img src="./images/138.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
+<img src="./images/138-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
+
+**提示词：**
+```
+Create a high-resolution illustration of a [OBJECT] icon in the style of a flat, outlined sticker graphic. The icon should be made entirely from very thin, solid black outlines with no interior fill. Add a bold, soft-edged sticker-style contour around the icon using a flat, vibrant [YELLOW, BLUE, OR PINK] color. The result should look like a cartoon-style icon cut from black paper, outlined by a bright color. Do not use any white or filled shapes inside. No gradients, no shadows, no textures. Vector-friendly. Black background. Square aspect ratio.
+```
+
+**中文提示词：**
+```
+以平面轮廓贴纸图形的样式创建 [OBJECT] 图标的高分辨率插图。图标应完全由非常细的纯黑色轮廓制成，没有内部填充。使用平坦、充满活力的 [黄色、蓝色或粉红色] 在图标周围添加大胆、边缘柔和的贴纸式轮廓。结果应看起来像从黑纸上剪下来的卡通风格图标，由鲜艳的颜色勾勒出来。不要在里面使用任何白色或填充的形状。没有渐变，没有阴影，没有纹理。对矢量友好。黑色背景。方形纵横比。
+```
+
+<a id="prompt-137"></a>
+## 案例 137：透视一切 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934528170264572227))
+
+<img src="./images/137.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
+<img src="./images/137-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
+
+**提示词：**
+```
+a fully transparent [product] made of ultra-clear iridescent glass, showing all internal components in photorealistic detail. The outer shell is glossy, refracts subtle rainbow colors, and reveals the product’s structure and mechanics. Scene lit with high-Kelvin studio lighting (~7000K) on a neutral background. The product maintains its real proportions, materials, and branding.
+```
+
+**中文提示词：**
+```
+由超透明虹彩玻璃制成的完全透明 [产品]，以逼真的细节展示所有内部组件。外壳有光泽，折射出微妙的彩虹色，并揭示产品的结构和机械。在中性背景上使用高开尔文工作室照明 （~7000K） 照亮的场景。该产品保持其真实的比例、材料和品牌。
+```
+
+<a id="prompt-136"></a>
+## 案例 136：日常用品有皮肤 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1934682610632151500))
+
+<img src="./images/136.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
+<img src="./images/136-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
+
+**提示词：**
+```
+A high-quality studio photograph of a [OBJECT] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original form remains visible but is wrapped in the animal’s natural pattern and surface detail. The image features clean composition, soft shadows, sharp focus, minimalist styling, professional lighting, and highly detailed textures—each hair, feather, or wrinkle should be visible. Format 1:1.
+```
+
+**中文提示词：**
+```
+一张 [OBJECT] 的高质量工作室照片，完全覆盖在超逼真的 [ANIMAL] 纹理（例如，毛皮、羽毛、皮肤或鳞片）中，置于柔和的中性背景上。对象的原始形状仍然可见，但包裹在动物的自然图案和表面细节中。该图像具有干净的构图、柔和的阴影、清晰的焦点、极简主义的造型、专业的照明和高度详细的纹理——每根头发、羽毛或皱纹都应该可见。格式 1：1。
+```
+
+<a id="prompt-135"></a>
+## 案例 135：棱柱形玻璃图标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1934330176113938606))
+
+<img src="./images/135.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
+<img src="./images/135-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
+
+**提示词：**
+```
+Create a high-resolution illustration of a [skull] icon in the style of a glossy, translucent sculpture. The icon should appear as if made of curved, flowing glass with reflective surfaces. Infuse the form with vivid, refracted rainbow gradients that shift smoothly across its contours. The shape should be abstract yet recognizable, with a sleek, high-gloss finish and soft reflections that mimic light bending through clear material. Center the icon on a solid black background. No shadows, textures, or extra elements. Square aspect ratio.
+```
+
+**中文提示词：**
+```
+以光泽、半透明雕塑的风格创建 [骷髅头] 图标的高分辨率插图。图标应看起来像是由具有反射表面的弯曲、流动的玻璃制成的。为形式注入生动的折射彩虹渐变，在其轮廓上平滑移动。形状应该是抽象的但可识别的，具有时尚、高光泽的饰面和柔和的反射，模仿光线穿过透明材料的弯曲。将图标置于纯黑色背景上居中。没有阴影、纹理或额外元素。方形纵横比。
+```
+
+<a id="prompt-134"></a>
+## 案例 134：生成真实电影海报 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934339212561555949))
+
+<img src="./images/134.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-3.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-4.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+
+**提示词：**
+```
+“[MOVIE TITLE ]” — cinematic movie poster design in ultra-realistic, high-definition style. Capture a dramatic and emotionally charged scene based on the film’s title. Use a high Kelvin color temperature to eliminate yellow tint, favoring cold, bluish tones or neutral whites. Add volumetric fog, sharp shadows, and deep depth of field. Simulate a cinematic lens with soft bloom, subtle lens flare, and film grain.
+
+Render the title “[MOVIE TITLE ]” in expressive kinetic typography that visually embodies the meaning of the word (e.g. dissolving, cracked, melting, glowing). Typography should feel integrated into the environment, bold and iconic.
+
+Include a short, emotionally resonant tagline beneath the title. Overall composition must resemble a high-budget blockbuster movie poster, with a 2.35:1 aspect ratio and strong visual storytelling.
+```
+
+**中文提示词：**
+```
+“[MOVIE NAME ]” — 超逼真、高清风格的电影海报设计。根据电影的标题捕捉一个充满戏剧性和情感的场景。使用高开尔文色温来消除黄色调，偏爱冷色调、蓝色调或中性白色。添加体积雾、锐利阴影和深景深。模拟具有柔和泛光、细微镜头光晕和胶片颗粒的电影镜头。
+
+以富有表现力的动态排版呈现标题“[MOVIE TITLE ]”，在视觉上体现单词的含义（例如，溶解、破裂、融化、发光）。排版应该感觉与环境融为一体，大胆而标志性。
+
+在标题下方包括一个简短的、能引起情感共鸣的标语。整体构图必须类似于高预算的大片电影海报，具有 2.35：1 的纵横比和强烈的视觉叙事性。
+```
+
+<a id="prompt-133"></a>
+## 案例 133：幽灵形态 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1934662213702140116))
+
+<img src="./images/133.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
+<img src="./images/133-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
+
+**提示词：**
+```
+A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-rigid transparent material that drapes and folds like sheer plastic or molten glass. The object is fully recognizable in shape, yet ghostly and fluid, as if sculpted from air and frozen in motion. Set in a moody, industrial interior with aged concrete walls and diffused daylight from metal-barred windows. The lighting gently highlights the reflections, edges, and flowing curves of the transparent form. Dreamlike, minimalist, surreal design aesthetic.
+```
+
+**中文提示词：**
+```
+一张 [SUBJECT] 的超写实照片，完全由单一的、半刚性的透明材料制成，像纯粹的塑料或熔融玻璃一样悬垂和折叠。这个物体的形状是完全可识别的，但又幽灵般流动，仿佛从空气中雕刻出来，在运动中冻结。坐落在喜怒无常的工业室内，拥有老化的混凝土墙和从金属栅栏窗户射出的日光。灯光柔和地突出了透明形式的反射、边缘和流动曲线。梦幻般的、极简主义的、超现实主义的设计美学。
+```
+
+<a id="prompt-132"></a>
+## 案例 132：悬浮魔幻现实主义 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1934581820433301996))
+
+<img src="./images/132.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
+<img src="./images/132-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
+
+**提示词：**
+```
+An old-fashioned postal shack floating on a space rock, with envelopes fluttering like wings and planets lined up as waiting customers - humorous, magical realism.
+```
+
+**中文提示词：**
+```
+一个漂浮在太空岩石上的老式邮政小屋，信封像翅膀一样飘动，行星排成一排等待的顾客 - 幽默、魔幻现实主义。
+```
+
+<a id="prompt-131"></a>
+## 案例 131：自定义毛绒钥匙扣 (来源 [@azed_ai](https://x.com/azed_ai/status/1934973851164897444))
+
+<img src="./images/131.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
+<img src="./images/131-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
+
+**提示词：**
+```
+Close-up photo of a small plush keychain of [attached image/emojis]  held gently between two fingers, made of soft felt or fuzzy material, cartoon-style proportions, embroidered face with simple expressive features, character designed to resemble, attached to a shiny silver keyring, neutral beige background, shallow depth of field, soft natural lighting, highly detailed texture, cute and handcrafted aesthetic, studio photography, 1:1 aspect ratio
+```
+
+**中文提示词：**
+```
+[附图/表情符号] 的小毛绒钥匙扣的特写照片，用两根手指轻轻握住，由柔软的毛毡或毛茸茸的材料制成，卡通风格的比例，具有简单表现特征的刺绣脸，设计相似的人物，附在闪亮的银色钥匙圈上，中性米色背景，浅景深，柔和的自然光，高度详细的纹理，可爱和手工制作的美感， 摄影棚摄影，1：1 纵横比
+```
+
 <a id="prompt-130"></a>
 ## 案例 130：创建超现实不可能的图像 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934903456596451734))
 
