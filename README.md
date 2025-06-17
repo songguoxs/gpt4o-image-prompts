@@ -162,8 +162,10 @@
 <a id="prompt-140"></a>
 ## 案例 140：现代数字动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1934970943769559430))
 
-<img src="./images/140.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
-<img src="./images/140-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/140.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
+<img src="./images/140-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代数字动漫风格">
+</div>
 
 **提示词：**
 ```
@@ -178,8 +180,10 @@ Transform this image into a modern digital anime TV style. Use clean and sharp o
 <a id="prompt-139"></a>
 ## 案例 139：将您最喜欢的品牌变成生活方式产品 (来源 [@azed_ai](https://x.com/azed_ai/status/1934631664153760241))
 
-<img src="./images/139.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
-<img src="./images/139-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/139.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
+<img src="./images/139-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将您最喜欢的品牌变成生活方式产品">
+</div>
 
 **提示词：**
 ```
@@ -194,8 +198,10 @@ A high-quality studio product photo of a [brand name]-branded [product type], [f
 <a id="prompt-138"></a>
 ## 案例 138：Gumroad样式图标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1934745654888124753))
 
-<img src="./images/138.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
-<img src="./images/138-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/138.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
+<img src="./images/138-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gumroad 样式图标">
+</div>
 
 **提示词：**
 ```
@@ -210,8 +216,10 @@ Create a high-resolution illustration of a [OBJECT] icon in the style of a flat,
 <a id="prompt-137"></a>
 ## 案例 137：透视一切 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934528170264572227))
 
-<img src="./images/137.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
-<img src="./images/137-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/137.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
+<img src="./images/137-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透视一切">
+</div>
 
 **提示词：**
 ```
@@ -226,8 +234,10 @@ a fully transparent [product] made of ultra-clear iridescent glass, showing all 
 <a id="prompt-136"></a>
 ## 案例 136：日常用品有皮肤 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1934682610632151500))
 
-<img src="./images/136.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
-<img src="./images/136-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/136.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
+<img src="./images/136-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日常用品有皮肤">
+</div>
 
 **提示词：**
 ```
@@ -242,8 +252,10 @@ A high-quality studio photograph of a [OBJECT] fully covered in ultra-realistic 
 <a id="prompt-135"></a>
 ## 案例 135：棱柱形玻璃图标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1934330176113938606))
 
-<img src="./images/135.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
-<img src="./images/135-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/135.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
+<img src="./images/135-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形玻璃图标">
+</div>
 
 **提示词：**
 ```
@@ -258,10 +270,12 @@ Create a high-resolution illustration of a [skull] icon in the style of a glossy
 <a id="prompt-134"></a>
 ## 案例 134：生成真实电影海报 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934339212561555949))
 
-<img src="./images/134.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
-<img src="./images/134-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
-<img src="./images/134-3.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
-<img src="./images/134-4.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/134.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+<img src="./images/134-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成真实电影海报">
+</div>
 
 **提示词：**
 ```
@@ -284,8 +298,10 @@ Include a short, emotionally resonant tagline beneath the title. Overall composi
 <a id="prompt-133"></a>
 ## 案例 133：幽灵形态 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1934662213702140116))
 
-<img src="./images/133.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
-<img src="./images/133-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/133.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
+<img src="./images/133-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-幽灵形态">
+</div>
 
 **提示词：**
 ```
@@ -300,8 +316,10 @@ A hyper-realistic photograph of a [SUBJECT] entirely made from a single, semi-ri
 <a id="prompt-132"></a>
 ## 案例 132：悬浮魔幻现实主义 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1934581820433301996))
 
-<img src="./images/132.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
-<img src="./images/132-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/132.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
+<img src="./images/132-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-悬浮魔幻现实主义">
+</div>
 
 **提示词：**
 ```
@@ -316,8 +334,10 @@ An old-fashioned postal shack floating on a space rock, with envelopes flutterin
 <a id="prompt-131"></a>
 ## 案例 131：自定义毛绒钥匙扣 (来源 [@azed_ai](https://x.com/azed_ai/status/1934973851164897444))
 
-<img src="./images/131.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
-<img src="./images/131-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/131.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
+<img src="./images/131-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义毛绒钥匙扣">
+</div>
 
 **提示词：**
 ```
