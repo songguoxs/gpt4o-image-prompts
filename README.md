@@ -170,8 +170,10 @@ Create a surreal split-scene where the left half is an underwater version of a [
 <a id="prompt-129"></a>
 ## 案例 129：创建悬浮切片水果 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934562439326306814))
 
-<img src="./images/129.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
-<img src="./images/129-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/129.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+<img src="./images/129-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+</div>
 
 **提示词：**
 ```
@@ -186,8 +188,10 @@ A hyper-realistic photograph of a [FRUIT] sliced into five glossy layers, each s
 <a id="prompt-128"></a>
 ## 案例 128：一个字的无限反射 (来源 [@egeberkina](https://x.com/egeberkina/status/1934670309942018397))
 
-<img src="./images/128.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
-<img src="./images/128-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/128.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
+<img src="./images/128-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
+</div>
 
 **提示词：**
 ```
@@ -202,8 +206,10 @@ A [PERSON] in a dark room with a glowing projection of the word “[WORD]” rep
 <a id="prompt-127"></a>
 ## 案例 127：符号冲突 (来源 [@B_4AI](https://x.com/B_4AI/status/1934527984578535561))
 
-<img src="./images/127.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
-<img src="./images/127-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/127.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
+<img src="./images/127-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
+</div>
 
 **提示词：**
 ```
@@ -242,8 +248,10 @@ Aspect Ratio: 1:1
 <a id="prompt-126"></a>
 ## 案例 126：重新构想的超现实主义广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934702903932957023))
 
-<img src="./images/126.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
-<img src="./images/126-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/126.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
+<img src="./images/126-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
+</div>
 
 **提示词：**
 ```
@@ -264,8 +272,10 @@ Style: surreal, high-resolution, minimal, cinematic lighting, 1:1 aspect ratio.
 <a id="prompt-125"></a>
 ## 案例 125：时尚品牌娃娃 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1934688112741085562))
 
-<img src="./images/125.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
-<img src="./images/125-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/125.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
+<img src="./images/125-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
+</div>
 
 **提示词：**
 ```
@@ -280,8 +290,10 @@ A hyper-realistic photograph of a fashion doll styled in the aesthetic of [BRAND
 <a id="prompt-124"></a>
 ## 案例 124：磨砂模糊剪影 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934249977326289141))
 
-<img src="./images/124.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
-<img src="./images/124-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/124.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
+<img src="./images/124-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
+</div>
 
 **提示词：**
 ```
@@ -296,8 +308,10 @@ A black and white photograph shows the blurred silhouette of a [SUBJECT] behind 
 <a id="prompt-123"></a>
 ## 案例 123：植物雕塑 (来源 [@azed_ai](https://x.com/azed_ai/status/1934566157736083614))
 
-<img src="./images/123.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
-<img src="./images/123-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/123.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
+<img src="./images/123-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
+</div>
 
 **提示词：**
 ```
@@ -312,8 +326,10 @@ The [subject] appears as if organically grown from intertwining plants, flowers,
 <a id="prompt-122"></a>
 ## 案例 122：史莱姆制成的玩具运输车 (来源 [@miilesus](https://x.com/miilesus/status/1934593675276796090))
 
-<img src="./images/122.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
-<img src="./images/122-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/122.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
+<img src="./images/122-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
+</div>
 
 **提示词：**
 ```
@@ -362,8 +378,10 @@ The [subject] appears as if organically grown from intertwining plants, flowers,
 <a id="prompt-121"></a>
 ## 案例 121：文艺复兴时期的解剖学研究 (来源 [@azed_ai](https://x.com/azed_ai/status/1934928547971559565))
 
-<img src="./images/121.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
-<img src="./images/121-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/121.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
+<img src="./images/121-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
+</div>
 
 **提示词：**
 ```
