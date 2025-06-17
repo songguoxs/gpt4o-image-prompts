@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 130：创建超现实不可能的图像 ](#prompt-130)
+*   [案例 129：创建悬浮切片水果 ](#prompt-129)
+*   [案例 128：一个字的无限反射 ](#prompt-128)
+*   [案例 127：符号冲突 ](#prompt-127)
+*   [案例 126：重新构想的超现实主义广告 ](#prompt-126)
+*   [案例 125：时尚品牌娃娃 ](#prompt-125)
+*   [案例 124：磨砂模糊剪影 ](#prompt-124)
+*   [案例 123：植物雕塑 ](#prompt-123)
+*   [案例 122：史莱姆制成的玩具运输车 ](#prompt-122)
+*   [案例 121：文艺复兴时期的解剖学研究 ](#prompt-121)
 *   [案例 120：奇趣风格3D乙烯基玩具 ](#prompt-120)
 *   [案例 119：城市绣花贴纸照片 ](#prompt-119)
 *   [案例 118：品牌产品数字广告 ](#prompt-118)
@@ -139,6 +149,230 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-130"></a>
+## 案例 130：创建超现实不可能的图像 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934903456596451734))
+
+<img src="./images/130.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
+<img src="./images/130-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建超现实不可能的图像">
+
+**提示词：**
+```
+Create a surreal split-scene where the left half is an underwater version of a [SCENE], filled with marine life (fish, sharks, octopus, coral, bubbles), and the right half is the regular dry version of the same [SCENE] continuing naturally. Separate the two halves with a vertical wall of water held by a magical force, as if the ocean is cut in half. The scene should align across both sides, maintaining realism while showcasing the impossible scenario. Emphasize lighting and reflection differences between water and air environments.
+```
+
+**中文提示词：**
+```
+创建一个超现实的分割场景，其中左半部分是 [SCENE] 的水下版本，充满了海洋生物（鱼、鲨鱼、章鱼、珊瑚、气泡），右半部分是同一 [SCENE] 的常规干燥版本自然延续。用一道由神奇力量支撑的垂直水墙将两半分开，仿佛海洋被切成两半。场景应在两侧对齐，在展示不可能的场景的同时保持真实感。强调水和空气环境之间的光照和反射差异。
+```
+
+<a id="prompt-129"></a>
+## 案例 129：创建悬浮切片水果 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934562439326306814))
+
+<img src="./images/129.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+<img src="./images/129-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-创建悬浮切片水果">
+
+**提示词：**
+```
+A hyper-realistic photograph of a [FRUIT] sliced into five glossy layers, each slice floating vertically in mid-air with glistening juice droplets at the edges. The slices cast soft, natural shadows on each other. The [FRUIT] has a vibrant skin with appropriate interior details .Set against a softly blurred tropical garden background with hints of lush green leaves and dappled sunlight, the scene is lit with warm, directional golden-hour lighting, enhancing the vivid colors and depth
+```
+
+**中文提示词：**
+```
+一张 [FRUIT] 的超写实照片，被切成五个光滑的层，每个切片垂直漂浮在半空中，边缘有闪闪发光的汁液滴。切片彼此之间投射柔和、自然的阴影。[FRUIT] 拥有充满活力的皮肤和适当的内部细节。在柔和模糊的热带花园背景下，郁郁葱葱的绿叶和斑驳的阳光，场景由温暖、定向的金色小时照明照亮，增强了鲜艳的色彩和深度
+```
+
+<a id="prompt-128"></a>
+## 案例 128：一个字的无限反射 (来源 [@egeberkina](https://x.com/egeberkina/status/1934670309942018397))
+
+<img src="./images/128.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
+<img src="./images/128-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-一个字的无限反射">
+
+**提示词：**
+```
+A [PERSON] in a dark room with a glowing projection of the word “[WORD]” repeated endlessly across the walls and body. The text is projected in high-contrast, neon [COLOR], wrapping around the contours of the object, creating a surreal, futuristic lighting effect. The background and object are seamlessly blended into the immersive text environment. Photorealistic, sharp shadows and light distortion where the text bends over curves. Studio lighting with deep contrast, moody cyberpunk aesthetic.
+```
+
+**中文提示词：**
+```
+一个 [PERSON] 在一个黑暗的房间里，“[WORD]”这个词的发光投影在墙壁和身体上无休止地重复。文本以高对比度的霓虹灯 [COLOR] 投影，包裹在对象的轮廓周围，营造出超现实的未来主义照明效果。背景和对象无缝混合到沉浸式文本环境中。照片级真实感、锐利的阴影和文本在曲线上弯曲的光线扭曲。具有深对比度、喜怒无常的赛博朋克美学的工作室照明。
+```
+
+<a id="prompt-127"></a>
+## 案例 127：符号冲突 (来源 [@B_4AI](https://x.com/B_4AI/status/1934527984578535561))
+
+<img src="./images/127.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
+<img src="./images/127-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-符号冲突">
+
+**提示词：**
+```
+A surreal yet hyper-realistic image in levitation photography style, where elements of [subject] float chaotically and randomly above an outstretched hand, interwoven with symbolic elements that directly oppose it.
+
+The background forms dynamically to visually embody the symbolism of the subject and its opposite, through blurred or abstract details that reflect either tension or harmony between the two—like a mirror inside a dream.
+
+Each element floats at a unique angle and varying distance.
+
+Background: Shifts according to the subject and its opposite
+
+Lighting: Soft cinematic with dreamy shadows
+
+Style: Hyper-realistic + Levitation Photography + Fantasy
+
+Aspect Ratio: 1:1
+```
+
+**中文提示词：**
+```
+悬浮摄影风格的超现实而超现实的图像，其中 [主体] 的元素混乱而随机地漂浮在伸出的手上方，与直接对立的象征性元素交织在一起。
+
+背景动态形成，通过模糊或抽象的细节在视觉上体现主题及其对立面的象征意义，这些细节反映了两者之间的张力或和谐——就像梦中的镜子。
+
+每个元素都以独特的角度和不同的距离漂浮。
+
+背景：根据主体及其对立面而变化
+
+照明：柔和的电影感，带有梦幻般的阴影
+
+风格：超写实 + 悬浮摄影 + 奇幻
+
+长宽比：1：1
+```
+
+<a id="prompt-126"></a>
+## 案例 126：重新构想的超现实主义广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1934702903932957023))
+
+<img src="./images/126.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
+<img src="./images/126-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-重新构想的超现实主义广告">
+
+**提示词：**
+```
+“[Product Name]” placed at the center in full photorealism, surrounded by surreal vector illustrations using exactly two bold, vibrant colors that match the product’s mood.
+The scene is minimalistic yet energetic, with abstract vector shapes (symbols, lines, expressions, etc.) orbiting or interacting with the product.
+Add the real logo clearly and integrate a short 3–4 word slogan at the bottom.
+Style: surreal, high-resolution, minimal, cinematic lighting, 1:1 aspect ratio.
+```
+
+**中文提示词：**
+```
+“[产品名称]”以完全逼真的方式放置在中心，周围环绕着超现实主义的矢量插图，使用两种大胆、鲜艳的颜色，与产品的情绪相匹配。
+场景简约而充满活力，抽象的矢量形状（符号、线条、表情等）围绕产品运行或与产品交互。
+清楚地添加真实的 logo，并在底部加入一个 3-4 字的简短标语。
+风格：超现实、高分辨率、极简、电影般的照明、1：1 纵横比。
+```
+
+<a id="prompt-125"></a>
+## 案例 125：时尚品牌娃娃 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1934688112741085562))
+
+<img src="./images/125.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
+<img src="./images/125-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚品牌娃娃">
+
+**提示词：**
+```
+A hyper-realistic photograph of a fashion doll styled in the aesthetic of [BRAND], sitting on a plush, cream-colored bed with soft folds. The doll’s look reflects the brand’s signature elements — from hair and outfit to accessories — arranged thoughtfully to evoke a dreamy, vintage-inspired editorial. Studio-lit with warm, diffused lighting and a creamy, ivory-toned palette, the scene emulates luxury fashion photography with a soft, dollhouse-like atmosphere and shallow depth of field.
+```
+
+**中文提示词：**
+```
+一张超写实的照片，一个时尚娃娃以 [BRAND] 的美学风格，坐在一张带有柔软褶皱的奶油色毛绒床上。这款玩偶的外观反映了该品牌的标志性元素——从头发和服装到配饰——经过精心安排，让人联想到梦幻般的复古风格社论。工作室照明采用温暖的漫射灯光和奶油色的象牙色调调色板，该场景以柔和的玩具屋般的氛围和浅景深模拟奢华时尚摄影。
+```
+
+<a id="prompt-124"></a>
+## 案例 124：磨砂模糊剪影 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1934249977326289141))
+
+<img src="./images/124.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
+<img src="./images/124-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂模糊剪影">
+
+**提示词：**
+```
+A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere
+```
+
+**中文提示词：**
+```
+一张黑白照片显示了磨砂或半透明表面后面 [SUBJECT] 的模糊剪影。[PART] 轮廓分明，压在表面，与朦胧、模糊的人物的其余部分形成鲜明对比。背景是灰色调的柔和渐变，增强了神秘和艺术的氛围
+```
+
+<a id="prompt-123"></a>
+## 案例 123：植物雕塑 (来源 [@azed_ai](https://x.com/azed_ai/status/1934566157736083614))
+
+<img src="./images/123.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
+<img src="./images/123-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-植物雕塑">
+
+**提示词：**
+```
+The [subject] appears as if organically grown from intertwining plants, flowers, and vines. Leaf-like textures and blooming forms fuse seamlessly with anatomical or structural details, creating a surreal hybrid of nature and design. The composition feels ethereal, with natural asymmetry and dreamlike flow.
+```
+
+**中文提示词：**
+```
+[主题] 看起来就像是从交织在一起的植物、花朵和藤蔓中有机生长出来的。叶子般的纹理和盛开的形式与解剖学或结构细节无缝融合，创造出自然与设计的超现实混合体。构图感觉空灵，具有自然的不对称和梦幻般的流动。
+```
+
+<a id="prompt-122"></a>
+## 案例 122：史莱姆制成的玩具运输车 (来源 [@miilesus](https://x.com/miilesus/status/1934593675276796090))
+
+<img src="./images/122.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
+<img src="./images/122-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-史莱姆制成的玩具运输车">
+
+**提示词：**
+```
+{
+  "style": "Realistic 3D render",
+  "material": "Glossy slime-like material",
+  "texture": ["smooth", "soft", "stretchy", "shiny"],
+  "color": "VARIABLE",  
+  "object_type": "VARIABLE",  
+  "background": "plain white",
+  "lighting": "soft studio lighting",
+  "details": {
+    "focus": "single object centered",
+    "shadows": "soft and subtle",
+    "reflection": "light highlights on surface",
+    "depth": "shallow depth of field"
+  },
+  "format": "close-up or three-quarter view",
+  "mood": "playful, clean, toy-like",
+  "prompt_template": "A {color} {object_type} made of glossy slime material, soft and stretchy texture, realistic 3D look, set against a plain white background, soft lighting and smooth highlights"
+}
+```
+
+**中文提示词：**
+```
+{
+“style”： “逼真的 3D 渲染”，
+“material”： “有光泽的粘液状材质”，
+“texture”： [“光滑”， “柔软”， “弹性”， “闪亮”]，
+“color”： “变量”，
+“object_type”： “变量”，
+“background”： “纯白色”，
+“lighting”： “柔和的工作室照明”，
+“详细信息”： {
+“focus”： “以单个对象为中心”，
+“shadows”： “柔和而微妙”，
+“reflection”： “表面上的光高光”，
+“depth”： “浅景深”
+},
+“format”： “特写或四分之三视图”，
+“mood”： “俏皮的、干净的、玩具般的”，
+“prompt_template”： “由有光泽的粘液材料制成的 {color} {object_type}，质地柔软有弹性，逼真的 3D 外观，以纯白色背景为背景，光线柔和，高光平滑”
+}
+```
+
+<a id="prompt-121"></a>
+## 案例 121：文艺复兴时期的解剖学研究 (来源 [@azed_ai](https://x.com/azed_ai/status/1934928547971559565))
+
+<img src="./images/121.png" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
+<img src="./images/121-2.jpeg" width="300" alt="Awesome GPT4o/GPT-4o Image Prompts-文艺复兴时期的解剖学研究">
+
+**提示词：**
+```
+A Renaissance anatomical study of a [subject], meticulously illustrated in fine graphite and ink cross-hatching, with transparent tissue overlays revealing skeletal and muscular systems. Labeled in elegant Latin calligraphy and presented on aged parchment, the composition exudes scholarly precision and classical beauty.
+```
+**中文提示词：**
+```
+文艺复兴时期对 [主题]的解剖学研究，用精细的石墨和墨水交叉影线精心说明，透明的组织覆盖层露出骨骼和肌肉系统。该作品以优雅的拉丁书法标记，并呈现在古老的羊皮纸上，散发着学术的精确和古典之美。
+```
+
+
 <a id="prompt-120"></a>
 ## 案例 120：奇趣风格3D乙烯基玩具 (来源 [@azed_ai](https://x.com/azed_ai/status/1931668551531929630))
 
