@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 160：新动漫风格 ](#prompt-160)
+*   [案例 159：渲染宝石 ](#prompt-159)
+*   [案例 158：品牌3D卡通动物角色 ](#prompt-158)
+*   [案例 157：最小天气小部件 ](#prompt-157)
+*   [案例 156：作为家具的著名地标 ](#prompt-156)
+*   [案例 155：自己的国家地标时尚杂志 ](#prompt-155)
+*   [案例 154：五颜六色的针织 ](#prompt-154)
+*   [案例 153：霓虹灯线框 ](#prompt-153)
+*   [案例 152：新动漫风格 ](#prompt-152)
+*   [案例 151：Neoglo风格Logo ](#prompt-151)
 *   [案例 150：乙烯基玩具 ](#prompt-150)
 *   [案例 149：Gorillaz风格角色 ](#prompt-149)
 *   [案例 148：怀旧午后阳光 ](#prompt-148)
@@ -169,6 +179,318 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-160"></a>
+## 案例 160：新动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1937069198921924968))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/160.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新动漫风格">
+<img src="./images/160-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新动漫风格">
+</div>
+
+**提示词：**
+```
+Transform this image into an over-the-top anime illustration in the style of Trigger / Gainax. Use exaggerated expressions, wild motion lines, and hyperdynamic poses. The anatomy should be fluid and distorted for emphasis — limbs stretching or snapping into action. Add speed lines, explosive backgrounds, and dramatic lighting effects. Integrate onomatopoeia or stylized text for extra chaos. Colors should be bold, saturated, and contrasting. The result should feel like a freeze frame from Kill la Kill or FLCL, mid-action, full of energy and visual impact.
+```
+
+**中文提示词：**
+```
+将此图像转换为 Trigger / Gainax 风格的夸张动漫插图。使用夸张的表情、狂野的运动线条和超动态姿势。解剖结构应该是流畅的，并且为了强调而扭曲——四肢伸展或突然行动起来。添加速度线、爆炸性背景和戏剧性的灯光效果。集成拟声词或风格化文本以增加混乱。颜色应大胆、饱和且具有对比性。结果应该感觉像是 Kill la Kill 或 FLCL 的定格，在动作中，充满活力和视觉冲击力。
+```
+
+
+<a id="prompt-159"></a>
+## 案例 159：渲染宝石 (来源 [@alban_gz](https://x.com/alban_gz/status/1936820704713875818))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/159.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-渲染宝石">
+</div>
+
+**提示词：**
+```
+Recreate this image using the pamareters of the JSON provided.
+{
+  "name": "Gemstone Render",
+  "object": {
+    "type": "auto",
+    "detected_color": "auto",
+    "form": "realistic, natural form preserved",
+    "material": "crystal or faceted gemstone glass",
+    "surface": "precision-cut facets, sharp reflections",
+    "transparency": "high clarity with light refraction",
+    "internal_features": "color depth, internal shimmer, and light dispersion"
+  },
+  "color_and_light": {
+    "primary_color": "{detected_color}",
+    "highlight_effects": "specular highlights, gemstone brilliance, caustics",
+    "lighting_setup": "studio lighting with white or soft background",
+    "metallic_accents": {
+      "enabled": true,
+      "material": "gold or chrome",
+      "application": "rim, stem, or edge detailing"
+    }
+  },
+  "style": {
+    "artistic_style": [
+      "photorealistic 3D render",
+      "Gemstone Render Style",
+      "luxury object visualization"
+    ],
+    "design_language": [
+      "faceted precision modeling",
+      "jewelry-like rendering",
+      "optical depth and brilliance"
+    ]
+  },
+  "technical_details": {
+    "render_engine": [
+      "Blender with Cycles",
+      "Cinema 4D + Redshift/Octane"
+    ],
+    "rendering_techniques": [
+      "physically-based rendering (PBR)",
+      "ray tracing",
+      "global illumination"
+    ],
+    "resolution": "ultra high-res (4K–8K)",
+    "post_processing": [
+      "subtle glow",
+      "enhanced reflections",
+      "color-preserving contrast boost"
+    ]
+  }
+```
+
+**中文提示词：**
+```
+使用提供的 JSON 的 pamareters 重新创建此图像。
+{
+“name”： “宝石渲染”，
+“对象”： {
+“type”： “auto”， //类型
+“detected_color”： “auto”，
+“form”： “保留真实、自然的形式”，
+“material”： “水晶或刻面宝石玻璃”，
+“surface”： “精确切割的刻面，清晰的反射”，
+“transparency”： “高清晰度，光线折射”，
+“internal_features”： “颜色深度、内部微光和光色散”
+  },
+“color_and_light”： {
+“primary_color”： “{detected_color}”，
+“highlight_effects”： “镜面高光、宝石亮度、焦散”，
+“lighting_setup”： “白色或柔和背景的工作室照明”，
+“metallic_accents”： {
+“enabled”： true 和
+“material”： “金或铬”，
+“application”： “边缘、茎或边缘细节”
+    }
+  },
+“样式”： {
+“artistic_style”：[
+“逼真的 3D 渲染”，
+“Gemstone Render Style”（宝石渲染样式）、
+“奢侈品对象可视化”
+],
+“design_language”：[
+“faceted precision modeling”，
+“珠宝般的渲染”，
+“光学深度和亮度”
+    ]
+  },
+“technical_details”： {
+“render_engine”：[
+“带循环的 Blender”，
+“Cinema 4D + Redshift/Octane”
+],
+“rendering_techniques”：[
+“基于物理的渲染 （PBR）”，
+“光线追踪”，
+“全局照明”
+],
+“resolution”： “超高分辨率 （4K–8K）”，
+“post_processing”：[
+“微妙的光芒”，
+“增强反射”，
+“保色对比度提升”
+    ]
+  }
+```
+
+
+<a id="prompt-158"></a>
+## 案例 158：品牌3D卡通动物角色 (来源 [@B_4AI](https://x.com/B_4AI/status/1937010045062959468))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/158.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌3D卡通动物角色">
+<img src="./images/158-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌3D卡通动物角色">
+</div>
+
+**提示词：**
+```
+A high-quality 3D cartoon animal character inspired by [Brand Name], with large round eyes and an innocent, friendly expression. The character wears a knitted sweater featuring the brand name in bold letters. It sits confidently atop a futuristic vehicle shaped like a product from the brand, fully inspired by the brand’s design language and covered in racing stickers and symbolic brand logos. The scene is set inside a maintenance workshop that showcases Stone Age-era versions of the brand's products. The background blends the brand’s visual identity colors. The design must be highly detailed, with Pixar-style lighting and realistic textures for the character, fabric, and vehicle. Format: full-body, in a dynamic pose, rendered in 4K CGI.
+```
+
+**中文提示词：**
+```
+受 [品牌名称] 启发的高品质 3D 卡通动物角色，拥有圆圆的大眼睛和天真友好的表情。该角色穿着一件针织毛衣，上面印有粗体字的品牌名称。它自信地坐在一辆形状像该品牌产品的未来主义汽车上，完全受到品牌设计语言的启发，并覆盖着赛车贴纸和象征性的品牌标志。场景设置在一个维修车间内，该车间展示了该品牌产品的石器时代版本。背景融合了品牌的视觉识别颜色。设计必须非常详细，具有皮克斯风格的照明和角色、织物和车辆的逼真纹理。格式：全身，动态姿势，以 4K CGI 渲染。
+```
+
+
+<a id="prompt-157"></a>
+## 案例 157：最小天气小部件 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1937118859083047137))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/157.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-最小天气小部件">
+<img src="./images/157-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-最小天气小部件">
+</div>
+
+**提示词：**
+```
+create image with 1:1 ratio 
+surreal minimal aesthetic, airplane window frame on subtle gradient backdrop with same color, through the oval window showing random iconic landmark scenery of [Country Name], an overlay weather ui interface on the center of window, from top to bottom, contain the small weather icon, huge temperatures with elegant light weight font, and small location tag beneath it, the bottom is the country name, generate with extreme weathers, the window will affect by the weather, the color combo of subtle gradient backdrop is resonate with the weather, natural lighting, soft shadows, subtle reflections on glass, great negative space
+```
+
+**中文提示词：**
+```
+以 1：1 的比例创建图像
+超现实的极简美学，飞机窗框在微妙的渐变背景上，同色系，通过椭圆形窗口随机展示【国家名称】的标志性地标风景，窗口中央叠加天气 UI 界面，从上到下，包含小天气图标，巨大的温度搭配优雅的轻量级字体，下方有小位置标签， 底部是国名，在极端天气下生成，窗户会受到天气的影响，微妙的渐变背景的颜色组合与天气产生共鸣，自然光，柔和的阴影，玻璃上的微妙反射，巨大的负空间
+```
+
+
+<a id="prompt-156"></a>
+## 案例 156：作为家具的著名地标 (来源 [@zeng_wt](https://x.com/zeng_wt/status/1936743124522750336))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/156.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-作为家具的著名地标">
+<img src="./images/156-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-作为家具的著名地标">
+</div>
+
+**提示词：**
+```
+The [LANDMARK - Statue of Liberty/Eiffel Tower/Big Ben] perfectly carved and functional as a [FURNITURE_PIECE - lamp/bookshelf/coffee table], living room setting, normal scale furniture, photorealistic detail.
+```
+
+**中文提示词：**
+```
+[LANDMARK - 自由女神像/埃菲尔铁塔/大本钟]雕刻完美，功能强大，就像一个[FURNITURE_PIECE - 灯/书架/咖啡桌]，客厅设置，正常比例的家具，逼真的细节。
+```
+
+
+<a id="prompt-155"></a>
+## 案例 155：自己的国家地标时尚杂志 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1936802168318910673))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/155.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自己的国家地标时尚杂志">
+<img src="./images/155-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自己的国家地标时尚杂志">
+</div>
+
+**提示词：**
+```
+a luxurious fashion magazine cover designed in the style of [COUNTRY], blending iconic landmarks, cultural symbols, and local fashion aesthetics. The layout mimics high-end editorial design, with headlines inspired by the country’s language, trends, and lifestyle. Sophisticated, cinematic lighting, vertical 9:16 format, ultra-detailed, Vogue-level elegance
+```
+
+**中文提示词：**
+```
+以 [COUNTRY] 风格设计的豪华时尚杂志封面，融合了标志性地标、文化符号和当地时尚美学。布局模仿高端编辑设计，标题的灵感来自该国的语言、趋势和生活方式。精致的电影级灯光，垂直 9：16 格式，超细节，Vogue 级别的优雅
+```
+
+
+<a id="prompt-154"></a>
+## 案例 154：五颜六色的针织 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1936665222271615107))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/154.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-五颜六色的针织">
+<img src="./images/154-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-五颜六色的针织">
+</div>
+
+**提示词：**
+```
+A hyper-realistic, artistic rendering of a [OBJECT] entirely wrapped in colorful, tightly woven yarn and embroidery threads. The surface is covered in intricate, detailed textile patterns—knit, braided, and woven in a variety of textures. Each section of the [OBJECT] is segmented with vivid, high-saturation colors including electric blue, bright orange, vivid green, magenta, and golden yellow. The yarn follows the contours of the [OBJECT], highlighting its shape with layered embroidery. The scene is lit dramatically, with a soft spotlight casting shadows to emphasize the 3D depth and tactile surface. The background is a solid, dark gradient to draw full focus to the texture and color. The style is a blend of surrealism and fiber art, showcasing extreme detail and depth
+```
+
+**中文提示词：**
+```
+一个 [OBJECT] 的超现实主义、艺术渲染，完全包裹在五颜六色、紧密编织的纱线和绣花线中。表面覆盖着复杂、细致的纺织图案 - 针织、编织和编织，具有各种纹理。[OBJECT] 的每个部分都用鲜艳、高饱和度的颜色分割，包括电光蓝、亮橙色、鲜艳的绿色、品红色和金黄色。纱线遵循 [OBJECT] 的轮廓，以分层刺绣突出其形状。场景被戏剧性地照亮，柔和的聚光灯投下阴影以强调 3D 深度和触觉表面。背景是一个纯色的深色渐变，用于将全部焦点吸引到纹理和颜色上。风格融合了超现实主义和纤维艺术，展示了极端的细节和深度
+```
+
+
+<a id="prompt-153"></a>
+## 案例 153：霓虹灯线框 (来源 [@azed_ai](https://x.com/azed_ai/status/1936741480972079563))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/153.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯线框">
+<img src="./images/153-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯线框">
+</div>
+
+**提示词：**
+```
+A neon wireframe visualization of a [subject], traced in glowing [color1] and [color2] vector lines. Suspended in a digital void, the figure is surrounded by speed trails, motion blur, and shifting geometric shadows, evoking a sense of kinetic energy and futuristic momentum.
+```
+
+**中文提示词：**
+```
+[主体] 的霓虹灯线框可视化，以发光的 [color1] 和 [color2] 矢量线描摹。这个人物悬浮在数字虚空中，周围环绕着速度轨迹、运动模糊和不断变化的几何阴影，唤起了一种动能和未来主义的动力。
+```
+
+
+<a id="prompt-152"></a>
+## 案例 152：新动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1936716854090760197))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/152.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新动漫风格">
+<img src="./images/152-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新动漫风格">
+</div>
+
+**提示词：**
+```
+Transform this image into a 1960s Tezuka-style illustration. Use big, rounded expressive eyes with bright highlights. Simplify the anatomy with soft, rounded limbs and clean linework. Avoid detailed textures — focus on smooth color fills and strong silhouettes. The final image should resemble a vintage anime frame from Astro Boy, with an optimistic, futuristic feel.
+```
+
+**中文提示词：**
+```
+将此图像转换为 1960 年代手冢风格的插图。使用大而圆、富有表现力的眼睛，并带有明亮的高光。通过柔软、圆润的四肢和简洁的线条简化解剖结构。避免细节纹理 - 专注于平滑的颜色填充和强烈的轮廓。最终的图像应该类似于 Astro Boy 的老式动漫框架，具有乐观、未来主义的感觉。
+```
+
+
+<a id="prompt-151"></a>
+## 案例 151：Neoglo风格Logo (来源 [@aziz4ai](https://x.com/aziz4ai/status/1936744152366288926))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/151.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Neoglo风格Logo">
+<img src="./images/151-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Neoglo风格Logo">
+</div>
+
+**提示词：**
+```
+Design a modern logo in NeoGradient Soft Tech style for a fictional startup called “NAME” in the “[INDUSTRY TYPE]” industry.
+
+The logo must include:
+•A unique abstract icon
+•A clean, bold sans-serif logotype
+•Smooth glowing gradients blending vibrant colors like blue, purple, pink, orange, and teal
+•Seamless harmony between symbol and text
+•Minimalist, futuristic composition
+•On a pure black background
+•1:1 aspect ratio — ultra-HD
+
+The logo should feel creative, modern, and ready for a bold digital brand.
+```
+
+**中文提示词：**
+```
+为“[INDUSTRY TYPE]”行业中名为 “NAME” 的虚构初创公司设计一个 NeoGradient Soft Tech 风格的现代标志。
+
+徽标必须包含：
+•独特的抽象图标
+•干净、大胆的无衬线标识
+•平滑的发光渐变，混合了蓝色、紫色、粉红色、橙色和蓝绿色等鲜艳的颜色
+•符号和文本之间的无缝协调
+•极简主义、未来主义的构图
+•在纯黑色背景上
+•1：1 纵横比 — 超高清
+
+徽标应该具有创意、现代感，并为大胆的数字品牌做好准备。
+```
+
 <a id="prompt-150"></a>
 ## 案例 150：乙烯基玩具 (来源 [@azed_ai](https://x.com/azed_ai/status/1937104120097407069))
 
