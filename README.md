@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 150：乙烯基玩具 ](#prompt-150)
+*   [案例 149：Gorillaz风格角色 ](#prompt-149)
+*   [案例 148：怀旧午后阳光 ](#prompt-148)
+*   [案例 147：玻璃变形海报 ](#prompt-147)
+*   [案例 146：全息叠加效果彩虹渐变 ](#prompt-146)
+*   [案例 145：用自己的审美下棋 ](#prompt-145)
+*   [案例 144：梦幻般的蒸汽波失真 ](#prompt-144)
+*   [案例 143：迪士尼鸡尾酒 ](#prompt-143)
+*   [案例 142：为任何品牌设计运动鞋 ](#prompt-142)
+*   [案例 141：监控级别的时尚洞察力 ](#prompt-141)
 *   [案例 140：现代数字动漫风格 ](#prompt-140)
 *   [案例 139：将您最喜欢的品牌变成生活方式产品 ](#prompt-139)
 *   [案例 138：Gumroad样式图标 ](#prompt-138)
@@ -159,6 +169,199 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-150"></a>
+## 案例 150：乙烯基玩具 (来源 [@azed_ai](https://x.com/azed_ai/status/1937104120097407069))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/150.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乙烯基玩具">
+<img src="./images/150-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乙烯基玩具">
+<img src="./images/150-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乙烯基玩具">
+<img src="./images/150-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乙烯基玩具">
+</div>
+
+**提示词：**
+```
+A comic-style caricature illustration of [subject], with an oversized head and expressive eyes, rendered in a hyper-realistic vinyl toy aesthetic. The character features exaggerated proportions, glossy textures, and playful details, blending caricature art with collectible figure charm.
+```
+
+**中文提示词：**
+```
+[主题]的漫画风格漫画插图，具有超大的头部和富有表现力的眼睛，以超逼真的乙烯基玩具美学呈现。该角色具有夸张的比例、光滑的纹理和俏皮的细节，将漫画艺术与收藏人物魅力融为一体。
+```
+
+
+<a id="prompt-149"></a>
+## 案例 149：Gorillaz风格角色 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1936834901552111768))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/149.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gorillaz风格角色">
+<img src="./images/149-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gorillaz风格角色">
+</div>
+
+**提示词：**
+```
+Create a stylized full-body portrait of [your subject] in the Gorillaz character aesthetic. Give the character an exaggeratedly lanky build with long, skinny legs and narrow arms. Use simplified, angular features and thick, bold outlines. Style the hair to be spiky, tousled, or exaggerated, in a non-natural color like [blue or green]. The eyes must be blank white with no pupils. Use flat, solid colors only. No gradients, shadows, or textures. Background should be a single flat color. Design must be vector friendly and print ready.
+```
+
+**中文提示词：**
+```
+在 Gorillaz 角色美学中为 [您的主题] 创建风格化的全身肖像。给角色一个夸张的瘦长身材，长而瘦的腿和狭窄的手臂。使用简化的棱角分明的特征和粗体轮廓。将头发设计成尖尖的、凌乱的或夸张的，用非自然的颜色，如 [蓝色或绿色]。眼睛必须是空白的白色的，没有瞳孔。仅使用纯色。没有渐变、阴影或纹理。背景应为单一的平面颜色。设计必须对矢量友好并准备好打印。
+```
+
+
+<a id="prompt-148"></a>
+## 案例 148：怀旧午后阳光 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1936756146817372428))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/148.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-怀旧午后阳光">
+<img src="./images/148-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-怀旧午后阳光">
+</div>
+
+**提示词：**
+```
+a pillow fort in the backyard, shaded by a big old tree. Sunlight filters through the leaves, and a young boy and his golden retriever naps beside a tray of lemonade and cookies. Wind chimes tinkle gently in the breeze. Warm afternoon light, playful and nostalgic, children's book illustrated feeling
+```
+
+**中文提示词：**
+```
+后院的一座枕头堡，被一棵大老树遮蔽。阳光透过树叶洒进来，一个小男孩和他的金毛猎犬在一盘柠檬水和饼干旁边打盹。风铃在微风中轻轻地叮叮当当。温暖的午后阳光，俏皮又怀旧，童书图画情怀
+```
+
+
+<a id="prompt-147"></a>
+## 案例 147：玻璃变形海报 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1936950051856941470))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/147.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-玻璃变形海报">
+<img src="./images/147-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-玻璃变形海报">
+</div>
+
+**提示词：**
+```
+Design a cinematic brand poster featuring “[BRAND NAME]” — include a bold six-word slogan beneath — apply a 3D glass refraction effect that distorts part of the text or layout — incorporate the brand logo in the top corner — smooth shadows, glossy lighting, black extra-bold typography — clean modern background — high-resolution, 1:1 aspect ratio
+```
+
+**中文提示词：**
+```
+设计一张带有“[BRAND NAME]”字样的电影式品牌海报 — 在下面包括一个粗体的六字标语 — 应用 3D 玻璃折射效果，使部分文本或布局失真 — 在右上角加入品牌徽标 — 平滑的阴影、有光泽的照明、黑色超粗体排版 — 干净的现代背景 — 高分辨率、1：1 的纵横比
+```
+
+
+<a id="prompt-146"></a>
+## 案例 146：全息叠加效果彩虹渐变 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1936892719202193900))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/146.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-全息叠加效果彩虹渐变">
+<img src="./images/146-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-全息叠加效果彩虹渐变">
+</div>
+
+**提示词：**
+```
+Apply a holographic overlay effect on [SUBJECT/TEXT] — dreamy rainbow gradients with soft radial light reflections — smooth glossy surface, high contrast blending — iridescent hues like pink, teal, cyan, and purple — noise texture with soft light blend — subtle shadows and edge lighting to add depth — centered composition on a dark background — ultra-HD, 1:1 ratio, cinematic lighting
+```
+
+**中文提示词：**
+```
+在 [主题/文本] 上应用全息叠加效果 — 梦幻般的彩虹渐变，柔和的径向光反射 — 光滑的光泽表面，高对比度混合 — 粉色、蓝绿色、青色和紫色等彩虹色 — 柔和光线混合的杂色纹理 — 微妙的阴影和边缘照明以增加深度 — 深色背景上的居中构图 — 超高清、1：1 比例、电影照明
+```
+
+
+<a id="prompt-145"></a>
+## 案例 145：用自己的审美下棋 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1937064180017971501))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/145.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用自己的审美下棋">
+<img src="./images/145-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用自己的审美下棋">
+</div>
+
+**提示词：**
+```
+A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]’s artistic heritage. The chessboard features intricate patterns and national motifs, with the word “[COUNTRY]” written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.
+```
+
+**中文提示词：**
+```
+一张高度逼真的传统棋盘垂直照片，从上方看，背景是受 [COUNTRY] 艺术遗产启发的纹理表面。棋盘上有复杂的图案和国家图案，棋盘上用优雅的金色书法写着“[COUNTRY]”字样。所有的棋子都离开了棋盘，围绕着棋盘排列在织物上——有些侧躺着，有些直立着——仿佛等待着被放置。每件作品在形状、装饰和质地上都经过独特的重新构想，反映了 [COUNTRY] 的建筑、文化符号和调色板。丰富的素材、柔和的定向光、电影般的阴影、超详细的编辑静物风格、对称的自上而下的取景、9：16 格式。
+```
+
+
+<a id="prompt-144"></a>
+## 案例 144：梦幻般的蒸汽波失真 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1937027922679775432))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/144.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-梦幻般的蒸汽波失真">
+<img src="./images/144-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-梦幻般的蒸汽波失真">
+</div>
+
+**提示词：**
+```
+[SUBJECT] rendered in Dreamlike Vaporwave Distortion, with soft pastels and surreal effects. Employ a nostalgic color palette of [COLOR1] and [COLOR2] to evoke a sense of longing and ethereal beauty
+```
+
+**中文提示词：**
+```
+[主题] 以梦幻般的蒸汽波失真渲染，带有柔和的粉彩和超现实效果。采用 [COLOR1] 和 [COLOR2] 的怀旧调色板，唤起渴望和空灵之美
+```
+
+
+<a id="prompt-143"></a>
+## 案例 143：迪士尼鸡尾酒 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1936726936409313294))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/143.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-迪士尼鸡尾酒">
+<img src="./images/143-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-迪士尼鸡尾酒">
+</div>
+
+**提示词：**
+```
+A realistic, high-end cocktail in a frosted glass with a sparkling salt rim, filled with crystal-clear ice cubes. The drink is garnished with deep-blue kale leaves and delicate pastel-pink edible flowers. The lighting is moody and cinematic, with soft highlights on the glass. The entire visual style — color palette, lighting, background, and atmosphere — is inspired by the animated film 【MOVIE_TITLE】 by Disney, subtly reflecting its visual tone and mood. At the bottom of the image, in elegant golden serif text, it says: “Disney — 【MOVIE_TITLE】”. Vertical 9:16, ultra-detailed, photographic realism with artistic direction based on the film’s world.
+```
+
+**中文提示词：**
+```
+一款逼真的高端鸡尾酒，装在磨砂玻璃杯中，带有波光粼粼的盐边，里面装满了晶莹剔透的冰块。这款饮料以深蓝色的羽衣甘蓝叶和精致的淡粉色食用花朵装饰。灯光是喜怒无常的和电影般的，玻璃上有柔和的亮点。整个视觉风格——调色板、灯光、背景和氛围——都受到了迪士尼动画电影【MOVIE_TITLE】的启发，巧妙地反映了它的视觉基调和情绪。在图片的底部，用优雅的金色衬线文字写着：“Disney — 【MOVIE_TITLE】”。垂直 9：16，超详细，摄影现实主义，艺术指导基于电影世界。
+```
+
+
+<a id="prompt-142"></a>
+## 案例 142：为任何品牌设计运动鞋 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1925139884920152110))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/142.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-为任何品牌设计运动鞋">
+<img src="./images/142-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-为任何品牌设计运动鞋">
+</div>
+
+**提示词：**
+```
+create image with 1:1 ratio   A branded footwear ad for [Brand], showcasing the high-end Brand shoe using brand technology and texture.(fiction a technology and texture based on brand DNA). The shoe is shown in dynamic floating perspective over a graph paper background layout with technical sketches and handwritten notes. A random lifestyle authentic photo featuring brand clothing in motion is taped in the corner, styled with street wear fashion. Emphasize the product's slogan with  bold typography. Layout features include product spec labels like Project a fiction brand title, Date, Size, and fiction model name in engineering style. The background reference with brand pantone color palettes with code number
+```
+
+**中文提示词：**
+```
+以 1：1 的比例创建图片 [Brand] 的品牌鞋靴广告，使用品牌技术和纹理展示高端品牌鞋靴。（虚构一种基于品牌DNA的技术和质感）。这双鞋以动态浮动透视形式显示在方格纸背景布局上，并附有技术草图和手写注释。角落里贴着一张随机的生活方式真实照片，照片中展示了运动中的品牌服装，与街头服饰时尚相得益彰。用粗体排版强调产品的口号。布局功能包括产品规格标签，如工程样式的 Project a fiction brand title、Date、Size 和 fiction model name。带有品牌 pantone 调色板和代码编号的背景参考
+```
+
+
+<a id="prompt-141"></a>
+## 案例 141：监控级别的时尚洞察力 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1925431043122970869))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/141.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-监控级别的时尚洞察力">
+<img src="./images/141-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-监控级别的时尚洞察力">
+</div>
+
+**提示词：**
+```
+Create image with 1:1 ratio A cctv footage, 
+A closed up view of focus woman carrying  [brand] [product] on street, a square zoomed window on the product, sci fi analyzing overlay UI with infos like brand name, date, time, location name, in brand color monospaced font, product name, width, height, weight, etc, vhs effect, glitch effect, film grainy
+```
+
+**中文提示词：**
+```
+创建比例为 1：1 的图像闭路电视素材，
+焦点女性在街上抬着 [品牌] [产品] 的特写视图，产品上的方形缩放窗口，科幻分析叠加 UI，其中包含品牌名称、日期、时间、位置名称、品牌颜色等宽字体、产品名称、宽度、高度、粗细等信息、vhs 效果、毛刺效果、胶片颗粒感
+```
+
 <a id="prompt-140"></a>
 ## 案例 140：现代数字动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1934970943769559430))
 
