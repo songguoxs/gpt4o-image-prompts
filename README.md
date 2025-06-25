@@ -17,6 +17,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 163：半透明玻璃物品ASMR ](#prompt-163)
+*   [案例 162：超现实主义蒸汽波 ](#prompt-162)
+*   [案例 161：物品纹理处理 ](#prompt-161)
 *   [案例 160：新动漫风格 ](#prompt-160)
 *   [案例 159：渲染宝石 ](#prompt-159)
 *   [案例 158：品牌3D卡通动物角色 ](#prompt-158)
@@ -179,6 +182,134 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-163"></a>
+## 案例 163：半透明玻璃物品ASMR (来源 [@azed_ai](https://x.com/azed_ai/status/1936825522417533274))
+
+**说明：在几秒钟内使用 GPT-4o 将任何东西重新设计成半透明玻璃，然后使用这些图像创建 ASMR 视频**
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/163.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明玻璃物品ASMR">
+<img src="./images/163-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明玻璃物品ASMR">
+<img src="./images/163-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明玻璃物品ASMR">
+<img src="./images/163-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明玻璃物品ASMR">
+</div>
+
+**提示词：**
+```
+Hyper-realistic [fruit name] made of translucent glass, smooth, rounded surface with fine air bubbles inside, placed on a clean surface, sharp lighting with strong reflections and highlights, minimal background, photorealistic, glossy texture, 3D render style, crystal-like appearance, soft shadows, macro photography
+```
+
+**中文提示词：**
+```
+由半透明玻璃制成的超写实 [水果名称]，光滑、圆润的表面，内部有细小的气泡，放置在干净的表面上，具有强烈反射和高光的清晰照明，最小的背景，照片级写实，有光泽的纹理，3D 渲染样式，水晶般的外观，柔和的阴影，微距摄影
+```
+
+
+<a id="prompt-162"></a>
+## 案例 162：超现实主义蒸汽波 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1936703218827817358))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/162.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义蒸汽波">
+<img src="./images/162-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义蒸汽波">
+</div>
+
+**提示词：**
+```
+[SUBJECT] in a Surrealist Vaporwave collage. Combine elements of classical sculpture, 80s retrofuturism, and Japanese cityscapes. Use pastel shades of [COLOR1] and [COLOR2] with hints of neon
+```
+
+**中文提示词：**
+```
+
+```
+
+
+<a id="prompt-161"></a>
+## 案例 161：物品纹理处理 (来源 [@egeberkina](https://x.com/egeberkina/status/1936851399289037108))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/161.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-物品纹理处理">
+<img src="./images/161-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-物品纹理处理">
+</div>
+
+**提示词：**
+```
+retexture the image attached based on the JSON below:
+{
+  "style_name": "Transparent Studio Render",
+  "visual_rules": {
+    "form": {
+      "shape": "preserve original object shape",
+      "outline": "no outlines, use smooth geometry transitions and bevels"
+    },
+    "lighting": {
+      "style": "studio-style 3-point lighting or soft HDRI setup",
+      "highlight": "subtle specular highlights for semi-matte plastic or coated surfaces",
+      "shadow": "soft drop shadow directly beneath the object, cast on a translucent floor plane"
+    },
+    "texture": {
+      "surface": "smooth or lightly textured based on object, clean shader setup with minimal noise",
+      "branding": "bold and high-contrast, treated as printed decals or sticker-style labels"
+    },
+    "material": {
+      "finish": "semi-matte or satin shader, mimicking printed plastic or coated materials"
+    },
+    "color_handling": {
+      "strategy": "make the object's primary color the focal point",
+      "enhancement": "slightly boosted saturation and contrast for clean product visualization"
+    },
+    "background": {
+      "type": "fully transparent (alpha channel)",
+      "shadow": "optional soft drop shadow directly beneath the object to ground it visually"
+    }
+  },
+  "rendering": {
+    "camera_angle": "centered front view or slightly elevated for dimensional clarity",
+    "depth_of_field": "neutral or slightly shallow to keep object fully sharp",
+    "background_blur": "none, background remains transparent"
+  }
+}
+```
+
+**中文提示词：**
+```
+根据以下 JSON 对附加的图片进行重新纹理处理：
+{
+“style_name”： “透明工作室渲染”，
+“visual_rules”： {
+“form”： {
+“shape”： “保留原始对象形状”，
+“outline”： “无轮廓，使用平滑的几何过渡和斜面”
+    },
+“照明”： {
+“style”： “工作室风格的 3 点光照或柔和 HDRI 设置”，
+“highlight”： “半哑光塑料或涂层表面的细微镜面反射高光”，
+“shadow”： “对象正下方的柔和投影，投射在半透明地板平面上”
+    },
+“texture”： {
+“surface”： “基于对象的平滑或轻微纹理，干净的着色器设置，噪点最小”，
+“branding”： “粗体且对比度高，被视为印刷贴花或贴纸式标签”
+    },
+“material”： {
+“finish”： “半哑光或缎面着色器，模拟打印塑料或涂层材质”
+    },
+“color_handling”： {
+“strategy”： “将对象的原色作为焦点”，
+“enhancement”： “略微提高饱和度和对比度，实现清晰的产品可视化”
+    },
+“背景”： {
+“type”： “完全透明（Alpha 通道）”，
+“shadow”： “可选的软投影正下方，使其在视觉上接地”
+    }
+  },
+“渲染”： {
+“camera_angle”： “居中前视图或略微升高以提高尺寸清晰度”，
+“depth_of_field”： “中性或稍浅，以保持物体完全清晰”，
+“background_blur”： “无，背景保持透明”
+  }
+}
+```
+
 <a id="prompt-160"></a>
 ## 案例 160：新动漫风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1937069198921924968))
 
