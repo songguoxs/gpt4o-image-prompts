@@ -220,7 +220,7 @@ Hyper-realistic [fruit name] made of translucent glass, smooth, rounded surface 
 
 **中文提示词：**
 ```
-
+[主题] 在超现实主义蒸汽波拼贴画中。结合古典雕塑、80 年代复古未来主义和日本城市景观的元素。使用 [COLOR1] 和 [COLOR2] 的柔和色调，并带有淡淡的霓虹灯
 ```
 
 
