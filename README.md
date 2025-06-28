@@ -17,6 +17,13 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 170：新卡通风格 ](#prompt-170)
+*   [案例 169：微型透明胶囊 ](#prompt-169)
+*   [案例 168：水果蜡烛 ](#prompt-168)
+*   [案例 167：液态金属设计产品 ](#prompt-167)
+*   [案例 166：几何禅 ](#prompt-166)
+*   [案例 165：用气泡膜覆盖表情符号 ](#prompt-165)
+*   [案例 164：将表情符号变成纸板 ](#prompt-164)
 *   [案例 163：半透明玻璃物品ASMR ](#prompt-163)
 *   [案例 162：超现实主义蒸汽波 ](#prompt-162)
 *   [案例 161：物品纹理处理 ](#prompt-161)
@@ -182,6 +189,145 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-170"></a>
+## 案例 170：新卡通风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1938518646072004759))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/170.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新卡通风格">
+<img src="./images/170-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新卡通风格">
+<img src="./images/170-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新卡通风格">
+</div>
+
+**提示词：**
+```
+Transform this image into the Foster’s Home for Imaginary Friends cartoon style. Use bold outlines, flat shapes, and vivid solid colors. Characters should have simplified, playful designs with exaggerated expressions and unique silhouettes. Keep the background minimal or stylized with flat patterns or textures. The result should look like a frame from a 2000s Cartoon Network show with whimsical, graphic charm.
+```
+
+**中文提示词：**
+```
+将此图像转换为 Foster's Home for Imaginary Friends 卡通风格。使用粗体轮廓、平面形状和鲜艳的纯色。角色应该具有简化、俏皮的设计，带有夸张的表情和独特的轮廓。保持背景最小或使用平面图案或纹理进行风格化。结果应该看起来像 2000 年代卡通网络节目中的帧，具有异想天开的图形魅力。
+```
+
+
+<a id="prompt-169"></a>
+## 案例 169：微型透明胶囊 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1938299520019734676))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/169.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型透明胶囊">
+<img src="./images/169-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型透明胶囊">
+<img src="./images/169-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型透明胶囊">
+<img src="./images/169-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型透明胶囊">
+<img src="./images/169-5.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型透明胶囊">
+</div>
+
+**提示词：**
+```
+Close-up, A hand holding a transparent capsule, inside it is a miniature model of [character name], wearing [their iconic outfit and accessories]. The character is posed in a [specific, expressive or dynamic pose], interacting with the inner surface of the capsule, as if they are frozen or confined inside. Hyper-realistic, cinematic, studio lighting setup, photographed with a macro lens.
+```
+
+**中文提示词：**
+```
+特写，一只手拿着一个透明的胶囊，里面是一个 [角色名称] 的微型模型，穿着 [他们的标志性服装和配饰]。角色以 [特定、富有表现力或动态的姿势] 摆姿势，与胶囊的内表面互动，就好像他们被冻结或限制在里面一样。超逼真、电影般的工作室照明设置，使用微距镜头拍摄。
+```
+
+
+<a id="prompt-168"></a>
+## 案例 168：水果蜡烛 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938272260726350172))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/168.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-水果蜡烛">
+<img src="./images/168-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-水果蜡烛">
+</div>
+
+**提示词：**
+```
+A minimal still life of a round glass candle filled with [fruit], labeled “[SCENT NAME]”, placed on elegant white silk fabric. The candle glass is [glass color], and the wax matches the fruit color. The scene is softly lit by natural daylight with subtle shadows and smooth highlights. Hyperrealistic texture, clean aesthetic, top-down view, styled like high-end product photography.
+```
+
+**中文提示词：**
+```
+一个装满 [水果] 的圆形玻璃蜡烛的极简静物，标有“[SCENT NAME]”，放在优雅的白色丝绸织物上。蜡烛玻璃为【玻璃色】，蜡与水果色相配。该场景由自然日光柔和照亮，具有微妙的阴影和平滑的高光。超写实的质感，简洁的美感，自上而下的视角，风格像高端产品摄影。
+```
+
+
+<a id="prompt-167"></a>
+## 案例 167：液态金属设计产品 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1938203557771260064))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/167.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-液态金属设计产品">
+<img src="./images/167-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-液态金属设计产品">
+</div>
+
+**提示词：**
+```
+create image with 1:1 ratio 
+retexture the photo I attached with the following json 
+{   "style_name": "hermes_subtle_specular_gradient",   "background": {     "type": "solid",     "color": "#000000",     "light_reflection": "none"   },   "base_material": {     "type": "polished_metal",     "color": "#B0B0B0",     "finish": "glossy",     "reflectivity": 0.75,     "surface_variation": {       "micro_noise": 0.005,       "brushed_direction": "none"     }   },   "highlight_strategy": {     "mode": "localized_specular_enhancement",     "trigger": "light-facing curved planes and direct lit faces",     "color_gradient": ["#121A28", "#3D4C6B", "#8c71b7", "#4d21cd"],     "gradient_type": "fluid_blend",     "intensity_curve": "ease-out from highlight center",     "falloff": 0.8,     "blend_mode": "soft_light",     "saturation_level": 0.4,     "coverage_ratio": 0.2,     "transition_smoothness": 0.95   },   "lighting": {     "scene_type": "high-control studio",     "key_light": {       "intensity": 1.0,       "color": "#FFFFFF",       "angle": "35° above and side",       "softness": 0.6     },     "fill_light": {       "enabled": false     },     "rim_light": {       "enabled": false     },     "reflection_behavior": {       "mirrored_zones": "limited to high exposure zones",       "glow_color": "applied from gradient with low saturation"     }   },   "specular_color_behavior": {     "base_surface": "metallic neutral",     "highlight_zones": "low-saturation chromatic reflection",     "edge_bleed": "minimal",     "inner_glow": 0.1   },   "detail_features": {     "engraved_elements": {       "type": "precise deboss",       "lighting_response": "low bounce",       "shadow_edge": "#222222",       "rim_light_tint": "#888888"     }   },   "application_targets": [     "object product photography",     "3D icons with selective lighting",     "branding renders",     "luxury UI component styling"   ],   "visual_effect_notes": {     "mood": "understated luxury, technical precision, controlled emotion",     "realism": "stylized physical logic",     "focus": "refined colored specular only on light-facing curved surfaces with fluid-like gradient transitions"   } }
+```
+
+**中文提示词：**
+```
+以 1：1 的比例创建图像
+我用以下 json 对我附加的照片进行 retexture
+{ “style_name”： “hermes_subtle_specular_gradient”， “background”： { “type”： “solid”， “color”： “#000000”， “light_reflection”： “none” }， “base_material”： { “type”： “polished_metal”， “color”： “#B0B0B0”， “finish”： “glossy”， “reflectivity”： 0.75， “surface_variation”： { “micro_noise”： 0.005， “brushed_direction”： “none” } }， “highlight_strategy”： { “mode”： “localized_specular_enhancement”， “trigger”： “朝光曲面和直接照明 faces“， ”color_gradient“： [”#121A28“， ”#3D4C6B“， ”#8c71b7“， ”#4d21cd“]， ”gradient_type“： ”fluid_blend“， ”intensity_curve“： ”从高光中心缓出“， ”衰减“： 0.8， ”blend_mode“： ”soft_light“， ”saturation_level“： 0.4， ”coverage_ratio“： 0.2， ”transition_smoothness“： 0.95 }， ”lighting“： { ”scene_type“： ”high-control studio“， ”key_light“： { ”intensity“：1.0， “color”： “#FFFFFF”， “angle”： “上侧 35°”， “柔和度”： 0.6 }， “fill_light”： { “enabled”： false }， “rim_light”： { “enabled”： false }， “reflection_behavior”： { “mirrored_zones”： “仅限于高曝光区域”， “glow_color”： “从低饱和度渐变应用” } }， “specular_color_behavior”： { “base_surface”： “金属中性”， “highlight_zones”： “低饱和度色度 reflection“， ”edge_bleed“： ”minimal“， ”inner_glow“： 0.1 }， ”detail_features“： { ”engraved_elements“： { ”type“： ”精确凹陷“， ”lighting_response“： ”低反弹“， ”shadow_edge“： ”#222222“， ”rim_light_tint“： ”#888888“ } }， ”application_targets“： [ ”对象产品 photography“， ”具有选择性照明的 3D 图标“， ”品牌渲染“， ”豪华 UI 组件样式“ ]， ”visual_effect_notes“： { ”mood“： ”低调奢华、技术精确、受控情感“， ”realism“： ”风格化的物理逻辑“， ”focus“： ”仅在具有流体般渐变过渡的面向光线的曲面上优化彩色镜面反射“ } }
+```
+
+
+<a id="prompt-166"></a>
+## 案例 166：几何禅 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1938330188414132727))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/166.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-几何禅">
+<img src="./images/166-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-几何禅">
+<img src="./images/166-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-几何禅">
+</div>
+
+**提示词：**
+```
+[SUBJECT] illustrated in a Geometric Zen Tranquility style, where simplicity and balance are key. Utilize clean lines, basic shapes, and a serene color palette of [COLOR1] and [COLOR2] to evoke a sense of peace and harmony.
+```
+
+**中文提示词：**
+```
+[主题] 以几何禅宗宁静风格插图，其中简单和平衡是关键。利用简洁的线条、基本形状以及 [COLOR1] 和 [COLOR2] 的宁静调色板来唤起和平与和谐的感觉。
+```
+
+<a id="prompt-165"></a>
+## 案例 165：用气泡膜覆盖表情符号 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1938503818578178146))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/165.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用气泡膜覆盖表情符号">
+<img src="./images/165-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用气泡膜覆盖表情符号">
+</div>
+
+**提示词：**
+```
+A hyper-realistic 3D render of the emoji [❤️‍🔥], entirely wrapped in transparent bubble wrap. The plastic is tightly fitted, with clearly visible air-filled bubbles creating overlaid reflections and soft distortions of the emoji underneath. The wrap has a glossy, crinkled texture that catches the light in detailed highlights. Set against a soft, neutral grey background with subtle shadows. Studio lighting should emphasize the tactile quality of the bubble wrap and the surreal effect it creates. Whimsical, satisfying, and visually clean.
+```
+
+**中文提示词：**
+```
+表情符号 [ ❤️‍🔥 ] 的超逼真 3D 渲染 ，完全包裹在透明气泡膜中。塑料紧密贴合，清晰可见的充满空气的气泡在下面产生叠加的反射和表情符号的柔和扭曲。包裹具有有光泽的褶皱纹理，可在细节高光中捕捉光线。以柔和的中性灰色为背景，带有微妙的阴影。工作室照明应强调气泡膜的触觉质量及其产生的超现实效果。异想天开、令人满意且视觉上干净。
+```
+
+<a id="prompt-164"></a>
+## 案例 164：将表情符号变成纸板 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1938152354064609780))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/164.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将表情符号变成纸板">
+<img src="./images/164-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将表情符号变成纸板">
+</div>
+
+**提示词：**
+```
+Ultra high-resolution 3D render of the emoji [🥹], meticulously recreated as a realistic cardboard sculpture. The object is crafted from corrugated brown cardboard, featuring clearly defined fluted edges, visible layering, and rough kraft paper textures. Close-up studio
+```
+
+**中文提示词：**
+```
+表情符号 [ 🥹 ] 的超高分辨率 3D 渲染 ，精心重建为逼真的纸板雕塑。该物品由棕色瓦楞纸板制成，具有清晰的凹槽边缘、可见的层次和粗糙的牛皮纸纹理。特写工作室
+```
+
 <a id="prompt-163"></a>
 ## 案例 163：半透明玻璃物品ASMR (来源 [@azed_ai](https://x.com/azed_ai/status/1936825522417533274))
 
