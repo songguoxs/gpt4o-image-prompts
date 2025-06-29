@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 180：可爱粉彩乙烯基人物 ](#prompt-180)
+*   [案例 179：创建多种3D风格头像 ](#prompt-179)
+*   [案例 178：生物发光 ](#prompt-178)
+*   [案例 177：2D单词海报设计 ](#prompt-177)
+*   [案例 176：三维几何效果 ](#prompt-176)
+*   [案例 175：半透明晶体效果 ](#prompt-175)
+*   [案例 174：生成电影氛围图 ](#prompt-174)
+*   [案例 173：复古风格图标 ](#prompt-173)
+*   [案例 172：棱柱形水晶 ](#prompt-172)
+*   [案例 171：霓虹灯品牌重新构想 ](#prompt-171)
 *   [案例 170：新卡通风格 ](#prompt-170)
 *   [案例 169：微型透明胶囊 ](#prompt-169)
 *   [案例 168：水果蜡烛 ](#prompt-168)
@@ -189,6 +199,292 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-180"></a>
+## 案例 180：可爱粉彩乙烯基人物 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938688543284707403))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/180.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱粉彩乙烯基人物">
+<img src="./images/180-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱粉彩乙烯基人物">
+<img src="./images/180-3.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱粉彩乙烯基人物">
+</div>
+
+**提示词：**
+```
+A cute pastel vinyl figure of [INSERT YOUR CHARACTER OR OBJECT], pastel colors (lavender, soft pink, baby blue), kawaii style with big round eyes and friendly smile, simple rounded shapes, stylized “RIP” detail somewhere on the figure or base, matching toy packaging in the background with themed art, studio product photo with soft lighting, minimal shadows
+```
+
+**中文提示词：**
+```
+一个可爱的粉彩乙烯基人物 [插入您的角色或对象]，柔和的颜色（薰衣草色、柔和的粉红色、婴儿蓝色）、卡哇伊风格、圆圆的大眼睛和友好的微笑、简单的圆形形状、人物或底座上某处的程式化“RIP”细节、背景中的玩具包装与主题艺术相匹配、具有柔和灯光的工作室产品照片，最小的阴影
+```
+
+
+<a id="prompt-179"></a>
+## 案例 179：创建多种3D风格头像 (来源 [@tranmautritam](https://x.com/tranmautritam/status/1938160355064353153))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/179.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建多种3D风格头像">
+<img src="./images/179-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建多种3D风格头像">
+<img src="./images/179-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建多种3D风格头像">
+</div>
+
+**提示词1：**
+```
+Create a 3D-rendered digital illustration of a stylized cartoon boy character, standing in a neutral pose. The character should be rendered in a realistic-minimalist 3D style, with soft rounded proportions and plush matte textures — similar to high-end Cinema 4D + Redshift product renders.
+```
+
+**中文提示词1：**
+```
+创建风格化卡通男孩角色的 3D 渲染数字插图，以中性姿势站立。角色应以逼真的极简主义 3D 风格渲染，具有柔和圆润的比例和毛绒哑光纹理——类似于高端 Cinema 4D + Redshift 产品渲染。
+```
+
+**提示词2：**
+```
+He has a warm natural skin tone with rosy cheeks, dot eyes (or small glossy eyes), and soft curly dark brown hair. Facial expression is neutral or slightly curious. Outfit includes an olive green T-shirt with rolled sleeves, beige rolled shorts, and off-white matte sneakers with subtle stitching. He wears a dark olive crossbody satchel with a flap, and a slim black watch on his right wrist.
+```
+
+**中文提示词2：**
+```
+他有着温暖自然的肤色，红润的脸颊，圆点的眼睛（或有光泽的小眼睛）和柔软的深棕色卷发。面部表情中性或略带好奇。服装包括一件卷袖的橄榄绿色 T 恤、米色卷短裤和带有微妙缝线的米白色哑光运动鞋。他戴着一个带翻盖的深橄榄色斜挎包，右手腕上戴着一块纤细的黑色手表。
+```
+
+**提示词3：**
+```
+Render with soft, diffused lighting and gentle shadows underfoot. Use a 100% transparent background (PNG format) or very light neutral grey if previewed. Full-body composition, front-facing or light 3/4 view. Maintain a clean, high-resolution, polished render — ideal for a character design showcase or branding. Soft color palette with earth tones.
+```
+
+**中文提示词3：**
+```
+使用柔和的漫射照明和脚下柔和的阴影进行渲染。使用 100% 透明背景（PNG 格式）或非常浅的中性灰色（如果预览）。全身构图，正面或浅色 3/4 视图。保持干净、高分辨率、精美的渲染 — 非常适合角色设计展示或品牌推广。带有大地色调的柔和调色板。
+```
+
+
+<a id="prompt-178"></a>
+## 案例 178：生物发光 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1938692576720085242))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/178.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生物发光">
+<img src="./images/178-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生物发光">
+<img src="./images/178-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生物发光">
+<img src="./images/178-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生物发光">
+</div>
+
+**提示词：**
+```
+[SUBJECT] depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize [COLOR1] and [COLOR2] to enhance the mythical and enchanting qualities.
+```
+
+**中文提示词：**
+```
+[对象] 被描绘成一个神话生物的发光，发光的边缘突出了奇幻和传奇的一面。利用 [COLOR1] 和 [COLOR2] 来增强神话和迷人的品质。
+```
+
+**提示词：**
+```
+White Tiger depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize icy blue and silver to enhance the mythical and enchanting qualities --ar 3:2 --v 7.0
+```
+
+**中文提示词：**
+```
+White Tiger 被描绘成神话生物的发光，发光的边缘突出了奇幻和传奇的一面。利用冰蓝色和银色来增强神话和迷人的品质 --ar 3：2 --v 7.0
+```
+
+<a id="prompt-177"></a>
+## 案例 177：2D单词海报设计 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1938818077451325444))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/177.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2D单词海报设计">
+<img src="./images/177-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2D单词海报设计">
+</div>
+
+**提示词：**
+```
+Create a surreal 2D poster design based on the word “[KEYWORD]” — the layout should be dominated by kinetic typography where the word is visually shaped or distorted to reflect its meaning — integrate a symbolic flat minimal illustration that reinforces the concept — the style must be inspired by risograph print: only 2 bold contrasting colors (no gradients) — include a poetic, short quote that resonates emotionally with the keyword — background must be clean and minimal — composition must be vertical, with strong visual impact and artistic balance — the overall tone should feel cinematic, surreal, and graphic — ultra-sharp, high-resolution, no clutter
+```
+
+**中文提示词：**
+```
+根据“[KEYWORD]”一词创作超现实主义的 2D 海报设计——布局应以动态排版为主，其中单词在视觉上被塑造或扭曲以反映其含义——加入一个象征性的平面最小插图来强化概念——风格必须受到 risograph 印刷品的启发：只有 2 种大胆的对比色（无渐变）——包括诗意的、 与关键词产生情感共鸣的简短引述 — 背景必须干净且最小 — 构图必须是垂直的，具有强烈的视觉冲击力和艺术平衡 — 整体基调应该感觉像电影、超现实和图形 — 超清晰、高分辨率、无杂乱
+```
+
+
+<a id="prompt-176"></a>
+## 案例 176：三维几何效果 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1938568084207665488))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/176.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
+<img src="./images/17-26.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
+<img src="./images/176-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
+</div>
+
+**提示词：**
+```
+A bison in the center of an array of colorful geometric shapes, surrounded by symbols representing different aspects like family and home. The artwork features warm colors in an oil painting style, with an Art Nouveau illustration showcasing ornate details and colorful patterns. The scene also includes a night sky and desert landscapes. The artwork should have a rich texture and a three-dimensional effect with intricate detailing.
+```
+
+**中文提示词：**
+```
+一头野牛位于一系列彩色几何形状的中心，周围环绕着代表不同方面的符号，如家庭和家。这件艺术品以油画风格的暖色调为特色，新艺术运动插图展示了华丽的细节和丰富多彩的图案。该场景还包括夜空和沙漠景观。图稿应具有丰富的纹理和具有复杂细节的三维效果。
+```
+
+
+<a id="prompt-175"></a>
+## 案例 175：半透明晶体效果 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1938565095191089556))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/175.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明晶体效果">
+<img src="./images/175-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-半透明晶体效果">
+</div>
+
+**提示词：**
+```
+a [SUBJECT] rendered as a translucent crystalline form with beveled edges, subtly glowing from within. Surfaces catch and reflect ambient light, revealing faint iridescent hues across its contours in dark background
+```
+
+**中文提示词：**
+```
+一个 [SUBJECT] 渲染为带有斜边的半透明晶体形式，从内部微妙地发光。表面捕捉并反射环境光，在黑暗背景下在其轮廓上显示微弱的彩虹色
+```
+
+
+<a id="prompt-174"></a>
+## 案例 174：生成电影氛围图 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1938635953280549061))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/174.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成电影氛围图">
+<img src="./images/174-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成电影氛围图">
+<img src="./images/174-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成电影氛围图">
+</div>
+
+**提示词：**
+```
+Cinematic still, A [ description of the character or action scene], with a [ background/environment], a dynamic angle, a [light effect or lighting condition], motion blur, high-resolution photography, a cinematic scene, cinematic lighting, and high contrast.
+```
+
+**中文提示词：**
+```
+电影静止图像、具有 [ 背景/环境] 、动态角度、[光效或照明条件]、运动模糊、高分辨率摄影、电影场景、电影照明和高对比度。
+```
+
+
+<a id="prompt-173"></a>
+## 案例 173：复古风格图标 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1938613929413869705))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/173.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古风格图标">
+<img src="./images/173-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古风格图标">
+</div>
+
+**提示词：**
+```
+Create an illustration of a [OBJECT] in a retro cartoon style. Use only flat, solid colors with no gradients, smudging, airbrushing, or blur. All shading and highlights should be made from clean, separate color blocks. Outline all shapes with thick, bold black lines. Use a simplified color palette (such as teal, coral, mustard, and white) for a vintage feel. Add small sparkle accents or motion lines for charm, but keep the icon the clear focus. Set the illustration on a plain white background. The final result must be crisp, clean, and vector friendly with sharp edges and no texture or raster effects. Square aspect ratio.
+```
+
+**中文提示词：**
+```
+创建复古卡通风格的 [OBJECT] 插图。仅使用单色，不要使用渐变、涂抹、喷枪或模糊。所有阴影和高光都应由干净、独立的色块制成。用粗大的黑色线条勾勒出所有形状的轮廓。使用简化的调色板（如蓝绿色、珊瑚色、芥末色和白色）以获得复古感。添加小的闪光点缀或动感线条以增加魅力，但保持图标的明确焦点。将插图设置在纯白色背景上。最终结果必须清晰、干净且矢量友好，具有锐利的边缘，并且没有纹理或栅格效果。方形纵横比。
+```
+
+
+<a id="prompt-172"></a>
+## 案例 172：棱柱形水晶 (来源 [@alban_gz](https://x.com/alban_gz/status/1938553802400899205))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/172.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形水晶">
+<img src="./images/172-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-棱柱形水晶">
+</div>
+
+**提示词：**
+```
+Recreate this image using the parameters of the JSON provided.
+{
+  "style_transfer": {
+    "name": "Prismatic Crystal",
+    "description": "Applies a highly realistic prismatic crystal style to any object, using precise light dispersion and photographic clarity. Ideal for adding a premium, gem-like finish to metallic or structured forms.",
+    "style_attributes": {
+      "surface_texture": "polished faceted crystal, sharp and clean edges, flawless transparency",
+      "lighting": "soft studio lighting with clear specular highlights and smooth ambient shadows",
+      "color_palette": ["sapphire blue", "electric cyan", "sunset amber", "violet", "magenta", "neutral white"],
+      "material": "dense optical glass or cut gemstone with prismatic inner reflections",
+      "effects": [
+        "realistic spectral dispersion",
+        "micro-refractions along edges",
+        "soft caustics on adjacent surfaces",
+        "lens-sharp gloss finish",
+        "subtle light blooming in high contrast areas"
+      ],
+      "contrast": "balanced with high edge definition and natural depth falloff"
+    },
+    "application_method": {
+      "blend_mode": "photographic overlay",
+      "intensity": 1.0,
+      "masking": "precise masking to preserve structure and cast shadows",
+      "edge_enhancement": "controlled sharpening for facets only",
+      "preserve_original_shape": true,
+      "realism_priority": true,
+      "depth_mapping": true,
+      "chromatic_aberration_limit": "minimal"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+使用提供的 JSON 的参数重新创建此图像。
+{
+“style_transfer”：{
+“name”： “棱柱晶体”，
+“description”： “使用精确的光扩散和照片清晰度，将高度逼真的棱柱形水晶样式应用于任何对象。非常适合为金属或结构化形式添加优质的宝石般的饰面。
+“style_attributes”：{
+“surface_texture”： “抛光的刻面水晶，锋利干净的边缘，无瑕的透明度”，
+“lighting”： “柔和的工作室照明，具有清晰的镜面高光和平滑的环境阴影”，
+“color_palette”： [“宝石蓝”， “电青色”， “日落琥珀色”， “紫罗兰色”， “品红色”， “中性白”]，
+“material”： “密集的光学玻璃或切割宝石，具有棱柱形内部反射”，
+“effects”： [
+“真实光谱色散”，
+“沿边缘的微折射”，
+“相邻曲面上的软焦散”，
+“镜片般锐利的光泽饰面”，
+“高对比度区域中的微妙光晕”
+],
+“contrast”： “平衡，边缘清晰度高，深度衰减自然”
+    },
+“application_method”： {
+“blend_mode”： “摄影叠加”，
+“intensity”：1.0、
+“masking”： “精确蒙版以保留结构并投射阴影”，
+“edge_enhancement”： “仅针对小平面的受控锐化”，
+“preserve_original_shape”： true，
+“realism_priority”：true、
+“depth_mapping”：true、
+“chromatic_aberration_limit”： “最小”
+    }
+  }
+}
+```
+
+
+<a id="prompt-171"></a>
+## 案例 171：霓虹灯品牌重新构想 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1938363131442405631))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/171.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯品牌重新构想">
+<img src="./images/171-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯品牌重新构想">
+<img src="./images/171-3.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯品牌重新构想">
+<img src="./images/171-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹灯品牌重新构想">
+</div>
+
+**提示词：**
+```
+Create a cinematic advertisement for “[PRODUCT NAME]” — use bioluminescent neon lighting that matches the brand’s visual identity — place the product at the center of the scene with surreal, minimalistic composition — automatically adapt the environment to reflect the product’s nature (e.g. tech, fragrance, luxury, automotive, beauty) — integrate the brand’s actual logo in high fidelity — generate a short, powerful 3-word tagline that fits the brand’s tone — long exposure lighting effects — dramatic shadows — ultra-sharp focus — dark or ambient background — aspect ratio 2:3 or 1:1 — ultra-HD resolution
+```
+
+**中文提示词：**
+```
+为“[产品名称]”创建电影广告 — 使用与品牌视觉形象相匹配的生物发光霓虹灯 — 以超现实、简约的构图将产品置于场景中心——自动调整环境以反映产品的性质（例如科技、香水、奢侈品、汽车、美容） — 以高保真度集成品牌的实际徽标 — 生成一个简短的、 符合品牌基调的强大 3 字标语 — 长时间曝光、灯光效果 — 戏剧性的阴影 — 超清晰焦点 — 黑暗或环境背景 — 纵横比 2：3 或 1：1 — 超高清分辨率
+```
+
 <a id="prompt-170"></a>
 ## 案例 170：新卡通风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1938518646072004759))
 
