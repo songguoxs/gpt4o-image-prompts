@@ -313,7 +313,7 @@ Create a surreal 2D poster design based on the word “[KEYWORD]” — the layo
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/176.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
-<img src="./images/17-26.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
+<img src="./images/176-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
 <img src="./images/176-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三维几何效果">
 </div>
 
