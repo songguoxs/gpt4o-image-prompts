@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 190：品牌虚拟人物 ](#prompt-190)
+*   [案例 189：心爱的角色制作动漫风格的签名 ](#prompt-189)
+*   [案例 188：微型毛毡羊毛人物 ](#prompt-188)
+*   [案例 187：新卡通风格 ](#prompt-187)
+*   [案例 186：装饰艺术大都会 ](#prompt-186)
+*   [案例 185：人体工程学 ](#prompt-185)
+*   [案例 184：乐高风格套装 ](#prompt-184)
+*   [案例 183：霓虹效果海报 ](#prompt-183)
+*   [案例 182：鸟类羽毛制成LOGO ](#prompt-182)
+*   [案例 181：抽象液体排版文字 ](#prompt-181)
 *   [案例 180：可爱粉彩乙烯基人物 ](#prompt-180)
 *   [案例 179：创建多种3D风格头像 ](#prompt-179)
 *   [案例 178：生物发光 ](#prompt-178)
@@ -199,6 +209,184 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-190"></a>
+## 案例 190：品牌虚拟人物 (来源 [@B_4AI](https://x.com/B_4AI/status/1939218188513726675))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/190.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌虚拟人物">
+<img src="./images/190-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌虚拟人物">
+</div>
+
+**提示词：**
+```
+A fictional character shaped like a [Brand Name] product, wearing clothing that reflects the brand’s identity, sitting or riding on an oversized version of one of the brand's products as if it were a futuristic vehicle. The design features an expressive, dynamic artistic style full of motion and vibrant colors, with a large abstract version of the brand’s logo in the background. Freely drawn elements and colors representing the brand are scattered throughout. The background is light-colored, and the brand’s logo appears at the bottom. aspect 1:1
+```
+
+**中文提示词：**
+```
+一个形状像 [品牌名称] 商品的虚构人物，穿着反映品牌身份的服装，坐在或骑在该品牌某件商品的超大版本上，就好像它是一辆未来主义的汽车一样。该设计具有富有表现力、充满活力的艺术风格，充满动感和鲜艳的色彩，背景是品牌标志的大型抽象版本。代表品牌的自由绘制元素和颜色散布在整个过程中。背景为浅色，品牌标志出现在底部。外观 1：1
+```
+
+<a id="prompt-189"></a>
+## 案例 189：心爱的角色制作动漫风格的签名 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938601703026434134))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/189.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-心爱的角色制作动漫风格的签名">
+<img src="./images/189-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-心爱的角色制作动漫风格的签名">
+</div>
+
+**提示词：**
+```
+A minimalistic black-and-white autograph design in a single-line drawing style, featuring the handwritten signature: [CHARACTER NAME], integrated with cute line art elements inspired by the character’s appearance and personality (for example: hair, outfit details, weapons, magical symbols). Include a small mascot or doodle of the character in simplified chibi style, surrounded by decorative elements (stars, hearts, sparkles, musical notes, flowers) that match their vibe. Clean, cute, modern design suitable for tattoo or sticker. High-resolution line art.
+```
+
+**中文提示词：**
+```
+简约的黑白亲笔签名设计，采用单线绘图风格，带有手写签名：[CHARACTER NAME]，并融入了受角色外表和个性启发的可爱线条艺术元素（例如：头发、服装细节、武器、魔法符号）。包括一个简化的赤壁风格的小吉祥物或角色涂鸦，周围环绕着与其氛围相匹配的装饰元素（星星、心形、火花、音符、花朵）。干净、可爱、现代的设计，适合纹身或贴纸。高分辨率线条图。
+```
+
+<a id="prompt-188"></a>
+## 案例 188：微型毛毡羊毛人物 (来源 [@azed_ai](https://x.com/azed_ai/status/1939277984441250111))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/188.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型毛毡羊毛人物">
+<img src="./images/188-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微型毛毡羊毛人物">
+</div>
+
+**提示词：**
+```
+A felted wool figure of a [subject], handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of layered fabrics and pastel props, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread.
+```
+
+**中文提示词：**
+```
+一个 [主题] 的毛毡羊毛人物，用柔软的纤维手工制作，缝线不均匀，纹理可见。该场景设置在分层织物和柔和道具的微型立体模型中，散发着舒适的故事书魅力，就像完全由毛毡和线制成的触觉定格动画童话中的剧照。
+```
+
+<a id="prompt-187"></a>
+## 案例 187：新卡通风格 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1939248601252651046))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/187.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-新卡通风格">
+</div>
+
+**提示词：**
+```
+Transform this image into a classic Tex Avery / Looney Tunes cartoon style. Use bold, clean outlines and exaggerated character features — huge eyes, stretched limbs, and over-the-top facial expressions. Emphasize slapstick comedy and visual humor. Colors should be vibrant and flat, with high contrast. Backgrounds should be simple, painted with soft gradients or flat colors, keeping focus on the character's action. Add motion lines, expressive effects (like sweat drops, stars, impact bursts), and a dynamic pose typical of 1940s Warner Bros. animation. The final result should look like a freeze frame from a mid-century animated short — full of cartoon energy and absurd charm.
+```
+
+**中文提示词：**
+```
+将此图像转换为经典的 Tex Avery / Looney Tunes 卡通风格。使用大胆、干净的轮廓和夸张的角色特征 - 大眼睛、伸展的四肢和夸张的面部表情。强调滑稽喜剧和视觉幽默。颜色应鲜艳、平坦，具有高对比度。背景应该简单，用柔和的渐变或单调的颜色绘制，保持对角色动作的关注。添加运动线条、富有表现力的效果（如汗珠、星星、冲击爆发）和 1940 年代华纳兄弟动画的典型动态姿势。最终结果应该看起来像上世纪中叶动画短片的定格——充满卡通能量和荒诞的魅力。
+```
+
+<a id="prompt-186"></a>
+## 案例 186：装饰艺术大都会 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1939054964405305830))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/186.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-装饰艺术大都会">
+<img src="./images/186-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-装饰艺术大都会">
+</div>
+
+**提示词：**
+```
+[SUBJECT] set within an Art Deco Metropolis, showcasing the grandeur and geometric elegance of 1920s architecture. Use streamlined forms and ornamental details, highlighting a sophisticated color palette of [COLOR1] and [COLOR2] to reflect the prosperity of the era.
+```
+
+**中文提示词：**
+```
+[主题] 位于装饰艺术大都市内，展示了 1920 年代建筑的宏伟和几何优雅。使用流线型的形式和装饰性细节，突出 [COLOR1] 和 [COLOR2] 的复杂调色板，以反映那个时代的繁荣。
+```
+
+<a id="prompt-185"></a>
+## 案例 185：人体工程学 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938969169296228706))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/185.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
+<img src="./images/185-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
+</div>
+
+**提示词：**
+```
+Imagine a [piece of furniture] designed in the form of [creature/object/concept]. The design should be highly creative and sculptural, like an art piece. Use organic, flowing shapes and detailed textures. Make sure it remains functional and ergonomic. The goal is for it to be both visually striking and practical —something you’d expect to see as a museum-quality design object
+```
+
+**中文提示词：**
+```
+想象一下以 [生物/物体/概念] 的形式设计的 [家具]。设计应该具有高度的创意和雕塑感，就像一件艺术品。使用有机、流畅的形状和详细的纹理。确保它保持功能正常且符合人体工程学。目标是让它既具有视觉冲击力又具有实用性——您希望看到的是博物馆品质的设计对象
+```
+
+<a id="prompt-184"></a>
+## 案例 184：乐高风格套装 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1939271090678779980))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/184.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高风格套装">
+<img src="./images/184-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高风格套装">
+</div>
+
+**提示词：**
+```
+a realistic LEGO-style set featuring [COUNTRY]’s national treasure: [ITEM]. Photorealistic packaging with LEGO branding, box art showing the built model, the model assembled from LEGO bricks in authentic colors and details. Studio product photography with soft shadows and clear lighting, highly detailed, professional commercial render. Include box and bricks in the scene, focus on realism and LEGO-like style. 9:16.
+```
+
+**中文提示词：**
+```
+以 [COUNTRY] 的国宝 [ITEM] 为特色的逼真乐高风格套装。带有乐高品牌的逼真包装，展示拼搭模型的盒子艺术，模型由乐高积木组装而成，具有逼真的颜色和细节。具有柔和阴影和清晰照明的工作室产品摄影，高度详细的专业商业渲染。在场景中加入盒子和积木，注重真实感和类似乐高的风格。9:16.
+```
+
+<a id="prompt-183"></a>
+## 案例 183：霓虹效果海报 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1939059047149289595))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/183.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹效果海报">
+<img src="./images/183-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-霓虹效果海报">
+</div>
+
+**提示词：**
+```
+a single [OBJECT] glowing vividly with internal neon light that matches its brand or essence — the glow must follow the object’s shape and details precisely without overexposing — cinematic studio lighting — rich reflective surface or texture — subtle ambient fog or mist around the object — sharp shadows and clean contrast — floating or standing on a soft reflective black surface — ultra-sharp details — 2:3 vertical layout — pure black background — high-Kelvin lighting to avoid yellow tint — ultra-HD photorealism — the glow must feel premium, dramatic, and emotionally pow
+```
+
+**中文提示词：**
+```
+单个 [对象] 用与其品牌或本质相匹配的内部霓虹灯发出生动的光芒 — 光芒必须精确地跟随对象的形状和细节，而不会过度曝光 — 电影摄影棚照明 — 丰富的反射表面或纹理 — 对象周围微妙的环境雾或薄雾 — 清晰的阴影和清晰的对比度 — 漂浮或站在柔和的反光黑色表面上 — 超清晰的细节 — 2：3 垂直布局 — 纯黑色背景 — 高开尔文照明以避免黄色调 — 超高清照片级真实感 — 发光必须让人感觉优质、戏剧性且情感上充满情感冲击
+```
+
+<a id="prompt-182"></a>
+## 案例 182：鸟类羽毛制成LOGO (来源 [@Gdgtify](https://x.com/Gdgtify/status/1938901186616471840))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/182.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-鸟类羽毛制成LOGO">
+</div>
+
+**提示词：**
+```
+A detailed overhead shot of a fluid, colorful OpenAI logo created by arranging hundreds of naturally shed exotic bird feathers. Capture the incredible iridescence, delicate barbs, and varied textures against a misty white backdrop with side lighting.
+```
+
+**中文提示词：**
+```
+流畅、多彩的 OpenAI 徽标的详细俯拍镜头，由数百根自然脱落的异国鸟类羽毛制成。在带有侧面照明的朦胧白色背景下捕捉令人难以置信的彩虹色、精致的倒钩和各种纹理。
+```
+
+<a id="prompt-181"></a>
+## 案例 181：抽象液体排版文字 (来源 [@azed_ai](https://x.com/azed_ai/status/1938599250738503861))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/181.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-抽象液体排版文字">
+<img src="./images/181-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-抽象液体排版文字">
+</div>
+
+**提示词：**
+```
+Abstract liquid typography spelling "text", made of thick, transparent water-gel with realistic refraction and soft shadows. Each letter appears sculpted from droplets with surface tension, smooth curves, and light reflections. Water droplets scattered on the surface, minimal background, hyper-realistic lighting, photorealistic render
+```
+
+**中文提示词：**
+```
+抽象液体排版拼写“text”，由厚实、透明的水凝胶制成，具有逼真的折射和柔和的阴影。每个字母都由具有表面张力、平滑曲线和光反射的水滴雕刻而成。散落在表面上的水滴、极小的背景、超逼真的照明、照片级逼真的渲染
+```
+
 <a id="prompt-180"></a>
 ## 案例 180：可爱粉彩乙烯基人物 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938688543284707403))
 
