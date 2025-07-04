@@ -209,6 +209,499 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-200"></a>
+## 案例 200：真人和风格对照直出 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1935620536090153216))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/200.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人和风格对照直出">
+</div>
+
+**提示词：**
+```
+创建图片 {
+"title": "真人 × 动画对照创意作品",
+"author": "ZH4O",
+"description": "一张利用垂直拼贴与留白，将同一人物的照片与插画并置的创意作品，突出媒介在语言、质感与情绪上的对比。",
+"layout": {
+"orientation": "vertical",
+"photo": {
+"position": "top-left",
+"aspect_ratio": "3:4",
+"style": "street photo",
+"camera_angle": "eye-level, slightly tilted left",
+"lens": "mild wide-angle",
+"background_elements": ["road", "store signs", "urban perspective lines"]
+},
+"illustration": {
+"position": "bottom-right",
+"scale": "slightly larger",
+"composition": "2/3 body, medium shot",
+"pose": "similar to photo",
+"motion_direction": "curve extending top-right",
+"balance": "forms visual counterpoint to photo"
+},
+"background": {
+"color": "pure white",
+"purpose": "breathing space, minimalism, focus"
+}
+},
+"color_and_lighting": {
+"photo": {
+"dominant_tones": "neutral warm gray",
+"light_source": "natural light",
+"highlight_effects": "soft overexposure, summer glare",
+"key_elements": ["white dress with gauzy texture", "cement, scooter, wall as low-saturation backdrop"]
+},
+"illustration": {
+"style": "cartoon, simplified color blocks",
+"skin": "warm orange with soft pink blush",
+"hair": "deep brown, almost flat color",
+"dress": "white with minimal shading to indicate folds",
+"contrast": "high, compressed tonal range",
+"focus": "sharp character silhouette"
+},
+"background": {
+"function": "isolates media contrast, emphasizes character and action"
+}
+},
+"style_comparison_and_details": {
+"photo": {
+"gesture": "hand shading forehead",
+"expression": "wide eyes, slightly pouting lips, playful with a hint of exasperation",
+"context": "spontaneous, tight alley space, loose hair movement"
+},
+"illustration": {
+"design_inspiration": "Disney/CalArts style",
+"features": ["large eyes", "wide cheekbones", "pointy chin", "freckles", "blush"],
+"motion_effects": "exaggerated hair and skirt movement",
+"line_quality": "fluid and bouncy",
+"reproduction": "pose, expression, dress bow, forehead hair accurately translated"
+}
+},
+"visual_and_communication_value": {
+"themes": ["reality to animation transformation", "character design", "personified self-portrait"],
+"usability": ["IP development", "illustration demo", "fashion branding"],
+"design_elements": ["space for text/logo", "poster/social media-ready"],
+"narrative_strength": "uses white space as frame, pose as link, and medium contrast as core interest",
+"tone": "light, stylish, socially shareable"
+}
+}
+```
+
+**中文提示词：**
+```
+创建图片 {
+“title”： “真人 × 动画对照创意作品”，
+“author”： “ZH4O”， ZH4O“， ZH4O
+“description”： “一张利用垂直拼贴与留白，将同一人物的照片与插画并置的创意作品，突出媒介在语言、质感与情绪上的对比。",
+“布局”： {
+“orientation”： “垂直”，
+“照片”： {
+“position”： “左上角”，
+“aspect_ratio”： “3：4”，
+“style”： “街拍”，
+“camera_angle”： “与眼睛齐平，略微向左倾斜”，
+“lens”： “轻度广角”，
+“background_elements”： [“road”， “shop signs”， “urban perspective lines”]
+},
+“插图”： {
+“position”： “右下角”，
+“scale”： “稍大”，
+“composition”： “2/3 体，中镜头”，
+“pose”： “与照片相似”，
+“motion_direction”： “曲线向右延伸”，
+“balance”： “形成与照片的视觉对位”
+},
+“背景”： {
+“color”： “纯白色”，
+“purpose”： “呼吸空间、极简主义、专注”
+}
+},
+“color_and_lighting”： {
+“照片”： {
+“dominant_tones”： “中性暖灰色”，
+“light_source”： “自然光”，
+“highlight_effects”： “柔和的过度曝光，夏季眩光”，
+“key_elements”： [“带有薄纱纹理的白色连衣裙”， “水泥、滑板车、墙壁作为低饱和度背景”]
+},
+“插图”： {
+“style”： “卡通，简化的色块”，
+“skin”： “暖橙色带柔和的粉红色腮红”，
+“hair”： “深棕色，几乎是单色”，
+“dress”： “白色，带有最小阴影以表示褶皱”，
+“contrast”： “高、压缩的色调范围”，
+“focus”： “清晰的角色剪影”
+},
+“背景”： {
+“function”： “隔离媒体对比度，强调角色和动作”
+}
+},
+“style_comparison_and_details”： {
+“照片”： {
+“gesture”： “手部阴影额头”，
+“expression”： “睁大眼睛，微微撅起嘴唇，俏皮中带着一丝恼怒”，
+“context”： “自发、狭窄的小巷空间、松散的头发移动”
+},
+“插图”： {
+“design_inspiration”： “Disney/CalArts 风格”，
+“features”： [“大眼睛”， “宽颧骨”， “尖下巴”， “雀斑”， “腮红”]，
+“motion_effects”： “夸张的头发和裙子运动”，
+“line_quality”： “流体和弹性”，
+“reproduction”： “姿势、表情、裙子蝴蝶结、额头头发准确翻译”
+}
+},
+“visual_and_communication_value”： {
+“themes”： [“从现实到动画的转变”， “角色设计”， “拟人化自画像”]，
+“可用性”： [“IP 开发”， “插图演示”， “时尚品牌”]，
+“design_elements”： [“文本/徽标空间”， “海报/社交媒体就绪”]，
+“narrative_strength”： “使用空白作为框架，使用姿势作为链接，使用中等对比度作为核心兴趣”，
+“tone”： “轻盈、时尚、社交分享”
+}
+}
+```
+
+<a id="prompt-199"></a>
+## 案例 199：自定义纹理的复古玩具 (来源 [@_abranko_](https://x.com/_abranko_/status/1938936595257688552))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/199.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义纹理的复古玩具">
+<img src="./images/199-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自定义纹理的复古玩具">
+</div>
+
+**提示词：**
+```
+Retexture the uploaded image based on the JSON
+
+{
+  "materials": {
+    "exterior": "matte injection-molded plastic",
+    "interior": [
+      "blocky colored plastic parts",
+      "oversized gears",
+      "simple rods",
+      "basic springs",
+      "toy decals"
+    ]
+  },
+  "lighting": {
+    "type": "studio soft light",
+    "direction": "top and front fill",
+    "color": "warm daylight",
+    "mood": "nostalgic, cheerful"
+  },
+  "background": {
+    "type": "solid",
+    "color": "pastel yellow"
+  },
+  "camera": {
+    "angle": "eye-level side",
+    "focus": "medium sharp",
+    "depth_of_field": "deep"
+  },
+  "color_palette": {
+    "dominant": ["red", "blue", "yellow"],
+    "accents": ["mint green", "white", "peach"]
+  },
+  "vibe": "1980s retro toy, nostalgic, playful"
+}
+```
+
+**中文提示词：**
+```
+根据 JSON 对上传的图片进行重新纹理处理
+
+{
+“材料”： {
+“exterior”： “哑光注塑成型塑料”，
+“interior”：[
+“块状彩色塑料件”，
+“超大齿轮”，
+“简单杆”，
+“基本弹簧”，
+“玩具贴花”
+    ]
+  },
+“照明”： {
+“type”： “工作室柔光”，
+“direction”： “顶部和前部填充”，
+“color”： “暖日光”，
+“mood”： “怀旧的、欢快的”
+  },
+“背景”： {
+“type”： “solid”， //类型
+“color”： “柔和的黄色”
+  },
+“相机”： {
+“angle”： “与眼睛齐平的一侧”，
+“focus”： “中等锐化”，
+“depth_of_field”： “deep”
+  },
+“color_palette”： {
+“主导”： [“红”， “蓝”， “黄”]，
+“accents”： [“薄荷绿”， “白色”， “桃子”]
+  },
+“vibe”： “1980 年代复古玩具，怀旧，俏皮”
+}
+```
+
+<a id="prompt-198"></a>
+## 案例 198：可爱的设计师玩偶 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1936423426006151467))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/198.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的设计师玩偶">
+<img src="./images/198-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的设计师玩偶">
+</div>
+
+**提示词：**
+```
+A cute designer doll styled as a [SUBJECT]. The doll has a porcelain face with blush, soft curly white hair, and large expressive eyes with unique pupils (like a star and moon). It wears a fluffy pastel-colored costume resembling the [chosen creature or idea], with detailed accessories like a hood with ears or horns, lace, and a ribbon. Embroidery on the paws reflects the character’s theme. The doll is sitting on a neutral background (like beige leather or soft fabric). The atmosphere is dreamy and whimsical, with soft lighting. Style: Korean collectible art doll, highly detailed, pastel color palette.
+```
+
+**中文提示词：**
+```
+一个可爱的设计师玩偶，造型为 [SUBJECT]。娃娃有一张瓷脸，脸上泛着腮红，柔软的卷曲白发，还有一双富有表现力的大眼睛和独特的瞳孔（像星星和月亮）。它穿着一件蓬松的柔和色服装，类似于 [选择的生物或想法]，带有详细的配饰，如带耳朵或角的兜帽、蕾丝和丝带。爪子上的刺绣反映了角色的主题。娃娃坐在中性背景上（如米色皮革或柔软的织物）。气氛梦幻而异想天开，灯光柔和。风格：韩国收藏艺术娃娃，高度详细，柔和的调色板。
+```
+
+<a id="prompt-197"></a>
+## 案例 197：数字粘土雕塑 (来源 [@azed_ai](https://x.com/azed_ai/status/1936378648891936803))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/197.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-数字粘土雕塑">
+<img src="./images/197-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-数字粘土雕塑">
+</div>
+
+**提示词：**
+```
+A digital clay sculpture of a [subject], captured in a [pose/action], resting on a minimalist [color] plinth etched with organic swirl patterns. The sculpt features smooth, flowing curves and a tactile finish, rendered in a refined [color palette] that evokes a soft, contemporary aesthetic.
+```
+
+**中文提示词：**
+```
+一个 [主题] 的数字粘土雕塑，以 [姿势/动作] 捕捉，放在极简主义的 [彩色] 基座上，上面蚀刻有有机漩涡图案。雕塑具有流畅、流畅的曲线和触感，以精致的 [调色板] 呈现，唤起柔和的现代美学。
+```
+
+<a id="prompt-196"></a>
+## 案例 196：字母景观 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1936333318540456354))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/196.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-字母景观">
+<img src="./images/196-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-字母景观">
+</div>
+
+**提示词：**
+```
+the letter B beautiful and elegant decorated with a beautiful beachscape
+```
+
+**中文提示词：**
+```
+字母 B 美丽典雅，装饰美丽的海滩景观
+```
+
+<a id="prompt-195"></a>
+## 案例 195：经典的微型玩具风格 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1936480873378955432))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/195.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-经典的微型玩具风格">
+<img src="./images/195-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-经典的微型玩具风格">
+</div>
+
+**提示词：**
+```
+A miniature version of [LOCATION], designed in a whimsical dollhouse style. The structure is surrounded by thematic natural elements and tiny architectural details that reflect its cultural context (e.g., plants, paths, decor). The color palette uses soft pastels (such as coral, blush, sand, mint, or dusty green), with warm cinematic lighting and a serene, dreamy atmosphere. Highly detailed, cozy and stylized. Isometric view, vertical 9:16 format, on a clean studio background.
+```
+
+**中文提示词：**
+```
+[LOCATION] 的微型版本，以异想天开的玩具屋风格设计。该结构周围环绕着主题自然元素和反映其文化背景的微小建筑细节（例如，植物、小径、装饰）。调色板使用柔和的粉彩（如珊瑚色、腮红色、沙色、薄荷色或灰绿色），具有温暖的电影照明和宁静、梦幻的氛围。高度详细、舒适且风格化。等距视图，垂直 9：16 格式，位于干净的工作室背景上。
+```
+
+<a id="prompt-194"></a>
+## 案例 194：装饰艺术未来主义 (来源 [@hc_dsn](https://x.com/hc_dsn/status/1936095679879037143))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/194.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-装饰艺术未来主义">
+</div>
+
+**提示词：**
+```
+create image with 1:1 ratio 
+[Brand] ad. Ultra-high-detail product photo in a fusion of Art Deco and Futurism. The product rest on platforms.  Background features stylized Art Deco skyscraper silhouettes morphing into Futurist speed lines, forming a diagonal left-to-right composition. Surfaces use brand Core Material and faceted glass with ambient lighting in Brand Color theme.  The product evoking motion and kinetic optimism. Dramatic low-angle lighting enhances reflections, with subtle vapor trails in the background.  Small logo on the bottom, and a tiny slogan beneath
+```
+
+**中文提示词：**
+```
+以 1：1 的比例创建图像
+[品牌] 广告。融合了装饰艺术和未来主义的超高细节产品照片。该产品位于平台上。 背景以风格化的装饰艺术摩天大楼剪影转变为未来主义的速度线条，形成从左到右的对角线构图。表面使用品牌核心材料和多面玻璃，并在品牌颜色主题中使用环境照明。 该产品唤起了动感和动感的乐观主义。戏剧性的低角度照明增强了反射，背景中带有微妙的蒸汽痕迹。 底部有小标志，下面有一个小标语
+```
+
+<a id="prompt-193"></a>
+## 案例 193：将您的徽标放在月球上 (来源 [@alex_prompter](https://x.com/alex_prompter/status/1935739243352989945))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/193.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将您的徽标放在月球上">
+</div>
+
+**提示词：**
+```
+Recreate [BRAND NAME] logo following my JSON aesthetic below:
+{
+"role": "You are a lunar scene generator trained on NASA’s Apollo archives. Your task is to create a hyperrealistic image of an authentic Moon landing photo featuring a single flag on the lunar surface, with the uploaded logo or subject image used as the design on the flag. Maintain all original colors, shapes, and text. Do not alter or reinterpret the uploaded image. No substitutions allowed.",
+"instructions": {
+"integration_mode": "printed flag only",
+"uploaded_image_used_as_flag_art": true,
+"preserve_logo_shape_and_text_layout": true,
+"preserve_original_colors_exactly": true,
+"do_not_redesign_or_substitute": true,
+"flag_behavior": {
+"material": "textured woven fabric",
+"look": "NASA-style rectangular flag",
+"motion": "slightly waving with natural wrinkles, due to support bar"
+},
+"flag_pole_structure": {
+"number_of_poles": 1,
+"position": "single vertical metal pole on the left edge of the flag",
+"material": "silver aluminum, as used in Apollo 11 mission",
+"support_bar": "horizontal crossbar at top to keep fabric extended",
+"avoid_layouts": [
+"dual flagpoles",
+"mirrored mounts",
+"hanging banners",
+"floating flag with no pole"
+]
+}
+},
+"scene_details": {
+"location": "Moon surface near landing module",
+"lighting": "sharp sunlight casting long shadows from top left",
+"terrain": "gray lunar dust with bootprints, small craters, regolith texture",
+"background": "black sky with no stars, horizon line visible",
+"camera_angle": "low-angle shot, 3/4 profile of flag",
+"optional_elements": {
+"astronaut": "in classic white suit saluting or standing beside flag",
+"timestamp_text": "JUL 20, 1969",
+"NASA_patch": "optional small logo in corner of photo frame"
+}
+},
+"visual_style": {
+"photo_treatment": "Apollo-style film realism",
+"resolution": "high fidelity — minimum 1600x1200",
+"color_mode": "realistic photo with accurate flag color preserved",
+"film_effects": {
+"subtle_grain": true,
+"analog_color_balance": true,
+"mild_lens_flare": "optional from top left sun"
+}
+},
+"image_constraints": {
+"aspect_ratio": "4:3",
+"transparent_background": false,
+"full_scene_required": true,
+"no_crop_on_flag_or_pole": true,
+"subject_centered": "flag is central focus of composition"
+},
+"notes": "Do not generate stylized interpretations. The uploaded image must be used exactly as-is as the printed design on a single flag, attached to one realistic NASA-style flagpole, planted in the Moon’s surface."
+}
+```
+
+**中文提示词：**
+```
+按照下面的 JSON 美学重新创建 [BRAND NAME] 徽标：
+{
+“role”： “您是在 NASA 的 Apollo 档案中训练的月球场景生成器。您的任务是创建一张真实的登月照片的超写实图像，其中月球表面有一面旗帜，并将上传的徽标或主题图像用作旗帜上的设计。保留所有原始颜色、形状和文本。请勿更改或重新解释上传的图像。不允许替换。
+“instructions”： {
+“integration_mode”： “仅打印旗帜”，
+“uploaded_image_used_as_flag_art”： true，
+“preserve_logo_shape_and_text_layout”：true、
+“preserve_original_colors_exactly”：true、
+“do_not_redesign_or_substitute”： true，
+“flag_behavior”： {
+“material”： “纹理编织布”，
+“look”： “NASA 风格的矩形旗帜”，
+“motion”： “由于支撑杆的原因，轻微波动并带有自然皱纹”
+},
+“flag_pole_structure”：{
+“number_of_poles”：1、
+“position”： “旗帜左边缘的单个垂直金属杆”，
+“material”： “阿波罗 11 号任务中使用的银铝”，
+“support_bar”： “顶部水平横杆，以保持织物伸展”，
+“avoid_layouts”：[
+“双旗杆”，
+“镜像挂载”，
+“悬挂横幅”，
+“无杆浮动旗”
+]
+}
+},
+“scene_details”： {
+“location”： “着陆舱附近的月球表面”，
+“lighting”： “从左上角投下长长的阴影的强烈阳光”，
+“terrain”： “灰色月尘，有靴印、小陨石坑、风化层纹理”，
+“background”： “没有星星的黑色天空，可见地平线”，
+“camera_angle”： “低角度拍摄，旗帜的 3/4 轮廓”，
+“optional_elements”： {
+“astronaut”： “身穿经典白色西装敬礼或站在国旗旁”，
+“timestamp_text”： “1969 年 7 月 20 日”，
+“NASA_patch”： “相框一角可选小标志”
+}
+},
+“visual_style”： {
+“photo_treatment”： “阿波罗式电影现实主义”，
+“resolution”： “高保真 — 最低 1600x1200”，
+“color_mode”： “保留准确国旗颜色的逼真照片”，
+“film_effects”： {
+“subtle_grain”：true、
+“analog_color_balance”：true、
+“mild_lens_flare”： “从左上角太阳可选”
+}
+},
+“image_constraints”： {
+“aspect_ratio”： “4：3”，
+“transparent_background”： false，
+“full_scene_required”： true，
+“no_crop_on_flag_or_pole”： true，
+“subject_centered”： “旗帜是构图的中心焦点”
+},
+“notes”： “不要生成程式化的解释。上传的图像必须与单面旗帜上的印刷设计完全一样使用，该旗帜连接到一根安装在月球表面的逼真的 NASA 风格旗杆上。
+}
+```
+
+<a id="prompt-192"></a>
+## 案例 192：月光屋顶茶话会 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1935608566406344905))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/192.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-月光屋顶茶话会">
+<img src="./images/192-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-月光屋顶茶话会">
+</div>
+
+**提示词：**
+```
+A moonlight rooftop tea party between a girl and a boy, dreamy, gentle, painterly.
+```
+
+**中文提示词：**
+```
+一个女孩和一个男孩的月光屋顶茶话会，梦幻、温柔、绘画。
+```
+
+<a id="prompt-191"></a>
+## 案例 191：后世界末日氛围 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1935369568408523045))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/191.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-后世界末日氛围">
+<img src="./images/191-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-后世界末日氛围">
+</div>
+
+**提示词：**
+```
+a young cartoon boy with big goggles and scarf driving a tiny makeshift vehicle in the desert, cute post-apocalyptic vibe, indie animation style, soft colors, emotional and adventurous --ar 3:4 --raw --p
+```
+
+**中文提示词：**
+```
+一个戴着大护目镜和围巾的年轻卡通男孩在沙漠中驾驶着一辆小型临时车辆，可爱的后世界末日氛围，独立动画风格，柔和的色彩，情感和冒险 --AR 3：4 --原始 --p
+```
+
 <a id="prompt-190"></a>
 ## 案例 190：品牌虚拟人物 (来源 [@B_4AI](https://x.com/B_4AI/status/1939218188513726675))
 
