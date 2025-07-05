@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 200：真人和风格对照直出 ](#prompt-200)
+*   [案例 199：自定义纹理的复古玩具 ](#prompt-199)
+*   [案例 198：可爱的设计师玩偶 ](#prompt-198)
+*   [案例 197：数字粘土雕塑 ](#prompt-197)
+*   [案例 196：字母景观 ](#prompt-196)
+*   [案例 195：经典的微型玩具风格 ](#prompt-195)
+*   [案例 194：装饰艺术未来主义 ](#prompt-194)
+*   [案例 193：将您的徽标放在月球上 ](#prompt-193)
+*   [案例 192：月光屋顶茶话会 ](#prompt-192)
+*   [案例 191：后世界末日氛围 ](#prompt-191)
 *   [案例 190：品牌虚拟人物 ](#prompt-190)
 *   [案例 189：心爱的角色制作动漫风格的签名 ](#prompt-189)
 *   [案例 188：微型毛毡羊毛人物 ](#prompt-188)
@@ -795,8 +805,8 @@ Transform this image into a classic Tex Avery / Looney Tunes cartoon style. Use 
 ## 案例 185：人体工程学 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1938969169296228706))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/185.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
-<img src="./images/185-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
+<img src="./images/185.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人体工程学">
+<img src="./images/185-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人体工程学">
 </div>
 
 **提示词：**
