@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 220：3D店铺渲染图 ](#prompt-220)
+*   [案例 219：冬日国家 ](#prompt-219)
+*   [案例 218：超现实的黑白彩色页面 ](#prompt-218)
+*   [案例 217：卡通现代风格插画 ](#prompt-217)
+*   [案例 216：穿越梦境迷宫 ](#prompt-216)
+*   [案例 215：Gorillaz风格 ](#prompt-215)
+*   [案例 214：部分咬掉的糕点 ](#prompt-214)
+*   [案例 213：3D蓬松的物体 ](#prompt-213)
+*   [案例 212：品牌在悬浮平台上 ](#prompt-212)
+*   [案例 211：灯泡中的城市 ](#prompt-211)
 *   [案例 210：90年代风格的摔跤人物 ](#prompt-210)
 *   [案例 209：吃掉你的文字 ](#prompt-209)
 *   [案例 208：逼真的产品照片 ](#prompt-208)
@@ -229,6 +239,194 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-220"></a>
+## 案例 220：3D店铺渲染图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1943242512820273451))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/220.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D店铺渲染图">
+</div>
+
+**提示词：**
+```
+Ultra-realistic 3D render of a cute, miniature [BRAND NAME] storefront building. Designed using the brand’s signature style and color palette. Features a clean, modern exterior with large glass windows and a glowing 3D [BRAND NAME] logo sign on the front. Includes subtle branded props inside the store. Background matches the brand’s identity — clean, relevant, and atmospheric. Slight isometric angle, warm lighting, soft shadows, and centered composition. 
+```
+
+**中文提示词：**
+```
+逼真的 3D 渲染图，展示了一个可爱、迷你版的[品牌名称]店铺建筑。采用品牌的标志性风格和色彩搭配设计。外部设计简洁现代，配有大型玻璃窗，正面有一个发光的 3D[品牌名称]标志。店内包含细微的品牌道具。背景与品牌身份相匹配——干净、相关且富有氛围。略微的等距角度，温暖的照明，柔和的阴影，居中构图。
+```
+
+<a id="prompt-219"></a>
+## 案例 219：冬日国家 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1942870693625897385))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/219.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-冬日国家">
+<img src="./images/219-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-冬日国家">
+</div>
+
+**提示词：**
+```
+A super detailed, realistic snow globe containing the essence of [Country Name]. Inside the globe: miniature snowy landscapes, iconic landmarks, cultural symbols, and natural elements representing [Country Name], rendered with extreme realism and rich textures. Delicate falling snow creates a magical, atmospheric effect inside the globe. The background is clean and softly lit to focus entirely on the globe. The image is 1:1 aspect ratio. At the bottom of the image, the text “[Country Name]” is clearly written in an elegant serif font
+```
+
+**中文提示词：**
+```
+一个超级精细、逼真的雪球，包含着[国家名称]的精髓。球内：微型的雪景、标志性建筑、文化符号以及代表[国家名称]的自然元素，以极致的逼真感和丰富的纹理呈现。细腻的飘落雪花在球内营造出神奇的、充满氛围的效果。背景干净且柔和照明，完全聚焦于雪球。图像为 1:1 的宽高比。图像底部，用优雅的衬线字体清晰地书写着“[国家名称]”
+```
+
+<a id="prompt-218"></a>
+## 案例 218：超现实的黑白彩色页面 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1942942055740678318))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/218.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实的黑白彩色页面">
+</div>
+
+**提示词：**
+```
+Create a psychedelic black and white coloring page featuring melting [SUBJECT] in the center, surrounded by large, playful shapes and smooth flowing patterns. The background includes whimsical and surreal elements such as sunflowers with eyes, melting eyeballs, melting hearts, melting mushrooms, clouds, and stars. Use bold, clean outlines and fully enclosed shapes to create distinct sections for easy coloring. Avoid excessive fine detail or clutter. Keep the composition open, spacious, and fun. Square aspect ratio with a white background. No text or color.
+```
+
+**中文提示词：**
+```
+创建一个超现实的黑白彩色页面，中心是融化的[主题]，周围有大型、有趣的形状和流畅的图案。背景包括诸如带眼睛的向日葵、融化的眼球、融化的心形、融化的蘑菇、云朵和星星等奇幻和超现实元素。使用粗犷、干净的轮廓和完全封闭的形状来创建易于上色的不同区域。避免过多的精细细节或杂乱。保持构图开放、宽敞和有趣。方形长宽比，白色背景。无文字或颜色。
+```
+
+<a id="prompt-217"></a>
+## 案例 217：卡通现代风格插画 (来源 [@Artedeingenio](https://x.com/Artedeingenio/status/1942867064378573293))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/217.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通现代风格插画">
+<img src="./images/217-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通现代风格插画">
+</div>
+
+**提示词：**
+```
+Transform this image into a Cartoon Modern Style illustration, inspired by classic UPA animation like Mr. Magoo and The Jetsons.
+Redesign the character using flat, geometric shapes: ovals, rectangles, simple curves and angles. Avoid realistic proportions — the design should be stylized and abstract.
+Use a limited color palette, preferably soft pastels or bold contrasts (e.g. mint green, salmon, sky blue, mustard yellow), with flat tones and no gradients.
+Simplify facial features and body structure to be iconic and minimalist — large heads, small limbs, expressive poses, but with minimal detail.
+The background should be minimal or symbolic, using basic shapes or abstract scenery (floating stairs, blocky furniture, stylized trees or stars).
+The final image should look like a frame from a 1950s or 1960s modernist cartoon — playful, graphic, and highly stylized.
+```
+
+**中文提示词：**
+```
+将这张图片转换为卡通现代风格插画，灵感来源于经典的 UPA 动画，如《摩根先生》和《太空家庭》。
+使用扁平的几何形状重新设计角色：椭圆形、矩形、简单的曲线和角度。避免真实比例——设计应该是风格化的和抽象的。
+使用有限的调色板，最好是柔和的粉彩色或鲜明的对比色（例如薄荷绿、三文鱼色、天空蓝、芥末黄），使用扁平色调且没有渐变。
+简化面部特征和身体结构，使其具有标志性且极简——大头、小四肢、富有表现力的姿势，但细节极少。
+背景应极简或象征性，使用基本形状或抽象场景（漂浮的楼梯、积木家具、风格化的树木或星星）。
+最终图像应像 1950 年代或 1960 年代现代主义卡通的一帧——活泼、图形化且高度风格化。
+```
+
+<a id="prompt-216"></a>
+## 案例 216：穿越梦境迷宫 (来源 [@B_4AI](https://x.com/B_4AI/status/1942850557548388499))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/216.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿越梦境迷宫">
+<img src="./images/216-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿越梦境迷宫">
+</div>
+
+**提示词：**
+```
+[Character] sprinting past dream elements, Storybook illustration, Maze of floating doors, clocks, and whispers, Lantern glow and ambient sparkle trails, [Color1] and [Color2], Whimsical and fast-paced, Follow-cam style with trailing POV
+```
+
+**中文提示词：**
+```
+[角色] 冲过梦境元素，故事书插画风格，漂浮的门、时钟和低语组成的迷宫，灯笼光芒和周围闪烁的轨迹，[颜色 1]和[颜色 2]，奇幻且节奏快速，跟随镜头风格，带有轨迹的 POV 视角
+```
+
+<a id="prompt-215"></a>
+## 案例 215：Gorillaz风格 (来源 [@azed_ai](https://x.com/azed_ai/status/1942586412920103180))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/215.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gorillaz风格">
+<img src="./images/215-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gorillaz风格">
+</div>
+
+**提示词：**
+```
+Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic
+with a rebellious, animated tone, dark stylish tone, full of attitude.
+```
+
+**中文提示词：**
+```
+将这张图片改造成硬朗的 Gorillaz 风格插画，粗犷的黑色轮廓线，尖锐的角边，平面化的表现性光照，风格化的高对比度阴影，脏污的磨损表面纹理，柔和的调色板：褪色的蓝绿色，橄榄绿，锈红色，芥末黄，尘土棕，原始的粗糙都市氛围，漫画书平面感与绘画性粗糙的混合，手绘效果带有褪色渐变，漫画小说美学带有叛逆、动画化的风格，暗黑时尚的调调，充满态度。
+```
+
+<a id="prompt-214"></a>
+## 案例 214：部分咬掉的糕点 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1942635640816034224))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/214.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-部分咬掉的糕点">
+<img src="./images/214-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-部分咬掉的糕点">
+</div>
+
+**提示词：**
+```
+A high-resolution, studio-lit macro photograph of a pastry shaped like a [SUBJECT], with a partial bite taken out, placed on a neutral matte surface with visible crumbs and soft shadows, highlighting texture and detail
+```
+
+**中文提示词：**
+```
+一张高分辨率的、影棚照明的微距照片，展示一个形状像[主题]的糕点，部分咬掉，放在一个中性哑光表面上，有明显的面包屑和柔和的阴影，突出质感和细节
+```
+
+<a id="prompt-213"></a>
+## 案例 213：3D蓬松的物体 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1942882098567618686))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/213.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D蓬松的物体">
+</div>
+
+**提示词：**
+```
+Transform the [BRAND NAME] logo into a hyper-realistic, 3D fluffy object. Keep the original shape and exact brand colors. Cover the entire surface in soft, detailed fur with a realistic hair texture. Use cinematic lighting to create subtle backlighting and soft shadows, making the logo appear tactile and surreal. Place the logo in the center of a clean black background, floating gently with a modern, stylish look. The style should feel cozy, playful, and visually striking. Render in ultra-high 4K resolution with photorealistic quality. 
+```
+
+**中文提示词：**
+```
+将[品牌名称]标志转化为超逼真、3D 蓬松的物体。保持原始形状和品牌的确切颜色。用柔软、细节丰富的毛皮覆盖整个表面，具有逼真的毛发纹理。使用电影感光效创造微妙的后光和柔和的阴影，使标志看起来有触感和超现实。将标志放在干净黑色背景的中心，轻轻漂浮，具有现代时尚感。风格应感觉温馨、俏皮、视觉上引人注目。以超高清 4K 分辨率渲染，具有照片级真实质量。
+```
+
+<a id="prompt-212"></a>
+## 案例 212：品牌在悬浮平台上 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1942981383820845445))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/212.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌在悬浮平台上">
+<img src="./images/212-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌在悬浮平台上">
+</div>
+
+**提示词：**
+```
+A highly detailed cinematic advertisement scene featuring [TYPE OF ALCOHOL, BRAND], standing on a surreal floating platform that visually embodies its spirit. The platform is made of materials that represent the drink’s essence (e.g. sparkling crystals for champagne, rich dark wood for whiskey, frosted ice for vodka), with dramatic reflections and melting details dripping into a calm reflective water surface. A matching glass is filled with the drink, featuring artistic textures (ice, gems, swirling liquid). Soft, colorful sunset sky with dramatic clouds in the background, high-end luxury aesthetic, photorealistic, macro details, dreamy glow, premium product photography.
+```
+
+**中文提示词：**
+```
+一个高度细致的影视广告场景，展示[酒类类型，品牌]，站在一个体现其精神的超现实悬浮平台上。平台由代表饮品本质的材料制成（例如香槟的闪亮水晶、威士忌的浓郁深色木材、伏特加的冰霜），戏剧性的倒影和融化的细节滴入平静的反射水面。一个匹配的玻璃杯装满了饮品，具有艺术纹理（冰块、宝石、旋转的液体）。柔和的彩色日落天空背景中有戏剧性的云朵，高端奢华美学，照片级真实感，宏观细节，梦幻般的光芒，高端产品摄影。
+```
+
+<a id="prompt-211"></a>
+## 案例 211：灯泡中的城市 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1942976425281114576))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/211.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-灯泡中的城市">
+<img src="./images/211-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-灯泡中的城市">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic, stylish poster featuring a light bulb lying on wet urban asphalt. Inside the bulb, place a miniature version of [CITY] with its iconic landmarks. A sleek white 3D text of the city name ‘[CITY]’ should stand prominently in front of the bulb. The background is a softly blurred cityscape with neon lights reflecting on the bulb’s glass and the wet pavement. Add volumetric moonlight for depth and atmosphere. The image should look like a high-quality DSLR photograph with sharp details, cinematic lighting, and a moody, futuristic vibe. 
+```
+
+**中文提示词：**
+```
+创作一张超逼真、时尚的海报，展示一个躺在湿漉漉的城市柏油路面上的灯泡。在灯泡内部放置一个[CITY]的微缩版，并包含其标志性地标。在灯泡前方，应突出显示一个光滑的白色 3D 文字，写着城市名称‘[CITY]’。背景是柔和模糊的城市景观，霓虹灯光在灯泡的玻璃和湿滑的路面上映射。添加体积光以增强深度和氛围。图像应看起来像一张高质量的数码单反相机照片，具有清晰的细节、电影般的灯光和忧郁的未来感。
+```
+
 <a id="prompt-210"></a>
 ## 案例 210：90年代风格的摔跤人物 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1934287289154228450))
 
