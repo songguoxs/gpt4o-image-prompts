@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 210：90年代风格的摔跤人物 ](#prompt-210)
+*   [案例 209：吃掉你的文字 ](#prompt-209)
+*   [案例 208：逼真的产品照片 ](#prompt-208)
+*   [案例 207：超现实的高冲击力的图像 ](#prompt-207)
+*   [案例 206：工业内部品牌广告 ](#prompt-206)
+*   [案例 205：以动物为灵感的品牌 ](#prompt-205)
+*   [案例 204：黑客帝国的绿色代码 ](#prompt-204)
+*   [案例 203：3D表情符号头部 ](#prompt-203)
+*   [案例 202：创建半透明图标 ](#prompt-202)
+*   [案例 201：纸上的小卡通角色 ](#prompt-201)
 *   [案例 200：真人和风格对照直出 ](#prompt-200)
 *   [案例 199：自定义纹理的复古玩具 ](#prompt-199)
 *   [案例 198：可爱的设计师玩偶 ](#prompt-198)
@@ -219,6 +229,208 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+## 案例 210：90年代风格的摔跤人物 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1934287289154228450))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/210.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代风格的摔跤人物">
+<img src="./images/210-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代风格的摔跤人物">
+</div>
+
+**提示词：**
+```
+Product photography, a 1990's style WWF Wrestling Figurine package with the figurine wrestler in the package being [your character]. The figure features bright colors, a detailed character design,  white background with professional studio lighting.
+```
+
+**中文提示词：**
+```
+产品摄影，一个 90 年代风格的 WWF 摔角人偶包装，包装中的人偶是[你的角色]。人偶色彩鲜艳，角色设计精细，背景为白色，配有专业工作室灯光。
+```
+
+## 案例 209：吃掉你的文字 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1935749368876867967))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/209.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-吃掉你的文字">
+<img src="./images/209-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-吃掉你的文字">
+</div>
+
+**提示词：**
+```
+Create the word “[WORD]” made entirely from its real texture and styled using the identity of the most iconic brand associated with it.
+
+The word should:
+• Visually reflect the material (e.g. honey, chocolate, soda, candy).
+• Use the brand’s signature colors and typography.
+• Include the brand logo beneath the word.
+• Add a short slogan (3–4 words) matching the product’s vibe.
+• Be centered in a minimal background inspired by the product (e.g. breakfast table, soda splash, cookie tray).
+
+• Dimensions: 1:1
+• Style: clean, bold, product-focused
+• Render: ultra-HD, HDR, 8K
+```
+
+**中文提示词：**
+```
+创建由其真实质感完全构成，并使用与其最具有标志性的品牌相联系的标识进行风格的“[单词]”。
+
+该单词应：
+• 视觉上反映材料（例如蜂蜜、巧克力、汽水、糖果）。
+• 使用该品牌的标志性颜色和字体。
+• 在文字下方包含品牌标志。
+• 添加一个与产品氛围相符的简短口号（3-4 个字）。
+• 居中放置在受产品启发的简约背景中（例如：早餐桌、汽水飞溅、饼干托盘）。
+
+• 尺寸：1:1
+• 风格：简洁、醒目、以产品为中心
+• 渲染：超高清、HDR、8K
+```
+
+## 案例 208：逼真的产品照片 (来源 [@azed_ai](https://x.com/azed_ai/status/1934250327693476182))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/208.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逼真的产品照片">
+<img src="./images/208-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逼真的产品照片">
+</div>
+
+**提示词：**
+```
+A realistic product photo of a [brand name] [bottle or jar] sculpted entirely from fresh [ingredient name], arranged perfectly to form the shape of the original packaging, including a detailed and accurate label on the front. The background is a clean, soft light gray with a natural wooden surface. Studio lighting, soft shadows, 1:1 square composition, professional product photography style, ultra-detailed textures, vibrant and glossy finish
+```
+
+**中文提示词：**
+```
+一个逼真的产品照片，展示一个[品牌名称][瓶子或罐子]，完全由新鲜[原料名称]雕刻而成，完美排列形成原始包装的形状，包括前面详细且准确的标签。背景是干净柔和的浅灰色，带有自然木质表面。工作室灯光，柔和阴影，1:1 方形构图，专业产品摄影风格，超精细纹理，生动有光泽的表面。
+```
+
+## 案例 207：超现实的高冲击力的图像 (来源 [@azed_ai](https://x.com/azed_ai/status/1925576114803749307))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/207.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实的高冲击力的图像">
+<img src="./images/207-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实的高冲击力的图像">
+</div>
+
+**提示词：**
+```
+Create a hyperrealistic, high-impact image of a [subject] suspended mid-air, captured at the peak of an explosive moment. Surround it with dynamic [particles/splashes/fragments] that enhance motion and energy. macro-level detail, bold rim lighting, and a vibrant [background color] to emphasize form, texture, and contrast, cinematic, modern, and visually striking. perfect for premium product campaigns.
+```
+
+**中文提示词：**
+```
+创建一个超现实的、高冲击力的图像，展示一个[主题]在空中悬停，捕捉到爆炸性时刻的巅峰。用动态的[粒子/飞溅/碎片]围绕它，增强运动感和能量。宏观细节，大胆的边缘照明，以及充满活力的[背景颜色]，以强调形状、质感和对比度，电影般的、现代的、视觉上引人注目。非常适合高端产品活动。
+```
+
+## 案例 206：工业内部品牌广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1933698466577866902))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/206.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-工业内部品牌广告">
+<img src="./images/206-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-工业内部品牌广告">
+</div>
+
+**提示词：**
+```
+Create a hyperrealistic, surreal 1:1 advertisement for [Brand Name].
+Transform the product into a miniature industrial factory or laboratory from the inside.
+Reveal detailed internal systems: pipes, workers, glowing fluids, steam, and machines — all functioning to reflect the product’s core purpose (energy, beauty, flavor, etc).
+Keep the outer product branding realistic and sharp.
+Set the background minimal and cinematic.
+Add the brand logo at the top, and a short, powerful slogan at the bottom.
+Style: studio-grade lighting, high contrast, photorealistic textures.
+```
+
+**中文提示词：**
+```
+创建一个超现实、1:1 比例的品牌广告。
+将产品内部转化为微型工厂或实验室。
+展示详细的内部系统：管道、工人、发光的液体、蒸汽和机器——所有这些都运作起来，反映产品的核心功能（能量、美丽、风味等）。
+保持外层产品的品牌标识真实锐利。
+将背景设置得简约且电影感十足。
+在顶部添加品牌标志，底部添加一句简短有力的口号。
+风格：影棚级灯光，高对比度，照片级真实纹理。
+```
+
+## 案例 205：以动物为灵感的品牌 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1935037246182408301))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/205.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-以动物为灵感的品牌">
+</div>
+
+**提示词：**
+```
+A high-quality studio photograph of a [BRAND + OBJECT] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original shape, key design elements, and brand identity remain clearly visible beneath the animal’s organic surface. Integrate the official logo of the brand prominently into the composition. Automatically generate a compelling and brand-appropriate slogan that draws symbolic inspiration from the animal’s qualities and matches the tone of a premium advertising campaign. The image must feature clean composition, soft shadows, minimalist styling, professional lighting, and highly detailed textures—each hair, scale, or wrinkle should be visible in sharp detail. Format 1:1.
+```
+
+**中文提示词：**
+```
+一张高品质的影棚照片，展示一个[品牌+物品]完全覆盖着超逼真的[动物]纹理（例如毛发、羽毛、皮肤或鳞片），放置在柔和的中性背景前。物品的原始形状、关键设计元素和品牌标识在动物的自然表面下依然清晰可见。将品牌的官方标志显著地融入构图。自动生成一个引人入胜且符合品牌调性的口号，从动物的品质中汲取象征性灵感，匹配高端广告活动的基调。图像必须具备整洁的构图、柔和的阴影、极简风格、专业的灯光和高度精细的纹理——每一根毛发、鳞片或皱纹都应在锐利的细节中清晰可见。格式 1:1。
+```
+
+## 案例 204：黑客帝国的绿色代码 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1920343010975551554))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/204.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑客帝国的绿色代码">
+<img src="./images/204-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑客帝国的绿色代码">
+</div>
+
+**提示词：**
+```
+Transform this image into a digital Matrix-style scene. The background and subject should be composed of cascading neon green code on a black backdrop, similar to the iconic Matrix digital rain. Use glowing green symbols (Japanese katakana, numbers, and Latin letters), with some motion blur and depth. Add subtle lighting effects to simulate screen glow and enhance the cyberpunk, high-tech atmosphere
+```
+
+**中文提示词：**
+```
+将这张图像转化为数字《黑客帝国》风格场景。背景和主题应由倾泻而下的霓虹绿色代码组成，在黑色背景下，类似于标志性的《黑客帝国》数字雨。使用发光的绿色符号（日语假名、数字和拉丁字母），带有一些运动模糊和深度。添加微妙的光照效果来模拟屏幕辉光，增强赛博朋克、高科技氛围
+```
+
+## 案例 203：3D表情符号头部 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1942928111244394788))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/203.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D表情符号头部">
+</div>
+
+**提示词：**
+```
+Generate a hyper-realistic 3D render of a [EMOJI🐱] as a floating animal head with plush toy aesthetics. The design should emphasize ultra-soft, long fur, playful cuteness, and a childlike charm. Use a straight-on camera angle with soft, diffused lighting to create a warm and inviting glow. Keep the background pure white for a clean, modern look. The color palette should be vibrant yet soothing, enhancing the toy-like appeal. Style: Ultra-detailed, whimsical, and hyper-cute, blending realism with a soft, plush texture for maximum visual impact.
+```
+
+**中文提示词：**
+```
+生成一个超逼真的 3D 渲染效果，将[表情符号 🐱 ]设计成一个漂浮的动物头部，具有毛绒玩具的美学风格。设计应强调超柔软的长毛、俏皮可爱和童真魅力。使用正面直视的相机角度，搭配柔和的漫射光线，营造出温暖诱人的光泽。保持背景纯白色，以呈现干净现代的外观。色彩搭配应鲜明而舒缓，增强玩具般的吸引力。风格：超精细、奇幻、超可爱，将现实主义与柔软的毛绒质感相结合，以达到最大的视觉冲击力。
+```
+
+## 案例 202：创建半透明图标 (来源 [@azed_ai](https://x.com/azed_ai/status/1942945882548437243))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/202.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建半透明图标">
+<img src="./images/202-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建半透明图标">
+</div>
+
+**提示词：**
+```
+Create a 3D-rendered icon of [Subject] in a dreamy, translucent, glass-like plastic material with soft pink and purple hues. glossy, smooth, rounded edges, glowing highlights, and soft shimmer or sparkle effects. UI, floating against a clean white background with soft shadows and natural lighting, elegant, and modern.
+```
+
+**中文提示词：**
+```
+创建一个以[主题]为原型的 3D 渲染图标，采用梦幻般的、半透明的、类似玻璃的塑料材质，带有柔和的粉红色和紫色色调。表面光亮、边缘圆润、高光闪烁，并带有柔和的闪烁或闪光效果。UI 设计，悬浮在干净的白色背景上，带有柔和的阴影和自然光照，优雅且现代。
+```
+
+## 案例 201：纸上的小卡通角色 (来源 [@jimmj1010](https://x.com/jimmj1010/status/1943040595213324313))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/201.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸上的小卡通角色">
+<img src="./images/201-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸上的小卡通角色">
+</div>
+
+**提示词：**
+```
+ Imagine you’re a tiny cartoon character who has come to life on a piece of paper! Draw yourself running away from a giant pencil that’s trying to erase you. Add colorful pencils, a desk, and maybe some flying eraser bits for extra excitement. Use your wildest imagination to make it look like you’re bursting out of the page!
+```
+
+**中文提示词：**
+```
+想象你是一个在纸上活过来的小卡通角色！画自己从一只试图擦掉你的巨大铅笔逃跑。添加彩色铅笔、书桌，也许还有一些飞行的橡皮屑以增加乐趣。用你最狂野的想象力让它看起来像是从页面上爆发出来！
+```
+
 <a id="prompt-200"></a>
 ## 案例 200：真人和风格对照直出 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1935620536090153216))
 
