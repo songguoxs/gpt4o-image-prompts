@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 230：可爱的卡通灵魂 ](#prompt-230)
+*   [案例 229：品牌快餐胶囊 ](#prompt-229)
+*   [案例 228：日本搞笑漫画风格插画 ](#prompt-228)
+*   [案例 227：糖果形状物品 ](#prompt-227)
+*   [案例 226：电影场景 ](#prompt-226)
+*   [案例 225：时尚的胶囊海报 ](#prompt-225)
+*   [案例 224：舒适的周末从这里开始 ](#prompt-224)
+*   [案例 223：惊人的外骨骼图像 ](#prompt-223)
+*   [案例 222：宝石渲染风格 ](#prompt-222)
+*   [案例 221：钻石镶嵌风格 ](#prompt-221)
 *   [案例 220：3D店铺渲染图 ](#prompt-220)
 *   [案例 219：冬日国家 ](#prompt-219)
 *   [案例 218：超现实的黑白彩色页面 ](#prompt-218)
@@ -239,6 +249,486 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-230"></a>
+## 案例 230：可爱的卡通灵魂 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/230.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的卡通灵魂">
+<img src="./images/230-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的卡通灵魂">
+</div>
+
+**提示词：**
+```
+A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.
+```
+
+**中文提示词：**
+```
+一个可爱的卡通幽灵是画面的绝对主体，它拥有纯白色的、轮廓圆润流畅的身体，以及两只简单的黑色椭圆形眼睛，没有任何多余的特征。这个幽灵安静地漂浮着，位于整个画面的正中央。画面背景是纯粹的亮紫色，营造出一种简洁、现代且友好的氛围。构图方式为居中特写，图片比例为1:1的正方形。整个画面没有任何文字。这幅图像是典型的扁平化设计（Flat design）和矢量艺术风格，极简主义，非常像一个App图标或logo，特点是线条干净利落，颜色是纯色块填充，无任何渐变或纹理细节。图像质量要求高分辨率，边缘清晰锐利，整体给人一种可爱、简洁、现代化的数字艺术感受。
+```
+
+
+<a id="prompt-229"></a>
+## 案例 229：品牌快餐胶囊 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944462797666123872))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/229.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌快餐胶囊">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [BRAND COLORS] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [BRAND LOGO OR ICON], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.
+
+```
+
+**中文提示词：**
+```
+创建一个超逼真、时尚的海报[1080x1080]宽高比，展示一个水平平板胶囊悬浮在布满水汽和液滴的表面上，其影子投射在湿润的地面上。胶囊一侧是透明玻璃，另一侧是光泽[品牌颜色]塑料，显示[品牌]标志和名称。玻璃部分无缝漂浮着一张逼真的 3D 模型[品牌标志或图标]，完美居中并悬浮在零重力中。玻璃和塑料表面展现出强烈的反射、折射和环境扭曲。背景是柔和模糊、优雅浅色调的设置。使用动态视角和时尚的相机角度，结合专业工作室灯光和超高清细节，使图像看起来像是一张由单反相机拍摄的真实照片，具有无懈可击的真实感。
+```
+
+
+<a id="prompt-228"></a>
+## 案例 228：日本搞笑漫画风格插画 (来源 [@fy360593](https://x.com/fy360593/status/1944708178266259689))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/228.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日本搞笑漫画风格插画">
+<img src="./images/228-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日本搞笑漫画风格插画">
+</div>
+
+**提示词：**
+```
+Transform this image into a Japanese gag manga style illustration. Use a high-contrast black-and-white color palette with bold linework and screentone (halftone) shading. Characters should have exaggerated facial expressions, cartoonish proportions (big head, small body), and comedic intensity. Include dynamic action lines or radiating background effects. The overall aesthetic should mimic retro manga from the 80s and 90s with humorous and intense emotion.
+```
+
+**中文提示词：**
+```
+将这张图片转化为日本搞笑漫画风格插画。使用高对比度的黑白色彩搭配，粗犷的线条和网点（半色调）阴影。角色应有夸张的面部表情，卡通化的比例（大头小身），以及喜剧张力。包含动态动作线条或放射状背景效果。整体美学应模仿 80 年代和 90 年代的复古漫画，充满幽默和强烈的情感。
+```
+
+
+<a id="prompt-227"></a>
+## 案例 227：糖果形状物品 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1944695498025173261))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/227.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-糖果形状物品">
+<img src="./images/227-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-糖果形状物品">
+</div>
+
+**提示词：**
+```
+A glossy candy-shaped perfume bottle resting on an open book, soft morning light, delicate shadows, dreamy bokeh background with iridescent cellophane wrapping. The candy design is inspired by [YOUR STYLE]
+```
+
+**中文提示词：**
+```
+一个闪亮的糖果形状的香水瓶静置在一本打开的书上，柔和的晨光，细腻的阴影，梦幻的背景虚化效果，带有彩虹色透明膜包装。糖果设计灵感来源于[你的风格]
+```
+
+
+<a id="prompt-226"></a>
+## 案例 226：电影场景 (来源 [@Dd41Giant](https://x.com/Dd41Giant/status/1944402963855769744))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/226.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影场景">
+<img src="./images/226-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影场景">
+</div>
+
+**提示词：**
+```
+Close-up. Overhead shot from an extremely high vantage point, extremely low grain with iso100 film shadows on a Lomo LC-A. Realistic depth of field. Artistic composition. Overall bluish tones. Beautiful light and shadows. The black floor with the projected image of the blue sky that fills the screen. A very beautiful small-faced Japanese film actress with wet showy hair in a black dress shirt sitting cross-legged on the floor. She is wearing a long red skirt. Shiny black hair. Long eyelashes. Bright skin. Beautiful shining eyes. A smiling face. On the floor next to the actress is a white model of Saturn. The picture looks like a scene from a movie.
+```
+
+**中文提示词：**
+```
+特写。从极高视角拍摄的上视图，使用 Lomo LC-A 相机拍摄，ISO100 胶片，颗粒感极低，阴影真实。艺术构图。整体偏蓝色调。光影美丽。黑色地板上投射着充满屏幕的蓝色天空图像。一位非常美丽的日本小脸女演员，穿着黑色衬衫，盘腿坐在地板上，头发湿漉漉地显眼，穿着长红色裙子。闪亮的黑发。长长的睫毛。明亮肌肤。美丽的闪亮眼睛。微笑的面容。女演员旁边的地板上有一个白色的土星模型。这张照片看起来像电影中的一个场景。
+```
+
+
+<a id="prompt-225"></a>
+## 案例 225：时尚的胶囊海报 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944435018203296063))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/225.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚的胶囊海报">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic, stylish poster [1080x1080] aspect ratio featuring a horizontal tablet-capsule hovering above a surface covered in condensation and water droplets, with its shadow cast on the wet ground. One side of the capsule is transparent glass, while the other is glossy [COLOR/DESIGN] plastic, displaying the [BRAND] logo and name. Seamlessly floating inside the glass portion of the capsule is a photorealistic 3D model of the [LOGO], perfectly centered and suspended in zero gravity. The glass and plastic surfaces showcase strong reflections, refractions, and environmental distortions. The background is a softly blurred, elegant light-toned setting. Use a dynamic perspective with a stylish camera angle, professional studio lighting, and ultra-high detail to make the image look like a DSLR-captured photograph with impeccable realism.
+```
+
+**中文提示词：**
+```
+创作一张超逼真、时尚的海报[1080x1080]宽高比，展示一个水平放置的平板胶囊悬浮在布满水汽和水滴的表面上，其影子投射在湿润的地面上。胶囊的一面是透明玻璃，另一面是光泽塑料[颜色/设计]，显示[品牌]标志和名称。在胶囊的玻璃部分中，一个逼真的 3D 模型[标志]无缝漂浮，完美居中并悬浮在零重力中。玻璃和塑料表面展现出强烈的反射、折射和环境扭曲。背景是一个柔和模糊、优雅浅色调的设置。使用动态视角和时尚的相机角度，结合专业工作室灯光和超高清细节，使图像看起来像是一张由单反相机拍摄的真实照片，具有无懈可击的真实感。
+```
+
+
+<a id="prompt-224"></a>
+## 案例 224：舒适的周末从这里开始 (来源 [@egeberkina](https://x.com/egeberkina/status/1944368117116796955))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/224.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-舒适的周末从这里开始">
+<img src="./images/224-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-舒适的周末从这里开始">
+</div>
+
+**提示词：**
+```
+retexture the image attached based on the json below:
+{
+  "style_name": "Soft Minimal 3D Plastic",
+  "retexture_mode": "shape_lock",
+  "object_analysis": {
+    "preserve_silhouette": true,
+    "geometry_sensitive_mapping": true,
+    "detail_retention": "flatten complex details into simplified geometry blocks"
+  },
+  "material_properties": {
+    "base_material": [
+      "smooth matte plastic",
+      "metallic edge trim with satin finish",
+      "semi-reflective black screen surface"
+    ],
+    "surface_details": [
+      "subtle color gradient",
+      "rounded bevels and corners",
+      "soft transition between surfaces"
+    ]
+  },
+  "lighting": {
+    "type": "soft gradient ambient light",
+    "shadows": "minimal, soft-edged shadows",
+    "highlights": "diffused, low-intensity reflections"
+  },
+  "background": {
+    "color": "pastel gradient (blue to cream)",
+    "texture": "smooth and untextured",
+    "elements": "clean background with no added geometry"
+  },
+  "rendering": {
+    "style": "isometric 3D render",
+    "resolution": "high, with slight bloom",
+    "focus": "central object, no depth blur"
+  },
+  "color_palette": {
+    "primary": ["cool grey", "steel blue", "soft charcoal"],
+    "accents": ["light lavender", "pastel yellow"]
+  }
+}
+```
+
+**中文提示词：**
+```
+根据以下 JSON 重新纹理附加的图像：
+{
+"style_name": "柔和极简 3D 塑料风格",
+  "retexture_mode": "形状锁定",
+  "object_analysis": {
+    "preserve_silhouette": true,
+"geometry_sensitive_mapping": true,
+    "detail_retention": "将复杂的细节简化为简化的几何块"
+  },
+  "material_properties": {
+"base_material": [
+"光滑磨砂塑料"，
+"金属边缘饰条，缎面处理"，
+"半反射黑色屏幕表面"
+],
+"表面细节": [
+"微妙的颜色渐变"，
+"圆润的斜角和边角"，
+"表面之间的柔和过渡"
+    ]
+  },
+"lighting": {
+"类型": "柔和渐变环境光",
+    "阴影": "极少，边缘柔和的阴影",
+    "高光": "弥散，低强度的反射"
+  },
+"背景": {
+    "颜色": "柔和渐变（蓝色到奶油色）",
+    "纹理": "光滑无纹理",
+    "元素": "干净背景，无添加几何图形"
+  },
+"渲染": {
+"风格": "等距 3D 渲染",
+"分辨率": "高，略带轻微泛光"
+"focus": "中心对象，无深度模糊"
+  },
+  "color_palette": {
+    "primary": ["冷灰色", "钢蓝色", "柔和的炭黑色"],
+"accents": ["浅薰衣草色", "淡黄色"]
+  }
+}
+```
+
+
+<a id="prompt-223"></a>
+## 案例 223：惊人的外骨骼图像 (来源 [@azed_ai](https://x.com/azed_ai/status/1944067498187665507))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/223.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-惊人的外骨骼图像">
+<img src="./images/223-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-惊人的外骨骼图像">
+</div>
+
+**提示词：**
+```
+a futuristic 3D-rendered [object] made of translucent [color] inner structure encased in a smooth white exoskeleton with organic holes and flowing biomorphic patterns, floating in a minimal soft gray background, high contrast lighting, hyperrealistic materials, octane render, modern digital sculpture
+```
+
+**中文提示词：**
+```
+一个未来派的 3D 渲染[物体]，具有半透明的内部结构，被光滑的白色外骨骼包裹，外骨骼上有有机的孔洞和流动的仿生图案，悬浮在极简的浅灰色背景中，高对比度光照，超写实材质，Octane 渲染，现代数字雕塑
+```
+
+
+<a id="prompt-222"></a>
+## 案例 222：宝石渲染风格 (来源 [@alban_gz](https://x.com/alban_gz/status/1944033327767236869))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/222.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宝石渲染风格">
+</div>
+
+**提示词：**
+```
+Apply the parameters of the JSON provided to [insert image]
+
+{
+  "name": "Gemstone Render",
+  "object": {
+    "type": "auto",
+    "detected_color": "auto",
+    "form": "realistic, natural form preserved",
+    "material": "crystal or faceted gemstone glass",
+    "surface": "precision-cut facets, sharp reflections",
+    "transparency": "high clarity with light refraction",
+    "internal_features": "color depth, internal shimmer, and light dispersion"
+  },
+  "color_and_light": {
+    "primary_color": "{detected_color}",
+    "highlight_effects": "specular highlights, gemstone brilliance, caustics",
+    "lighting_setup": "studio lighting with white or soft background",
+    "metallic_accents": {
+      "enabled": true,
+      "material": "gold or chrome",
+      "application": "rim, stem, or edge detailing"
+    }
+  },
+  "style": {
+    "artistic_style": [
+      "photorealistic 3D render",
+      "Gemstone Render Style",
+      "luxury object visualization"
+    ],
+    "design_language": [
+      "faceted precision modeling",
+      "jewelry-like rendering",
+      "optical depth and brilliance"
+    ]
+  },
+  "technical_details": {
+    "render_engine": [
+      "Blender with Cycles",
+      "Cinema 4D + Redshift/Octane"
+    ],
+    "rendering_techniques": [
+      "physically-based rendering (PBR)",
+      "ray tracing",
+      "global illumination"
+    ],
+    "resolution": "ultra high-res (4K–8K)",
+    "post_processing": [
+      "subtle glow",
+      "enhanced reflections",
+    "color-preserving contrast boost"
+    ]
+  },
+  "prompt_template": "A 3D-rendered image of a {object} made of {detected_color} crystal, with intricate gemstone-like facets. It sparkles with internal reflections and sits on a clean studio background, blending realism with luxury design."
+}
+```
+
+**中文提示词：**
+```
+将提供的 JSON 参数应用于[插入图片]
+
+{
+  "名称": "宝石渲染",
+  "物体": {
+    "类型": "自动",
+    "检测到的颜色": "自动",
+    "形态": "逼真、自然形态得以保留",
+    "材质": "水晶或多面宝石玻璃",
+    "表面": "精密切割的刻面、清晰的反光",
+    "透明度": "高清晰度，带有光线折射",
+    "内部特征": "色彩深度、内部光泽和光线色散"
+  },
+  "颜色与光线": {
+    "主色调": "{detected_color}",
+    "高光效果": "镜面高光、宝石光泽、焦散效果",
+    "照明设置": "工作室照明，搭配白色或柔和背景",
+    "金属装饰": {
+      "启用": true,
+      "材质": "黄金或铬合金",
+      "应用位置": "边缘、柄部或侧边细节"
+    }
+  },
+  "风格": {
+    "艺术风格": [
+      "照片级写实3D渲染",
+      "宝石渲染风格",
+      "奢华物体可视化"
+    ],
+    "设计语言": [
+      "多面精密建模",
+      "珠宝式渲染",
+      "光学深度与光泽"
+    ]
+  },
+  "技术细节": {
+    "渲染引擎": [
+      "Blender搭配Cycles",
+      "Cinema 4D + Redshift/Octane"
+    ],
+    "渲染技术": [
+      "基于物理的渲染（PBR）",
+      "光线追踪",
+      "全局光照"
+    ],
+    "分辨率": "超高分辨率（4K–8K）",
+    "后期处理": [
+      "柔和光晕",
+      "增强的反光",
+      "保持色彩的对比度提升"
+    ]
+  },
+  "提示模板": "一张{物体}的3D渲染图像，由{detected_color}水晶制成，带有复杂的宝石般刻面。它内部反光闪耀，置于干净的工作室背景上，融合了写实感与奢华设计。"
+}
+```
+
+
+<a id="prompt-221"></a>
+## 案例 221：钻石镶嵌风格 (来源 [@alban_gz](https://x.com/alban_gz/status/1944405761439756343))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/221.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-钻石镶嵌风格">
+<img src="./images/221-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-钻石镶嵌风格">
+</div>
+
+**提示词：**
+```
+Recreate this image using the parameters of the JSON provided.
+{
+  "style_name": "Diamond-Encrusted Glamour",
+  "description": "Applies a hyper-realistic diamond-encrusted style to any object, logo, or shape. The surface of the subject is entirely covered with sparkling gemstones that reflect light with intense brilliance, creating a luxurious, eye-catching, and surreal look.",
+  "surface_texture": {
+    "material": "diamond-crystal",
+    "coating": "fully encrusted with multi-faceted diamonds",
+    "sparkle_intensity": "maximum",
+    "reflection_type": "specular and highly refractive",
+    "detail_density": "ultra-fine, micro-gem coverage with no gaps",
+    "light_refraction": "strong rainbow dispersion through facets"
+  },
+  "lighting": {
+    "light_source": "hard directional light",
+    "highlight_effects": "lens flares, sparkle flares on gem edges",
+    "shadow_type": "soft-edged, low-opacity shadows for contrast",
+    "specularity": "very high",
+    "reflection_sources": "ambient and direct highlights across the gem facets"
+  },
+  "background": {
+    "type": "minimalist solid color",
+    "color": "#B0C4DE",
+    "texture": "smooth matte",
+    "contrast_with_subject": "high contrast to enhance sparkle",
+    "depth": "subtle shadow under the object for floating effect"
+  },
+  "color_palette": {
+    "primary": "transparent white (diamond base)",
+    "secondary": "prismatic reflections (rainbow light dispersion)",
+    "accent": "metallic shimmer on edges (optional: gold or silver undertones)"
+  },
+  "camera": {
+    "angle": "slight top-down perspective",
+    "depth_of_field": "shallow (sharp focus on object, blurred background)",
+    "lens_effects": ["macro focus", "sparkle highlights", "light bloom"]
+  },
+  "style_keywords": [
+    "glamorous",
+    "luxury",
+    "crystal-covered",
+    "bling",
+    "hyper-detailed",
+    "sparkling",
+    "futuristic",
+    "eye-catching",
+    "surreal realism",
+    "fashion-inspired"
+  ],
+  "applicability": {
+    "usable_on": ["logos", "icons", "food items", "everyday objects", "fashion accessories", "typography"],
+    "visual_requirements": ["well-defined silhouette", "clean shapes for gem placement"],
+    "scalability": "best results on medium to large subjects for detailed sparkle"
+  }
+}
+```
+
+**中文提示词：**
+```
+使用提供的 JSON 参数重新创建此图像。
+
+{
+"style_name": "钻石镶嵌奢华风格",
+  "description": "将超逼真的钻石镶嵌风格应用于任何物体、标志或形状。主体的表面完全覆盖着闪闪发光的宝石，这些宝石以强烈的亮度反射光线，营造出奢华、引人注目和超现实的效果。",
+  "surface_texture": {
+    "material": "钻石水晶",
+"涂层": "完全镶嵌有多面钻石",
+"闪耀强度": "最大",
+"反射类型": "镜面和高折射率",
+"细节密度": "超精细，微宝石覆盖，无间隙"
+"light_refraction": "通过切面产生强烈的彩虹色散"
+  },
+  "lighting": {
+    "light_source": "硬直射光源",
+"高光效果": "镜头眩光，宝石边缘的闪光眩光",
+    "阴影类型": "柔和边缘，低不透明度的阴影以形成对比",
+    "光泽度": "非常高",
+    "反射源": "宝石切面的环境光和直接高光"
+  },
+"background": {
+    "type": "极简纯色",
+    "color": " #B0C4DE ",
+"纹理": "光滑磨砂质感",
+"与主体对比度": "高对比度以增强闪耀效果",
+"深度": "物体下方微妙阴影以产生悬浮效果"
+  },
+"color_palette": {
+    "primary": "透明白色（钻石基底）",
+    "secondary": "棱镜反射（彩虹光散）",
+    "accent": "边缘金属光泽（可选：金色或银色底色）"
+  },
+"camera": {
+    "angle": "略微俯视角度",
+    "depth_of_field": "浅景深（物体清晰，背景模糊）",
+"镜头效果": ["微距对焦", "闪烁高光", "光晕"]
+  },
+  "风格关键词": [
+    "迷人",
+"奢侈",
+"水晶覆盖的",
+"闪亮",
+"超精细的",
+"闪闪发光的",
+"未来感的",
+"引人注目的",
+"超现实现实主义",
+"受时尚启发的"
+  ],
+  "适用性": {
+    "可用于": ["标志", "图标", "食品项目", "日常用品", "时尚配饰", "字体"],
+"视觉要求": ["轮廓清晰", "宝石放置的形状干净"],
+    "可扩展性": "在中等至大型对象上获得最佳效果，以展现细节闪烁"
+  }
+}
+```
+
 <a id="prompt-220"></a>
 ## 案例 220：3D店铺渲染图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1943242512820273451))
 
