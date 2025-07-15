@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 240：定制的枕头 ](#prompt-240)
+*   [案例 239：沙滩胶囊城市 ](#prompt-239)
+*   [案例 238：用花朵美化你的产品 ](#prompt-238)
+*   [案例 237：电影镜头拍摄 ](#prompt-237)
+*   [案例 236：直升机品牌广告 ](#prompt-236)
+*   [案例 235：讽刺版的你 ](#prompt-235)
+*   [案例 234：产品成为霓虹灯下的梦想 ](#prompt-234)
+*   [案例 233：超现实鸟类幻想 ](#prompt-233)
+*   [案例 232：胶囊从透明的药瓶中倾倒 ](#prompt-232)
+*   [案例 231：形状为生日气球文字 ](#prompt-231)
 *   [案例 230：可爱的卡通灵魂 ](#prompt-230)
 *   [案例 229：品牌快餐胶囊 ](#prompt-229)
 *   [案例 228：日本搞笑漫画风格插画 ](#prompt-228)
@@ -249,6 +259,192 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-240"></a>
+## 案例 240：定制的枕头 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944487528704418041))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/240.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-定制的枕头">
+<img src="./images/240-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-定制的枕头">
+</div>
+
+**提示词：**
+```
+Create a high-resolution 3D render of the [BRAND] logo designed as an inflatable, puffy object. The logo should appear soft, rounded, and air-filled – like a plush balloon or blow-up toy. Use a smooth, matte texture with subtle fabric creases and stitching to emphasize the inflatable look. Position the logo at a 45-degree angle to highlight depth and realism. Place the final result on a couch in a stylish living room with furniture and decor that matches the iconic colors of the [BRAND] logo. Output dimension: 1080x1080. 
+```
+
+**中文提示词：**
+```
+创建一个高分辨率的 3D 渲染图，将[BRAND]标志设计成一个充气、蓬松的物体。标志应看起来柔软、圆润、充气——像一个毛绒气球或充气玩具。使用光滑的哑光纹理，带有细微的布料褶皱和缝线，以强调充气效果。将标志以 45 度角摆放，以突出深度和真实感。将最终结果放置在风格时尚的客厅沙发上，家具和装饰与[BRAND]标志的标志性颜色相匹配。输出尺寸：1080x1080。
+```
+
+
+<a id="prompt-239"></a>
+## 案例 239：沙滩胶囊城市 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944386743865622718))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/239.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-沙滩胶囊城市">
+<img src="./images/239-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-沙滩胶囊城市">
+</div>
+
+**提示词：**
+```
+A vibrant, hyper-realistic miniature of [CITY] inside a transparent capsule lying on a sandy beach. The capsule is half [COLOR] (matching [COUNTRY]’s flag) with [CITY] written in white text on the colored section. Inside the capsule: iconic landmarks of [CITY], beautiful water canals or streets, small detailed boats or cars, sunny bright lighting, cinematic depth of field, dreamy atmosphere, ocean waves in the background.
+```
+
+**中文提示词：**
+```
+一个充满活力的、超写实的[CITY]微缩模型，放置在一个透明胶囊内，躺在沙滩上。胶囊一半是[COLOR]色（与[COUNTRY]的国旗相匹配），彩色部分上用白色文字写着[CITY]。胶囊内部：[CITY]的标志性地标、美丽的运河或街道、小巧精致的船只或汽车、阳光明媚的光线、电影般的景深、梦幻般的氛围、背景中的海浪。
+```
+
+<a id="prompt-238"></a>
+## 案例 238：用花朵美化你的产品 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1944730614323671129))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/238.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用花朵美化你的产品">
+<img src="./images/238-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用花朵美化你的产品">
+</div>
+
+**提示词：**
+```
+A high-end editorial photo of (PRODUCT NAME OR IMAGE) placed on a white marble pedestal, resting on champagne-colored silk. It is surrounded by pastel flowers whose type and color naturally harmonize with the product’s primary colors (COLOR PALETTE) — complementing and enhancing its tones. Soft natural light from the upper left. 3D realism, luxury product photography, shallow depth of field, 1:1 format.  
+```
+
+**中文提示词：**
+```
+(产品名称或图片)放置在白色大理石底座上，休息在香槟色丝绸上，的高端编辑照片。它被淡色花朵环绕，其类型和颜色自然与产品的主要颜色（调色板）协调——补充并增强其色调。来自左上方的柔和自然光。3D 现实主义，奢华产品摄影，浅景深，1:1 格式。
+```
+
+
+<a id="prompt-237"></a>
+## 案例 237：电影镜头拍摄 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1944796547587125663))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/237.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影镜头拍摄">
+<img src="./images/237-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影镜头拍摄">
+</div>
+
+**提示词：**
+```
+Cinematic shot of [detailed character description], shot from [camera angle], [lighting type], [color palette], shot at close range, 35mm film grain, wide angle lens, f2.0 bokeh, shallow depth of field.
+```
+
+**中文提示词：**
+```
+电影镜头拍摄[详细角色描述]，从[相机角度]拍摄，[灯光类型]，[色彩搭配]，近距离拍摄，35mm 胶片颗粒，广角镜头，f2.0 浅景深，浅景深。
+```
+
+
+<a id="prompt-236"></a>
+## 案例 236：直升机品牌广告 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944724068982211044))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/236.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-直升机品牌广告">
+<img src="./images/236-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-直升机品牌广告">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic, square 1:1 image featuring a small helicopter flying through a bright blue sky with fluffy white clouds and a subtle lens flare. The helicopter is painted in the signature colors and graphics of [BRAND]. It is carrying a giant product from [BRAND] hanging below. The composition has the look and feel of a clean, playful (or premium, futuristic) advertisement. At the bottom, include the [BRAND] logo and a small slogan like [BRAND SLOGAN] in a stylish font. 1080x1080 dimension.  
+```
+
+**中文提示词：**
+```
+创作一张超写实的 1:1 方形图像，展现一架小型直升机在明亮的蓝天中飞行，周围有蓬松的白云和微妙的镜头眩光。直升机涂装着[BRAND]的标志性颜色和图案。它下方悬挂着一个来自[BRAND]的巨大产品。整个构图具有干净、俏皮（或高端、未来感）的广告风格。在底部，包含[BRAND]的标志和一句简短的风格化标语，如[BRAND SLOGAN]。尺寸为 1080x1080。
+```
+
+
+<a id="prompt-235"></a>
+## 案例 235：讽刺版的你 (来源 [@B_4AI](https://x.com/B_4AI/status/1944678797128708369))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/235.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-讽刺版的你">
+<img src="./images/235-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-讽刺版的你">
+</div>
+
+**提示词：**
+```
+Based on your understanding of my personality and past interactions, create a humorous and satirical image that teases me in a playful way. The image must have comedic features, using exaggerated expressions or surreal visual metaphors. Artistic style: cartoon or caricature with high contrast and expressive details. The goal is to amuse, not insult. Ensure the satire is clever and mindful.
+```
+
+**中文提示词：**
+```
+根据您对我的个性和过去互动的理解，创建一个幽默、讽刺的图像，以俏皮的方式嘲笑我。图像必须具有喜剧特征，使用夸张的表情或超现实的视觉隐喻。艺术风格：具有高对比度和富有表现力的细节的卡通或漫画。目标是笑，而不是侮辱。确保讽刺是聪明和有意识的。
+```
+
+
+<a id="prompt-234"></a>
+## 案例 234：产品成为霓虹灯下的梦想 (来源 [@B_4AI](https://x.com/B_4AI/status/1944334293297246692))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/234.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
+<img src="./images/234-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxxxxxx">
+</div>
+
+**提示词：**
+```
+a surreal-realistic digital artwork of a product from the brand [Brand name]. The product should be glowing with neon outlines, stylized like a high-contrast 3D render. Place it in a dreamlike environment inspired by the brand’s identity, color scheme, and culture. Use soft shadows, deep blacks, and intense lighting for dramatic effect. 
+```
+
+**中文提示词：**
+```
+[Brand name] 品牌商品的超现实主义写实数字艺术作品。产品应该闪耀着霓虹灯轮廓，像高对比度的3D渲染一样风格化。将其放置在受品牌身份、配色方案和文化启发的梦幻般的环境中。使用柔和的阴影、深黑色和强烈的光照来获得戏剧性的效果。
+```
+
+
+<a id="prompt-233"></a>
+## 案例 233：超现实鸟类幻想 (来源 [@B_4AI](https://x.com/B_4AI/status/1944700655249068043))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/233.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实鸟类幻想">
+<img src="./images/233-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实鸟类幻想">
+</div>
+
+**提示词：**
+```
+A highly detailed and surreal depiction of a mythical bird creature. It has the elegant, colorful body of a butterfly, with vibrant symmetrical wing patterns. Its head is that of a majestic elephant, complete with large ears, a long curling trunk, and ivory tusks, giving it a powerful and ancient aura. A long, spotted giraffe neck connects the body and the head, rising high with grace. The wings are enormous eagle wings, fully extended with dramatic feathers in motion. Its tail is an iridescent peacock tail, fanned out in full display like royal plumage. The creature stands in an enchanted misty forest, bathed in ethereal light and surrounded by glowing particles. Ultra-realistic, cinematic lighting, fantasy atmosphere, hyper-detailed concept art
+```
+
+**中文提示词：**
+```
+对神话鸟类生物的高度详细和超现实的描绘。它拥有优雅、多彩的蝴蝶身体，带有充满活力、对称的翅膀图案。它的头是一头雄伟的大象，长着大耳朵、长长的卷曲的鼻子和象牙，赋予它强大而古老的光环。长长的斑点长颈鹿脖子连接身体和头部，优雅地高高耸立。翅膀是巨大的鹰翅膀，完全伸展，羽毛在运动中戏剧性。它的尾巴是一条彩虹色的孔雀尾巴，像皇家羽毛一样呈扇形展开。这个生物站在一片迷人的迷雾森林中，沐浴在空灵的光芒中，周围环绕着发光的粒子。超逼真的电影般的照明、奇幻的氛围、超详细的概念艺术
+```
+
+
+<a id="prompt-232"></a>
+## 案例 232：胶囊从透明的药瓶中倾倒 (来源 [@fy360593](https://x.com/fy360593/status/1944782534128419179))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/232.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-胶囊从透明的药瓶中倾倒">
+<img src="./images/232-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-胶囊从透明的药瓶中倾倒">
+</div>
+
+**提示词：**
+```
+Hyper-realistic poster, 1080x1080. Small glossy/glass capsules spilling from a transparent medicine bottle onto a wet surface. Each capsule features [white]/[red] plastic and transparent glass, with [KFC] logo and a floating 3D icon inside. Strong reflections, studio lighting, water droplets, soft elegant background, DSLR photo realism.
+```
+
+**中文提示词：**
+```
+超写实的海报，1080x1080。小型的光亮/玻璃胶囊从透明的药瓶中倾倒在湿润的表面上。每个胶囊都带有[白色]/[红色]塑料和透明玻璃，内有[KFC]标志和一个悬浮的 3D 图标。强烈的反光，工作室灯光，水滴，柔和优雅的背景，DSLR 照片真实性。
+```
+
+<a id="prompt-231"></a>
+## 案例 231：形状为生日气球文字 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1945050362152427924))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/231.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-形状为生日气球文字">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic 3D rendering of balloon letters forming the word [WOW]. Each letter should look like a shiny, inflatable mylar balloon with a bold printed pattern. Use a mix of textures such as [checkered print, color grids, polka dots, or glossy metallic black]. The balloons should be semi-reflective with realistic air volume, seams, wrinkles, and pressure points. Give each letter a distinct, playful surface design but keep the overall look cohesive. Use a soft pastel background, like [Orange color], to contrast the balloon textures. Lighting should create crisp reflections and soft shadows. The rendering must be photorealistic, fun, and vibrant — like a high-end visual for a creative pop-art birthday installation or fashion campaign.
+```
+
+**中文提示词：**
+```
+创建一个超逼真的 3D 渲染效果，将气球字母组成单词 [WOW]。每个字母看起来都像是一个闪亮的充气镀铝气球，带有大胆印刷的图案。使用多种纹理，例如 [格子印刷、彩色网格、波点或光泽金属黑]。气球应该是半反射的，具有真实的空气体积、接缝、皱纹和压力点。给每个字母一个独特、有趣的表面设计，但保持整体外观协调一致。使用柔和的粉彩色背景，例如 [橙色]，以对比气球的纹理。光线应产生清晰的反射和柔和的阴影。渲染效果必须是照片级的逼真、有趣且充满活力——就像创意波普艺术生日装置或时尚活动的高端视觉效果。
+```
+
 <a id="prompt-230"></a>
 ## 案例 230：可爱的卡通灵魂 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
 
