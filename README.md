@@ -17,6 +17,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 241：9格Q版风格贴纸 ](#prompt-241)
 *   [案例 240：定制的枕头 ](#prompt-240)
 *   [案例 239：沙滩胶囊城市 ](#prompt-239)
 *   [案例 238：用花朵美化你的产品 ](#prompt-238)
@@ -259,6 +260,23 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-241"></a>
+## 案例 241：9格Q版风格贴纸 (来源 [@松果先森](https://x.com/songguoxiansen/status/1950726378342801853))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/241.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9格Q版风格贴纸">
+</div>
+
+**提示词：**
+```
+Create a 3D kawaii 10-16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the uploaded attachment image. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp app use.
+```
+
+**中文提示词：**
+```
+创建一幅尺寸为 10-16 的 3D 可爱风格画布，其中包含 9 个 Q 版风格贴纸。这些贴纸要采用不同的服装、姿势和表情，使用已经上传的附件图片。每个贴纸都要有白色边框，且包含一个带有日常用语的 speech 气泡。背景设置为柔和的白到淡蓝色渐变，营造出有趣、积极的氛围，非常适合在 WhatsApp 应用中使用。
+```
+
 <a id="prompt-240"></a>
 ## 案例 240：定制的枕头 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1944487528704418041))
 
