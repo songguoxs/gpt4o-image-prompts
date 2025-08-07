@@ -17,6 +17,10 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 245：Kiro卡通幽灵 ](#prompt-245)
+*   [案例 244：转换马赛克风格照片 ](#prompt-244)
+*   [案例 243：卡通照片转换 ](#prompt-243)
+*   [案例 242：有趣的块状 3D 世界 ](#prompt-242)
 *   [案例 241：9格Q版风格贴纸 ](#prompt-241)
 *   [案例 240：定制的枕头 ](#prompt-240)
 *   [案例 239：沙滩胶囊城市 ](#prompt-239)
@@ -260,6 +264,155 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-245"></a>
+## 案例 245：Kiro卡通幽灵 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/245.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Kiro卡通幽灵">
+</div>
+
+**提示词：**
+```
+A cute cartoon ghost is the absolute main subject of the picture. It has a pure white body with a smooth and rounded contour, and two simple black oval eyes, with no extra features. This ghost is floating quietly in the very center of the picture. The background is a pure, bright purple, creating a simple, modern, and friendly atmosphere. The composition is a centered close-up, and the aspect ratio is 1:1 square. There is no text in the entire image. The image style is typical flat design and vector art, minimalist, much like an app icon or a logo, characterized by clean lines and solid color blocks, without any gradients or textural details. The image quality required is high-resolution with clean, sharp edges. The overall feeling it gives is one of a cute, simple, and modern piece of digital art.
+```
+
+**中文提示词：**
+```
+一个可爱的卡通鬼魂是图片的绝对主体。它拥有纯白色的身体，轮廓平滑圆润，两只简单的黑色椭圆形眼睛，没有任何额外特征。这个鬼魂安静地漂浮在图片的正中央。背景是纯亮的紫色，营造出简洁、现代和友好的氛围。构图是居中的特写，宽高比为 1:1 的正方形。整个图像中没有文字。图像风格典型的扁平化设计和矢量艺术，极简主义，类似于应用图标或标志，以干净的线条和实色块为特点，没有任何渐变或纹理细节。要求的图像质量是高分辨率，边缘清晰锐利。它给人的整体感觉是一幅可爱、简洁、现代的数字艺术作品。
+```
+
+<a id="prompt-244"></a>
+## 案例 244：转换马赛克风格照片 (来源 [@fy360593](https://x.com/fy360593/status/1945118291703284152))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/244.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
+<img src="./images/244-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
+</div>
+
+**提示词：**
+```
+Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.
+```
+
+**中文提示词：**
+```
+将此图像转换为精致的低多边形马赛克风格。保留原始结构和可识别的细节，特别是面部特征和轮廓。使用小而高密度的多边形，以保持清晰度和身份，同时创造水晶般、多面体的外观。保留原始调色板，以实现和谐自然的美学。避免更改或添加新元素。
+```
+
+<a id="prompt-243"></a>
+## 案例 243：卡通照片转换 (来源 [@fy360593](https://x.com/fy360593/status/1945395833123561930))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/243.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
+<img src="./images/243-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
+</div>
+
+**提示词：**
+```
+Transform the character into a digital, half-body cartoon-style portrait. Use a playful, vector-friendly style with clean solid lines, rounded face, oversized googly eyes, and minimal facial details. Show the character from chest up, including shoulders and upper torso. Apply smooth gradient fills to both the character and background for a colorful, soft look. Square format.
+```
+
+**中文提示词：**
+```
+将角色转化为数字化的半身卡通风格肖像。使用适合矢量的俏皮风格，线条干净利落，圆润的脸庞，超大号的玻璃眼球，以及极简的面部细节。展示角色胸部以上的部分，包括肩膀和上半身。对角色和背景都应用平滑的渐变填充，营造色彩丰富、柔和的视觉效果。方形格式。
+```
+
+<a id="prompt-242"></a>
+## 案例 242：有趣的块状 3D 世界 (来源 [@egeberkina](https://x.com/egeberkina/status/1948690449293869081))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/242.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
+<img src="./images/242-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
+</div>
+
+**提示词：**
+```
+Retexture the image attached based on the JSON below
+{
+  "style_name": "Playful Chunky 3D Aesthetic",
+  "retexture_mode": "stylized_3d_overlay",
+  "object_analysis": {
+    "preserve_silhouette": true,
+    "geometry_sensitive_mapping": true,
+    "detail_retention": "moderate — focus on key forms and proportions"
+  },
+  "material_properties": {
+    "base_material": ["soft matte plastic", "rubbery polymer"],
+    "surface_details": [
+      "rounded edges and inflated volumes",
+      "smooth, toy-like finish",
+      "minimal seam lines"
+    ]
+  },
+  "lighting": {
+    "type": "studio diffused light",
+    "intensity": "medium",
+    "shadows": "soft base shadows",
+    "highlight_behavior": "gentle gloss on curves and raised surfaces"
+  },
+  "color_palette": {
+    "dominant_colors": ["#f6f6f6", "#3a3a3a", "#f05423"],
+    "accent_colors": ["#ff875d", "#b0b0b0", "#f3f3f3"]
+  },
+  "background": {
+    "color": "#f9f9f9",
+    "type": "solid",
+    "texture": "none"
+  },
+  "style_tags": [
+    "3D cartoon realism",
+    "UI icon pack aesthetic",
+    "inflated minimalism",
+    "soft tech look",
+    "playful volume modeling"
+  ]
+}
+```
+
+**中文提示词：**
+```
+根据以下 JSON 对附加的图像进行重新纹理化
+{
+  "style_name": "Playful Chunky 3D Aesthetic",
+  "retexture_mode": "stylized_3d_overlay",
+"对象分析": {
+"保留轮廓": true,
+"几何敏感映射": true,
+"细节保留": "中等 — 侧重于关键形态和比例"
+  },
+"材料属性": {
+    "基础材料": ["柔软磨砂塑料", "弹性聚合物"],
+    "表面细节": [
+"圆润的边缘和膨胀的体积",
+"光滑、玩具般的表面",
+"极少的接缝线"
+    ]
+  },
+"lighting": {
+    "type": "工作室漫射光",
+    "intensity": "中等",
+"阴影": "柔和的基础阴影",
+    "高光行为": "曲线和凸起表面的柔和光泽"
+  },
+  "配色方案": {
+"主色调": [" #f6f6f6 ", " #3a3a3a ", " #f05423 "],
+    "强调色": [" #ff875d ", " #b0b0b0 ", " #f3f3f3 "]
+  },
+  "背景": {
+"color": " #f9f9f9 ",
+    "type": "solid",
+    "texture": "none"
+  },
+"风格标签": []
+"3D 卡通写实风格"
+"UI 图标包美学"
+"膨胀极简主义"
+"柔和科技感",
+"俏皮体积建模"
+  ]
+}
+```
+
 <a id="prompt-241"></a>
 ## 案例 241：9格Q版风格贴纸 (来源 [@松果先森](https://x.com/songguoxiansen/status/1950726378342801853))
 
