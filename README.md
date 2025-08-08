@@ -285,8 +285,8 @@ A cute cartoon ghost is the absolute main subject of the picture. It has a pure 
 ## 案例 244：转换马赛克风格照片 (来源 [@fy360593](https://x.com/fy360593/status/1945118291703284152))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/244.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
-<img src="./images/244-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
+<img src="./images/244.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
+<img src="./images/244-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-xxxx">
 </div>
 
 **提示词：**
@@ -303,8 +303,8 @@ Transform this image into a refined low-poly mosaic style. Preserve the original
 ## 案例 243：卡通照片转换 (来源 [@fy360593](https://x.com/fy360593/status/1945395833123561930))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/243.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
-<img src="./images/243-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
+<img src="./images/243.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
+<img src="./images/243-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通照片转换">
 </div>
 
 **提示词：**
@@ -321,8 +321,8 @@ Transform the character into a digital, half-body cartoon-style portrait. Use a 
 ## 案例 242：有趣的块状 3D 世界 (来源 [@egeberkina](https://x.com/egeberkina/status/1948690449293869081))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/242.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
-<img src="./images/242-2.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
+<img src="./images/242.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
+<img src="./images/242-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-有趣的块状 3D 世界">
 </div>
 
 **提示词：**
