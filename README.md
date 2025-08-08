@@ -17,6 +17,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 250：被优雅水漩涡环绕的品牌产品 ](#prompt-250)
+*   [案例 249：路牌图片 ](#prompt-249)
+*   [案例 248：一张铅笔素描 ](#prompt-248)
+*   [案例 247：90年代美国卡通片定格动画风格插画 ](#prompt-247)
+*   [案例 246：色彩缤纷的手工雕塑 ](#prompt-246)
 *   [案例 245：Kiro卡通幽灵 ](#prompt-245)
 *   [案例 244：转换马赛克风格照片 ](#prompt-244)
 *   [案例 243：卡通照片转换 ](#prompt-243)
@@ -264,6 +269,95 @@
 *   [案例 1：手绘风格的信息图卡片 ](#prompt-1)
 
 ---
+<a id="prompt-250"></a>
+## 案例 250：被优雅水漩涡环绕的品牌产品 (来源 [@Morph_VGart](https://x.com/Morph_VGart/status/1933966476492353807))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/250.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-被优雅水漩涡环绕的品牌产品">
+<img src="./images/250-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-被优雅水漩涡环绕的品牌产品">
+</div>
+
+**提示词：**
+```
+Create square image of studio-lit product photography of a [Product] suspended in mid-air, lots of thick dynamic water swirls surrounding it in slow-motion arcs, crystal-clear droplets glistening with light refraction, high-gloss finish, minimal backdrop, cinematic lighting with soft shadows and highlights, shot on a pure matching gradient background, ultra-realistic detail, commercial photography style, 85mm lens depth of field.
+```
+
+**中文提示词：**
+```
+创建一个方形图像，是工作室照明的产品摄影，一个[产品]悬浮在空中，周围有许多厚重的动态水漩涡以慢动作弧线环绕，晶莹剔透的液滴折射着光线，高光泽度，简约背景，电影般的照明，柔和的阴影和高光，在纯色匹配渐变背景上拍摄，超逼真的细节，商业摄影风格，85mm 镜头景深。
+```
+
+<a id="prompt-249"></a>
+## 案例 249：路牌图片 (来源 [@diegocabezas01](https://x.com/diegocabezas01/status/1950693677023535318))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/249.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-路牌图片">
+<img src="./images/249-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-路牌图片">
+</div>
+
+**提示词：**
+```
+Image of a billboard with the text: “Image of a billboard with the text:”
+```
+
+**中文提示词：**
+```
+路牌图片，上面写着：“路牌图片，上面写着：”
+```
+
+<a id="prompt-248"></a>
+## 案例 248：一张铅笔素描 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1895481600592269400))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/248.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张铅笔素描">
+<img src="./images/248-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张铅笔素描">
+</div>
+
+**提示词：**
+```
+A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose
+```
+
+**中文提示词：**
+```
+一张铅笔素描，描绘了 [你的角色]，在白纸上用细致的线条和阴影，捕捉了他肌肉身体中的能量和力量 [带有元素效果] 围绕着角色，动态姿势，纸上的纹身设计，漫画艺术风格，深色背景，高对比度，强烈的阴影，光影效果，黑色墨水绘画，动态姿势
+```
+
+<a id="prompt-247"></a>
+## 案例 247：90年代美国卡通片定格动画风格插画 (来源 [@cuchocapilla](https://x.com/cuchocapilla/status/1934280060292284492))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/247.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代美国卡通片定格动画风格插画">
+<img src="./images/247-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代美国卡通片定格动画风格插画">
+</div>
+
+**提示词：**
+```
+Transform this image into a 90s American cartoon cel-style illustration. Use thick black outlines, flat bold colors, and sharp cel shading with hard shadows. Emphasize exaggerated facial expressions and stylized, geometric character shapes. The background should be flat or minimal to keep the focus on the character. The whole image should feel like a frame from a Saturday morning cartoon.
+```
+
+**中文提示词：**
+```
+将这张图片转化为 90 年代美国卡通片定格动画风格插画。使用粗黑轮廓线、平面化鲜明的颜色，以及锐利的定格动画阴影效果和硬阴影。强调夸张的面部表情和风格化的几何角色形状。背景应为平面或极简，以突出角色。整张图片应感觉像是从周六早间卡通片中截取的一帧。
+```
+
+<a id="prompt-246"></a>
+## 案例 246：色彩缤纷的手工雕塑 (来源 [@Deshraj4x](https://x.com/Deshraj4x/status/1938670486285885772))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/246.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-色彩缤纷的手工雕塑">
+</div>
+
+**提示词：**
+```
+A colorful handcrafted sculpture of [insert subject], made from semi-transparent ice blocks in custom shapes. Accents like icing, candy, yarn, or fruit skin enhance facial features, texture, or accessories. Placed on a ceramic plate over a leaf or decorative mat, with a clean, softly lit studio or natural tabletop background. Lighting highlights the glossy ice texture, blending food art, toy design, and photography into a playful, artistic composition.
+```
+
+**中文提示词：**
+```
+一个色彩缤纷的手工雕塑，由[插入主题]制成，使用半透明的冰块，形状定制。装饰如糖霜、糖果、毛线或水果皮增强了面部特征、纹理或配饰。放置在陶瓷盘上，盘上覆盖着叶子或装饰垫，背景是干净、柔和照明的摄影棚或自然桌面。光线突出了冰块的光泽质感，将食品艺术、玩具设计和摄影融合成一种俏皮、艺术性的构图。
+```
+
 <a id="prompt-245"></a>
 ## 案例 245：Kiro卡通幽灵 (来源 [@松果先森](https://x.com/songguoxiansen/status/1945032571114402108))
 
