@@ -17,6 +17,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 251：超细节盒状纸艺玩具 ](#prompt-251)
 *   [案例 250：被优雅水漩涡环绕的品牌产品 ](#prompt-250)
 *   [案例 249：路牌图片 ](#prompt-249)
 *   [案例 248：一张铅笔素描 ](#prompt-248)
@@ -70,6 +71,24 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-251"></a>
+## 案例 251：超细节盒状纸艺玩具 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1954985717609730175))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/251.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超细节盒状纸艺玩具">
+<img src="./images/251-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超细节盒状纸艺玩具">
+</div>
+
+**提示词：**
+```
+1×1 square, ultra-detailed render of a box-shaped papertoy version of [CHARACTER NAME]. Made from folded and cut matte cardstock with visible paper texture, crisp edges, and clean folds. Cubic head and body, blocky limbs, simplified facial features, flat printed colors, and subtle shading for depth. Clothing and accessories faithfully mimic [CHARACTER NAME]’s iconic look in a minimal geometric papercraft style, keeping proportions compact and chibi-like. Neutral studio lighting, soft shadows, plain background, photorealistic product photography, 4K, no text or logos.
+```
+
+**中文提示词：**
+```
+1×1大小的正方形，超细节渲染的[角色名称]盒状纸艺玩具版本。由折叠和裁剪的哑光卡纸制成，具有可见的纸张纹理、清晰的边缘和整齐的折痕。立方体头部和身体，块状四肢，简化的面部特征，平印色彩，以及用于体现深度的微妙阴影。服装和配饰以简约的几何纸艺风格忠实还原[角色名称]的标志性外观，保持紧凑的比例和Q版风格。中性工作室灯光，柔和阴影，简洁背景，逼真的产品摄影效果，4K分辨率，无文字或标志。
+```
 
 <a id="prompt-250"></a>
 ## 案例 250：被优雅水漩涡环绕的品牌产品 (来源 [@Morph_VGart](https://x.com/Morph_VGart/status/1933966476492353807))
