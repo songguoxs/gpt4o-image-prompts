@@ -17,6 +17,10 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 255：头部的几何肖像 ](#prompt-255)
+*   [案例 254：磨砂泡泡 3D 图标 ](#prompt-254)
+*   [案例 253：亚克力钥匙扣 ](#prompt-253)
+*   [案例 252：怪诞又梦幻的超现实插画 ](#prompt-252)
 *   [案例 251：超细节盒状纸艺玩具 ](#prompt-251)
 *   [案例 250：被优雅水漩涡环绕的品牌产品 ](#prompt-250)
 *   [案例 249：路牌图片 ](#prompt-249)
@@ -71,6 +75,173 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-255"></a>
+## 案例 255：头部的几何肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1954831239996694902))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/255.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-头部的几何肖像">
+<img src="./images/255-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-头部的几何肖像">
+</div>
+
+**提示词：**
+```
+Design a geometric portrait of a [ANIMAL] head in the style of contemporary paper craft collage. Use multiple overlapping paper textures and shadow effects to build dimensional depth. Focus on botanical-inspired color palettes with matte finish aesthetics. The composition should feature bold, angular cuts that form the animal’s distinctive characteristics while maintaining facial symmetry. Set against a minimalist backdrop with subtle gradient. The final piece should evoke the craftsmanship of museum-quality paper installations. Square format, 1080x1080 pixels.
+```
+
+**中文提示词：**
+```
+设计一幅[动物]头部的几何肖像，采用当代纸艺拼贴风格。运用多种重叠的纸张纹理和阴影效果来构建立体深度。聚焦于植物灵感的色彩搭配，呈现哑光质感美学。构图应采用大胆的棱角切割，既塑造出该动物的独特特征，又保持面部对称性。背景为简约风格，带有微妙的渐变效果。最终作品需展现出博物馆级纸艺装置的精湛工艺。尺寸为正方形，1080x1080像素。
+```
+
+
+<a id="prompt-254"></a>
+## 案例 254：磨砂泡泡 3D 图标 (来源 [@Anima_Labs](https://x.com/Anima_Labs/status/1953762725965799627))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/254.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂泡泡 3D 图标">
+<img src="./images/254-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-磨砂泡泡 3D 图标">
+</div>
+
+**提示词：**
+```
+{
+"style_name": "Frosted Bubble 3D Icons",
+"render_mode": "3d_semi_transparent_detailed",
+"icon_subject": "{{icon_ PlayStation controller}}",
+"object_analysis": {
+"preserve_silhouette": true,
+"geometry_sensitive_mapping": true,
+"detail_retention": "smooth rounded edges, subtle internal reflections"
+},
+"material_properties": {
+"base_material": [
+"frosted translucent plastic",
+"semi-transparent matte acrylic"
+],
+"internal_elements": "floating colorful spheres, visible through the outer shell",
+"surface_finish": "frosted, diffused matte texture with light translucency",
+"texture_behavior": "no external color tint, transparency reveals inner objects",
+"branding_elements": "none"
+},
+"color_palette": {
+"primary": ["#FFFFFF", "#F5F5F5"],
+"accents": ["#FF69B4", "#FFA500", "#6A5ACD", "#00CED1", "#FFD700"],
+"contrast": "very high"
+},
+"lighting": {
+"type": "soft ambient + rim lighting",
+"intensity": "high",
+"shadows": "soft glow under the object",
+"highlights": "faint edge glow and top soft reflection"
+},
+"rendering": {
+"style": "modern 3D icon with internal color elements",
+"background": "pure black",
+"camera_angle": "isometric 3/4 view",
+"depth_of_field": "none, all details in focus"
+},
+"style_notes": [
+"black background increases bubble color visibility",
+"frosted transparency should glow subtly against black",
+"perfect for high-contrast, collectible-style icons"
+]
+}
+```
+
+**中文提示词：**
+```
+{
+"风格名称": "磨砂泡泡3D图标",
+"渲染模式": "3d_semi_transparent_detailed（3D半透明精细）",
+"图标主题": "{{图标_PlayStation手柄}}",
+"对象分析": {
+"保留轮廓": true,
+"几何敏感映射": true,
+"细节保留": "平滑的圆角边缘，细微的内部反射"
+},
+"材质属性": {
+"基础材质": [
+"磨砂半透明塑料",
+"半透明哑光亚克力"
+],
+"内部元素": "漂浮的彩色球体，可透过外壳看到",
+"表面处理": "磨砂、漫射哑光质感，带有轻微透光性",
+"纹理表现": "无外部色彩 tint，透明度可展现内部物体",
+"品牌元素": "无"
+},
+"色彩搭配": {
+"主色": ["#FFFFFF", "#F5F5F5"],
+"强调色": ["#FF69B4", "#FFA500", "#6A5ACD", "#00CED1", "#FFD700"],
+"对比度": "极高"
+},
+"光照": {
+"类型": "柔和环境光+轮廓光",
+"强度": "高",
+"阴影": "物体下方柔和光晕",
+"高光": "微弱的边缘发光和顶部柔和反射"
+},
+"渲染": {
+"风格": "带有内部彩色元素的现代3D图标",
+"背景": "纯黑色",
+"相机角度": "等距3/4视图",
+"景深": "无，所有细节均清晰对焦"
+},
+"风格说明": [
+"黑色背景提升泡泡色彩的可见度",
+"磨砂透明度在黑色背景下应呈现微妙的发光效果",
+"非常适合高对比度、收藏品风格的图标"
+]
+}
+```
+
+
+<a id="prompt-253"></a>
+## 案例 253：亚克力钥匙扣 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1954931461309546821))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/253.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-亚克力钥匙扣">
+<img src="./images/253-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-亚克力钥匙扣">
+</div>
+
+**提示词：**
+```
+Create a photorealistic square image (1080x1080) showing a custom acrylic keychain version of the [LOGO] logo hanging from the zipper of a dark-colored backpack (e.g. black or grey). The logo must retain its original shape, color, and proportions without any alteration. The keychain should have a clear glossy acrylic layer, clipped with a silver metal ring and clasp. Use soft daylight or diffused lighting to avoid yellow tones. Set the background in a modern outdoor setting, but keep it blurred to maintain focus on the logo keychain.
+```
+
+**中文提示词：**
+```
+创建一张逼真的方形图片（1080x1080 像素），展示一个定制的 [LOGO] 标志亚克力钥匙扣，它挂在一个深色背包（如黑色或灰色）的拉链上。该标志必须保持其原始形状、颜色和比例，不得有任何改动。钥匙扣应有一层透明的光泽亚克力，配有银色金属环和扣具。使用柔和的日光或漫射光，避免黄色调。背景设置为现代户外环境，但需模糊处理，以将焦点保持在标志钥匙扣上。
+```
+
+
+<a id="prompt-252"></a>
+## 案例 252：怪诞又梦幻的超现实插画 (来源 [@fy360593](https://x.com/fy360593/status/1955265393188286632))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/252.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-怪诞又梦幻的超现实插画">
+<img src="./images/252-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-怪诞又梦幻的超现实插画">
+</div>
+
+**提示词：**
+```
+Transform the uploaded image into a surreal illustration with a whimsical, dream‑like vibe.
+• Color palette: muted tones (soft greens, browns, greys) with occasional gentle pops of green.
+• Lighting: soft, diffused, almost ethereal light that blends gradients and subtle highlights.
+• Texture & medium feel: oil‑painting‑like brushstrokes, faint watercolor washes, or loose hand‑drawn linework, with a slight grainy texture.
+• Mood & composition: exaggerated, expressive features (e.g., elongated faces or emotive eyes) characteristic of cartoonish or Muppet‑style illustrations, but applied in a surreal, slightly fantastical context.
+• Overall aesthetic: blend realistic attention to detail with a touch of surreal whimsy—think serene, slightly uncanny atmosphere.
+```
+
+**中文提示词：**
+```
+将上传的图片转换为一幅超现实插画，营造出怪诞又梦幻的氛围。
+色彩搭配：采用柔和色调（浅绿、棕色、灰色），偶尔点缀一抹淡雅的绿色。
+光线效果：柔和、弥漫的近乎空灵的光线，融合渐变色与细微的高光。
+质感与媒介感：类似油画的笔触、淡淡的水彩晕染或松散的手绘线条，带有轻微的颗粒质感。
+氛围与构图：具有夸张、富有表现力的特征（如拉长的脸型或饱含情感的眼睛），这是卡通或提线木偶风格插画的典型特点，但要将其应用于超现实、略带奇幻色彩的场景中。
+整体美学：将对细节的真实刻画与一丝超现实的怪诞感相融合 —— 营造出一种宁静又略带诡异的氛围。
+```
 
 <a id="prompt-251"></a>
 ## 案例 251：超细节盒状纸艺玩具 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1954985717609730175))
