@@ -17,6 +17,13 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 262：街头顽童（Gorillaz）风格插画 ](#prompt-262)
+*   [案例 261：城市糖果传奇的风格 ](#prompt-261)
+*   [案例 260：20世纪20年代亚瑟·拉克姆风格的童话插画 ](#prompt-260)
+*   [案例 259：20世纪30年代弗莱舍工作室风格的动画 ](#prompt-259)
+*   [案例 258：20世纪50年代的海报 ](#prompt-258)
+*   [案例 257：透明蜂窝状变形 ](#prompt-257)
+*   [案例 256：漂浮玻璃霓虹3D ](#prompt-256)
 *   [案例 255：头部的几何肖像 ](#prompt-255)
 *   [案例 254：磨砂泡泡 3D 图标 ](#prompt-254)
 *   [案例 253：亚克力钥匙扣 ](#prompt-253)
@@ -75,6 +82,292 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-262"></a>
+## 案例 262：街头顽童（Gorillaz）风格插画 (来源 [@azed_ai](https://x.com/azed_ai/status/1942586412920103180))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/262.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-街头顽童（Gorillaz）风格插画">
+<img src="./images/262-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-街头顽童（Gorillaz）风格插画">
+</div>
+
+**提示词：**
+```
+Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic
+with a rebellious, animated tone, dark stylish tone, full of attitude.
+```
+
+**中文提示词：**
+```
+将这张图片重新设计成粗粝的街头顽童（Gorillaz）风格插画，采用粗重的黑色轮廓线、锐利的棱角、扁平化的富有表现力的光线、风格化的高对比度阴影、粗糙破旧的表面纹理；色彩搭配柔和暗淡：褪色的蓝绿色、橄榄绿、锈红色、芥末黄、土褐色；营造出原始粗粝的都市氛围，融合漫画的扁平化与绘画的颗粒感，带有褪色渐变效果的手绘质感，呈现出漫画小说的美学风格，整体基调叛逆、生动且时尚暗黑，充满个性。
+```
+
+<a id="prompt-261"></a>
+## 案例 261：城市糖果传奇的风格 (来源 [@miilesus](https://x.com/miilesus/status/1939690110418833592))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/261.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市糖果传奇的风格">
+<img src="./images/261-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市糖果传奇的风格">
+</div>
+
+**提示词：**
+```
+A colorful, playful 2D map of [city name], in the style of Candy Crush Saga, featuring the city’s iconic landmarks as candy-inspired buildings, cute gumdrop trees, licorice bridges, pastel roads, and glossy water elements, floating clouds, vibrant cartoon style, top-down view, kid-friendly game aesthetics, horizontal layout
+```
+
+**中文提示词：**
+```
+一幅色彩丰富、充满童趣的[城市名称]2D地图，采用《糖果传奇》的风格，将城市的标志性地标设计成糖果风格的建筑，还有可爱的软糖树、甘草桥、柔和色调的道路、富有光泽的水域元素、漂浮的云朵，整体为鲜艳的卡通风格，采用俯视视角，具有适合儿童的游戏美学，为横向布局。
+```
+
+<a id="prompt-260"></a>
+## 案例 260：20世纪20年代亚瑟·拉克姆风格的童话插画 (来源 [@vkuoo](https://x.com/vkuoo/status/1929708611208728874))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/260.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪20年代亚瑟·拉克姆风格的童话插画">
+<img src="./images/260-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪20年代亚瑟·拉克姆风格的童话插画">
+</div>
+
+**提示词：**
+```
+Transform this image into a 1920s fairy tale illustration in the style of Arthur Rackham. Use muted watercolor tones and intricate ink linework. Fill the scene with whimsical forest creatures, twisted tree branches, and hidden magical objects. The overall tone should be mysterious, enchanting, and slightly eerie. Add handwritten calligraphy-style captions and riddles.
+```
+
+**中文提示词：**
+```
+将这张图片转换成20世纪20年代亚瑟·拉克姆风格的童话插画。采用柔和的水彩色调和精致的墨水线条。场景中要充满奇幻的森林生物、扭曲的树枝和隐藏的魔法物品。整体基调应神秘、迷人且略带诡异。添加手写书法风格的说明文字和谜语。
+```
+
+
+<a id="prompt-259"></a>
+## 案例 259：20世纪30年代弗莱舍工作室风格的动画 (来源 [@vkuoo](https://x.com/vkuoo/status/1930065671083438244))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/259.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪30年代弗莱舍工作室风格的动画">
+<img src="./images/259-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪30年代弗莱舍工作室风格的动画">
+</div>
+
+**提示词：**
+```
+Transform this image into a 1930s animation storyboard in the style of Fleischer Studios. Use greyscale with expressive inky shading and rubber-hose limbs. Surround the scene with anthropomorphic objects, bouncy motion lines, and slapstick action. The overall tone should be jazzy, lively, and playful. Add hand-lettered sound effects and quirky dialogue signs.
+```
+
+**中文提示词：**
+```
+将这张图片转换成20世纪30年代弗莱舍工作室风格的动画分镜。采用灰度色调，搭配富有表现力的墨色阴影和“橡胶管”式肢体线条。场景中要加入拟人化的物体、富有弹性的运动线和闹剧式的动作。整体基调应充满爵士感、活力与趣味。添加手写风格的音效文字和古怪的对话标牌。
+```
+
+
+<a id="prompt-258"></a>
+## 案例 258：20世纪50年代的海报 (来源 [@vkuoo](https://x.com/vkuoo/status/1930564137526137166))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/258.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪50年代的海报">
+<img src="./images/258-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20世纪50年代的海报">
+</div>
+
+**提示词：**
+```
+Transform this image into a 1950s poster in the style of mid-century modern graphic designers. Use flat, geometric color blocks with strong typographic elements.  The overall tone should be optimistic, nostalgic, and promotional. Add bold location labels and promotional slogans.
+```
+
+**中文提示词：**
+```
+将这张图片转换成20世纪50年代的海报，风格参考中世纪现代平面设计师的作品。采用扁平的几何色块，搭配醒目的排版元素。整体基调应乐观、怀旧且具有宣传性。添加醒目的地点标签和宣传标语。
+```
+
+
+<a id="prompt-257"></a>
+## 案例 257：透明蜂窝状变形 (来源 [@miilesus](https://x.com/miilesus/status/1930266127961059739))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/257.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透明蜂窝状变形">
+<img src="./images/257-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透明蜂窝状变形">
+</div>
+
+**提示词：**
+```
+{
+  "object": "OBJECT_NAME",
+  "style": "Transparent Honeycomb Transformation",
+  "description": "Transform the object into a structure made entirely of crystallized golden honey with high transparency. The surface should be ultra-glossy, semi-liquid, and light-reflective, with defined yet see-through hexagonal honeycomb patterns. Parts of the object should allow light to pass through, revealing inner layers and structure. Include gentle honey drips for realism.",
+  "material": {
+    "primary": "Crystal-clear amber honey",
+    "secondary": "Translucent honeycomb cells"
+  },
+  "texture": {
+    "surface": "Ultra glossy and semi-liquid",
+    "pattern": "See-through hexagonal honeycomb",
+    "drips": true
+  },
+  "effects": {
+    "translucency": "highly translucent",
+    "internal_glow": "Soft warm light from within",
+    "emblem": "Delicate bee icon subtly embedded in the structure"
+  },
+  "presentation": {
+    "background": "Clean white or soft gradient",
+    "lighting": "Backlit with soft diffusion to enhance translucency",
+    "floating": true,
+    "format": "Square"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+  "物体": "OBJECT_NAME",
+  "风格": "透明蜂窝状变形",
+  "描述": "将该物体转变为由完全结晶的金色蜂蜜制成的结构，具有高度透明度。表面应呈现超 glossy 质感、半液态状态和反光效果，带有清晰可辨且透明的六边形蜂窝图案。物体的部分区域应允许光线穿透，以展现内部层次和结构。为增强真实感，需加入自然垂落的蜂蜜滴。",
+  "材质": {
+    "主要材质": "清澈透明的琥珀色蜂蜜",
+    "次要材质": "半透明的蜂窝单元"
+  },
+  "纹理": {
+    "表面": "超 glossy 且呈半液态",
+    "图案": "透明的六边形蜂窝",
+    "滴落效果": true
+  },
+  "特效": {
+    "半透明性": "高度半透明",
+    "内部光晕": "源自内部的柔和暖光",
+    "标志": "精致的蜜蜂图标巧妙嵌入结构中"
+  },
+  "呈现方式": {
+    "背景": "纯净白色或柔和渐变",
+    "光线": "背光搭配柔和漫射效果，以增强半透明感",
+    "悬浮效果": true,
+    "格式": "正方形"
+  }
+}
+```
+
+
+<a id="prompt-256"></a>
+## 案例 256：漂浮玻璃霓虹3D (来源 [@egeberkina](https://x.com/egeberkina/status/1940054985418375269))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/256.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-漂浮玻璃霓虹3D">
+</div>
+
+**提示词：**
+```
+retexture the image attached based on the JSON below:
+
+{
+  "style_name": "Floating Glassy Neon 3D",
+  "retexture_mode": "shape_lock",
+  "object_analysis": {
+    "preserve_silhouette": true,
+    "geometry_sensitive_mapping": true,
+    "detail_retention": "maintain contours, volumes, and layering"
+  },
+  "material_properties": {
+    "base_material": "translucent neon glass-gel",
+    "surface_finish": "semi-gloss with soft glow edges",
+    "transparency": "high, with soft light refraction",
+    "refraction": "gentle bend with subtle halo on curves",
+    "embedded_effects": "internal light scatter and edge neon glow",
+    "color_blend": {
+      "primary": ["aqua", "electric blue", "neon violet"],
+      "gradient_direction": "top-left to bottom-right",
+      "transition_smoothness": "very smooth"
+    }
+  },
+  "lighting": {
+    "type": "softbox HDRI",
+    "intensity": "soft and bright",
+    "source_direction": "overhead and slightly front",
+    "highlight_behavior": "gentle bloom with glass sparkle"
+  },
+  "shadow_behavior": {
+    "type": "floating contact shadow",
+    "appearance": "extremely soft, blurred ellipse",
+    "opacity": 0.07,
+    "distance_below_object": "moderate",
+    "color": "neutral gray"
+  },
+  "background": {
+    "type": "solid color",
+    "color": "#ffffff",
+    "glow_effect": "none",
+    "gradient": "none"
+  },
+  "rendering": {
+    "depth_of_field": "subtle with slight vignette",
+    "focus_point": "center of floating object",
+    "ambient_occlusion": "minimal to preserve light feel",
+    "render_engine": "3D stylized with light diffusion and high specular detail",
+    "camera_angle": "slightly above object, frontal",
+    "resolution": "very high for product branding"
+  },
+  "special_effects": {
+    "floating_behavior": true,
+    "visual_weightlessness": true,
+    "shadow_softness": "maximum"
+  }
+}
+```
+
+**中文提示词：**
+```
+根据以下JSON对附加图片进行重新纹理处理：
+
+{
+  "风格名称": "漂浮玻璃霓虹3D",
+  "重纹理模式": "形状锁定",
+  "对象分析": {
+    "保留轮廓": true,
+    "几何敏感映射": true,
+    "细节保留": "维持轮廓、体积和层次感"
+  },
+  "材质属性": {
+    "基础材质": "半透明霓虹玻璃胶",
+    "表面处理": "半光泽，边缘带有柔和光晕",
+    "透明度": "高，带有柔和的光折射",
+    "折射效果": "轻微弯曲，曲线处有微妙光晕",
+    "内置效果": "内部光散射和边缘霓虹发光",
+    "色彩混合": {
+      "主色": ["水绿色", "电蓝色", "霓虹紫"],
+      "渐变方向": "左上角至右下角",
+      "过渡平滑度": "非常平滑"
+    }
+  },
+  "光照": {
+    "类型": "柔光箱HDRI",
+    "强度": "柔和明亮",
+    "光源方向": " overhead 且略微偏前",
+    "高光表现": "柔和光晕，带有玻璃闪光"
+  },
+  "阴影表现": {
+    "类型": "漂浮接触阴影",
+    "外观": "极其柔和、模糊的椭圆形",
+    "不透明度": 0.07,
+    "物体下方距离": "适中",
+    "颜色": "中性灰"
+  },
+  "背景": {
+    "类型": "纯色",
+    "颜色": "#ffffff",
+    "发光效果": "无",
+    "渐变": "无"
+  },
+  "渲染": {
+    "景深": "轻微，带有轻微渐晕",
+    "焦点": "漂浮物体的中心",
+    "环境光遮蔽": "最小化以保持明亮感",
+    "渲染引擎": "3D风格化，带有光扩散和高镜面细节",
+    "相机角度": "略高于物体，正面视角",
+    "分辨率": "极高，适用于产品品牌推广"
+  },
+  "特殊效果": {
+    "漂浮效果": true,
+    "视觉失重感": true,
+    "阴影柔和度": "最大"
+  }
+}
+```
 
 <a id="prompt-255"></a>
 ## 案例 255：头部的几何肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1954831239996694902))
