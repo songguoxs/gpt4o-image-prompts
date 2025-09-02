@@ -83,6 +83,150 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-270"></a>
+## 案例 270：乐高超级英雄摆出充满动感的动作姿势 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1953186625871331674))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/270.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高超级英雄摆出充满动感的动作姿势">
+<img src="./images/270-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高超级英雄摆出充满动感的动作姿势">
+</div>
+
+**提示词：**
+```
+Epic LEGO [SUPERHERO] in dynamic action pose showcasing their signature powers, wearing their iconic costume with authentic colors and details, dramatic stormy sky with brilliant lightning bolts illuminating the scene, heroic stance amid swirling LEGO debris and flying bricks, small LEGO minifigures scattered throughout the scene watching in awe, cinematic movie poster composition with photorealistic rendering, epic superhero atmosphere with rich saturated colors, professional depth of field and dramatic lighting effects, 1080x1080 square format
+```
+
+**中文提示词：**
+```
+史诗级乐高【超级英雄】摆出充满动感的动作姿势，展现其标志性超能力，身着标志性服装，色彩和细节真实还原。戏剧性的暴风雨天空中，耀眼的闪电照亮整个场景。超级英雄摆出英勇姿态，周围是旋转的乐高碎片和飞舞的积木块，场景中散落着小型乐高小人仔，它们正惊叹地注视着这一切。整体采用电影海报式构图，配以逼真渲染效果，营造出史诗般的超级英雄氛围，色彩浓郁饱和，运用专业的景深和富有戏剧性的光影效果，尺寸为1080x1080的正方形格式。
+```
+
+<a id="prompt-269"></a>
+## 案例 269：透明X光扫描面板后面 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1953431382836859074))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/269.png" style="width: 48%;" alt="Awesome GPT4o/G极T-4o Image Prompts-透明X光扫描面板后面">
+<img src="./images/269-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透明X光扫描面板后面">
+</div>
+
+**提示词：**
+```
+Two anime-style characters standing behind a futuristic transparent X-ray scanning panel, each leaning on it casually. Their full bodies are visible through the glowing glass as stylized, semi-transparent X-ray scans. [INSERT SCAN DETAILS HERE — e.g. hybrid anatomy, supernatural markings, implants, etc.]. Futuristic sci-fi interface overlays on the glass, with holographic HUD elements and glowing digital text. The background is minimal and sterile, resembling a high-tech medical chamber. The characters are [INSERT CHARACTER NAMES & DESCRIPTION HERE — appearance, expression, outfit], drawn in modern high-quality anime style. The scene uses soft colored lighting (e.g. cyan, pink, red depending on the pair), expressive animation, and cinematic composition.
+```
+
+**中文提示词：**
+```
+两个动漫风格的角色站在一个未来感的透明X光扫描面板后面，各自随意地靠在面板上。透过发光的玻璃，可以看到他们的全身呈现出风格化的半透明X光扫描效果。【在此插入扫描细节——例如混合解剖结构、超自然标记、植入物等】。玻璃上叠加着未来科幻界面，还有全息平视显示元素和发光的数字文本。背景简洁而无菌，类似一个高科技医疗舱。角色是【在此插入角色姓名和描述——外貌、表情、服装】，采用现代高品质动漫风格绘制。场景使用柔和的彩色灯光（例如根据角色组合使用青色、粉色、红色等），富有表现力的动态效果和电影化的构图。
+```
+
+<a id="prompt-268"></a>
+## 案例 268：童趣插画 (来源 [@gnrlyxyz](https://x.com/gnrlyxyz/status/1953477354161848322))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/268.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-童趣插画">
+<img src="./images/268-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-童趣插画">
+</div>
+
+**提示词：**
+```
+Create a full body, flat vector illustration of [CHARACTER] in a whimsical, wavy cartoon style. Use thin black outlines and smooth, rounded shapes. The character should have a tiny white-colored head with tiny dot eyes and a simple nose and mouth. The body should have exaggerated, playful proportions. Use bold, flat colors for the clothing. No gradients. No shading. No smudging. Place the character on a solid blue background. Vector friendly. Square aspect ratio.
+```
+
+**中文提示词：**
+```
+创作一幅[角色]的全身扁平矢量插画，采用异想天开的波浪卡通风格。使用纤细的黑色轮廓和流畅的圆形造型。角色应有一个小小的白色头部，上面有极小的圆点眼睛以及简单的鼻子和嘴巴。身体比例要夸张且富有童趣。服装采用鲜明的扁平色彩。不使用渐变、阴影和晕染效果。将角色置于纯蓝色背景上。适合矢量格式。采用正方形比例。
+```
+
+<a id="prompt-267"></a>
+## 案例 267：一个复古茶包 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1955240654440894730))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/267.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个复古茶包">
+<img src="./images/267-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个复古茶包">
+</div>
+
+**提示词：**
+```
+A single vintage tea bag lying on a clean white background, hand-painted with an intricate illustration resembling a book cover. The tea bag has delicate aged paper texture, soft warm lighting, and realistic details. On the painted design, leave a clear blank space labeled [BOOK] for the book title. Cinematic, high-resolution, vertical format 9:16.
+```
+
+**中文提示词：**
+```
+一个复古茶包孤零零地放在干净的白色背景上，上面手绘着类似书籍封面的复杂图案。这个茶包有着细腻的陈旧纸张质感，搭配柔和温暖的光线，细节逼真。在手绘图案上，留出一块清晰的空白区域，并标注为【BOOK】，用于填写书名。整体呈现电影般的质感，高分辨率，采用9:16的竖版格式。
+```
+
+<a id="prompt-266"></a>
+## 案例 266：树上挂着产品 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1956047431117770925))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/266.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-树上挂着产品">
+<img src="./images/266-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-树上挂着产品">
+</div>
+
+**提示词：**
+```
+A hyper-realistic photograph of a tree in a scenic meadow, with a sturdy, detailed bark trunk and lush green leaves, where instead of fruits, the branches naturally bear [PRODUCT], seamlessly integrated into the foliage, with realistic textures, natural lighting, soft shadows, subtle imperfections, shot at eye level with a shallow depth of field, ultra-detailed, 8k
+```
+
+**中文提示词：**
+```
+一张超写实的照片，画面中是一片风景优美的草地上的一棵树。树干坚固，树皮纹理清晰，树叶郁郁葱葱、绿意盎然。树枝上长的不是果实，而是自然悬挂着[产品]，它们与树叶无缝融合，纹理逼真。照片采用自然光线，搭配柔和的阴影，带有细微的瑕疵，以平视角度拍摄，景深较浅，细节极致丰富，分辨率为8k。
+```
+
+<a id="prompt-265"></a>
+## 案例 265：品牌杂志 (来源 [@TheRelianceAI](https://x.com/TheRelianceAI/status/1957095226813649166))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/265.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌杂志">
+<img src="./images/265-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌杂志">
+</div>
+
+**提示词：**
+```
+A hyper-realistic editorial concept for a collaboration between [BRAND] and [MAGAZINE BRAND]. Square 1:1 composition, shot in a sleek Parisian interior with marble floors and tall windows, golden afternoon light illuminating the scene. A single model in a couture gown poses gracefully beside a realistically sized [BRAND] perfume bottle with the [BRAND] logo clearly visible placed on a marble pedestal. Ultra-refined textures, cinematic realism, Vogue-style photography.
+```
+
+**中文提示词：**
+```
+一个超写实的编辑概念，用于[品牌]与[杂志品牌]的合作。1:1的正方形构图，在时尚的巴黎室内拍摄，室内设有大理石地板和高大的窗户，金色的午后阳光照亮整个场景。一位身着高级定制礼服的模特优雅地摆着姿势，身旁是一个尺寸逼真的[品牌]香水瓶，瓶身上清晰可见[品牌]的标志，香水瓶放置在大理石基座上。超精细的纹理，电影般的写实感，《 Vogue》风格的摄影。
+```
+
+<a id="prompt-264"></a>
+## 案例 264：纸制玩具版本 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1961411111879594453))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/264.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸制玩具版本">
+<img src="./images/264-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸制玩具版本">
+</div>
+
+**提示词：**
+```
+Ultra-detailed render of a [CHARACTER NAME] paper toy version in box form (papertoy) made from matte folded cardboard and cut with visible paper texture, clean edges and neat folds. Cubic head and body, square extremities, simplified facial features, flat printed colors and subtle shading for greater depth. The clothing and accessories faithfully imitate the appearance of the reference image in a minimalist geometric papercraft style, maintaining compact proportions and chibi style. Neutral studio lighting, soft shadows, smooth background, photorealistic product photography, 4K, no text or logos. 1080x1080 dimension.
+```
+
+**中文提示词：**
+```
+超细节渲染的[角色名称]纸制玩具版本，呈盒子形状（纸制玩具），由哑光折叠纸板制成，带有可见的纸张纹理，边缘干净，折叠整齐。头部和身体为立方体，四肢为方形，面部特征简化，采用平面印刷色彩和微妙阴影以增强深度。服装和配饰以极简几何纸艺风格忠实地模仿参考图的外观，保持紧凑比例和Q版风格。中性工作室灯光，柔和阴影，平滑背景，逼真的产品摄影效果，4K分辨率，无文字或标志。尺寸为1080x1080。
+```
+
+<a id="prompt-263"></a>
+## 案例 263：低多边形马赛克风格 (来源 [@fy360593](https://x.com/fy360593/status/1945118291703284152))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/263.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-低多边形马赛克风格">
+<img src="./images/263-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-低多边形马赛克风格">
+</div>
+
+**提示词：**
+```
+Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.
+```
+
+**中文提示词：**
+```
+将这张图片转换为精致的低多边形马赛克风格。保留原始结构和可识别的细节，尤其是面部特征和轮廓。使用小而密集的多边形，在保持清晰度和辨识度的同时，营造出水晶般的多面效果。保留原始色调，以获得和谐自然的美感。避免修改或添加新元素。
+```
+
 <a id="prompt-262"></a>
 ## 案例 262：街头顽童（Gorillaz）风格插画 (来源 [@azed_ai](https://x.com/azed_ai/status/1942586412920103180))
 
