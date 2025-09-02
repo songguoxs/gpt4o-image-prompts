@@ -17,6 +17,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 280：制作照片中人物的玩具 ](#prompt-280)
+*   [案例 279：俏皮现代的应用程序图标设计 ](#prompt-279)
+*   [案例 278：3D卡通钥匙扣 ](#prompt-278)
+*   [案例 277：极简风格插画 ](#prompt-277)
+*   [案例 276：马赛克彩色玻璃徽章 ](#prompt-276)
+*   [案例 275：品牌着陆页-年轻女性运动后的面部特写 ](#prompt-275)
+*   [案例 274：创作漫画风格插画 ](#prompt-274)
+*   [案例 273：超现实主义极简概念广告 ](#prompt-273)
+*   [案例 272：铅笔素描画 ](#prompt-272)
+*   [案例 271：超现实几何艺术风格的数字插画 ](#prompt-271)
 *   [案例 270：乐高超级英雄摆出充满动感的动作姿势 ](#prompt-270)
 *   [案例 269：透明X光扫描面板后面 ](#prompt-269)
 *   [案例 268：童趣插画 ](#prompt-268)
@@ -90,6 +100,370 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-280"></a>
+## 案例 280：制作照片中人物的玩具 (来源 [@egeberkina](https://x.com/egeberkina/status/1905986284465574159))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/280.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作照片中人物的玩具">
+<img src="./images/280-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作照片中人物的玩具">
+</div>
+
+**提示词：**
+```
+Create a toy of the person in the photo. Let it be an
+action figure. Next to the figure, there should be the toy's
+equipment like a football and football boot and world cup. Also,
+on top of the box, write 'LIONEL MESSI and underneath it,
+'GOAT'.Visualize this in a realistic way.
+```
+
+**中文提示词：**
+```
+制作照片中人物的玩具，做成一个可动人偶。人偶旁边要有玩具装备，比如足球、足球鞋和世界杯奖杯。另外，在包装盒顶部写上“LIONEL MESSI”，其下方写上“GOAT”。请以写实的风格呈现这一画面。
+```
+
+
+<a id="prompt-279"></a>
+## 案例 279：俏皮现代的应用程序图标设计
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/279.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-俏皮现代的应用程序图标设计">
+<img src="./images/279-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4 Image Prompts-俏皮现代的应用程序图标设计">
+</div>
+
+**提示词：**
+```
+A playful and modern app icon design of a cute coffee cup character with a winking eye and smiling mouth, red-orange flame-like hair on top, minimal flat vector style, glossy highlights, soft shadows, centered composition, high contrast, vibrant colors, rounded corners, on a transparent background, icon-friendly, no text, no details outside the frame, size is 1024x1024.
+```
+
+**中文提示词：**
+```
+一个俏皮现代的应用程序图标设计：一个可爱的咖啡杯形象，带着眨眼的眼睛和微笑的嘴巴，顶部有橙红色火焰状的“头发”，采用极简扁平矢量风格，带有光泽高光和柔和阴影，构图居中，对比度高，色彩鲜艳，边角圆润，背景透明，适合作为图标使用，无文字，边框外无细节，尺寸为1024x1024。
+```
+
+
+<a id="prompt-278"></a>
+## 案例 278：3D卡通钥匙扣 (来源 [@miilesus](https://x.com/miilesus/status/1916854977873535069))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/278.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D卡通钥匙扣">
+</div>
+
+**提示词：**
+```
+Create a cute 3D cartoon keychain version of the person in the uploaded photo. Transform the face and pose into a soft, simplified toy-like figure with a silicone-like smooth texture and pastel colors. Add a name tag that says "[NAME]" attached to the keychain in a playful rounded font. No background, minimal shadows. Toy product design for keychain format.
+```
+
+**中文提示词：**
+```
+将上传照片中的人物制作成可爱的3D卡通钥匙扣版本。将面部和姿势转变为柔和、简化的玩具般造型，具有类似硅胶的光滑质感和柔和的粉彩色调。添加一个写有“[姓名]”的姓名牌，用俏皮的圆体字附着在钥匙扣上。无背景，阴影极少。适合钥匙扣格式的玩具产品设计。
+```
+
+
+<a id="prompt-277"></a>
+## 案例 277：极简风格插画 (来源 [@miilesus](https://x.com/miilesus/status/1913139509740314972))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/277.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简风格插画">
+<img src="./images/277-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简风格插画">
+</div>
+
+**提示词：**
+```
+Create a minimalistic illustration of [object or scene] in a paper cut-out style. Use soft, pastel colors and simple shapes. Include layered paper textures and subtle shadows to create depth. Place the object on a plain background. Ensure a clean, modern, and aesthetically pleasing composition with a slightly isometric perspective.
+```
+
+**中文提示词：**
+```
+创作一幅[物体或场景]的极简风格插画，采用剪纸艺术风格。使用柔和的 pastel（粉蜡笔色调的）色彩和简单的形状。融入分层的纸张纹理和细微的阴影以营造深度感。将物体置于纯色背景上。确保构图简洁、现代且富有美感，并采用略带等距的透视角度。
+```
+
+
+<a id="prompt-276"></a>
+## 案例 276：马赛克彩色玻璃徽章 (来源 [@miilesus](https://x.com/miilesus/status/1925157350068900103))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/276.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马赛克彩色玻璃徽章">
+<img src="./images/276-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马赛克彩色玻璃徽章">
+</div>
+
+**提示词：**
+```
+create image:
+{
+  "style": "mosaic stained glass emblem",
+  "object": "brand logo",
+  "brand": {
+    "name": "Spotify",
+    "logo_shape": "circular",
+    "icon_style": "three curved bars",
+    "color_palette": {
+      "primary": "#1DB954",
+      "secondary": "#1ED760",
+      "glass_variants": ["#147A3E", "#0F5C30", "#26C178"]
+    }
+  },
+  "material": {
+    "type": "colored glass",
+    "effect": "semi-transparent with light reflections",
+    "outline": {
+      "color": "#111111",
+      "width": "medium",
+      "style": "lead-line traditional mosaic"
+    }
+  },
+  "composition": {
+    "layout": "logo composed of tessellated glass pieces",
+    "geometry": "irregular but fitted glass shapes",
+    "contrast": "dark outlines define shape clearly"
+  },
+  "lighting": {
+    "type": "diffused natural light",
+    "highlight": "glass texture and color depth emphasized"
+  },
+  "background": {
+    "type": "flat surface",
+    "color": "#F4F4F4"
+  },
+  "camera": {
+    "angle": "top-down",
+    "focus": "centered on entire logo"
+  },
+  "render": {
+    "quality": "high",
+    "shadows": "soft",
+    "reflections": "minimal"
+  }
+}
+```
+
+**中文提示词：**
+```
+创建图像：
+{
+  "风格": "马赛克彩色玻璃徽章",
+  "对象": "品牌标志",
+  "品牌": {
+    "名称": "Spotify",
+    "标志形状": "圆形",
+    "图标风格": "三条弯曲的长条",
+    "色彩搭配": {
+      "主色": "#1DB954",
+      "辅助色": "#1ED760",
+      "玻璃变体色": ["#147A3E", "#0F5C30", "#26C178"]
+    }
+  },
+  "材质": {
+    "类型": "彩色玻璃",
+    "效果": "半透明带光线反射",
+    "轮廓": {
+      "颜色": "#111111",
+      "宽度": "中等",
+      "风格": "传统马赛克铅线"
+    }
+  },
+  "构图": {
+    "布局": "由镶嵌玻璃片组成的标志",
+    "几何形状": "不规则但拼接契合的玻璃造型",
+    "对比度": "深色轮廓清晰界定形状"
+  },
+  "光线": {
+    "类型": "漫射自然光",
+    "高光": "突出玻璃质感和色彩深度"
+  },
+  "背景": {
+    "类型": "平面",
+    "颜色": "#F4F4F4"
+  },
+  "镜头": {
+    "角度": "俯视",
+    "焦点": "居中于整个标志"
+  },
+  "渲染": {
+    "质量": "高",
+    "阴影": "柔和",
+    "反射": "轻微"
+  }
+}
+```
+
+
+<a id="prompt-275"></a>
+## 案例 275：品牌着陆页-年轻女性运动后的面部特写 (来源 [@michalmalewicz](https://x.com/michalmalewicz/status/1924844232495284571))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/275.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创作一张年轻女性运动后的面部特写">
+</div>
+
+**提示词：**
+```
+Create a closeup face of a young woman after a workout, sweaty, deep blue eyes, with a bit of blurred gym background on the left side of the photo, 5:3 proportions, she's looking right at the camera, some freckles and messy hair, beautiful, editorial
+```
+
+**中文提示词：**
+```
+创作一张年轻女性运动后的面部特写：她满头大汗，有着深蓝色的眼睛，照片左侧是略微模糊的健身房背景，比例为5:3。她正直视镜头，脸上有一些雀斑，头发有些凌乱，整体呈现出美丽的 editorial（时尚编辑风格）效果。
+```
+
+
+<a id="prompt-274"></a>
+## 案例 274：创作漫画风格插画 (来源 [@miilesus](https://x.com/miilesus/status/1921944436684038496))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/274.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创作漫画风格插画">
+</div>
+
+**提示词：**
+```
+create comic style illustration:
+{
+"style": "comic book illustration",
+"line_art": {
+"type": "bold black outlines",
+"thickness": "medium",
+"detail": "emphasized contours and shading lines"
+},
+"coloring": {
+"palette": "vibrant and saturated colors",
+"shading": "halftone dots and cel shading",
+"highlighting": "strong contrast with pop art effects"
+},
+"texture": {
+"surface": "flat with visible ink strokes",
+"effect": "printed comic paper texture"
+},
+"composition": {
+"layout": "centered subject",
+"background": "simple with radial burst or comic-style lines",
+"framing": "comic panel border"
+},
+"lighting": {
+"type": "dramatic",
+"angle": "top-left with bold highlights and shadows"
+},
+"post_processing": {
+"effect": ["halftone dots", "ink outline", "grain"],
+"saturation": "high",
+"contrast": "high"
+},
+"mood": "dynamic and action-oriented",
+"format": "vertical or square depending on original image"
+}
+```
+
+**中文提示词：**
+```
+创作漫画风格插画：
+{
+"风格": "漫画书插画",
+"线稿": {
+"类型": "粗黑轮廓线",
+"粗细": "中等",
+"细节": "突出的轮廓和阴影线条"
+},
+"上色": {
+"调色板": "鲜艳饱和的色彩",
+"阴影": "半色调网点和赛璐珞 shading",
+"高光": "强烈对比，带有波普艺术效果"
+},
+"质感": {
+"表面": "平坦，带有可见的笔触",
+"效果": "印刷漫画纸质感"
+},
+"构图": {
+"布局": "主体居中",
+"背景": "简洁，带有放射状爆发图案或漫画风格线条",
+"边框": "漫画分镜边框"
+},
+"光线": {
+"类型": "戏剧性",
+"角度": "左上角，带有强烈的高光和阴影"
+},
+"后期处理": {
+"效果": ["半色调网点", "墨水轮廓", "颗粒感"],
+"饱和度": "高",
+"对比度": "高"
+},
+"氛围": "充满动感和动作感",
+"格式": "根据原图，为竖版或正方形"
+}
+```
+
+
+<a id="prompt-273"></a>
+## 案例 273：超现实主义极简概念广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1927459345790288258))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/273.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义极简概念广告">
+<img src="./images/273-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义极简概念广告">
+</div>
+
+**提示词：**
+```
+“{BRAND or PRODUCT NAME}” — surreal minimal conceptual advertisement
+Create a 1:1 high-resolution poster that reimagines the brand/product as a surreal object of desire using minimal elements and symbolic storytelling.
+
+• Visual Style: ultra-clean background (light or muted tone), soft lighting, strong negative space
+• Scene Concept: transform the essence of the product into a metaphorical or dreamlike scene
+• Add a short, punchy slogan (2–3 words) that emotionally resonates with the concept
+• Include the brand’s logo in a clean, modern style (integrated naturally into the layout)
+• Composition: centered or rule-of-thirds alignment, use shadows and depth tastefully
+• Mood: artistic, elegant, and thought-provoking — like a museum installation
+• No clutter, no realism overload — just conceptual clarity
+```
+
+**中文提示词：**
+```
+“{品牌或产品名称}”——超现实主义极简概念广告
+创建 1：1 高分辨率海报，使用最少的元素和象征性的故事讲述将品牌/产品重新想象为超现实的欲望对象。
+
+• 视觉风格：超干净的背景（浅色或柔和的色调）、柔和的灯光、强烈的负空间
+• 场景概念：将产品本质转化为隐喻或梦幻般的场景
+• 添加一个简短、有力的口号（2-3 个词），在情感上与概念产生共鸣
+• 以简洁、现代的风格包含品牌标识（自然融入布局）
+• 构图：居中或三分法对齐，巧妙运用阴影和深度
+• 氛围：艺术、优雅、发人深省——就像博物馆装置
+• 没有混乱，没有现实主义超载——只有概念清晰
+```
+
+
+<a id="prompt-272"></a>
+## 案例 272：铅笔素描画 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1895481600592269400))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/272.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-铅笔素描画">
+<img src="./images/272-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-铅笔素描画">
+</div>
+
+**提示词：**
+```
+A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose
+```
+
+**中文提示词：**
+```
+一幅[你的角色]的铅笔素描画，在白纸上用细致的线条和阴影描绘，捕捉其肌肉发达的身体中蕴含的活力与力量，角色周围带有[元素效果]，呈现出充满动感的姿势，纸上有纹身图案，采用漫画艺术风格，背景偏暗，对比度高，阴影强烈，有光影效果，为黑色墨水画，姿势富有动感。
+```
+
+
+<a id="prompt-271"></a>
+## 案例 271：超现实几何艺术风格的数字插画 (来源 [@fy360593](https://x.com/fy360593/status/1945042543609008235))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/271.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实几何艺术风格的数字插画">
+<img src="./images/271-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实几何艺术风格的数字插画">
+</div>
+
+**提示词：**
+```
+Transform this image into a digital illustration with a surreal, geometric art style. Apply glitch textures, abstract shapes, and cinematic composition. Use the original photo’s lighting and color palette to guide the atmosphere, while reimagining the scene in a stylized, dreamy, retro-futuristic way.
+```
+
+**中文提示词：**
+```
+将这张图片转换为具有超现实几何艺术风格的数字插画。应用故障纹理、抽象形状和电影化构图。以原始照片的光线和色彩为基调来营造氛围，同时以一种风格化、梦幻且复古未来主义的方式重新构想这个场景。
+```
 
 <a id="prompt-270"></a>
 ## 案例 270：乐高超级英雄摆出充满动感的动作姿势 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1953186625871331674))
