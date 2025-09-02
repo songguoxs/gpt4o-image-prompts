@@ -395,8 +395,7 @@ create comic style illustration:
 ## 案例 273：超现实主义极简概念广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1927459345790288258))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/273.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义极简概念广告">
-<img src="./images/273-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义极简概念广告">
+<img src="./images/273.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义极简概念广告">
 </div>
 
 **提示词：**
@@ -469,8 +468,7 @@ Transform this image into a digital illustration with a surreal, geometric art s
 ## 案例 270：乐高超级英雄摆出充满动感的动作姿势 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1953186625871331674))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/270.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高超级英雄摆出充满动感的动作姿势">
-<img src="./images/270-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高超级英雄摆出充满动感的动作姿势">
+<img src="./images/270.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高超级英雄摆出充满动感的动作姿势">
 </div>
 
 **提示词：**
@@ -577,8 +575,7 @@ A hyper-realistic editorial concept for a collaboration between [BRAND] and [MAG
 ## 案例 264：纸制玩具版本 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1961411111879594453))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/264.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸制玩具版本">
-<img src="./images/264-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸制玩具版本">
+<img src="./images/264.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-纸制玩具版本">
 </div>
 
 **提示词：**
