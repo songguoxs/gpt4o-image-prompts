@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
-# Nano Banana/GPT-5/GPT-4o Image Prompts
+# Nano Banana(nanobanana)/GPT-5/GPT-4o Image Prompts
 
-🎉 欢迎来到 Nano Banana/GPT-5/GPT‑4o 图片提示词（Prompts）精选！提示词持续更新中。。。
+🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o 图片提示词（Prompts）精选！提示词持续更新中。。。
 
-这里收集了 OpenAI 最新多模态模型 Nano Banana/GPT-5/GPT‑4o 生成图片的精彩案例和提示词（Prompts）。
+这里收集了 OpenAI 最新多模态模型 Nano Banana(nanobanana)/GPT-5/GPT‑4o 生成图片的精彩案例和提示词（Prompts）。
 
 ---
 <a id="join_chat"></a>
