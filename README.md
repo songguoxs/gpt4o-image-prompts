@@ -164,7 +164,7 @@ Frame against a stark white void to maximize contrast and draw attention to the 
 ## 案例 283：精致纸艺折纸模型 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1952522314299441301))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/283.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-精致纸艺折纸模型">
+<img src="./images/283.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-精致纸艺折纸模型">
 </div>
 
 **提示词：**
