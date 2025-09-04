@@ -17,6 +17,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 287：3D纸艺作品 ](#prompt-287)
 *   [案例 286：Q版木雕人偶 ](#prompt-286)
 *   [案例 285：卡通插图药丸形象 ](#prompt-285)
 *   [案例 284：字母毛茸茸形象 ](#prompt-284)
@@ -106,6 +107,24 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-287"></a>
+## 案例 287：3D纸艺作品 (来源 [@azed_ai](https://x.com/azed_ai/status/1951237016215232931))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/287.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D纸艺作品">
+<img src="./images/287-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D纸艺作品">
+</div>
+
+**提示词：**
+```
+A 3D papercraft representation of [Subject], composed of layered paper cutouts, resting on a simple cardboard base. Highlights of [color 1] and [color 2] paper textures create depth and dimension. Set against a softly lit crafts room, realistic lighting, intricate paper edges, shallow depth of field
+```
+
+**中文提示词：**
+```
+一幅3D纸艺作品，以 [主题] 为原型，由多层剪纸组成，放置在简单的纸板底座上。[颜色 1] 和 [颜色 2] 纸张纹理的亮点营造出深度和立体感。作品背景为灯光柔和的手工房，光线逼真，纸张边缘精致，景深浅。
+```
 
 <a id="prompt-286"></a>
 ## 案例 286：Q版木雕人偶 (来源 [@samann_ai](https://x.com/samann_ai/status/1962939491603132563))
