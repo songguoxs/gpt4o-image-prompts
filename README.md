@@ -17,6 +17,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 290：食谱信息图制作 ](#prompt-290)
+*   [案例 289：我知道你很急但你先别急 ](#prompt-289)
+*   [案例 288：食物与运动结合的广告 ](#prompt-288)
 *   [案例 287：3D纸艺作品 ](#prompt-287)
 *   [案例 286：Q版木雕人偶 ](#prompt-286)
 *   [案例 285：卡通插图药丸形象 ](#prompt-285)
@@ -107,6 +110,96 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-290"></a>
+## 案例 290：食谱信息图制作 (来源 [@egeberkina](https://x.com/egeberkina/status/1906088423988875617))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/290.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
+<img src="./images/290-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
+</div>
+
+**提示词：**
+```
+Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom 
+```
+
+**中文提示词：**
+```
+奶油大蒜蘑菇意面分步食谱信息图制作要求
+呈现视角：俯视角度
+设计风格：简约风格，白色背景
+食材配图及标注：需包含“200克意大利面”“150克蘑菇”“3瓣大蒜”“200毫升淡奶油”“1汤匙橄榄油”“帕玛森奶酪”“欧芹”的图片，并分别标注对应文字
+制作步骤展示：用虚线标注制作流程，搭配图标（煮锅、煎锅、搅拌）说明各步骤
+成品呈现：在底部展示最终装盘的意面图片
+```
+
+
+<a id="prompt-289"></a>
+## 案例 289：我知道你很急但你先别急 (来源 [@JinsFavorites](https://x.com/JinsFavorites/status/1909646070382317736))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/289.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
+<img src="./images/289-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
+</div>
+
+**中文提示词：**
+```
+别人催我时，我回复：我知道你很急，但你先别急
+
+请为此设计表情包图片
+```
+
+
+<a id="prompt-288"></a>
+## 案例 288：食物与运动结合的广告 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1912961013877801177))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/288.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物与运动结合的广告">
+<img src="./images/288-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物与运动结合的广告">
+<img src="./images/288-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物与运动结合的广告">
+<img src="./images/288-4.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物与运动结合的广告">
+</div>
+
+**提示词：**
+```
+Muscular African  man dunks a grilled chicken breast into a basketball hoop with 'DUNK EVERY MACRO' text, under a clear sky. Fitness-themed, with Trifecta logo.
+```
+
+**中文提示词：**
+```
+晴朗天空下，一位肌肉发达的非洲男子将一块烤鸡胸肉扣进篮球框，篮框上写着“扣篮，每个宏都扣篮”（DUNK EVERY MACRO）。健身主题，带有 Trifecta 标志。
+```
+
+**提示词：**
+```
+Fit female tennis player on court, wearing white tank top and blue skirt, swinging a frying pan like a racket. In the pan: grilled chicken, broccoli, sweet potatoes. Clear blue sky. Bold text: 'ACE EVERY MEAL.' Trifecta logo in orange, bottom right.
+```
+
+**中文提示词：**
+```
+球场上，身材健美的女子网球运动员身穿白色背心和蓝色裙子，像挥动球拍一样挥舞着煎锅。锅里盛着烤鸡、西兰花和红薯。湛蓝的天空。粗体字写着：“每餐都精彩。” 右下角是橙色的Trifecta标志。
+```
+
+**提示词：**
+```
+Muscular man in black hoodie and orange boxing gloves in dark gym, boxing a giant burrito hanging like a punching bag. Dramatic lighting. "TRIFECTA" logo in bold orange top right. Text "BEAT HUNGER TO THE PUNCH." in bold white bottom left. Humorous, intense fitness ad.
+```
+
+**中文提示词：**
+```
+肌肉发达的男子身穿黑色连帽衫，戴着橙色拳击手套，在昏暗的健身房里，用拳击机打着一个像沙袋一样悬挂着的巨型墨西哥卷饼。灯光效果惊艳。右上角印有醒目的橙色“TRIFECTA”标志。左下角印有醒目的白色文字“BEAT HUNGER TO THE PUNCH.” 。这则幽默风趣、充满力量的健身广告。
+```
+
+**提示词：**
+```
+Create a bold ad for Trifecta Nutrition: a baseball player mid-swing in a stadium, holding a giant orange spatula instead of a bat. Use the tagline 'Knock Hunger Out of the Park' in athletic-style text. Include Trifecta’s logo and orange/black branding
+```
+
+**中文提示词：**
+```
+为 Trifecta Nutrition 制作一则醒目的广告：一位棒球运动员在体育场挥棒，手中拿着一把巨大的橙色铲子而不是球棒。使用运动风格的文字，写上“Knock Hunger Out of the Park”（击退饥饿）的标语。同时加入 Trifecta 的标志和橙黑色品牌标识。
+```
 
 <a id="prompt-287"></a>
 ## 案例 287：3D纸艺作品 (来源 [@azed_ai](https://x.com/azed_ai/status/1951237016215232931))
