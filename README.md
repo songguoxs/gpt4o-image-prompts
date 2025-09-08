@@ -17,6 +17,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 295：透明扭蛋场景模型 ](#prompt-295)
+*   [案例 294：钩针玩偶 ](#prompt-294)
+*   [案例 293：软质高品质毛绒玩具 ](#prompt-293)
+*   [案例 292：3D超写实食品广告 ](#prompt-292)
+*   [案例 291：英语单词闪卡制作 ](#prompt-291)
 *   [案例 290：食谱信息图制作 ](#prompt-290)
 *   [案例 289：我知道你很急但你先别急 ](#prompt-289)
 *   [案例 288：食物与运动结合的广告 ](#prompt-288)
@@ -110,6 +115,109 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-295"></a>
+## 案例 295：透明扭蛋场景模型 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1964989870457438584))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/295.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透明扭蛋场景模型">
+</div>
+
+**提示词：**
+```
+A detailed transparent gashapon capsule diorama, held between fingers, featuring [NAME] in their [ICONIC POSE / STYLE]. Inside: [short description of figure’s look, clothing, and accessories], with background elements such as [relevant setting: stadium, stage, lecture hall, etc.]. Lighting should be dramatic and cinematic, matching their theme (e.g., golden spotlight, concert glow, academic ambience). The capsule has a transparent top and a colored base (choose fitting color: e.g., royal blue, gold, black, red), decorated with [motifs related to the person]. The base is labeled with [NAME or NICKNAME] in a matching font style. The design should look like a miniature collectible, with photorealistic detail, soft bokeh, and a square 1080x1080 composition.
+```
+
+**中文提示词：**
+```
+一个详细的透明扭蛋场景模型，由手指捏握，扭蛋内呈现 [人物名称] 的 [标志性姿势 / 风格] 形象。
+扭蛋内部细节：[简要描述人偶的外形、服饰及配饰]，背景元素包含 [相关场景：体育场、舞台、讲堂等]。
+光线设计需富有戏剧感与电影质感，并契合人物主题（例如：金色聚光灯、演唱会光影、学术氛围光效）。扭蛋顶部为透明材质，底部为彩色设计（选用契合主题的颜色，如宝蓝色、金色、黑色、红色），底部装饰有 [与该人物相关的图案元素]。
+扭蛋底座以匹配风格的字体标注有 [人物名称或昵称]。整体设计需呈现迷你收藏品的质感，细节超写实，搭配柔和的虚化背景，采用 1080x1080 像素的正方形构图。
+```
+
+
+<a id="prompt-294"></a>
+## 案例 294：钩针玩偶 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1964615325904998635))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/294.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-钩针玩偶">
+</div>
+
+**提示词：**
+```
+Create a 3D photorealistic and highly detailed poster in amigurumi style. The design should imitate a real handmade crochet [ANIMAL], with visible thread texture, stitching details, and soft, felted proportions. Use realistic fabric shading, subtle fuzz, and natural lighting to achieve depth. The amigurumi should have small embroidered eyes and a simplified face. Represent it in a neutral studio environment with soft shadows for a professional presentation. Gray toned background. 
+```
+
+**中文提示词：**
+```
+制作一张 3D 超写实风格、细节丰富的阿米古米（Amigurumi，即钩针玩偶）风格海报。设计需模拟手工钩织的 [动物名称] 造型，呈现出清晰可见的毛线纹理、钩针缝线细节，以及柔软蓬松的整体比例。
+运用写实的织物阴影效果、细微的毛绒质感与自然光线，打造画面层次感。该阿米古米玩偶需搭配小巧的刺绣眼睛与简约的面部造型，置于中性风格的工作室场景中，辅以柔和阴影，呈现专业的展示效果。背景：灰色调
+```
+
+
+<a id="prompt-293"></a>
+## 案例 293：软质高品质毛绒玩具 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1964280467735101457))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/293.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-软质高品质毛绒玩具">
+</div>
+
+**提示词：**
+```
+A soft, high-quality plush toy of [CHARACTER], with an oversized head, small body, and stubby limbs. Made of fuzzy fabric with visible stitching and embroidered facial features. The plush is shown sitting or standing against a neutral background. The expression is cute or expressive, and it wears simple clothes or iconic accessories if relevant. Lighting is soft and even, with a realistic, collectible plush look. Centered, full-body view. 1080x1080.
+```
+
+**中文提示词：**
+```
+[角色名称]软质高品质毛绒玩具
+- 采用大头设计，搭配小巧的身体与粗短的四肢
+- 由毛茸茸的面料制成，可见缝线细节，面部特征则通过刺绣工艺呈现
+- 玩具以坐姿或站姿呈现，背景为中性风格
+- 表情可爱生动，若有相关设定，还会搭配简约服饰或标志性配饰
+- 光线柔和均匀，呈现出具有收藏质感的写实毛绒玩具外观
+- 画面为居中构图，展示玩具全身，尺寸比例为1080x1080
+```
+
+
+<a id="prompt-292"></a>
+## 案例 292：3D超写实食品广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1964059052951875780))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/292.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D超写实食品广告">
+</div>
+
+**提示词：**
+```
+Smooth 3D hyperrealistic food advertisement of [TYPE OF FOOD], shown with mouthwatering glossy textures and perfect lighting, placed on a dark moody surface with soft glow and cinematic blur in the background, high Kelvin lighting for golden highlights and sharp shadows, backlit to show delicious steam and dripping sauces, behind the food a bold slogan in elegant font with three words only, restaurant logo subtly placed on the plate or in the corner, rich color grading with appetite-inducing tones, ultra sharp, professional food styling, stylized render
+```
+
+**中文提示词：**
+```
+[食物类型]的流畅3D超写实食品广告
+- 呈现令人垂涎的光泽质感与完美光线效果
+- 置于深邃氛围感的表面上，背景带有柔和光晕与电影感模糊效果
+- 采用高开尔文色温光线，营造金色高光与清晰阴影
+- 运用逆光拍摄，展现诱人的热气与滴落的酱汁
+- 食物后方以优雅字体呈现一句仅含三个单词的醒目标语
+- 餐厅标志巧妙置于餐盘之上或画面角落
+- 采用浓郁的色彩分级，搭配激发食欲的色调
+- 极致清晰的画面质感，专业的食物造型设计，风格化渲染效果
+```
+
+
+<a id="prompt-291"></a>
+## 案例 291：英语单词闪卡制作 (来源 [@JinsFavorites](https://x.com/JinsFavorites/status/1905097569837232327))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/291.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-英语单词闪卡制作">
+<img src="./images/291-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-英语单词闪卡制作">
+</div>
+
+**中文提示词：**
+```
+你是一个英语单词闪卡制作大师, 你可以根据我输入的主题词,生成一个图片并以此拓展,比如我输入电脑,你生成一张和电脑相关的图片,并用箭头分步介绍键盘\鼠标\显示器等中文和英文
+```
 
 <a id="prompt-290"></a>
 ## 案例 290：食谱信息图制作 (来源 [@egeberkina](https://x.com/egeberkina/status/1906088423988875617))
