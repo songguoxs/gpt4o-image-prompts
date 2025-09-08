@@ -115,8 +115,8 @@
 ## 案例 290：食谱信息图制作 (来源 [@egeberkina](https://x.com/egeberkina/status/1906088423988875617))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/290.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
-<img src="./images/290-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
+<img src="./images/290.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
+<img src="./images/290-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食谱信息图制作">
 </div>
 
 **提示词：**
@@ -139,8 +139,8 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 ## 案例 289：我知道你很急但你先别急 (来源 [@JinsFavorites](https://x.com/JinsFavorites/status/1909646070382317736))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/289.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
-<img src="./images/289-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
+<img src="./images/289.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
+<img src="./images/289-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我知道你很急但你先别急">
 </div>
 
 **中文提示词：**
