@@ -17,6 +17,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 300：制作证件照 ](#prompt-300)
+*   [案例 299：制作大头贴 ](#prompt-299)
+*   [案例 298：手办-ZBrush建模屏显与万代风格包装盒 ](#prompt-298)
+*   [案例 297：制作工作室拍摄肖像照 ](#prompt-297)
+*   [案例 296：手办-高级包装带打印机（擎天柱） ](#prompt-296)
 *   [案例 295：透明扭蛋场景模型 ](#prompt-295)
 *   [案例 294：钩针玩偶 ](#prompt-294)
 *   [案例 293：软质高品质毛绒玩具 ](#prompt-293)
@@ -115,6 +120,86 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-300"></a>
+## 案例 300：制作证件照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963602241610551609))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/300.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作证件照">
+<img src="./images/300-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作证件照">
+</div>
+
+**中文提示词：**
+```
+截取图片人像头部，帮我做成2寸证件照，要求:
+1、蓝底
+2、职业正装
+3、正脸
+4、微笑
+```
+
+<a id="prompt-299"></a>
+## 案例 299：制作大头贴 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963248968902840712))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/299.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作大头贴">
+</div>
+
+**中文提示词：**
+```
+用这张照片，做一个3*3的photo booth grid，每张要用不同的姿势和表情不许重复
+```
+
+
+<a id="prompt-298"></a>
+## 案例 298：手办-ZBrush建模屏显与万代风格包装盒 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1964874262768160975))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/298.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手办-ZBrush建模屏显与万代风格包装盒">
+</div>
+
+**提示词：**
+```
+create a 1/7 scale commercialized figure of thecharacter in the image, in a realistic styie and environment.
+Place the figure on a computer desk, using a circular transparent acrylic base without any text.
+On the computer screen, display the ZBrush modeling process of the figure.
+Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
+```
+
+**中文提示词：**
+```
+NanoBanana手办提示词：
+在现实的风格和环境中，创建图像中角色的 1/7 比例商业化人物形象。
+将图形放置在电脑桌上，使用没有任何文字的圆形透明丙烯酸底座。
+在电脑屏幕上，显示人物的ZBrush建模过程。
+在电脑屏幕旁边，放置一个印有原创艺术品的BANDAl风格玩具包装盒。
+```
+
+<a id="prompt-297"></a>
+## 案例 297：制作工作室拍摄肖像照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963962625043169643))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/297.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作工作室拍摄肖像照">
+</div>
+
+**中文提示词：**
+```
+给图里的人生成工作室拍摄肖像照片,黑色背景,黑色T恤,采用侧光和半身像的构图
+```
+
+
+<a id="prompt-296"></a>
+## 案例 296：手办-高级包装带打印机（擎天柱） (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1964874809130783108))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/296.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手办-高级包装带打印机（擎天柱）">
+</div>
+
+**中文提示词：**
+```
+请将图片转化为一款收藏级手办。在手办后方，放置一个印有该手办图案及“open nana”名称的手办包装盒。在其旁边，添加一台正在打印该手办的高端3D打印机。在该手办包装盒前方，放置一个圆形塑料底座，放置手办。
+底座的PVC材质需呈现晶莹剔透的半透明质感，且整个场景需设定在室内环境中。
+```
 
 <a id="prompt-295"></a>
 ## 案例 295：透明扭蛋场景模型 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1964989870457438584))
