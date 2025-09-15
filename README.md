@@ -17,6 +17,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 305：复古漫画风格卡通插画 ](#prompt-305)
+*   [案例 304：详细技术图纸 ](#prompt-304)
+*   [案例 303：卡通风格的应用程序图标 ](#prompt-303)
+*   [案例 302：超写实3D漫画肖像 ](#prompt-302)
+*   [案例 301：超写实肖像位于石膏中心 ](#prompt-301)
 *   [案例 300：制作证件照 ](#prompt-300)
 *   [案例 299：制作大头贴 ](#prompt-299)
 *   [案例 298：手办-ZBrush建模屏显与万代风格包装盒 ](#prompt-298)
@@ -120,6 +125,100 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-305"></a>
+## 案例 305：复古漫画风格卡通插画 (来源 [@azed_ai](https://x.com/azed_ai/status/1967180553553330306))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/305.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古漫画风格卡通插画">
+<img src="./images/305-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古漫画风格卡通插画">
+</div>
+
+**提示词：**
+```
+2D cartoon illustration of a [subject] mid-motion in a [dynamic action pose], drawn in vintage comic book style with bold outlines and saturated primary colors. Featuring dramatic motion streaks, exaggerated perspective, punchy panel composition, and crisp halftone texture. Designed for high-energy visual storytelling with retro superhero flair.
+```
+
+**中文提示词：**
+```
+2D卡通插画，描绘了一位[主体]以[动态动作姿势]的中途运动，采用复古漫画风格绘制，轮廓粗犷，色彩饱和。具有戏剧性的运动条纹、夸张的透视、富有冲击力的面板构图和清晰的半色调纹理。旨在以复古超级英雄的风格呈现充满活力的视觉叙事。
+```
+
+**场景示例：**
+赛博朋克女孩以高踢腿姿势运动的场景、正在挥出重拳的机器人拳击手、年轻忍者在旋转的刀刃中穿梭、滑板少年在半管滑行中的动作
+
+<a id="prompt-304"></a>
+## 案例 304：详细技术图纸 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1967264596630045063))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/304.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-详细技术图纸">
+<img src="./images/304-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-详细技术图纸">
+</div>
+
+**提示词：**
+```
+Detailed technical drawing of a [vehicle, weapon, object, or item], on white paper with dimensions and annotations in red marker. [The subject] is depicted in pencil with [material or texture details], showing [list of key parts and functional elements], all in clear detail. Intricate element, detailed blueprint style with notes on its features and functionality
+```
+
+**中文提示词：**
+```
+白纸上[载具、武器、物体或物品]的详细技术图纸，尺寸标注及红色马克笔标注。[主体]用铅笔描绘，[材质或纹理细节]清晰可见，[关键部件和功能元素列表]清晰可见。复杂元素，采用蓝图风格，并标注其特性和功能。
+```
+
+
+<a id="prompt-303"></a>
+## 案例 303：卡通风格的应用程序图标 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1966539819158212759))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/303.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通风格的应用程序图标">
+<img src="./images/303-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通风格的应用程序图标">
+</div>
+
+**提示词：**
+```
+Colorful, cartoon-style app icon design for a [type of app: game, movie, food, sport, etc.] logo with the text ["App Name"] and [character, symbol, or cute object + short description of its pose or action] on the front of a square button, set against a [background color / theme] with simple details. High-resolution game art and graphics for a mobile app, Pixar style, realistic.
+```
+
+**中文提示词：**
+```
+色彩鲜艳、卡通风格的应用图标设计，适用于[应用类型：游戏、电影、美食、运动等]的logo，其方形按钮正面印有[应用名称]文字和[人物、符号或可爱物体+其姿势或动作的简短描述]，背景颜色/主题简洁。高分辨率游戏美术和图形，适用于移动应用，皮克斯风格，逼真逼真。
+```
+
+
+<a id="prompt-302"></a>
+## 案例 302：超写实3D漫画肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1966450411277058166))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/302.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实3D漫画肖像">
+</div>
+
+**提示词：**
+```
+Hyper-realistic 3D caricature of [NAME], featuring an expressive, oversized head, a short body, and a detailed, energetic facial expression. Wearing [OUTFIT / SIGNATURE LOOK], striking a [POSE / ACTION]. Studio lighting, cartoonish proportions, Pixar-style 3D rendering, ultra-detailed fabric and skin textures. The body is slightly smaller than the head. 1080x1080 square format.
+```
+
+**中文提示词：**
+```
+[姓名] 的超写实3D漫画肖像，特点为表情丰富的超大头部、较短的身躯，以及细节丰富且充满活力的面部表情。人物身着 [服装 / 标志性造型]，摆出 [姿势 / 动作]。采用工作室灯光效果，呈现卡通化比例，运用皮克斯风格 3D 渲染技术，织物与皮肤纹理细节极致丰富。身躯比例略小于头部，画面为 1080x1080 的正方形格式。
+```
+
+
+<a id="prompt-301"></a>
+## 案例 301：超写实肖像位于石膏中心 (来源 [@samann_ai](https://x.com/samann_ai/status/1967149018640998584))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/301.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实肖像位于石膏中心">
+</div>
+
+**提示词：**
+```
+Ultra-real portrait of [CHARACTER] centered, surrounded by dozens of life-size stone busts of [CHARACTER]; warm beige museum lighting, matte alabaster texture, symmetrical composition, shallow depth of field (85mm), subtle film grain, 3:4 vertical, no text or watermark.
+```
+
+**中文提示词：**
+```
+[角色] 的超写实肖像位于画面中心，周围环绕着数十座与真人等大的 [角色] 石质胸像；采用温暖的米色博物馆灯光，呈现哑光雪花石膏质感，构图对称，景深较浅（85 毫米镜头），带有细微的胶片颗粒感，画面比例为 3:4 竖版，无文字及水印。
+```
 
 <a id="prompt-300"></a>
 ## 案例 300：制作证件照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1963602241610551609))
