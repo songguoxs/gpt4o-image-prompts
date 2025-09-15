@@ -145,7 +145,7 @@
 ```
 
 **场景示例：**
-赛博朋克女孩以高踢腿姿势运动的场景、正在挥出重拳的机器人拳击手、年轻忍者在旋转的刀刃中穿梭、滑板少年在半管滑行中的动作
+赛博朋克女孩以高踢腿姿势运动的场景；正在挥出重拳的机器人拳击手；年轻忍者在旋转的刀刃中穿梭；滑板少年在半管滑行中的动作
 
 <a id="prompt-304"></a>
 ## 案例 304：详细技术图纸 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1967264596630045063))
@@ -189,7 +189,7 @@ Colorful, cartoon-style app icon design for a [type of app: game, movie, food, s
 ## 案例 302：超写实3D漫画肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1966450411277058166))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/302.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实3D漫画肖像">
+<img src="./images/302.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实3D漫画肖像">
 </div>
 
 **提示词：**
@@ -207,7 +207,7 @@ Hyper-realistic 3D caricature of [NAME], featuring an expressive, oversized head
 ## 案例 301：超写实肖像位于石膏中心 (来源 [@samann_ai](https://x.com/samann_ai/status/1967149018640998584))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/301.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实肖像位于石膏中心">
+<img src="./images/301.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实肖像位于石膏中心">
 </div>
 
 **提示词：**
