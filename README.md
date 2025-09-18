@@ -17,6 +17,13 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 312：品牌工作室照片 ](#prompt-312)
+*   [案例 311：切割带有卡通爆炸的物体 ](#prompt-311)
+*   [案例 310：秋天的落叶拼成图案 ](#prompt-310)
+*   [案例 309：奢侈品牌广告 ](#prompt-309)
+*   [案例 308：人物电影级渲染 ](#prompt-308)
+*   [案例 307：字母动物 ](#prompt-307)
+*   [案例 306：分层剪纸插图 ](#prompt-306)
 *   [案例 305：复古漫画风格卡通插画 ](#prompt-305)
 *   [案例 304：详细技术图纸 ](#prompt-304)
 *   [案例 303：卡通风格的应用程序图标 ](#prompt-303)
@@ -125,6 +132,148 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-312"></a>
+## 案例 312：品牌工作室照片 (来源 [@samann_ai](https://x.com/samann_ai/status/1968656265673871644))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/312.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌工作室照片">
+</div>
+
+**提示词：**
+```
+[CHARACTER] sitting centered on an oversized puffy lounge sofa in [SOFA_COLOR], relaxed pose with one hand under chin, full-body. Clean white seamless studio, premium fashion-editorial lighting, hyper-real, minimal. Big spray-paint graffiti on the back wall reading “[TEXT]” with soft overspray and slight drips. 85mm look, crisp details, no clutter, no watermark. --ar 3:4
+```
+
+**中文提示词：**
+```
+[人物] 坐在一张[沙发颜色]的超大蓬松休闲沙发上，姿势放松，单手托着下巴，全身放松。干净的白色无缝工作室，高端时尚编辑灯光，超现实，极简。后墙上的大型喷漆涂鸦写着“[文本]”，喷漆略微过喷，略有滴落。85毫米画质，细节清晰，没有杂乱，没有水印。——ar 3:4
+```
+
+<a id="prompt-311"></a>
+## 案例 311：切割带有卡通爆炸的物体 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1968375201739177984))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/311.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-切割带有卡通爆炸的物体">
+</div>
+
+**提示词：**
+```
+cut cleanly THE [OBJECT] in half across the middle, the top and bottom halves slightly separated and floating apart.  
+Between the halves, instead of the natural inside, there is a stylized cartoon nuclear explosion effect: a central vertical column of glowing yellow-orange bubble smoke, with a wide horizontal shockwave ring of round bubbly clouds spreading to the sides, fiery glowing highlights above and below the shockwave, creating the impression of intense heat and energy
+The outside of the [OBJECT] remains photorealistic with detailed texture and lighting, while the inner effect is highly graphic and playful, giving a striking contrast between realism and cartoon. Studio lighting, centered composition
+```
+
+**中文提示词：**
+```
+将 [物体] 从中间干净利落地切成两半，上半部分和下半部分稍微分开并漂浮。
+在两半之间，不是自然的内部，而是一种风格化的卡通核爆炸效果：中央垂直柱状发光的黄橙色气泡烟雾，周围扩散着一圈宽阔的水平冲击波环，圆形气泡云，冲击波上方和下方有炽热的光芒，营造出强烈的热量和能量的印象
+[OBJECT] 的外部依然保持着照片级的真实感，纹理和灯光细节丰富；而内部效果则极具画面感，趣味十足，在现实主义和卡通风格之间形成了鲜明的对比。工作室灯光，居中构图
+```
+
+<a id="prompt-310"></a>
+## 案例 310：秋天的落叶拼成图案 (来源 [@op7418](https://x.com/op7418/status/1967873876551233660))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/310.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-秋天的落叶拼成图案">
+</div>
+
+**中文提示词：**
+```
+中景，有阳光的午后，胶片质感，拍摄地面，秋天的落叶、树枝、银杏叶和桂花在平面上拼成了一个小猫的样子，旁边放着一杯一次性咖啡杯
+```
+
+<a id="prompt-309"></a>
+## 案例 309：奢侈品牌广告 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1967959906344112270))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/309.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-奢侈品牌广告">
+</div>
+
+**提示词：**
+```
+A luxury [BRAND TYPE] brand advertisement featuring four stylish [GIRLS / MEN], each posed in separate architectural window frames set, each shown in a waist-up mid-shot, fully inside the window frames, with hands and props naturally breaking the frame edges, but no legs or lower body visible, arranged in a theatrical and 2×2 symmetrical grid composition.
+
+– one holding a [OBJECT 1] with [EXPRESSION AND ACCESSORIES]
+– another holding a [OBJECT 2] with [EXPRESSION AND ACCESSORIES]
+– another holding a [OBJECT 3] with [EXPRESSION AND ACCESSORIES]
+– another holding a [OBJECT 4] with [EXPRESSION AND ACCESSORIES]
+
+Each with expressive editorial facial poses, blending modern fashion with a sleek couture aesthetic.
+
+Set against an elegant [BACKGROUND COLOR AND MATERIAL] backdrop with subtle textures, captured with bright high-fashion studio lighting that emphasizes contours, reflections, and luxury detailing.
+
+The mood is glamorous, iconic, and prestigious, shot in the style of a high-end [BRAND TYPE] luxury campaign. 2:3 ar. all four frames clearly shown in full height, no cropping at the bottom or top.
+```
+
+**中文提示词：**
+```
+一则奢侈的 [品牌类型] 品牌广告，以四位时尚的 [女孩/男士] 为主角，每人摆出不同的建筑窗框姿势，每人都以半身向上的中景拍摄，完全在窗框内，手和道具自然地打破了框架边缘，但看不到腿或下半身，以戏剧性和 2×2 对称的网格构图排列。
+
+– 一个人拿着[物体 1]，带着[表情和配饰]
+– 另一人拿着 [物体 2]，带有 [表情和配饰]
+– 另一人拿着 [物体 3] 和 [表情和配饰]
+– 另一人拿着 [物体 4] 和 [表情和配件]
+
+每个人都有富有表现力的面部姿势，将现代时尚与时尚的时装美学融为一体。
+
+以优雅的 [背景颜色和材质] 背景为背景，具有微妙的纹理，并采用明亮的高级时尚工作室灯光，强调轮廓、反射和奢华细节。
+
+拍摄风格为高端 [品牌类型] 奢侈品宣传活动，氛围迷人、标志性、尊贵。2:3 ar。四个画面均清晰地全高显示，底部或顶部均无裁剪。
+```
+
+<a id="prompt-308"></a>
+## 案例 308：人物电影级渲染 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1967989374731038839))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/308.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物电影级渲染">
+<img src="./images/308-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物电影级渲染">
+</div>
+
+**提示词：**
+```
+Full-body shot of a [character + location], with a powerful aura of energy around [him/her] and [visual effect], [action or movement] in a dynamic pose. Realistic photography, cinematic lighting, and hyper-detailed rendering.
+```
+
+**中文提示词：**
+```
+[角色 + 地点] 的全身照，[他/她] 周围充满强大的能量气息，[视觉效果]，[动作或运动] 呈现动态姿势。写实摄影、电影级灯光和超精细渲染。
+```
+
+<a id="prompt-307"></a>
+## 案例 307：字母动物 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1968064255460249637))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/307.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-字母动物">
+</div>
+
+**提示词：**
+```
+A stylized capital letter [Letter] with a cartoon [Animal] intertwined with it, on a solid color background.
+```
+
+**中文提示词：**
+```
+在纯色背景上，一个艺术化设计的大写字母【字母】与一只卡通【动物】相互缠绕的图案。
+```
+
+<a id="prompt-306"></a>
+## 案例 306：分层剪纸插图 (来源 [@azed_ai](https://x.com/azed_ai/status/1968631874663891175))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/306.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-分层剪纸插图">
+<img src="./images/306-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-分层剪纸插图">
+</div>
+
+**提示词：**
+```
+Layered paper-cut illustration of [subject], built with overlapping shapes in soft [color1] and [color2], handcrafted textures, subtle shadows between layers, clean vector edges, centered on a matte cream background, whimsical and modern visual storytelling.
+```
+
+**中文提示词：**
+```
+[主题] 的分层剪纸插图，由柔和的 [颜色 1] 和 [颜色 2] 的重叠形状、手工制作的纹理、层间微妙的阴影、干净的矢量边缘构成，以哑光奶油色背景为中心，呈现出异想天开且现代的视觉叙事。
+```
 
 <a id="prompt-305"></a>
 ## 案例 305：复古漫画风格卡通插画 (来源 [@azed_ai](https://x.com/azed_ai/status/1967180553553330306))
