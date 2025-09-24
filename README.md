@@ -17,6 +17,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 318：益智玩具角色 ](#prompt-318)
+*   [案例 317：6张复古宝丽来照片 ](#prompt-317)
+*   [案例 316：品牌字体 ](#prompt-316)
+*   [案例 315：Funko Pop风格乙烯基公仔 ](#prompt-315)
+*   [案例 314：电影级3D动感广告 ](#prompt-314)
+*   [案例 313：创建您自己的3D漫画 ](#prompt-313)
 *   [案例 312：品牌工作室照片 ](#prompt-312)
 *   [案例 311：切割带有卡通爆炸的物体 ](#prompt-311)
 *   [案例 310：秋天的落叶拼成图案 ](#prompt-310)
@@ -132,6 +138,220 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-318"></a>
+## 案例 318：益智玩具角色 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1969446581788426252))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/318.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-益智玩具角色">
+</div>
+
+**提示词：**
+```
+SUBJECT: Chibi-style [CHARACTER NAME] reimagined as a Puzzle Toy character, ultra-cute proportions with oversized head and tiny stubby body.
+
+MATERIALS:
+Body and head formed entirely from interlocking jigsaw puzzle pieces
+Matte pastel plastic surface with soft specular highlights
+Visible puzzle cuts and notches defining the structure
+Each piece slightly separated by thin seams, but tightly fitted together
+
+DETAILS:
+Large glossy chibi eyes placed across puzzle pieces, seamlessly integrated
+Cute simple mouth outlined on puzzle surface
+Costume colors of [CHARACTER NAME] applied piece-by-piece across the puzzle body, Character is holding a single loose puzzle piece in one hand, lifted playfully, as if showing it to the viewer, Some extra puzzle pieces floating gently around for added fun
+
+STYLE:
+Bright, educational, playful toy aesthetic, Minimal wear, no dirt, no scratches
+
+LIGHTING:
+Soft studio HDRI lighting with gentle shadows, Subtle contact shadows under puzzle seams, High contrast to show piece outlines clearly
+
+CAMERA:
+Centered, front-facing or 3/4 isometric angle, 1:1 aspect ratio, 8K render, Focus sharp on character’s face, emblem, and puzzle piece in hand
+
+BACKGROUND:
+Clean seamless pastel gradient backdrop (COLOR)
+Optional scattered puzzle pieces on the floor for extra context
+
+OUTPUT STYLE: Cute chibi proportions, Puzzle-based
+```
+
+**中文提示词：**
+```
+主题：将Chibi风格的 [角色名称] 重新想象成一个益智玩具角色，具有超大头部和小巧粗短身体的超可爱比例。
+
+材料：
+身体和头部完全由相互锁在一起的拼图碎片组成
+哑光塑料表面，具有柔和的镜面高光
+可见的拼图切口和缺口定义了结构
+每块布料都由细缝稍微隔开，但紧密贴合
+
+细节：
+大而有光泽的Chibi眼睛放置在拼图碎片上，无缝集成
+拼图表面上勾勒出可爱简单的嘴巴
+[角色名称] 的服装颜色逐片应用于拼图主体，角色一只手拿着一块松散的拼图，俏皮地举起，好像在向观众展示它，一些额外的拼图碎片轻轻地漂浮在周围以增加乐趣
+
+风格：
+明亮、有教育意义、好玩的玩具美感，磨损极小，无污垢，无划痕
+
+灯光：
+柔和的工作室 HDRI 照明，柔和的阴影，拼图接缝下微妙的接触阴影，高对比度清晰显示作品轮廓
+
+相机：
+居中、正面或 3/4 等距角度、1:1 宽高比、8K 渲染、清晰聚焦于人物面部、徽章和手中的拼图
+
+背景：
+干净无缝柔和渐变背景（颜色）
+地板上散落的拼图碎片可供选择，以提供额外的背景信息
+
+输出风格：可爱的Q版比例，基于拼图
+```
+
+
+<a id="prompt-317"></a>
+## 案例 317：6张复古宝丽来照片 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1969820383487590795))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/317.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-6张复古宝丽来照片">
+</div>
+
+**提示词：**
+```
+Create an artistic collage of 6 vintage Polaroid photos, attached with a decorative rope and mini clothespins, like a home photo gallery. Each Polaroid frame has a slight fading and an old paper effect. The background is a soft pastel wall with light shadows, creating a cozy and creatively chaotic atmosphere.
+Emotions and poses:
+ * Light laughter — eyes closed, natural joy.
+ * Dreamy gaze upwards, relaxed pose.
+ * Playful wink.
+ * Calm smile with a head tilted to the side.Dynamic gesture hands raised high, full of energy.
+
+* Romantic half-glance over the shoulder.
+
+The atmosphere is an art-retro style with elements of a '70s fashion magazine, soft diffused lighting, and muted warm and golden tones. Each photograph looks like a unique behind-the-scenes shot, with a touch of nostalgia and a sense of personal history.
+```
+
+**中文提示词：**
+```
+用6张复古宝丽来照片，用装饰绳和迷你衣夹固定，打造一个艺术拼贴画，就像一个家庭相册。每个宝丽来相框都略微褪色，并呈现出旧纸效果。背景是一面柔和的粉彩色墙，点缀着浅淡的阴影，营造出一种舒适而又充满创意的混乱氛围。
+情绪和姿势：
+* 轻松的笑声——闭上眼睛，自然的快乐。
+* 梦幻般的目光向上凝视，放松的姿势。
+* 顽皮的眨眼。
+* 平静的微笑，头部歪向一侧。动态的手势，双手高举，充满活力。
+
+* 浪漫地回头瞥了一眼。
+
+店内弥漫着复古艺术的氛围，融合了70年代时尚杂志的元素，柔和的漫射灯光，以及柔和的暖金色色调。每一张照片都像是一张独特的幕后花絮，洋溢着一丝怀旧气息，也透露着个人的点滴历史。
+```
+
+
+<a id="prompt-316"></a>
+## 案例 316：品牌字体 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1940348752969322544))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/316.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌字体">
+</div>
+
+**提示词：**
+```
+Create a typographic illustration shaped like a {OBJECT}, where the text itself forms the shape — bold and playful lettering style that fills the entire silhouette — letters adapt fluidly to the curves and contours of the object — vibrant and contrasting color palette that fits the theme — background is solid and enhances the focus on the main shape — vector-style, clean, high resolution, poster format, 1:1 aspect ratio.
+```
+
+**中文提示词：**
+```
+创建一个形状像 {OBJECT} 的印刷插图，其中文本本身形成形状 - 大胆而俏皮的字体风格填充整个轮廓 - 字母流畅地适应物体的曲线和轮廓 - 充满活力和对比的调色板适合主题 - 背景是纯色并增强了对主要形状的关注 - 矢量风格，干净，高分辨率，海报格式，1：1 宽高比。
+```
+
+
+<a id="prompt-315"></a>
+## 案例 315：Funko Pop风格乙烯基公仔 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1969848678652547334))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/315.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Funko Pop风格乙烯基公仔">
+</div>
+
+**提示词：**
+```
+Funko Pop–style vinyl figure of [CHARACTER NAME] 
+Wearing the iconic outfit and accessories typically associated with [CHARACTER], automatically matching their signature style and details.  
+
+Pose/Expression:
+- Standing, looking upward toward the camera  
+- Expression: curious yet slightly nonchalant  
+
+CAMERA & LENS:
+- Camera positioned directly above, very close  
+- Ultra-wide fisheye lens for dramatic perspective distortion  
+- Gentle rounded frame edges  
+
+LIGHTING & MATERIALS:
+- Soft studio lighting with gentle shadows  
+- Glossy vinyl figure texture for skin and hair  
+- Outfit materials accentuated (e.g. quilted, shiny, matte, etc.) depending on [CHARACTER]’s clothing  
+
+RENDER STYLE:
+- High-resolution 3D render  
+- Clean neutral background (solid or gradient)  
+- Ultra sharp, collectible toy aesthetic
+```
+
+**中文提示词：**
+```
+[角色名称] 的 Funko Pop 风格乙烯基公仔
+身着通常与 [角色] 相关联的标志性服装及配饰，其标志性风格与细节特征均自然呈现。
+姿势 / 表情
+站姿，抬头望向镜头
+表情：好奇中略带漫不经心
+相机与镜头
+相机直接置于正上方，距离极近
+超宽鱼眼镜头，营造极具张力的透视畸变效果
+柔和的圆角画框边缘
+光线与材质
+柔和的工作室灯光，搭配自然阴影
+公仔皮肤与头发采用亮面乙烯基材质质感
+服装材质细节突出（如绗缝、亮面、哑光等），具体依 [角色] 的服饰特点而定
+渲染风格
+高分辨率 3D 渲染
+简洁的中性背景（纯色或渐变色）
+极致清晰的收藏级玩具美学风格
+```
+
+
+<a id="prompt-314"></a>
+## 案例 314：电影级3D动感广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1970017329410191505))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/314.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影级3D动感广告">
+</div>
+
+**提示词：**
+```
+Cinematic 3D action-packed advertisement of [PRODUCT], captured in a dramatic mid-motion scene that embodies its core energy. Use bold studio lighting with intense highlights and deep shadows, dynamic particles, and slow-motion effects to amplify impact. The environment should feel surreal yet hyperrealistic, designed to reflect the product’s personality (crunchy, energetic, fast, luxurious, refreshing, etc.). Integrate the brand logo crafted from product elements if possible, and place a sleek creative slogan beneath it that matches the mood. Composition in 1:1 aspect ratio, hyper-detailed, sharp, bold, and designed to go viral.
+```
+
+**中文提示词：**
+```
+[PRODUCT] 的电影级 3D 动感广告，以戏剧化的中景捕捉，展现其核心能量。运用大胆的影棚灯光、强烈的高光和深邃的阴影、动态粒子和慢动作效果来增强视觉冲击力。环境应营造超现实却又超现实的感觉，旨在体现产品的个性（清爽、活力、快速、奢华、清爽等）。尽可能融入由产品元素精心打造的品牌标识，并在其下方放置一个与氛围相符的时尚创意口号。构图采用 1:1 的宽高比，细节丰富、锐利大胆，旨在打造病毒式传播的效果。
+```
+
+
+<a id="prompt-313"></a>
+## 案例 313：创建您自己的3D漫画 (来源 [@rovvmut_](https://x.com/rovvmut_/status/1970741858365288950))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/313.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建您自己的3D漫画">
+<img src="./images/313-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建您自己的3D漫画">
+</div>
+
+**提示词：**
+```
+A highly stylized 3D caricature of me, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+```
+
+**中文提示词：**
+```
+这是我高度风格化的3D漫画形象，面部特征生动，夸张的笔触俏皮。渲染风格流畅优美，材质干净，环境光柔和。背景采用大胆的色彩，突出人物的魅力和气质。
+```
 
 <a id="prompt-312"></a>
 ## 案例 312：品牌工作室照片 (来源 [@samann_ai](https://x.com/samann_ai/status/1968656265673871644))
