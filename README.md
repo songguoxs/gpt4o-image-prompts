@@ -3,13 +3,15 @@
 
 🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！提示词持续更新中。。。
 
-这里收集了Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 生成图片的精彩案例和提示词（Prompts）。
+最新提示词可以去我的微信公众号和X查看。
+
+微信公众号：松果先森
+我的X地址：https://x.com/songguoxiansen
 
 ---
 <a id="join_chat"></a>
-## 加入群聊《AI交流群-GPT4o提示词》
+## 扫一扫加入群聊《AI技术学习交流群》，备注：github，共同学习交流Nano Banana、GPT-5、Veo3、Wan2.2-Animate等AI技术
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/groupchat.jpg" style="width: 48%;">
 <img src="./images/wechat.jpg" style="width: 48%;">
 </div>
 
