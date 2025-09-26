@@ -3,7 +3,7 @@
 
 🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！
 
-提示词持续更新中。。。
+🎉 提示词持续更新中。。。
 
 ---
 <a id="join_chat"></a>
@@ -22,6 +22,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 324：波普艺术肖像 ](#prompt-324)
+*   [案例 323：角色创建 ](#prompt-323)
+*   [案例 322：产品的工作室照片 ](#prompt-322)
+*   [案例 321：产品超逼真的CGI镜头 ](#prompt-321)
+*   [案例 320：物体变成大胆的卡通滴水 ](#prompt-320)
+*   [案例 319：照片级逼真的概念食物艺术肖像 ](#prompt-319)
 *   [案例 318：益智玩具角色 ](#prompt-318)
 *   [案例 317：6张复古宝丽来照片 ](#prompt-317)
 *   [案例 316：品牌字体 ](#prompt-316)
@@ -143,6 +149,135 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-324"></a>
+## 案例 324：波普艺术肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1969543847597277339))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/324.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-波普艺术肖像">
+<img src="./images/324-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-波普艺术肖像">
+</div>
+
+**提示词：**
+```
+A vibrant, stylized pop art portrait of a [Subject]. The subject is rendered with bold, clean lines and a strong outline, reminiscent of graphic novels or character design. The [Subject] is wearing a [Color] top/jacket and [accessories]. Their hair is dynamically styled and well-groomed. The background is a solid, clean [Background Colour], ensuring the subject pops. The overall style is modern, charismatic, and slightly exaggerated for artistic effect, with crisp digital rendering and vibrant color saturation.
+```
+
+**中文提示词：**
+```
+这幅充满活力、风格独特的波普艺术肖像画描绘了一位[人物]。画中人物的线条粗犷、轮廓分明，令人联想起漫画小说或人物设计。[人物]身穿[颜色]上衣/夹克，搭配[配饰]。他们的发型充满活力，精心打理。背景为纯色、干净的[背景色]，确保人物形象突出。整体风格现代、魅力十足，略带夸张的艺术效果，数字渲染清晰，色彩饱和度高。
+```
+
+
+<a id="prompt-323"></a>
+## 案例 323：角色创建 (来源 [@AleRVG](https://x.com/AleRVG/status/1971286211374252352))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/323.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-角色创建">
+<img src="./images/323-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-角色创建">
+</div>
+
+**提示词：**
+```
+3d rendering, c4d, cartoon style, [ACTION-DRIVEN CHARACTER IN EXAGGERATED POSE, EXPRESSING IRONY OR DEFIANCE], [MINIMAL BACKGROUND OF CONTEXTUAL SETTING], minimalist art style, simple design, high resolution, no low-quality details, high detail,best quality, professional photography, depth of field, soft lighting, sharp focus, cinematic lighting, cinematic camera settings
+```
+
+**中文提示词：**
+```
+3D 渲染、C4D、卡通风格、[动作驱动角色的夸张姿势，表达讽刺或反抗]、[情境设置的最小背景]、极简艺术风格、简约设计、高分辨率、无低质量细节、高细节、最佳质量、专业摄影、景深、柔和灯光、清晰对焦、电影灯光、电影摄像机设置]
+```
+
+
+<a id="prompt-322"></a>
+## 案例 322：产品的工作室照片 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1969779989282246838))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/322.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-产品的工作室照片">
+</div>
+
+**提示词：**
+```
+A high-quality studio photograph of a [BRAND] fully covered in ultra-realistic [ANIMAL] texture (e.g., fur, feathers, skin, or scales), placed against a soft neutral background. The object’s original shape, key design elements, and brand identity remain clearly visible beneath the animal’s organic surface. Integrate the official logo of the brand prominently into the composition. Automatically generate a compelling and brand-appropriate slogan that draws symbolic inspiration from the animal’s qualities and matches the tone of a premium advertising campaign. The image must feature clean composition, soft shadows, minimalist styling, professional lighting, and highly detailed textures—each hair, scale, or wrinkle should be visible in sharp detail. Format 1:1.
+```
+
+**中文提示词：**
+```
+一张高质量的工作室照片，[品牌] 全身覆盖超逼真的 [动物] 纹理（例如毛皮、羽毛、皮肤或鳞片），置于柔和的中性背景中。在动物的自然表皮下，物体的原始形状、关键设计元素和品牌标识清晰可见。将品牌官方标识醒目地融入构图。自动生成引人注目且契合品牌形象的宣传语，该宣传语应从动物的特质中汲取象征性灵感，并与高端广告宣传的基调相符。图片必须构图清晰、阴影柔和、造型简约、灯光专业，并具有高度精细的纹理——每根毛发、鳞片或皱纹都应清晰可见。格式 1:1。
+```
+
+
+<a id="prompt-321"></a>
+## 案例 321：产品超逼真的CGI镜头 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1969500341696614569))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/321.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-产品超逼真的CGI镜头">
+</div>
+
+**提示词：**
+```
+Ultra-realistic CGI shot of a giant [PRODUCT NAME HERE], seamlessly integrated into a matching real-world environment that reflects the product’s identity, surrounded by context-specific city or nature elements, cinematic composition with natural shadows and photorealistic reflections, high Kelvin sunlight for neutral lighting, captured in HDR 8K DSLR quality, surreal yet believable visual integration, brand logo clearly visible, slogan dynamically adapted to the product’s character, dramatic and immersive atmosphere, aspect ratio 2:3
+```
+
+**中文提示词：**
+```
+超逼真的CGI镜头，拍摄一个巨大的 [此处填写产品名称]，无缝融入到反映产品特性的现实环境中，周围环绕着特定环境的城市或自然元素，具有自然阴影和逼真反射的电影构图，高开尔文阳光用于中性照明，以 HDR 8K DSLR 质量捕捉，超现实但可信的视觉融合，品牌标识清晰可见，标语根据产品特性动态调整，戏剧性和沉浸式氛围，宽高比为 2:3
+```
+
+<a id="prompt-320"></a>
+## 案例 320：物体变成大胆的卡通滴水 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1969324325162324163))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/320.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-物体变成大胆的卡通滴水">
+</div>
+
+**提示词：**
+```
+Transform the [OBJECT] from the uploaded photo into a bold, colorful cartoon illustration style, while keeping the rest of the photo realistic and unchanged. 
+
+Cartoon style details: thick black outlines, vibrant flat colors (such as bright cyan, magenta, yellow, pink), dripping paint and splash effects, playful comic-book energy.  most drips flow downwards
+The cartoon object should look like it is melting or bursting with colors, blending naturally into the real photo. 
+
+Keep all other elements (background, other objects, environment) photorealistic with no alterations. 
+High resolution, pop-art aesthetic, surreal contrast between realism and cartoon.
+```
+
+**中文提示词：**
+```
+将上传照片中的 [OBJECT] 转换为大胆、色彩鲜艳的卡通插图风格，同时保持照片的其余部分真实且不变。
+
+卡通风格细节：粗黑色轮廓，鲜艳的平面色彩（如亮青色、洋红色、黄色、粉红色），滴落的油漆和飞溅效果，俏皮的漫画风格。大多数滴落的油漆向下流动
+卡通物体看起来应该像是融化了或者迸发出色彩，自然地融入到真实的照片中。
+
+保持所有其他元素（背景、其他物体、环境）的真实感，不做任何改动。
+高分辨率、波普艺术美学、现实主义与卡通之间的超现实对比。
+```
+
+
+<a id="prompt-319"></a>
+## 案例 319：照片级逼真的概念食物艺术肖像 (来源 [@AleRVG](https://x.com/AleRVG/status/1969145551846363567))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/319.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片级逼真的概念食物艺术肖像">
+<img src="./images/319-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片级逼真的概念食物艺术肖像">
+</div>
+
+**提示词：**
+```
+Photorealistic conceptual food art portrait, a minimalist representation of a [SITE OF THE HOUSE] recreated entirely with [TYPE OF FOOD]. The main structure is built from [MAIN INGREDIENTS], with details such as [KEY ELEMENTS] made from [SECONDARY INGREDIENTS]. Optional features include [ADDITIONAL OBJECTS OR FURNITURE] created from [EXTRA INGREDIENTS].
+
+Set against a [COLOR] background to emphasize the surreal food sculpture. Bright soft studio lighting, evenly diffused, casting subtle natural shadows that highlight the textures of [FOOD TEXTURES]. Fine atmospheric detail enhance realism.
+
+Captured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing on the cake-bed sculpture, crisp detail with soft falloff in the background. Composition framed at tabletop eye-level, medium close-up, perfectly centered. Clean high-resolution food photography style, vibrant natural colors, editorial dessert photography aesthetic
+```
+
+**中文提示词：**
+```
+照片级逼真的概念食物艺术肖像，极简主义地再现了[房屋位置]，完全由[食物种类]重新打造。主体结构由[主要成分]构成，细节部分，例如[关键元素]，则由[次要成分]制成。可选功能包括由[额外成分]打造的[附加物品或家具]。
+
+以[颜色]为背景，突显超现实的食物雕塑。明亮柔和的摄影棚灯光，均匀散射，投射出微妙的自然阴影，凸显[食物纹理]的质感。精致的氛围细节增强了真实感。
+
+使用佳能 EOS 5D 85mm f/1.8 镜头拍摄，浅景深聚焦于蛋糕床雕塑，细节清晰，背景边缘柔和。构图以桌面视线高度为准，中距特写，完美居中。清晰的高分辨率美食摄影风格，鲜艳自然的色彩，堪称甜品摄影的美学典范。
+```
 
 <a id="prompt-318"></a>
 ## 案例 318：益智玩具角色 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1969446581788426252))
