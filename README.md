@@ -1,16 +1,19 @@
 <a id="readme-top"></a>
 # Nano Banana(nanobanana)/GPT-5/GPT-4o/豆包 Image Prompts
 
-🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！提示词持续更新中。。。
+🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！
 
-最新提示词可以去我的微信公众号和X查看。
-
-微信公众号：松果先森
-我的X地址：https://x.com/songguoxiansen
+提示词持续更新中。。。
 
 ---
 <a id="join_chat"></a>
-## 扫一扫加入群聊《AI技术学习交流群》，备注：github，共同学习交流Nano Banana、GPT-5、Veo3、Wan2.2-Animate等AI技术
+## 获取最新提示词？你可以通过这三个渠道。
+
+1、微信公众号：松果先森
+
+2、我的X地址：https://x.com/songguoxiansen
+
+3、扫一扫，拉你进大群《AI技术学习交流群》，共同学习交流Nano Banana、GPT-5、Veo3、Wan2.2-Animate等AI技术
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/wechat.jpg" style="width: 48%;">
 </div>
