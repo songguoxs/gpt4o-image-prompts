@@ -11,7 +11,7 @@
     <div style="flex: 1; width: 300px;" align="left">
       <p>1、微信公众号：松果先森</p>
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
-      <p>3、扫一扫，拉你进大群《AI技术学习交流群》，学习交流Nano Banana、GPT-5、Veo3等AI技术</p>
+      <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </div>
     <div style="flex: 1; align: right;">
       <img src="./images/wechat.jpg" style="width: 30%; height: 30%;">
