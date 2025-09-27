@@ -6,7 +6,8 @@
 🎉 提示词持续更新中。。。
 
 ## 获取最新提示词？你可以通过这3个渠道。
-<table style="width: 98%;">
+<div style="width: 98%;">
+<table>
   <tr>
     <!-- 左侧文字单元格 -->
     <td style="width: 60%; padding: 2px; vertical-align: middle; border: none;">
@@ -20,6 +21,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
