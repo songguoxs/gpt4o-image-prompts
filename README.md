@@ -6,20 +6,20 @@
 🎉 提示词持续更新中。。。
 
 ## 获取最新提示词？你可以通过这3个渠道。
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- 左侧文字：用 min-width 替代 width，保留弹性 -->
-    <div style="flex: 1; min-width: 300px;" align="left">
-      <p>1、微信公众号：松果先森</p>
-      <p>2、我的X地址：https://x.com/songguoxiansen</p>
-      <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
-    </div>
-    <!-- 右侧图片：同样用 min-width，图片尺寸可适当调大 -->
-    <div style="flex: 1; min-width: 300px;" align="right">
-      <img src="./images/wechat.jpg" style="width: 50%; height: auto;"> <!-- 建议用 auto 保持比例 -->
-    </div>
+<div style="display: flex; width: 100%; max-width: 1000px; margin: 0 auto;">
+  <!-- 左侧文字区域：固定占比60% -->
+  <div style="width: 60%; padding-right: 20px;">
+    <p>1、微信公众号：松果先森</p>
+    <p>2、我的X地址：https://x.com/songguoxiansen</p>
+    <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
+  </div>
+  
+  <!-- 右侧图片区域：固定占比40% -->
+  <div style="width: 40%; text-align: right;">
+    <img src="./images/wechat.jpg" style="max-width: 150px; height: auto; margin: 0;">
   </div>
 </div>
+
 
 ---
 
