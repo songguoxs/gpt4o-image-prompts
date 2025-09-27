@@ -6,19 +6,20 @@
 🎉 提示词持续更新中。。。
 
 ## 获取最新提示词？你可以通过这3个渠道。
-<div style="display: flex; width: 100%; max-width: 1000px; margin: 0 auto;">
-  <!-- 左侧文字区域：固定占比60% -->
-  <div style="width: 60%; padding-right: 20px;">
-    <p>1、微信公众号：松果先森</p>
-    <p>2、我的X地址：https://x.com/songguoxiansen</p>
-    <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
-  </div>
-  
-  <!-- 右侧图片区域：固定占比40% -->
-  <div style="width: 40%; text-align: right;">
-    <img src="./images/wechat.jpg" style="max-width: 150px; height: auto; margin: 0;">
-  </div>
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- 左侧文字单元格 -->
+    <td style="width: 50%; padding: 2px; vertical-align: middle; border: none;">
+      <p>1、微信公众号：松果先森</p>
+      <p>2、我的X地址：https://x.com/songguoxiansen</p>
+      <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
+    </td>
+    <!-- 右侧图片单元格 -->
+    <td style="width: 50%; padding: 2px; text-align: right; vertical-align: middle; border: none;">
+      <img src="./images/wechat.jpg" alt="微信二维码" style="max-width: 30%; height: auto; margin: 0;">
+    </td>
+  </tr>
+</table>
 
 
 ---
