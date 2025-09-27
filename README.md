@@ -8,13 +8,15 @@
 ## 获取最新提示词？你可以通过这3个渠道。
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; width: 300px;" align="left">
+    <!-- 左侧文字：用 min-width 替代 width，保留弹性 -->
+    <div style="flex: 1; min-width: 300px;" align="left">
       <p>1、微信公众号：松果先森</p>
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </div>
-    <div style="flex: 1; width: 300px;" align="center">
-      <img src="./images/wechat.jpg" style="width: 30%; height: 30%;">
+    <!-- 右侧图片：同样用 min-width，图片尺寸可适当调大 -->
+    <div style="flex: 1; min-width: 300px;" align="right">
+      <img src="./images/wechat.jpg" style="width: 50%; height: auto;"> <!-- 建议用 auto 保持比例 -->
     </div>
   </div>
 </div>
