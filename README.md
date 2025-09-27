@@ -13,7 +13,7 @@
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </div>
-    <div style="flex: 1; width: 300px;" align="right">
+    <div style="flex: 1; width: 300px;" align="center">
       <img src="./images/wechat.jpg" style="width: 30%; height: 30%;">
     </div>
   </div>
