@@ -15,8 +15,8 @@
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </td>
     <!-- 右侧图片单元格 -->
-    <td style="width: 40%; padding: 2px; text-align: right; vertical-align: middle; border: none;">
-      <img src="./images/wechat.jpg" alt="微信二维码" style="max-width: 280px; height: auto; margin: 0;">
+    <td style="width: 38%; padding: 2px;">
+      <img src="./images/wechat.jpg" style="width: 280px; height: auto; margin: 0;">
     </td>
   </tr>
 </table>
