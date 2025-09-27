@@ -6,7 +6,7 @@
 🎉 提示词持续更新中。。。
 
 ## 获取最新提示词？你可以通过这3个渠道。
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 98%;">
   <tr>
     <!-- 左侧文字单元格 -->
     <td style="width: 60%; padding: 2px; vertical-align: middle; border: none;">
@@ -16,7 +16,7 @@
     </td>
     <!-- 右侧图片单元格 -->
     <td style="width: 38%; padding: 2px;">
-      <img src="./images/wechat.jpg" style="width: 280px; height: auto; margin: 0;">
+      <img src="./images/wechat.jpg" style="width: 300px; height: auto; margin: 0;">
     </td>
   </tr>
 </table>
