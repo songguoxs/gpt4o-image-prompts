@@ -8,7 +8,7 @@
 ## 获取最新提示词？你可以通过这三个渠道。
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 300px;" align="left">
+    <div style="flex: 1; width: 300px;" align="left">
       <p>1、微信公众号：松果先森</p>
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》，学习交流Nano Banana、GPT-5、Veo3等AI技术</p>
