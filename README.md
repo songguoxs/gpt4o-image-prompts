@@ -15,7 +15,7 @@
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </td>
     <!-- 右侧图片单元格 -->
-    <td style="width: 38%; padding: 2px;">
+    <td>
       <img src="./images/wechat.jpg" style="width: 300px; height: auto; margin: 0;">
     </td>
   </tr>
