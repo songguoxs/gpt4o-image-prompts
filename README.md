@@ -5,15 +5,15 @@
 
 🎉 提示词持续更新中。。。
 
-<div style="display: flex; justify-content: space-between;">
+---
 ## 获取最新提示词？你可以通过这三个渠道。
-
+<div style="display: flex; justify-content: space-between;">
 1、微信公众号：松果先森
 
 2、我的X地址：https://x.com/songguoxiansen
 
 3、扫一扫，拉你进大群《AI技术学习交流群》，共同学习交流Nano Banana、GPT-5、Veo3、Wan2.2-Animate等AI技术	
-<img src="./images/wechat.jpg" style="width: 48%;">
+<img src="./images/wechat.jpg" style="width: 30%;">
 </div>
 
 ---
