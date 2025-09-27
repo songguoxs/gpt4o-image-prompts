@@ -5,7 +5,7 @@
 
 🎉 提示词持续更新中。。。
 
-## 获取最新提示词？你可以通过这三个渠道。
+## 获取最新提示词？你可以通过这3个渠道。
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1; width: 300px;" align="left">
@@ -13,7 +13,7 @@
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </div>
-    <div style="flex: 1; align: right;">
+    <div style="flex: 1; width: 300px;" align="right">
       <img src="./images/wechat.jpg" style="width: 30%; height: 30%;">
     </div>
   </div>
