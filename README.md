@@ -9,14 +9,14 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- 左侧文字单元格 -->
-    <td style="width: 50%; padding: 2px; vertical-align: middle; border: none;">
+    <td style="width: 60%; padding: 2px; vertical-align: middle; border: none;">
       <p>1、微信公众号：松果先森</p>
       <p>2、我的X地址：https://x.com/songguoxiansen</p>
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》</p>
     </td>
     <!-- 右侧图片单元格 -->
-    <td style="width: 50%; padding: 2px; text-align: right; vertical-align: middle; border: none;">
-      <img src="./images/wechat.jpg" alt="微信二维码" style="max-width: 30%; height: auto; margin: 0;">
+    <td style="width: 40%; padding: 2px; text-align: right; vertical-align: middle; border: none;">
+      <img src="./images/wechat.jpg" alt="微信二维码" style="max-width: 280px; height: auto; margin: 0;">
     </td>
   </tr>
 </table>
