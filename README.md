@@ -14,7 +14,7 @@
       <p>3、扫一扫，拉你进大群《AI技术学习交流群》，学习交流Nano Banana、GPT-5、Veo3等AI技术</p>
     </div>
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="./images/wechat.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+      <img src="./images/wechat.jpg" style="max-width: 30%; height: auto; border-radius: 8px;">
     </div>
   </div>
 </div>
