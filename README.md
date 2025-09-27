@@ -6,13 +6,17 @@
 🎉 提示词持续更新中。。。
 
 ## 获取最新提示词？你可以通过这三个渠道。
-<div style="display: flex; justify-content: space-between;">
-1、微信公众号：松果先森
-
-2、我的X地址：https://x.com/songguoxiansen
-
-3、扫一扫，拉你进大群《AI技术学习交流群》，学习交流Nano Banana、GPT-5、Veo3、Wan2.2-Animate等AI技术	
-<img src="./images/wechat.jpg" style="width: 30%;">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+      <p>1、微信公众号：松果先森</p>
+      <p>2、我的X地址：https://x.com/songguoxiansen</p>
+      <p>3、扫一扫，拉你进大群《AI技术学习交流群》，学习交流Nano Banana、GPT-5、Veo3等AI技术</p>
+    </div>
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="./images/wechat.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+    </div>
+  </div>
 </div>
 
 ---
