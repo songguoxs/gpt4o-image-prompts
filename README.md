@@ -25,6 +25,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 333：女生坐沙发上 ](#prompt-333)
+*   [案例 332：女生镜子自拍 ](#prompt-332)
+*   [案例 331：走廊上的女性 ](#prompt-331)
+*   [案例 330：照片级室内躺姿人像 ](#prompt-330)
+*   [案例 329：美女竖拍肖像 ](#prompt-329)
+*   [案例 328：工作室写真风格照片 ](#prompt-328)
+*   [案例 327：美女电影感肖像画 ](#prompt-327)
+*   [案例 326：电影感街头美女摄影 ](#prompt-326)
+*   [案例 325：美女时尚摄影 ](#prompt-325)
 *   [案例 324：波普艺术肖像 ](#prompt-324)
 *   [案例 323：角色创建 ](#prompt-323)
 *   [案例 322：产品的工作室照片 ](#prompt-322)
@@ -152,6 +161,979 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-333"></a>
+## 案例 333：女生坐沙发上 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1975554358495654236))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/333.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生坐沙发上">
+</div>
+
+**提示词：**
+```
+{
+  "style": "High-key studio portrait, direct flash aesthetic, East Asian social media style (e.g., Ulzzang, Douyin), stylized beauty retouching.",
+  "output": {
+    "color_profile": "sRGB",
+    "render_intent": "photo"
+  },
+  "subject": {
+    "category": "human",
+    "gender_presentation": "female",
+    "ethnicity": "East Asian (e.g., Korean, Chinese)",
+    "age_bracket": "young_adult",
+    "body": {
+      "build": "slim",
+      "proportions": "natural human anatomy",
+      "posture": "relaxed on sofa, seated casually",
+      "pose": "seated, legs crossed and tucked close to body",
+      "gesture": "Right hand raised, fingers loosely curled, back of fingers/knuckles gently supporting the chin and lower cheek.",
+      "head_tilt_deg": 5
+    },
+    "face": {
+      "expression": "Playful, alluring",
+      "gaze": "right eye direct to camera",
+      "eye_action": "winking with the left eye",
+      "skin_tone": "Very pale porcelain (lightened aesthetic)",
+      "makeup": "Stylized K-Beauty/Douyin look: flawless matte base, strong pink blush high on cheeks, pink gradient lips, defined brows, light eyeliner, emphasized Aegyo-sal",
+      "features": "small beauty mark/mole under the left eye"
+    },
+    "hair": {
+      "length": "long",
+      "style": "messy high updo/bun with loose strands and curtain bangs",
+      "color": "dark brown"
+    },
+    "wardrobe": {
+      "top": "white fitted cropped camisole",
+      "outerwear": "light gray zip hoodie, worn open and slightly slipping off both shoulders",
+      "bottom": "white lounge shorts with drawstring",
+      "footwear": "barefoot"
+    }
+  },
+  "environment": {
+    "location": "studio or minimalist interior",
+    "set": "black leather sofa against a plain white or light gray wall",
+    "props": "Silver laptop (Apple MacBook, logo visible) placed on the cushion to the subject's right (camera left)"
+  },
+  "lighting": {
+    "key": {
+      "source": "strobe/flash",
+      "modifier": "Bare reflector or direct flash (hard source)",
+      "position": "Near camera axis, slightly camera-right and above eye line",
+      "effect": "Crisp, dark, well-defined cast shadows on the wall directly behind subject; strong specular highlights on skin and sofa leather."
+    },
+    "fill": {
+      "type": "minimal/none"
+    },
+    "ambient": "suppressed",
+    "white_balance_K": 5800
+  },
+  "camera": {
+    "system": "Digital Camera",
+    "sensor": "full-frame equivalent",
+    "lens": {
+      "type": "prime",
+      "focal_length_mm": 50
+    },
+    "exposure": {
+      "iso": 100,
+      "aperture_f": 4.0,
+      "metering": "Bright exposure, high-key aesthetic"
+    },
+    "focus": {
+      "target": "near eye (right eye)",
+      "depth_of_field": "moderate"
+    },
+    "framing": {
+      "orientation": "vertical",
+      "crop": "mid-thigh to head with room above hair",
+      "angle": "eye-level",
+      "composition": "subject centrally framed"
+    }
+  },
+  "color_grade": {
+    "look": "Bright, clean, slightly cool tone",
+    "contrast": "High contrast",
+    "saturation": "moderate, emphasized pinks"
+  },
+  "postprocess": {
+    "noise_reduction": "high",
+    "texture": "Highly smoothed skin, poreless appearance ('porcelain doll' or 'beauty filter' effect)",
+    "sharpen": "selective on eyes/lashes",
+    "blemish_control": "Complete removal of all blemishes and texture."
+  },
+  "quality_targets": [
+    "accurate limb lengths and joint angles",
+    "correct finger count and articulation",
+    "realistic fabric tension and folds",
+    "accurate winking expression"
+  ],
+  "negative_prompt": [
+    "no altered or exaggerated body proportions",
+    "no extra or fused fingers",
+    "no realistic skin texture, pores, or blemishes",
+    "no text or watermarks (excluding specified logos)",
+    "no extreme wide-angle distortion",
+    "no NSFW content",
+    "no dark/moody lighting",
+    "no warm tones"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"style": "高调影棚人像，闪光灯直击美感，东亚社交媒体风格（例如Ulzzang、抖音），风格化美颜修图。",
+“输出”： {
+"color_profile": "sRGB",
+"render_intent": "照片"
+}，
+“主题”： {
+“类别”：“人类”，
+"gender_presentation": "女性",
+"ethnicity": "东亚人（例如韩国人、中国人）",
+"age_bracket": "young_adult",
+“身体”： {
+"build": "slim",
+"比例": "自然人体解剖学",
+"posture": "放松地坐在沙发上，随意地坐着",
+"pose": "坐着，双腿交叉，身体紧贴身体",
+"gesture": "右手举起，手指松散地卷曲，手指背面/指关节轻轻支撑下巴和下脸颊。",
+“头部倾斜度”：5
+}，
+“脸”： {
+"expression": "俏皮、诱人",
+"gaze": "右眼直视相机",
+"eye_action": "用左眼眨眼",
+"skin_tone": "非常苍白的瓷器（明亮的美学）",
+"makeup": "风格化的韩妆/抖音妆容：完美哑光底妆，脸颊上浓重的粉色腮红，粉色渐变唇妆，清晰的眉毛，淡淡的眼线，强调的撒娇，
+"features": "左眼下方有一颗小美人痣"
+}，
+“头发”： {
+"length": "长",
+"style": "凌乱的高髻/发髻，散落的发束和窗帘刘海",
+“颜色”：“深棕色”
+}，
+“衣柜”： {
+"top": "白色修身短款吊带背心",
+“外套”：“浅灰色拉链连帽衫，敞开穿着，双肩略微滑落”，
+"bottom": "白色抽绳休闲短裤",
+“鞋类”：“赤脚”
+}
+}，
+“环境”： {
+"location": "工作室或简约室内",
+"set": "黑色皮沙发搭配纯白色或浅灰色墙壁",
+"props": "银色笔记本电脑（Apple MacBook，标志可见）放置在拍摄对象右侧的垫子上（相机左侧）"
+}，
+“灯光”： {
+“钥匙”： {
+"source": "频闪/闪光",
+"modifier": "裸露的反射器或直接闪光（硬源）",
+"position": "靠近相机轴，略微位于相机右侧且高于视线",
+"effect": "拍摄对象正后方的墙壁上投射出清晰、暗淡、轮廓分明的阴影；皮肤和沙发皮革上出现强烈的镜面高光。"
+}，
+“充满”： {
+“类型”：“最小/无”
+}，
+“环境”：“抑制”，
+“白平衡K”：5800
+}，
+“相机”： {
+"system": "数码相机",
+“传感器”：“全画幅等效”，
+“镜片”： {
+“类型”：“主要”，
+“焦距毫米”：50
+}，
+“接触”： {
+"iso": 100,
+"aperture_f": 4.0,
+“测光”：“明亮的曝光，高调的美感”
+}，
+“重点”： {
+"target": "近眼（右眼）",
+"depth_of_field": "中等"
+}，
+“框架”：{
+“方向”：“垂直”，
+"crop": "从大腿中部到头部，头发上方有空间",
+"角度": "视线水平",
+"composition": "主体居中"
+}
+}，
+“颜色等级”：{
+"look": "明亮、干净、略带冷色调",
+"contrast": "高对比度",
+“饱和度”：“中等，强调粉红色”
+}，
+“后处理”：{
+"noise_reduction": "高",
+"texture": "肌肤高度光滑，无毛孔外观（‘瓷娃娃’或‘美颜滤镜’效果）",
+“锐化”：“选择性地针对眼睛/睫毛”，
+"blemish_control": "彻底去除所有瑕疵和纹理。"
+}，
+"质量目标": [
+“准确的肢体长度和关节角度”，
+“正确的手指计数和发音”，
+“逼真的织物张力和褶皱”，
+“精准的眨眼表情”
+]，
+"negative_prompt": [
+“没有改变或夸大身体比例”，
+“没有多余的或融合的手指”，
+“没有真实的皮肤纹理、毛孔或瑕疵”，
+“无文字或水印（指定徽标除外）”，
+“没有极端的广角畸变”，
+“禁止 NSFW 内容”，
+“没有黑暗/忧郁的灯光”，
+“没有暖色调”
+]
+}
+```
+
+
+<a id="prompt-332"></a>
+## 案例 332：女生镜子自拍 (来源 [@dotey](https://x.com/dotey/status/1976485558319722711))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/332.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生镜子自拍">
+</div>
+
+**中文提示词：**
+```
+### **场景**
+镜子自拍，御宅族电脑角落，蓝色调
+
+---
+
+### **主体**
+* **性别表现**: 女性
+* **年龄段**: 25岁左右
+* **种族**: 东亚
+* **身材**: 苗条，腰线分明；身材比例自然
+* **肤色**: 浅中性色调
+* **发型**:
+    * **长度**: 及腰长发
+    * **样式**: 直发，发尾微卷
+    * **颜色**: 中等棕色
+* **姿势**:
+    * **站姿**: 站立，轻微的对立式平衡站姿（contrapposto）
+    * **右手**: 手持手机挡住脸（身份被遮挡）
+    * **左臂**: 在躯干旁自然下垂
+    * **躯干**: 身体轻微后仰；露出腰腹
+* **着装**:
+    * **上衣**: 浅蓝色短款针织开衫，扣上前两颗纽扣；隐约可见蓝色法式内衣
+    * **下装**: 牛仔超短裤，两侧臀部各有一个蓝色缎带蝴蝶结
+    * **袜子**: 蓝白横条纹过膝长袜
+    * **配饰**: 蓝色可爱吉祥物手机壳
+
+---
+
+### **环境**
+* **描述**: 从挂墙镜中看到的卧室电脑角落
+* **陈设**:
+    * 白色书桌
+    * 单显示器，显示着柔和的蓝色壁纸（没有可读的文字）
+    * 机械键盘，白色键帽，放在蓝色桌垫上
+    * 鼠标，放在小号蓝色鼠标垫上
+    * PC主机在右侧，带有蓝色机箱灯效
+    * PC主机上或附近有三个动漫手办
+    * 墙上贴着一张佛塔海报
+    * 猫形台灯，带有蓝色点缀
+    * 一杯透明的玻璃水杯
+    * 窗边（镜头左侧）有一株高大的绿叶植物
+* **颜色替换**: 将所有原先的粉色元素（衣物和房间）替换为蓝色（婴儿蓝 -> 天空蓝/长春花蓝）。
+
+---
+
+### **灯光**
+* **光源**: 来自镜头左侧大窗户的日光，透过薄纱窗帘
+* **光线质感**: 柔和的漫射光
+* **白平衡 (K)**: 5200
+
+---
+
+### **相机**
+* **模式**: 智能手机后置摄像头通过镜子拍摄（无肖像/虚化模式）
+* **等效焦距 (mm)**: 26
+* **距离 (米)**:
+    * 主体到镜子: 0.6
+    * 相机到镜子: 0.5
+* **曝光**:
+    * 光圈 (f): 1.8
+    * 感光度 (ISO): 100
+    * 快门速度 (秒): 0.01
+    * 曝光补偿 (EV): -0.3
+* **对焦**: 对焦于镜中影像的躯干和短裤
+* **景深**: 自然的智能手机景深（深景深）；背景清晰可辨，无人为模糊
+* **构图**:
+    * **宽高比**: 1:1
+    * **裁剪**: 从头顶到大腿中部；画面包含书桌、显示器、PC主机和植物
+    * **角度**: 从镜子的视角轻微俯拍
+    * **构图备注**: 保持主体居中；为避免广角边缘拉伸，可以站远一些再进行方形裁剪
+
+---
+
+### **负面提示词**
+* 任何地方出现粉色/品红色
+* 美颜滤镜/磨皮皮肤；没有毛孔的外观
+* 夸张或扭曲的人体结构
+* NSFW，透视面料，走光
+* 商标，品牌名，可读的用户界面文本
+* 虚假的人像模式模糊，CGI/插画感
+```
+
+
+<a id="prompt-331"></a>
+## 案例 331：走廊上的女性 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1974108838929576299))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/331.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-走廊上的女性">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "environment": {
+      "location_type": "modern gallery hallway",
+      "left_wall": "black-and-white optical swirl mural, matte finish",
+      "right_wall": "framed monochrome manga panels with sparse Japanese onomatopoeia",
+      "floor": "light gray polished tile with 2x2 m matte gray vinyl sheet under subject to kill reflections",
+      "depth": "short corridor depth with subtle falloff",
+      "clutter": "none"
+    },
+    "time": "indoors, artificial light",
+    "mood": "cool, composed, slightly mysterious",
+    "color_palette": "neutral-cool grays, olive top, desaturated denim blues"
+  },
+  "subject": {
+    "type": "human",
+    "gender": "female",
+    "approx_age": "early 20s",
+    "appearance": {
+      "skin_tone": "fair-light with neutral undertone",
+      "hair": "jet-black, very long, straight, center part; clean specular sheen",
+      "face": "oval face, soft makeup, subtle gloss on lips, light eyeliner and mascara",
+      "earrings": "large silver hoop earrings"
+    },
+    "wardrobe": {
+      "top": "fitted olive/khaki ribbed tank with small rhinestone cross motifs (check glue before shoot)",
+      "bottom": "high-waisted distressed denim shorts with heavy frayed hem and beige repair patches (tape rear hem flat)",
+      "footwear": "out_of_frame"
+    },
+    "pose": {
+      "stance": "leans back and slightly left with head resting against mural wall",
+      "torso": "relaxed, angled 10–15° to camera",
+      "arms_hands": "right arm behind torso/out_of_frame, left arm relaxed by side",
+      "expression": "calm, neutral-to-soft gaze past camera",
+      "chin": "slightly down; head tilt toward left shoulder"
+    }
+  },
+  "framing_composition": {
+    "shot_type": "mid-thigh portrait (three-quarter length)",
+    "orientation": "vertical",
+    "framing": "subject placed on left third; right third shows manga panels",
+    "leading_lines": "doorframe/panel edges vertical; swirl mural adds texture without overpowering subject",
+    "background_separation": "subtle; background softly defocused but still readable"
+  },
+  "camera": {
+    "sensor": "full-frame mirrorless",
+    "lens": {
+      "focal_length_mm": 50,
+      "type": "prime",
+      "character": "neutral rendering, low distortion"
+    },
+    "settings": {
+      "aperture": "f/3.2",
+      "shutter_speed": "1/250",
+      "iso": 400,
+      "white_balance": "custom grey-card @ 4600 K",
+      "focus": "eye-AF + 3-frame focus bracket (±1 cm)",
+      "stabilisation": "IBIS on"
+    },
+    "perspective": "camera at chest level; minimal keystoning; maintain straight verticals"
+  },
+  "lighting": {
+    "key": "broad, soft overhead/ceiling panel light",
+    "fill": "60×60 cm white bounce 30 cm below bust line, ~1.3 stops under key",
+    "rim": "narrow 1×2 ft strip-light behind subject camera-right, ½ stop over key",
+    "quality": "soft, diffuse; no hard shadows",
+    "exposure_target": "skin at ~65 IRE; rhinestones clipped < 90 IRE",
+    "specular_control": "micro-specular on hair; avoid plastic skin sheen"
+  },
+  "rendering_intent": {
+    "photorealism": "high",
+    "texture": "retain fabric weave, denim fray strands, hair strands",
+    "background_text_policy": "allow only existing manga panel text; do not invent extra signage or captions"
+  },
+  "post_processing": {
+    "color_grade": "neutral-cool base with gentle contrast curve; slight cyan in shadows, warm bias on skin",
+    "tone_curve": "soft S-curve (lift shadows +3, compress highlights -5)",
+    "clarity_texture": "clarity -5 on skin via masked adjustment; texture +5 on denim/frayed hem only (separate mask)",
+    "noise_reduction": "luma 10, chroma 15",
+    "sharpening": "amount 40, radius 0.7, detail 25, masking 60 (protect background)",
+    "vignette": "subtle -0.1 EV centre-weighted",
+    "geometry": "verticals upright; crop 4:5 with space above head and right-side manga visible",
+  }
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“环境”： {
+"location_type": "现代画廊走廊",
+"left_wall": "黑白光学漩涡壁画，哑光饰面",
+"right_wall": "带有稀疏日语拟声词的单色漫画面板",
+“地板”：“浅灰色抛光瓷砖，铺有 2x2 米哑光灰色乙烯基板，以消除反射”，
+"depth": "短走廊深度，具有微妙的衰减",
+“杂乱”：“无”
+}，
+"time": "室内，人造光",
+"mood": "冷静、沉着、略带神秘",
+"color_palette": "中性冷灰色、橄榄色上衣、去饱和牛仔蓝"
+}，
+“主题”： {
+“类型”：“人类”，
+"性别": "女",
+"approx_age": "20 岁出头",
+“外貌”： {
+"skin_tone": "白皙，中性底色",
+“头发”：“乌黑，很长，直，中分；干净的镜面光泽”，
+"face": "椭圆脸，淡妆，唇彩淡淡，眼线和睫毛膏淡淡的",
+“耳环”：“大号银环耳环”
+}，
+“衣柜”： {
+"top": "修身橄榄色/卡其色罗纹背心，饰有小水钻十字图案（拍摄前请检查胶水）",
+"bottom": "高腰破洞牛仔短裤，下摆磨损严重，配有米色修片（后摆用胶带平整粘贴）",
+“footwear”：“out_of_frame”
+}，
+“姿势”：{
+"stance": "身体向后稍微向左倾斜，头靠在壁画上",
+“躯干”：“放松，与相机呈 10-15° 角”，
+"arms_hands": "右臂在躯干后方/超出框架，左臂在身体侧面放松",
+“表情”：“平静、中性到柔和的目光穿过镜头”，
+“下巴”：“稍微向下；头向左肩倾斜”
+}
+}，
+“framing_composition”：{
+"shot_type": "大腿中部肖像（四分之三长度）",
+“方向”：“垂直”，
+"framing": "主体放置在左边三分之一处；右边三分之一处显示漫画面板",
+"leading_lines": "门框/面板边缘垂直；漩涡壁画增添了纹理，但又不会掩盖主题",
+"background_separation": "微妙；背景轻微散焦但仍可读"
+}，
+“相机”： {
+“传感器”：“全画幅无反光镜”，
+“镜片”： {
+"焦距毫米": 50,
+“类型”：“主要”，
+“character”：“中性渲染，低失真”
+}，
+“设置”： {
+"光圈": "f/3.2",
+"shutter_speed": "1/250",
+“iso”：400，
+"white_balance": "自定义灰卡 @ 4600 K",
+"focus": "眼部自动对焦 + 3 帧对焦框 (±1 cm)",
+“稳定”：“IBIS开启”
+}，
+“视角”：“摄像机位于胸部高度；最小梯形失真；保持垂直线”
+}，
+“灯光”： {
+"key": "宽阔、柔和的顶灯/天花板面板灯",
+"fill": "60×60 厘米白色反射镜，位于胸围线以下 30 厘米处，主光圈下方约 1.3 档",
+"rim": "1×2 英尺窄条形灯位于拍摄对象相机右侧后方，比主光高出 ½ 档",
+“质量”：“柔和，漫反射；无硬阴影”，
+"exposure_target": "皮肤 ~65 IRE；水钻修剪 < 90 IRE",
+"specular_control": "头发上的微镜面；避免塑料皮肤光泽"
+}，
+“渲染意图”：{
+"照片写实主义": "高",
+"texture": "保留织物编织、牛仔布磨损线、发丝",
+"background_text_policy": "仅允许现有的漫画面板文本；不要发明额外的标志或标题"
+}，
+“后处理”：{
+"color_grade": "中性冷色调，对比度曲线柔和；阴影中略带青色，皮肤上偏暖色",
+"tone_curve": "柔和的 S 曲线（提升阴影 +3，压缩高光 -5）",
+"clarity_texture": "通过蒙版调整，皮肤的清晰度为 -5；仅牛仔布/磨损下摆的纹理为 +5（单独蒙版）",
+"noise_reduction": "亮度 10，色度 15",
+"sharpening": "数量 40，半径 0.7，细节 25，遮罩 60（保护背景）",
+"vignette": "微妙的 -0.1 EV 中央重点",
+"geometry": "垂直竖直；裁剪比例为 4:5，头部上方有空间，右侧漫画可见",
+}
+```
+
+<a id="prompt-330"></a>
+## 案例 330：照片级真实感室内躺姿人像 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1976068430798389550))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/330.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片级真实感室内躺姿人像">
+</div>
+
+**提示词：**
+```
+{
+"photorealistic_indoor_reclining_portrait",
+  "style": "Natural editorial portrait; lifelike texture; minimal, tasteful retouching.",
+  "output": { "aspect_ratio": "9:16", "resolution_px": [1440, 2560], "color_profile": "sRGB" },
+
+  "subject": {
+    "category": "human",
+    "gender_presentation": "female",
+    "ethnicity": "East Asian",
+    "age_bracket": "young_adult",
+    "body": {
+      "build": "slim with realistic proportions",
+      "bust": "fuller bust (natural C–D cup), proportional to frame; gentle natural slope, supportive shaping—no extreme push-up",
+      "skin_tone": "light neutral with natural variation"
+    },
+    "pose": {
+      "orientation": "reclining on back, relaxed",
+      "right_arm": "raised above head, fingers lightly touching hairline",
+      "left_arm": "bent across torso, hand resting on midriff",
+      "head": "slightly tilted toward camera left"
+    },
+    "face": {
+      "shape": "oval with mild asymmetry and natural cheek volume",
+      "expression": "soft and open",
+      "gaze": "direct to camera"
+    },
+    "eyes": {
+      "description": "natural-size, lively but realistic",
+      "color": "neutral gray-blue (low saturation)",
+      "size_ratio": { "iris_fraction_of_visible_eye": 0.29, "pupil_fraction_of_iris": 0.27 },
+      "details": {
+        "limbal_ring_strength": 0.08,
+        "sclera_brightness_Lstar": 78,
+        "sclera_texture": "fine veins and faint tear meniscus on lower lid",
+        "catchlights": "two soft rectangular window reflections about 10% of iris width",
+        "specular_quality": "satin (no glassy glare)",
+        "iris_texture": "visible stromal fibers and subtle color noise"
+      }
+    },
+    "makeup": "sheer base preserving pores; soft peach blush; brown mascara/liner; taupe eyeshadow; hydrated nude lips",
+    "hair": { "length": "long", "style": "half-up with bun, slight wave; a few flyaways visible", "color": "natural black" },
+    "wardrobe": {
+      "outfit": "blue top with Gucci shorts",
+      "top": "powder-blue cropped bustier with sweetheart neckline and structured cups; off-shoulder or slim straps; tasteful cleavage; opaque lined fabric; subtle corset seams; cropped length reveals a sliver of midriff",
+      "bottom": "Gucci blue GG-monogram denim shorts (small-scale jacquard, navy/indigo on blue; correct 'GG' orientation; no extra text)",
+      "accessories": {
+        "jewelry": "thin black velvet choker with tiny pendant, small stud earrings, simple rings",
+        "wrists": "white fabric scrunchie on right; delicate bracelets on left"
+      }
+    }
+  },
+     "environment": {
+    "location": "bedroom",
+    "set": "plush bed with slightly wrinkled off-white linens and pillows",
+    "background_props": "upper right: dark round tray with small white ceramic tea set on textured brown surface"
+  },
+
+  "lighting": {
+    "scheme": "window key + sheet bounce",
+    "source": "large window through sheer curtains (or 120 cm softbox with double diffusion)",
+    "quality": "very soft with defined direction",
+    "direction": "45° from camera right and slightly top; white bedding as fill about 1.5 stops under key",
+    "temperature": "5200K",
+    "effect": "gentle modeling with soft nose/lip shadow; crisp but soft eye catchlights; no bloom"
+  },
+
+  "camera": {
+    "sensor": "full-frame",
+    "lens": { "focal_length_mm": 85 },
+    "distance_m": 1.8,
+    "exposure": {
+      "aperture_f": 3.2,
+      "iso": 200,
+      "shutter_s": 0.005,
+      "metering": "spot on cheekbone; ETTR then -0.3 EV to protect highlights on fabric"
+    },
+    "focus": {
+      "target": "near eye",
+      "depth_of_field": "moderate (eyes and bust plane in focus; bedding softly blurred)"
+    },
+    "framing": {
+      "orientation": "vertical",
+      "angle": "overhead with slight tilt toward face; avoid wide-angle distortion",
+      "composition": "9:16 crop framed head to upper hips so bustier and Gucci shorts are visible without foreshortening"
+    }
+  },
+
+  "color_grade": {
+    "look": "true-to-life neutrals with blue accent",
+    "contrast": "medium-low",
+    "palette": "powder/indigo blues, ivory, soft brown",
+    "notes": "retain skin undertones; avoid cyan cast; ensure Gucci blue reads clean without oversaturation"
+  },
+
+  "postprocess": {
+    "skin": "retain pores and micro-shine; remove only transient blemishes; keep faint under-eye texture",
+    "eyes": "no iris enlargement; subtle iris clarity and micro-contrast; limbal ring kept weak",
+    "sharpen": "moderate on eyes/brows/hair strands and denim weave/monogram",
+    "grain": "fine film grain at 1.5–2%",
+    "effects": "disable beauty filters, frequency-separation blur, glow/bloom; no HDR skin"
+  },
+
+  "realism_cues": [
+    "flyaway hairs around hairline",
+    "subtle nasolabial and philtrum depth",
+    "natural knuckle/tendon texture on left hand",
+    "visible denim weave and aligned monogram on shorts",
+    "fabric creases and bedding wrinkles"
+  ],
+
+  "negative_prompt": [
+    "doll, BJD, porcelain skin, neotenous proportions, plastic/waxy texture",
+    "oversized/anime/doe eyes, iris enlargement, glassy eyes",
+    "bright cyan/ice-blue contacts, heavy limbal ring, unnaturally white sclera",
+    "poreless skin, beauty filter, airbrushed, skin smoothing",
+    "bloom/Orton glow, excessive skin luster",
+    "CGI, 3D render, illustration, toon shading, LoRA: doll/BJD",
+    "wide-angle facial distortion, extreme symmetry filter",
+    "random text overlays, misspelled logos, watermarks",
+    "see-through fabrics, wardrobe malfunction, underboob/sideboob, explicit NSFW",
+    "distorted anatomy, extra fingers"
+  ],
+
+}
+```
+
+**中文提示词：**
+```
+{
+"照片级真实感室内躺姿人像",
+  "风格": "自然杂志风人像；逼真质感；简约且精致的修图（保留真实细节）",
+  "输出参数": { "宽高比": "9:16", "分辨率（像素）": [1440, 2560], "色彩配置文件": "sRGB" },
+
+  "拍摄主体": {
+    "类别": "人物",
+    "性别呈现": "女性",
+    "人种": "东亚人",
+    "年龄段": "年轻成人",
+    "身形": {
+      "体型": "纤瘦且比例真实",
+      "胸部": "丰满（自然C-D罩杯），与整体身形比例协调；线条自然柔和，有承托感，无过度聚拢效果",
+      "肤色": "浅中性色，带有自然肤色差异（非均匀色块）"
+    },
+    "姿势": {
+      "整体姿态": "仰卧，姿态放松",
+      "右臂": "举过头顶，手指轻触发际线",
+      "左臂": "弯曲横过躯干，手搭在腹部",
+      "头部": "略微向镜头左侧倾斜"
+    },
+    "面部": {
+      "脸型": "椭圆形，略带不对称感，脸颊饱满度自然",
+      "表情": "柔和、舒展",
+      "目光": "直视镜头"
+    },
+    "眼部": {
+      "描述": "大小自然，灵动且真实",
+      "颜色": "中性灰蓝色（低饱和度）",
+      "大小比例": { "虹膜占可见眼球比例": 0.29, "瞳孔占虹膜比例": 0.27 },
+      "细节": {
+        "虹膜边缘环清晰度": 0.08（近乎隐形）,
+        "眼白亮度（L*值）": 78,
+        "眼白质感": "细微血管，下眼睑有淡泪痕",
+        "眼神光": "两处柔和的长方形窗户反光，宽度约为虹膜的10%",
+        "光泽质感": "丝缎质感（无玻璃般的强光反射）",
+        "虹膜纹理": "可见基质纤维，带有细微色彩颗粒感"
+      }
+    },
+    "妆容": "轻薄底妆（保留毛孔）；柔和桃色腮红；棕色睫毛膏/眼线；灰褐色眼影；水润裸色唇膏",
+    "发型": { "长度": "长发", "造型": "半扎丸子头，略带波浪；可见几根碎发", "颜色": "自然黑色" },
+    "服饰": {
+      "整体搭配": "蓝色上衣配古驰（Gucci）短裤",
+      "上衣": "粉蓝色短款抹胸，心形领口，带立体罩杯；露肩或细肩带设计；领口弧度优雅；面料厚实不透视（带里衬）；带有精致束腰缝线；短款设计露出一小截腹部",
+      "下装": "古驰（Gucci）蓝色双G提花牛仔短裤（小尺寸提花图案，藏青/靛蓝色花纹印于蓝色基底上；双G标志方向正确；无多余文字图案）",
+      "配饰": {
+        "珠宝": "黑色细天鹅绒项圈（带小巧吊坠）、小巧耳钉、简约戒指",
+        "腕部饰品": "右手戴白色布艺发圈；左手戴精致手链"
+      }
+    }
+  },
+
+  "环境": {
+    "场景": "卧室",
+    "布景": "柔软的床，铺有略带褶皱的米白色床品和枕头",
+    "背景道具": "右上角：深色圆形托盘（置于纹理棕色表面上），托盘内放有小型白色陶瓷茶具"
+  },
+
+  "光线": {
+    "布光方案": "窗户主光+床单反光补光",
+    "光源": "透过薄窗帘的大窗户（或120厘米双扩散柔光箱）",
+    "光线质感": "极其柔和，且方向明确",
+    "光线方向": "从镜头右侧45°角、略高于主体的位置入射；白色床品作为补光（亮度比主光低1.5档）",
+    "色温": "5200K（标准白光）",
+    "光影效果": "柔和的轮廓塑造（鼻子/唇部阴影自然）；清晰且柔和的眼神光；无光晕溢出"
+  },
+
+  "相机参数": {
+    "传感器": "全画幅",
+    "镜头": { "焦距（毫米）": 85 },
+    "拍摄距离（米）": 1.8,
+    "曝光参数": {
+      "光圈值": 3.2,
+      "感光度（ISO）": 200,
+      "快门速度（秒）": 0.005（即1/200秒）,
+      "测光方式": "点测光（测光点为颧骨）；向右曝光（ETTR）后降低0.3档曝光值，以保护面料高光细节"
+    },
+    "对焦": {
+      "对焦目标": "靠近镜头一侧的眼睛",
+      "景深": "中等（眼睛与胸部处于同一焦平面，保持清晰；床品轻微虚化）"
+    },
+    "构图": {
+      "画面方向": "竖版",
+      "拍摄角度": "俯拍，镜头略微向面部倾斜；避免广角畸变",
+      "裁切比例": "9:16裁切，画面覆盖头部至髋部上方，确保抹胸与古驰短裤完整呈现，且无透视变形"
+    }
+  },
+
+  "调色": {
+    "风格": "真实中性色调，以蓝色为点缀色",
+    "对比度": "中低",
+    "色调 palette": "粉蓝/靛蓝色、米白色、柔和棕色",
+    "注意事项": "保留皮肤原有底色；避免青蓝色色偏；确保古驰蓝色呈现纯净质感，无过度饱和"
+  },
+
+  "后期处理": {
+    "皮肤处理": "保留毛孔与细微油光；仅去除临时瑕疵（如痘痘）；保留淡淡的眼下纹理",
+    "眼部处理": "不放大虹膜；轻微增强虹膜清晰度与微对比度；保留弱虹膜边缘环",
+    "锐化": "对眼睛/眉毛/发丝、牛仔面料纹理/提花图案进行适度锐化",
+    "颗粒感": "添加1.5%-2%的细腻胶片颗粒",
+    "效果禁用": "关闭美颜滤镜、频率分离模糊、光晕/柔光效果；不使用HDR皮肤处理"
+  },
+
+  "真实感细节提示": [
+    "发际线处的碎发",
+    "自然的鼻唇沟与人中立体感",
+    "左手手指关节/肌腱的真实纹理",
+    "短裤上清晰的牛仔面料纹理与对齐的提花图案",
+    "面料褶皱与床品自然褶皱"
+  ],
+
+  "负面提示（需避免）": [
+    "玩偶感、球形关节娃娃（BJD）、瓷娃娃质感皮肤、幼态化比例、塑料/蜡质质感",
+    "过大眼睛/动漫眼/小鹿眼、虹膜放大、玻璃质感眼睛",
+    "亮青色/冰蓝色美瞳、明显虹膜边缘环、不自然的雪白眼白",
+    "无毛孔皮肤、美颜滤镜效果、磨皮过度、皮肤光滑失真",
+    "光晕效果/奥顿柔光效果（Orton glow）、皮肤过度油光",
+    "CGI效果、3D渲染、插画风格、卡通 shading、玩偶/球形关节娃娃（BJD）相关模型（LoRA）",
+    "广角镜头面部畸变、过度对称滤镜效果",
+    "随机文字叠加、logo拼写错误、水印",
+    "透视装/面料过透、服饰走光、露下胸/侧胸、不雅内容（NSFW）",
+    "肢体结构扭曲、多手指"
+  ]
+}
+```
+
+
+<a id="prompt-329"></a>
+## 案例 329：美女竖拍肖像 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1976622473107194142))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/329.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美女竖拍肖像">
+</div>
+
+**提示词：**
+```
+A hyper-realistic 4K UHD vertical potrait (3:4) of me, preserving my exact original face and features. i am seated , slightly leaned forward with relaxed and calm expression. the background is a smooth, rich gradient of oranve and yellow tones, casting soft but vivid warm ambiet light around me, lighting is studio-grade , creating a glowing cinematic effect with gentle shadow behind me. i wear a loose , dark robe or fabric that drapes naturally. the mood is artistic and slightly surreal , with a moody, high-contrast look and a golden , warm color palette. the overall style is realistic , cinematic , and softly lit - with stunning UHD detail.
+```
+
+**中文提示词：**
+```
+这是一张超现实的 4K UHD 竖拍肖像（3:4），保留了我原本的面容和特征。我坐着，身体微微前倾，表情放松而平静。背景是平滑、丰富的橙色和黄色渐变色调，在我周围投射出柔和而生动的温暖氛围光，灯光是工作室级别的，在我身后形成柔和的阴影，营造出一种闪耀的电影效果。我穿着宽松的深色长袍或自然垂坠的布料。氛围充满艺术感，略带超现实主义，具有忧郁、高对比度的外观和金色、温暖的色调。整体风格逼真、具有电影感，灯光柔和，并带有令人惊叹的 UHD 细节。
+```
+
+
+<a id="prompt-328"></a>
+## 案例 328：工作室写真风格照片 (来源 [@dotey](https://x.com/dotey/status/1977424494693151186))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/328.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-工作室写真风格照片">
+</div>
+
+**中文提示词：**
+```
+参考图1的面部特征，生成全身工作室肖像：一位英俊的年轻东亚女性坐在浅紫色背景前的地板上，穿着舒适的超大号薰衣草色粗针织毛衣、白色裙子和白色袜子，深情地抱着一个大型三丽鸥库洛米毛绒玩具，温柔地看着镜头。背景装饰有俏皮的手绘紫色涂鸦和文字，包括"A"、"ANNISA"、纸飞机和花朵，风格类似K-pop照片卡或粉丝杂志封面。光线明亮柔和，营造可爱温馨的氛围。
+```
+
+
+<a id="prompt-327"></a>
+## 案例 327：美女电影感肖像画 (来源 [@karatademada](https://x.com/karatademada/status/1977343963745923372))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/327.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美女电影感肖像画">
+</div>
+
+**提示词：**
+```
+A cinematic portrait of a young East Asian woman sitting gracefully at a white marble vanity table. She has long, sleek, dark brown hair parted in the middle, styled simply to frame her face. Her skin is luminous and smooth with a warm tone. She wears soft, peach-toned makeup with a light shimmer on the eyelids, subtle eyeliner, and coral lipstick that gives her a polished glow.
+
+She’s dressed in an off-shoulder black velvet dress that accentuates her neckline and shoulders, elegant yet modern. A delicate silver necklace with a small pendant rests on her collarbone, and she wears matching silver earrings and a ring, adding a refined touch. Her posture is confident and feminine, one arm resting naturally on the marble surface, the other relaxed by her side.
+
+The scene takes place in a softly lit vanity space with a mirror reflecting part of her silhouette. The lighting is balanced and diffused, creating a clean, luxurious look, soft shadows, no harsh highlights, and a smooth skin texture. On the vanity, there are makeup items such as a compact palette, a small decorative brush, and bottles of foundation neatly placed beside her.
+
+The background features deep navy or dark curtains and minimalist decor, including white vases filled with dried flowers in warm autumn hues of orange, cream, and gold. The overall mood feels elegant, poised, and quietly glamorous, like a high-end beauty editorial captured on a crisp modern camera with cinematic lighting and 8K ultra-realistic clarity.
+
+Color palette: ivory white, black velvet, warm peach tones, and soft gold floral accents.
+Aspect ratio: 4:5.
+Style: hyper-realistic, luxury portrait, magazine aesthetic.
+```
+
+**中文提示词：**
+```
+一幅充满电影感的肖像画，描绘了一位年轻的东亚女性优雅地坐在白色大理石梳妆台前。她有着一头柔顺的深棕色长发，中分，简单的发型勾勒出她精致的脸庞。她的肌肤光洁光滑，肤色温暖。她化着柔和的蜜桃色妆容，眼睑上点缀着淡淡的珠光，眼线细腻，珊瑚色唇膏则为她增添了一抹精致的光泽。
+
+她身着一袭露肩黑色天鹅绒连衣裙，凸显了她的颈部和肩部线条，优雅而又不失现代感。一条精致的银项链搭配一枚小巧的吊坠，垂于她的锁骨上，她还佩戴了与之相配的银耳环和戒指，更添一抹精致。她的姿态自信而柔美，一只手臂自然地搭在大理石台面上，另一只手臂则放松地垂在身侧。
+
+场景发生在灯光柔和的梳妆台上，镜子映照出她部分轮廓。光线均衡柔和，营造出干净奢华的妆容，阴影柔和，没有刺眼的高光，肌肤纹理光滑细腻。梳妆台上，她身旁整齐地摆放着一些化妆品，例如粉饼盘、小巧的装饰刷和几瓶粉底液。
+
+背景采用深蓝色或深色窗帘，搭配简约的装饰，包括插满干花的白色花瓶，这些干花呈现出温暖的秋日色调——橙色、奶油色和金色。整体氛围优雅、沉稳，又不失低调的魅力，如同一部用清晰的现代相机，在影院级灯光和8K超高清画质下拍摄的高端美妆社论。
+
+色调：象牙白、黑色天鹅绒、温暖的桃色调和柔和的金色花卉装饰。
+长宽比：4：5。
+风格：超现实主义、奢华肖像、杂志美学。
+```
+
+
+<a id="prompt-326"></a>
+## 案例 326：电影感街头美女摄影 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1977191937330336130))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/326.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影感街头美女摄影">
+</div>
+
+**提示词：**
+```
+CINEMATIC STREET PHOTOGRAPHY, STYLISH YOUNG WOMAN IN MOTION, URBAN ENVIRONMENT, MOTION BLUR EFFECT. BLURRED PEDESTRIANS PASSING BY, SHALLOW DEPTH OF FIELD, NATURAL OVERCAST LIGHTING, SOFT PASTEL TONES, EDITORIAL FASHION PHOTOGRAPHY, CANDID MOMENT, DYNAMIC MOVEMENT, FILM AESTHETIC, MUTED COLORS
+```
+
+**中文提示词：**
+```
+电影感街头摄影、动态中的时尚年轻女性、城市环境、动态模糊效果。匆匆而过的模糊行人、浅景深、阴天自然光、柔和的马卡龙色调、时尚杂志风格摄影、抓拍瞬间、动态感、胶片美学、低饱和度色彩
+```
+
+
+<a id="prompt-325"></a>
+## 案例 325：美女时尚摄影 (来源 [@Prashant_1722](https://x.com/Prashant_1722/status/1977458454483874088))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/325.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚摄影">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_title": "Effortless Chic Pose",
+  "concept": "A hyperrealistic fashion photograph replicating a specific street style moment: a woman in a black knit set posing elegantly against a lamppost in a European city.",
+  "scene_composition": {
+    "shot_type": "Medium full-body shot",
+    "camera_lens": "85mm f/1.4 lens",
+    "perspective": "Eye-level, capturing the subject from the side.",
+    "aspect_ratio": "2:3",
+    "focus": "Sharp focus on the woman and her outfit. The background is beautifully blurred with creamy bokeh to isolate the subject."
+  },
+  "environment": {
+    "setting": "A European city square or wide pedestrian street during the day.",
+    "background_details": "The background is softly blurred but shows classical architecture with light-colored stone buildings. A few indistinct figures are walking in the distance.",
+    "ground": "Light-colored stone pavers or cobblestones.",
+    "atmosphere": "Chic, relaxed, and sophisticated."
+  },
+  "subject": {
+    "primary": "A stylish young woman with long, wavy dark hair.",
+    "appearance": "Her hair falls naturally over her shoulder. She has a gentle, soft expression and is looking slightly away from the camera.",
+    "pose": "She is leaning with her back against a dark, ornate metal lamppost on the left side of the frame. Her right leg is bent and lifted behind her. "
+  },
+  "outfit_and_details": {
+    "top": "A form-fitting, sleeveless black top made of a visible ribbed knit fabric.",
+    "bottom": "A matching black mini skirt, also made of the same ribbed knit material.",
+   "shoes": "black slingback high heel"
+  },
+  "style_and_aesthetics": {
+    "realism": "Hyperrealistic, photorealistic, cinematic, 8K resolution, ultra-detailed.",
+    "lighting": "Soft, diffused daylight, as if on an overcast day or in the shade, to prevent harsh shadows and create a flattering, even light on the subject.",
+    "color_palette": "A monochrome and muted palette. Dominant blacks from the outfit and lamppost, contrasted with the light tones of the buildings and ground.",
+    "details": "Emphasis on realistic material properties: the fine texture of the ribbed knit, the rough texture of the stone pavers, and the metallic finish of the lamppost."
+  },
+  "quality_boosters": [
+    "masterpiece",
+    "best quality",
+    "insanely detailed",
+    "sharp focus",
+    "professional fashion photography",
+    "street style",
+    "editorial",
+    "trending on Vogue"
+  ],
+  "negative_prompt": [
+    "cartoon, anime, 3D render, illustration, painting",
+    "blurry, out of focus, low quality, jpeg artifacts",
+    "harsh sunlight, strong shadows",
+    "crowded street, distracting background",
+    "deformed anatomy, bad hands, extra limbs",
+    "text, watermark, signature"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_title": "轻松时尚的姿势",
+"concept": "一张超现实主义的时尚照片，再现了特定的街头风格瞬间：一位身穿黑色针织套装的女子在欧洲城市的路灯柱前优雅地摆姿势。",
+“场景构图”：{
+"shot_type": "中长全身照",
+"camera_lens": "85mm f/1.4 镜头",
+"perspective": "视线高度，从侧面捕捉拍摄对象。",
+"aspect_ratio": "2:3",
+"focus": "清晰地聚焦于女人和她的服装。背景通过奶油色的散景进行精美的虚化，突出了主体。"
+}，
+“环境”： {
+"setting": "白天的欧洲城市广场或宽阔的步行街。",
+"background_details": "背景略微模糊，但显示出浅色石头建筑的古典建筑。远处有几个模糊的身影在行走。",
+"ground": "浅色铺路石或鹅卵石。",
+“氛围”：“别致、轻松、精致。”
+}，
+“主题”： {
+"primary": "一位时尚的年轻女子，有着长长的、波浪状的黑发。",
+"appearance": "她的头发自然地垂在肩上。她表情温柔，目光略微远离镜头。",
+"pose": "她背靠着画面左侧一根深色华丽的金属灯柱。她的右腿弯曲并抬起。"
+}，
+“装备和细节”：{
+"top": "一件合身的无袖黑色上衣，采用可见的罗纹针织面料制成。",
+"bottom": "一条配套的黑色迷你裙，也采用相同的罗纹针织材料制成。",
+“鞋子”：“黑色露跟高跟鞋”
+}，
+“风格与美学”：{
+"realism": "超现实主义、照片级真实感、电影级、8K 分辨率、超精细。",
+"lighting": "柔和、漫射的日光，就像在阴天或阴影中一样，可以防止出现刺眼的阴影，并为拍摄对象营造出令人愉悦、均匀的光线。",
+"color_palette": "单色柔和的色调。服装和灯柱以黑色为主，与建筑物和地面的浅色调形成对比。",
+"details": "强调真实的材料特性：罗纹针织的细腻质地、石材铺路石的粗糙质地以及灯柱的金属饰面。"
+}，
+"quality_boosters": [
+“杰作”，
+“极品”，
+“极其详细”，
+“清晰聚焦”，
+“专业时尚摄影”，
+“街头风格”，
+“社论”，
+“Vogue 流行趋势”
+]，
+"negative_prompt": [
+“卡通、动漫、3D 渲染、插图、绘画”，
+“模糊、失焦、质量低、jpeg 伪影”，
+“刺眼的阳光，强烈的阴影”，
+“拥挤的街道，分散注意力的背景”，
+“身体畸形、手残、肢体残缺”，
+“文字、水印、签名”
+]
+}
+```
 
 <a id="prompt-324"></a>
 ## 案例 324：波普艺术肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1969543847597277339))
