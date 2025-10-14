@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>🍌Nano Banana🍌 Prompts Gallery</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-top">
+      <h1>🍌Nano Banana🍌 Prompts Gallery</h1>
+      <p class="tagline">浏览、筛选和搜索 🍌 Nano Banana 🍌 图片提示词案例，快速复制提示词，探索灵感。</p>
+    </div>
+    <div class="control-bar">
+      <label class="search-field" for="searchInput">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input id="searchInput" type="search" placeholder="搜索案例编号、标题或提示词..." autocomplete="off">
+        <button id="clearSearch" class="ghost-btn" type="button" aria-label="清除搜索">✕</button>
+      </label>
+      <button id="clearFilters" class="ghost-btn clear-filter-btn" type="button">清除筛选</button>
+      <div id="resultStats" class="result-stats" role="status" aria-live="polite"></div>
+    </div>
+    <div id="tagFilters" class="tag-filter"></div>
+  </header>
+
+  <main>
+    <section id="gallery" class="gallery" aria-live="polite"></section>
+    <div id="emptyState" class="empty-state hidden">
+      <p>没有匹配的结果，请尝试调整标签或搜索关键词。</p>
+    </div>
+  </main>
+
+  <div id="detailModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-content">
+      <button id="modalClose" class="modal-close" aria-label="关闭详情">✕</button>
+      <header class="modal-header">
+        <h2 id="modalTitle"></h2>
+        <div id="modalSource" class="modal-source"></div>
+      </header>
+      <div class="modal-tags" id="modalTags"></div>
+      <section id="modalImages" class="modal-section"></section>
+      <section id="modalPrompts" class="modal-section"></section>
+      <section id="modalExamples" class="modal-section"></section>
+      <section id="modalNotes" class="modal-section"></section>
+      <section id="modalDescription" class="modal-section"></section>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+  <script type="module" src="./assets/app.js"></script>
+</body>
+</html>
