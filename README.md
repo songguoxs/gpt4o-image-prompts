@@ -189,7 +189,7 @@ a dreamy intimate portrait of a beautiful realistic asian woman lying under a bl
 ```
 
 <a id="prompt-335"></a>
-## 案例 335：美丽的浅蓝色警服日本女子 (来源 [@xxx](https://x.com/MANISH1027512/status/1979033662294241673))
+## 案例 335：美丽的浅蓝色警服日本女子 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1979033662294241673))
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/335.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美丽的浅蓝色警服日本女子">
