@@ -119,9 +119,10 @@ function renderGallery() {
 
     if (item.coverImage) {
       const img = document.createElement('img');
-      img.src = item.coverImage;
+      img.dataset.src = item.coverImage; // Use data-src for lazy loading
+      img.src = './assets/loading.png'; // Placeholder image
       img.alt = `案例 ${item.id}：${item.title}`;
-      img.loading = 'lazy';
+      img.loading = 'lazy'; // Optional: Browser-native lazy loading
       card.appendChild(img);
     } else {
       const placeholder = document.createElement('div');
@@ -172,6 +173,24 @@ function renderGallery() {
     });
     dom.gallery.appendChild(card);
   });
+
+  lazyLoadImages(); // Initialize lazy loading
+}
+
+function lazyLoadImages() {
+  const images = document.querySelectorAll('img[data-src]');
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        img.src = img.dataset.src; // Load the actual image
+        img.removeAttribute('data-src'); // Remove data-src after loading
+        observer.unobserve(img); // Stop observing the image
+      }
+    });
+  });
+
+  images.forEach((img) => observer.observe(img));
 }
 
 function onTagClick(event) {
