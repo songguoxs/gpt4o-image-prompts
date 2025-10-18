@@ -31,6 +31,7 @@ const dom = {
 
 let searchDebounceTimer = null;
 let toastTimer = null;
+const HEADER_TOP_HIDE_KEY = 'headerTopHiddenUntil';
 
 init();
 
@@ -44,10 +45,38 @@ async function init() {
     renderGallery();
     updateResultStats();
     bindEvents();
+    setupHeaderTopDismiss();
   } catch (error) {
     console.error('[prompts] Failed to initialise gallery', error);
     showToast('数据加载失败，请检查控制台。', true);
   }
+}
+
+function setupHeaderTopDismiss() {
+  const headerTop = document.querySelector('.header-top');
+  const closeBtn = document.getElementById('headerTopClose');
+  if (!headerTop || !closeBtn) return;
+
+  try {
+    const stored = localStorage.getItem(HEADER_TOP_HIDE_KEY);
+    const hiddenUntil = stored ? parseInt(stored, 10) : 0;
+    if (Number.isFinite(hiddenUntil) && Date.now() < hiddenUntil) {
+      headerTop.classList.add('hidden');
+    }
+  } catch (_) {
+    // ignore storage errors
+  }
+
+  closeBtn.addEventListener('click', () => {
+    headerTop.classList.add('hidden');
+    try {
+      const oneDayMs = 24 * 60 * 60 * 1000;
+      const until = Date.now() + oneDayMs;
+      localStorage.setItem(HEADER_TOP_HIDE_KEY, String(until));
+    } catch (_) {
+      // ignore storage errors; still hide for this session
+    }
+  });
 }
 
 async function fetchData() {
@@ -153,9 +182,7 @@ function renderGallery() {
 
     const meta = document.createElement('div');
     meta.className = 'card-meta';
-    const promptCount = document.createElement('span');
-    promptCount.textContent = `提示词 ×${item.prompts.length}`;
-    meta.appendChild(promptCount);
+    // 仅保留“示例 ×N”，不显示“提示词 ×N”
     if (item.examples && item.examples.length > 0) {
       const exampleCount = document.createElement('span');
       exampleCount.textContent = `示例 ×${item.examples.length}`;
