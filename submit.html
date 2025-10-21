@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>添加提示词案例 → README.md</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,\"Apple Color Emoji\",\"Segoe UI Emoji\"; margin: 24px auto; max-width: 820px; padding: 0 16px; }
+    h1 { font-size: 20px; margin: 0 0 16px; }
+    form { display: grid; grid-template-columns: 1fr; gap: 12px; }
+    label { font-weight: 600; font-size: 14px; }
+    input[type="text"], input[type="number"], textarea { width: 100%; box-sizing: border-box; padding: 10px 12px; border-radius: 8px; border: 1px solid #c9c9c9; background: transparent; font-size: 14px; }
+    textarea { min-height: 120px; resize: vertical; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .hint { color: #777; font-size: 12px; }
+    .actions { display: flex; gap: 12px; align-items: center; }
+    button { appearance: none; border: none; background: #3b82f6; color: #fff; padding: 10px 16px; border-radius: 8px; font-weight: 600; cursor: pointer; }
+    button[disabled] { opacity: 0.6; cursor: not-allowed; }
+    button.secondary { background: #6b7280; }
+    .msg { margin-top: 12px; font-size: 14px; }
+    .ok { color: #10b981; }
+    .err { color: #ef4444; }
+    .note { background: rgba(125,125,125,0.12); padding: 12px; border-radius: 8px; font-size: 13px; }
+    .preview { white-space: pre-wrap; background: rgba(125,125,125,0.08); border-radius: 8px; padding: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace; font-size: 12px; }
+    .idline { display: flex; align-items: center; gap: 10px; }
+    .badge { display: inline-flex; align-items: center; gap: 6px; padding: 2px 8px; border-radius: 999px; font-size: 12px; border: 1px solid transparent; }
+    .badge.ok { color: #065f46; background: #d1fae5; border-color: #10b981; }
+    .badge.err { color: #7f1d1d; background: #fee2e2; border-color: #ef4444; }
+    .mini { font-size: 12px; padding: 4px 8px; }
+  </style>
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="将提示词案例以仓库 README.md 的格式追加保存。">
+  <meta name="referrer" content="no-referrer">
+  <script>
+    function $(sel){ return document.querySelector(sel); }
+    let CURRENT_NEXT_ID = null;
+    let CURRENT_IMAGES_LIST = [];
+    let IMAGE_STATUS_TIMER = null;
+
+    function buildPreview(data) {
+      const id = String(data.id || CURRENT_NEXT_ID || '').trim();
+      const title = String(data.title || '').trim();
+      const src = (data.source_name && data.source_url) ? ` (来源 [${data.source_name}](${data.source_url}))` : '';
+      const lines = [];
+      lines.push(`<a id=\"prompt-${id}\"></a>`);
+      lines.push(`## 案例 ${id}：${title}${src}`);
+      lines.push('');
+      lines.push('<div style="display: flex; justify-content: space-between;">');
+      const imgs = CURRENT_IMAGES_LIST && CURRENT_IMAGES_LIST.length ? CURRENT_IMAGES_LIST : [`images/${id}.(自动匹配扩展名)`];
+      const single = imgs.length <= 1;
+      for (const srcImg of imgs) {
+        const w = single ? '98%' : '48%';
+        lines.push(`<img src=\"./${srcImg}\" style=\"width: ${w};\" alt=\"Awesome GPT4o/GPT-4o Image Prompts-${title}\">`);
+      }
+      lines.push('</div>');
+      lines.push('');
+      if (data.prompt_en && data.prompt_en.trim()) {
+        lines.push('**提示词：**');
+        lines.push('```');
+        lines.push(data.prompt_en.trim());
+        lines.push('```');
+        lines.push('');
+      }
+      if (data.prompt_zh && data.prompt_zh.trim()) {
+        lines.push('**中文提示词：**');
+        lines.push('```');
+        lines.push(data.prompt_zh.trim());
+        lines.push('```');
+        lines.push('');
+      }
+      return lines.join('\n');
+    }
+
+    async function onSubmit(ev){
+      ev.preventDefault();
+      const submitBtn = document.getElementById('submitBtn');
+      if (submitBtn) submitBtn.disabled = true;
+      const title = $('input[name=title]').value.trim();
+      const prompt_en = $('textarea[name=prompt_en]').value;
+      const prompt_zh = $('textarea[name=prompt_zh]').value;
+      const source_name = $('input[name=source_name]').value.trim();
+      const source_url = $('input[name=source_url]').value.trim();
+
+      $('.msg').textContent = '';
+      $('.msg').className = 'msg';
+
+      // id 由服务器自动分配
+      if (!title) {
+        $('.msg').textContent = '标题不能为空';
+        $('.msg').classList.add('err');
+        return;
+      }
+      if (!prompt_en.trim() && !prompt_zh.trim()) {
+        $('.msg').textContent = '英文提示词或中文提示词至少填写一个';
+        $('.msg').classList.add('err');
+        return;
+      }
+
+      const payload = { title, prompt_en, prompt_zh, source_name, source_url };
+      $('.preview').textContent = buildPreview(payload);
+
+      try {
+        const res = await fetch('/save', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (!data.ok) throw new Error(data.error || '保存失败');
+        const used = Array.isArray(data.usedImages) ? data.usedImages : [];
+        const usedMsg = used.length ? `${used.length} 张：${used[0]}${used.length>1? ' 等':''}` : '未知';
+        $('.msg').textContent = `✅ 已保存 (#${data.id})：${data.title}，图片：${usedMsg}`;
+        $('.msg').classList.add('ok');
+        // 轻微停顿后刷新页面，便于用户看到提示
+        setTimeout(() => { window.location.reload(); }, 900);
+      } catch (err) {
+        $('.msg').textContent = '❌ ' + (err.message || '保存失败');
+        $('.msg').classList.add('err');
+        if (submitBtn) submitBtn.disabled = false;
+      }
+    }
+
+    async function refreshNextId(){
+      try {
+        const r = await fetch('/next-id');
+        const j = await r.json();
+        if (j && j.ok) {
+          CURRENT_NEXT_ID = j.nextId;
+          const el = document.getElementById('nextIdLabel');
+          if (el) el.textContent = CURRENT_NEXT_ID;
+          refreshImageStatus();
+        }
+      } catch(_) {}
+    }
+
+    async function refreshImageStatus(){
+      const st = document.getElementById('imageStatus');
+      const submitBtn = document.getElementById('submitBtn');
+      if (!CURRENT_NEXT_ID) { st.textContent = '…'; st.className='badge'; return; }
+      try {
+        const r = await fetch(`/check-images?id=${CURRENT_NEXT_ID}`);
+        const j = await r.json();
+        CURRENT_IMAGES_LIST = (j && j.ok && Array.isArray(j.images)) ? j.images : [];
+        if (j && j.ok && j.count > 0) {
+          st.textContent = `图片已找到：${j.count} 张`;
+          st.className = 'badge ok';
+          if (submitBtn) submitBtn.disabled = false;
+        } else {
+          st.textContent = `未找到：images/${CURRENT_NEXT_ID}.(jpeg|jpg|png|webp|gif)`;
+          st.className = 'badge err';
+          if (submitBtn) submitBtn.disabled = true;
+        }
+      } catch (_) {
+        st.textContent = '检测失败';
+        st.className = 'badge err';
+        if (submitBtn) submitBtn.disabled = true;
+      }
+    }
+
+    function inferSourceName(urlStr) {
+      try {
+        const u = new URL(urlStr);
+        const host = (u.hostname || '').replace(/^www\./, '');
+        const segs = (u.pathname || '').split('/').filter(Boolean);
+        if (!segs.length) return '';
+        const user = segs[0].replace(/^@/, '');
+        if ([ 'x.com', 'twitter.com', 'instagram.com', 'weibo.com', 'bsky.app', 'tiktok.com', 'github.com' ].includes(host)) {
+          return '@' + user;
+        }
+      } catch (_) {}
+      return '';
+    }
+
+    function init(){
+      document.getElementById('f').addEventListener('submit', onSubmit);
+      const urlInput = document.querySelector('input[name=source_url]');
+      const nameInput = document.querySelector('input[name=source_name]');
+      urlInput.addEventListener('input', () => {
+        if (nameInput.value.trim()) return; // 手动优先
+        const inferred = inferSourceName(urlInput.value);
+        if (inferred) nameInput.value = inferred;
+      });
+      refreshNextId();
+      // 定时轮询检测图片是否已放置
+      IMAGE_STATUS_TIMER = setInterval(refreshImageStatus, 3000);
+      window.addEventListener('beforeunload', () => clearInterval(IMAGE_STATUS_TIMER));
+    }
+    addEventListener('DOMContentLoaded', init);
+  </script>
+  </head>
+<body>
+  <h1>追加提示词案例到 README.md</h1>
+  <p class="note">说明：
+    - 本页面将把你输入的案例以 README.md 的既有格式追加到文件末尾；
+    - 图片路径会自动匹配扩展名（支持 jpeg/jpg/png/webp/gif），<strong>需先在 images/ 放置对应编号的图片</strong>，否则将拦截提交；
+    - 至少填写英文或中文提示词一个字段。
+  </p>
+
+  <form id="f">
+    <div class="row">
+      <div>
+        <label>编号（自动分配）</label>
+        <div class="idline">
+          <div class="hint">下一个编号：<strong id="nextIdLabel">...</strong></div>
+          <span id="imageStatus" class="badge">检测中…</span>
+          <button type="button" id="checkBtn" class="mini" onclick="refreshImageStatus()">重新检测</button>
+        </div>
+      </div>
+      <div>
+        <label>标题（必填）</label>
+        <input type="text" name="title" placeholder="如：中国红自拍照片" required>
+      </div>
+    </div>
+
+    <div class="row">
+      <div>
+        <label>来源名（可选）</label>
+        <input type="text" name="source_name" placeholder="如：@xxx">
+      </div>
+      <div>
+        <label>来源链接（可选）</label>
+        <input type="text" name="source_url" placeholder="如：https://x.com/...">
+      </div>
+    </div>
+
+    <div>
+      <label>英文提示词（可选）</label>
+      <textarea name="prompt_en" placeholder="English prompt..."></textarea>
+      <div class="hint">会以“<strong>提示词：</strong> + 代码块” 的形式写入</div>
+    </div>
+    <div>
+      <label>中文提示词（可选）</label>
+      <textarea name="prompt_zh" placeholder="中文提示词..."></textarea>
+      <div class="hint">会以“<strong>中文提示词：</strong> + 代码块” 的形式写入</div>
+    </div>
+
+    <div class="actions">
+      <button type="submit" id="submitBtn" disabled>保存到 README.md</button>
+      <span class="msg" aria-live="polite"></span>
+    </div>
+
+    <div>
+      <label>即将写入内容预览</label>
+      <div class="preview"></div>
+    </div>
+  </form>
+
+  <p class="hint">启动：<code>node scripts/submit-server.js</code>，然后打开 <code>http://localhost:8787</code></p>
+</body>
+</html>

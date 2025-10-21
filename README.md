@@ -31,6 +31,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 351：身穿古代服饰的派大星和海绵宝宝 ](#prompt-351)
 *   [案例 350：中国红自拍照片 ](#prompt-350)
 *   [案例 349：复古小报童 ](#prompt-349)
 *   [案例 348：超级马里奥风格照片 ](#prompt-348)
@@ -43,7 +44,7 @@
 *   [案例 341：东京地铁楼梯间美女照 ](#prompt-341)
 *   [案例 340：居酒屋里拍摄的美女 ](#prompt-340)
 *   [案例 339：百褶迷你裙美女 ](#prompt-339)
-*   [案例 338：都市上空巨大的涡旋冲破暴风云层 ](#prompt-38)
+*   [案例 338：都市上空巨大的涡旋冲破暴风云层 ](#prompt-338)
 *   [案例 337：低马尾女孩在日式居酒屋 ](#prompt-337)
 *   [案例 336：一幅如梦似幻的私密肖像照 ](#prompt-336)
 *   [案例 335：美丽的浅蓝色警服日本女子 ](#prompt-335)
@@ -184,6 +185,19 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+<a id="prompt-351"></a>
+## 案例 351：身穿古代服饰的派大星和海绵宝宝 (来源 [@op7418](https://x.com/op7418/status/1980296606382780794))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/351.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身穿古代服饰的派大星和海绵宝宝">
+</div>
+
+**中文提示词：**
+```
+身上穿着唐朝服饰的一只派大星，自然逼真，北宋时期风格油画暗棕褐色旧版图高清，精细工笔，精细流畅、柔韧有力、充满韵律感。衣纹的勾勒，疏密有致。用色典雅，善于运用对比色，丰富和谐，头戴唐朝帽子
+```
 
 <a id="prompt-350"></a>
 ## 案例 350：中国红自拍照片 (来源 [@xxx](xxxxxx))
