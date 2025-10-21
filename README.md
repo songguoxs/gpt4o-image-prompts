@@ -31,6 +31,10 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 355：和漫威角色集体自拍 ](#prompt-355)
+*   [案例 354：超精细逼真的美丽女人肖像 ](#prompt-354)
+*   [案例 353：电影感的超现实主义肖像画 ](#prompt-353)
+*   [案例 352：女人3D数字插画 ](#prompt-352)
 *   [案例 351：身穿古代服饰的派大星和海绵宝宝 ](#prompt-351)
 *   [案例 350：中国红自拍照片 ](#prompt-350)
 *   [案例 349：复古小报童 ](#prompt-349)
@@ -186,6 +190,82 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+
+
+
+
+
+<a id="prompt-355"></a>
+## 案例 355：和漫威角色集体自拍 (来源 [@xmliisu](https://x.com/xmliisu/status/1980161909828526514))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/355.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和漫威角色集体自拍">
+</div>
+
+**提示词：**
+```
+A ultra realistic group selfie, center is the person from the attached image (uploaded image facial details), wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.
+```
+
+**中文提示词：**
+```
+一张超逼真的集体自拍，中间是附件图片中的人物（上传图片的面部细节），他身穿合身的黑色衬衫和破洞牛仔裤，手持 iPhone 自拍。周围是克里斯·海姆斯沃斯饰演的雷神、盖尔·加朵饰演的神奇女侠、斯嘉丽·约翰逊饰演的黑寡妇、马克·鲁法洛饰演的绿巨人、亨利·卡维尔饰演的超人，以及全副武装的 RDJ，他们拥抱在一起，面带微笑，像亲密朋友一样随意摆姿势。充满乐趣、愉悦的心情，明亮的日光，电影级画质，自然的画面，细节丰富
+```
+
+<a id="prompt-354"></a>
+## 案例 354：超精细逼真的美丽女人肖像 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1980469269134733415))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/354.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超精细逼真的美丽女人肖像">
+</div>
+
+**提示词：**
+```
+Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion editorial, deep white plunging V-neck lace sequined evening gown, elegant low bun updo, soft studio lighting, light grey background, dramatic shadowplay, hyperrealistic, 8K
+```
+
+**中文提示词：**
+```
+超精细、逼真的美丽女人肖像，高级时装社论，深白色 V 领蕾丝亮片晚礼服，优雅的低发髻，柔和的工作室灯光，浅灰色背景，戏剧性的光影，超现实主义，8K
+```
+
+<a id="prompt-353"></a>
+## 案例 353：电影感的超现实主义肖像画 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1980503919492272216))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/353.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影感的超现实主义肖像画">
+</div>
+
+**提示词：**
+```
+A cinematic, hyper-realistic portrait of 
+@simplyannisa
+, keeping her real facial features completely unchanged. The woman sits at a wooden table, leaning slightly forward, with her right forearm resting naturally on the surface. Her right hand gently holds a dark ceramic mug with the word “
+@simplyannisa
+” written on it. Her fingers are slender, relaxed, and slightly curved. Her left arm is bent at the elbow, resting casually on the table. She wears a dark gray, slightly loose long-sleeve Henley top with the top buttons undone, subtly revealing a delicate neckline. Her hair falls naturally around her shoulders, soft waves catching the light. Her gaze is directed to the side, away from the camera, carrying a thoughtful and mysterious expression. The lighting is soft and moody, emphasizing the texture of her hair and face while adding cinematic contrast and emotional depth. The portrait is shot at eye level with an 85mm lens effect and a shallow depth of field, keeping her face and upper body in sharp focus while the background softly blurs. The overall color grading is muted and cinematic, with cool tones, soft shadows, and a minimalist dark background.
+```
+
+**中文提示词：**
+```
+这幅充满电影感的超现实主义肖像画，保留了@simplyannisa的真实面部特征。画中女子坐在木桌旁，身形微微前倾，右臂自然地搭在桌面上。她的右手轻轻地捧着一个深色陶瓷杯，杯上写着“ @simplyannisa ”三个字。她的手指纤细、放松，略带弧度。左臂肘部弯曲，随意地搭在桌上。她身穿一件略显宽松的深灰色长袖亨利衫，最上面的纽扣敞开，隐约露出精致的领口。她的头发自然地披散在肩上，柔和的波浪在光线下闪闪发光。她的目光转向侧面，远离镜头，带着一种若有所思、神秘莫测的表情。柔和的光线营造出一种忧郁的氛围，突出了她头发和面部的质感，同时增添了电影般的对比度和情感深度。这幅肖像画采用85毫米镜头，在视线高度处以浅景深拍摄，使她的脸部和上半身保持清晰对焦，而背景则略微模糊。整体色彩分级柔和且具有电影感，具有冷色调、柔和阴影和简约的深色背景。
+```
+
+<a id="prompt-352"></a>
+## 案例 352：女人3D数字插画 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1980553716131414281))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/352.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女人3D数字插画">
+</div>
+
+**提示词：**
+```
+A hyper-realistic 3D digital illustration of a woman with her natural facial features, hairstyle, and skin tone unchanged, styled in a Pixar-inspired cinematic look. She is smiling warmly while leaning through a glowing orange rectangular frame, both hands gently holding the edge of the frame. She wears a denim jacket layered over a black top, subtle jewelry, and a smartwatch on her wrist. The lighting is soft yet vibrant, highlighting facial depth, realistic fabric texture, and warm glow reflections on her face and hands. The background is softly blurred, creating a cinematic atmosphere with a perfect blend of realism, warmth, and Pixar-style charm.
+```
+
+**中文提示词：**
+```
+这幅超写实的3D数字插画描绘了一位女性，其自然的五官、发型和肤色均未改变，并采用了皮克斯风格的电影风格。她面带温暖的微笑，身影透过发光的橙色矩形画框倾身而立，双手轻轻握住画框边缘。她身穿牛仔夹克，内搭黑色上衣，佩戴着精致的珠宝，手腕上戴着智能手表。灯光柔和而明亮，凸显了面部深度、逼真的织物纹理以及她脸部和双手上温暖的光芒。背景轻柔地模糊处理，营造出一种电影般的氛围，完美融合了现实主义、温暖感和皮克斯风格的魅力。
+```
 
 <a id="prompt-351"></a>
 ## 案例 351：身穿古代服饰的派大星和海绵宝宝 (来源 [@op7418](https://x.com/op7418/status/1980296606382780794))
