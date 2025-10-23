@@ -182,9 +182,32 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55rem;
-  max-height: 160px;
-  overflow-y: auto;
   padding-right: 0.2rem;
+  /* height is controlled by .tag-filter-container (collapsed/expanded) */
+}
+
+/* Tag filter collapse/expand container */
+.tag-filter-container {
+  /* nothing special, acts as a wrapper */
+}
+
+.tag-filter-container.collapsed .tag-filter {
+  /* Collapsed to a single row; height measured in JS and set via --collapsed-height */
+  max-height: var(--collapsed-height, 40px);
+  overflow: hidden;
+}
+
+.tag-filter-container.expanded .tag-filter {
+  /* Show all rows */
+  max-height: none;
+  overflow: visible;
+}
+
+.tag-toggle-btn {
+  margin-left: auto;
+  font-size: 0.86rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
 }
 
 .tag-button {

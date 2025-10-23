@@ -12,6 +12,7 @@ const dom = {
   gallery: document.getElementById('gallery'),
   emptyState: document.getElementById('emptyState'),
   tagFilters: document.getElementById('tagFilters'),
+  tagFilterContainer: document.querySelector('.tag-filter-container'),
   searchInput: document.getElementById('searchInput'),
   clearSearch: document.getElementById('clearSearch'),
   clearFilters: document.getElementById('clearFilters'),
@@ -32,6 +33,7 @@ const dom = {
 let searchDebounceTimer = null;
 let toastTimer = null;
 const HEADER_TOP_HIDE_KEY = 'headerTopHiddenUntil';
+let resizeDebounceTimer = null;
 
 init();
 
@@ -42,6 +44,8 @@ async function init() {
     state.filteredItems = [...state.items];
     state.allTags = buildAllTags(state.items);
     renderTagFilters();
+    // After rendering tags, setup collapse/expand behavior
+    updateTagCollapseUI();
     renderGallery();
     updateResultStats();
     bindEvents();
@@ -100,6 +104,11 @@ function bindEvents() {
   dom.clearFilters.addEventListener('click', clearFilters);
   dom.searchInput.addEventListener('input', handleSearchInput);
   dom.clearSearch.addEventListener('click', clearSearch);
+  // toggle button is created dynamically in renderTagFilters()
+  window.addEventListener('resize', () => {
+    if (resizeDebounceTimer) window.clearTimeout(resizeDebounceTimer);
+    resizeDebounceTimer = window.setTimeout(() => updateTagCollapseUI(), 150);
+  });
   dom.modalClose.addEventListener('click', closeModal);
   dom.modal.addEventListener('click', (event) => {
     if (event.target === dom.modal) {
@@ -129,6 +138,107 @@ function renderTagFilters() {
     button.dataset.tag = tag;
     dom.tagFilters.appendChild(button);
   });
+
+  // Ensure there is a toggle button inside the first row (as the last item in flow)
+  const existingToggle = dom.tagFilters.querySelector('#toggleTags');
+  let toggle;
+  if (existingToggle) {
+    toggle = existingToggle;
+  } else {
+    toggle = document.createElement('button');
+    toggle.id = 'toggleTags';
+    toggle.type = 'button';
+    toggle.className = 'ghost-btn tag-toggle-btn hidden';
+    toggle.setAttribute('aria-controls', 'tagFilters');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.addEventListener('click', toggleTagFilters);
+    dom.tagFilters.appendChild(toggle);
+  }
+  dom.toggleTags = toggle;
+
+  // After tags are placed, update collapse UI
+  updateTagCollapseUI();
+}
+
+function updateTagCollapseUI() {
+  const container = dom.tagFilterContainer;
+  const list = dom.tagFilters;
+  const toggle = dom.toggleTags || list.querySelector('#toggleTags');
+  if (!container || !list || !toggle) return;
+
+  // All tag items excluding the toggle
+  let items = Array.from(list.children).filter((el) => el !== toggle);
+  if (items.length === 0) {
+    toggle.classList.add('hidden');
+    container.classList.remove('collapsed', 'expanded');
+    return;
+  }
+
+  const firstTop = items[0].offsetTop;
+  let hasMoreThanOneRow = items.some((el) => el.offsetTop !== firstTop);
+
+  // Only need to place the toggle into the first row if there is more than one row
+  if (hasMoreThanOneRow) {
+    // Try to put the toggle after the last element of the first row
+    const firstRow = items.filter((el) => el.offsetTop === firstTop);
+    const lastInFirstRow = firstRow[firstRow.length - 1];
+    if (lastInFirstRow) {
+      list.insertBefore(toggle, lastInFirstRow.nextSibling);
+    } else {
+      list.insertBefore(toggle, list.firstChild);
+    }
+    // If toggle still not in the first row (too tight), move it leftwards until it fits
+    for (let i = firstRow.length - 1; i >= 0 && toggle.offsetTop !== firstTop; i--) {
+      list.insertBefore(toggle, firstRow[i]);
+    }
+  } else {
+    // Single row: place toggle at the end (but it will be hidden anyway)
+    list.appendChild(toggle);
+  }
+
+  // Recompute first row bottom including the toggle button (if it's in first row)
+  items = Array.from(list.children).filter((el) => el !== toggle);
+  const firstRowAll = items.filter((el) => el.offsetTop === firstTop);
+  if (toggle.offsetTop === firstTop) firstRowAll.push(toggle);
+  let rowBottom = firstTop;
+  for (const el of firstRowAll) {
+    rowBottom = Math.max(rowBottom, el.offsetTop + el.offsetHeight);
+  }
+  const collapsedHeight = Math.max(0, rowBottom - firstTop);
+  list.style.setProperty('--collapsed-height', `${collapsedHeight}px`);
+
+  if (hasMoreThanOneRow) {
+    toggle.classList.remove('hidden');
+    // Preserve expanded state if already expanded
+    if (container.classList.contains('expanded')) {
+      toggle.textContent = '收起';
+      toggle.setAttribute('aria-expanded', 'true');
+    } else {
+      container.classList.add('collapsed');
+      container.classList.remove('expanded');
+      toggle.textContent = '展开';
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  } else {
+    // Only one row; no need for toggle
+    toggle.classList.add('hidden');
+    container.classList.remove('collapsed', 'expanded');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+}
+
+function toggleTagFilters() {
+  const container = dom.tagFilterContainer;
+  if (!container) return;
+  const nowExpanded = !container.classList.contains('expanded');
+  container.classList.toggle('expanded', nowExpanded);
+  container.classList.toggle('collapsed', !nowExpanded);
+  if (dom.toggleTags) {
+    dom.toggleTags.textContent = nowExpanded ? '收起' : '展开';
+    dom.toggleTags.setAttribute('aria-expanded', nowExpanded ? 'true' : 'false');
+  }
+  // Reposition toggle after layout change
+  updateTagCollapseUI();
 }
 
 function renderGallery() {
@@ -232,6 +342,8 @@ function onTagClick(event) {
     button.classList.add('active');
   }
   applyFilters();
+  // Active state may change layout; ensure toggle stays visible in first row
+  updateTagCollapseUI();
 }
 
 function clearFilters() {
@@ -239,6 +351,7 @@ function clearFilters() {
   state.selectedTags.clear();
   dom.tagFilters.querySelectorAll('.tag-button').forEach((btn) => btn.classList.remove('active'));
   applyFilters();
+  updateTagCollapseUI();
 }
 
 function handleSearchInput(event) {
