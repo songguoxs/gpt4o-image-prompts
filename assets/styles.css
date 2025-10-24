@@ -62,7 +62,12 @@ a:hover {
   top: 0;
   z-index: 10;
   padding: 1.2rem clamp(1.8rem, 4vw, 3rem);
-  background: linear-gradient(180deg, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.8) 60%, transparent 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(15, 23, 42, 0.92) 0%,
+    rgba(15, 23, 42, 0.8) 60%,
+    transparent 100%
+  );
   backdrop-filter: blur(18px);
 }
 
@@ -348,7 +353,7 @@ main {
 .prompt-card img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
   background: rgba(148, 163, 184, 0.08);
 }
 
@@ -504,7 +509,7 @@ main {
 }
 
 .image-grid img {
-  width: 100%;
+  width: 70%;
   border-radius: var(--radius-md);
   border: 1px solid rgba(148, 163, 184, 0.18);
   object-fit: cover;
