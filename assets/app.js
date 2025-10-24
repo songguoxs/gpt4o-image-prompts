@@ -32,6 +32,8 @@ const dom = {
 
 let searchDebounceTimer = null;
 let toastTimer = null;
+const HEADER_TOP_HIDE_KEY = 'headerTopHiddenUntil';
+let resizeDebounceTimer = null;
 
 init();
 
@@ -42,13 +44,43 @@ async function init() {
     state.filteredItems = [...state.items];
     state.allTags = buildAllTags(state.items);
     renderTagFilters();
+    // After rendering tags, setup collapse/expand behavior
+    updateTagCollapseUI();
     renderGallery();
     updateResultStats();
     bindEvents();
+    setupHeaderTopDismiss();
   } catch (error) {
     console.error("[prompts] Failed to initialise gallery", error);
     showToast("数据加载失败，请检查控制台。", true);
   }
+}
+
+function setupHeaderTopDismiss() {
+  const headerTop = document.querySelector('.header-top');
+  const closeBtn = document.getElementById('headerTopClose');
+  if (!headerTop || !closeBtn) return;
+
+  try {
+    const stored = localStorage.getItem(HEADER_TOP_HIDE_KEY);
+    const hiddenUntil = stored ? parseInt(stored, 10) : 0;
+    if (Number.isFinite(hiddenUntil) && Date.now() < hiddenUntil) {
+      headerTop.classList.add('hidden');
+    }
+  } catch (_) {
+    // ignore storage errors
+  }
+
+  closeBtn.addEventListener('click', () => {
+    headerTop.classList.add('hidden');
+    try {
+      const oneDayMs = 24 * 60 * 60 * 1000;
+      const until = Date.now() + oneDayMs;
+      localStorage.setItem(HEADER_TOP_HIDE_KEY, String(until));
+    } catch (_) {
+      // ignore storage errors; still hide for this session
+    }
+  });
 }
 
 async function fetchData() {
@@ -107,6 +139,107 @@ function renderTagFilters() {
     button.dataset.tag = tag;
     dom.tagFilters.appendChild(button);
   });
+
+  // Ensure there is a toggle button inside the first row (as the last item in flow)
+  const existingToggle = dom.tagFilters.querySelector('#toggleTags');
+  let toggle;
+  if (existingToggle) {
+    toggle = existingToggle;
+  } else {
+    toggle = document.createElement('button');
+    toggle.id = 'toggleTags';
+    toggle.type = 'button';
+    toggle.className = 'ghost-btn tag-toggle-btn hidden';
+    toggle.setAttribute('aria-controls', 'tagFilters');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.addEventListener('click', toggleTagFilters);
+    dom.tagFilters.appendChild(toggle);
+  }
+  dom.toggleTags = toggle;
+
+  // After tags are placed, update collapse UI
+  updateTagCollapseUI();
+}
+
+function updateTagCollapseUI() {
+  const container = dom.tagFilterContainer;
+  const list = dom.tagFilters;
+  const toggle = dom.toggleTags || list.querySelector('#toggleTags');
+  if (!container || !list || !toggle) return;
+
+  // All tag items excluding the toggle
+  let items = Array.from(list.children).filter((el) => el !== toggle);
+  if (items.length === 0) {
+    toggle.classList.add('hidden');
+    container.classList.remove('collapsed', 'expanded');
+    return;
+  }
+
+  const firstTop = items[0].offsetTop;
+  let hasMoreThanOneRow = items.some((el) => el.offsetTop !== firstTop);
+
+  // Only need to place the toggle into the first row if there is more than one row
+  if (hasMoreThanOneRow) {
+    // Try to put the toggle after the last element of the first row
+    const firstRow = items.filter((el) => el.offsetTop === firstTop);
+    const lastInFirstRow = firstRow[firstRow.length - 1];
+    if (lastInFirstRow) {
+      list.insertBefore(toggle, lastInFirstRow.nextSibling);
+    } else {
+      list.insertBefore(toggle, list.firstChild);
+    }
+    // If toggle still not in the first row (too tight), move it leftwards until it fits
+    for (let i = firstRow.length - 1; i >= 0 && toggle.offsetTop !== firstTop; i--) {
+      list.insertBefore(toggle, firstRow[i]);
+    }
+  } else {
+    // Single row: place toggle at the end (but it will be hidden anyway)
+    list.appendChild(toggle);
+  }
+
+  // Recompute first row bottom including the toggle button (if it's in first row)
+  items = Array.from(list.children).filter((el) => el !== toggle);
+  const firstRowAll = items.filter((el) => el.offsetTop === firstTop);
+  if (toggle.offsetTop === firstTop) firstRowAll.push(toggle);
+  let rowBottom = firstTop;
+  for (const el of firstRowAll) {
+    rowBottom = Math.max(rowBottom, el.offsetTop + el.offsetHeight);
+  }
+  const collapsedHeight = Math.max(0, rowBottom - firstTop);
+  list.style.setProperty('--collapsed-height', `${collapsedHeight}px`);
+
+  if (hasMoreThanOneRow) {
+    toggle.classList.remove('hidden');
+    // Preserve expanded state if already expanded
+    if (container.classList.contains('expanded')) {
+      toggle.textContent = '收起';
+      toggle.setAttribute('aria-expanded', 'true');
+    } else {
+      container.classList.add('collapsed');
+      container.classList.remove('expanded');
+      toggle.textContent = '展开';
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  } else {
+    // Only one row; no need for toggle
+    toggle.classList.add('hidden');
+    container.classList.remove('collapsed', 'expanded');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+}
+
+function toggleTagFilters() {
+  const container = dom.tagFilterContainer;
+  if (!container) return;
+  const nowExpanded = !container.classList.contains('expanded');
+  container.classList.toggle('expanded', nowExpanded);
+  container.classList.toggle('collapsed', !nowExpanded);
+  if (dom.toggleTags) {
+    dom.toggleTags.textContent = nowExpanded ? '收起' : '展开';
+    dom.toggleTags.setAttribute('aria-expanded', nowExpanded ? 'true' : 'false');
+  }
+  // Reposition toggle after layout change
+  updateTagCollapseUI();
 }
 
 function renderGallery() {
@@ -125,10 +258,11 @@ function renderGallery() {
     card.setAttribute("aria-label", `查看案例 ${item.id}：${item.title}`);
 
     if (item.coverImage) {
-      const img = document.createElement("img");
-      img.src = item.coverImage;
+      const img = document.createElement('img');
+      img.dataset.src = item.coverImage; // Use data-src for lazy loading
+      img.src = './assets/loading.png'; // Placeholder image
       img.alt = `案例 ${item.id}：${item.title}`;
-      img.loading = "lazy";
+      img.loading = 'lazy'; // Optional: Browser-native lazy loading
       card.appendChild(img);
     } else {
       const placeholder = document.createElement("div");
@@ -157,11 +291,9 @@ function renderGallery() {
       body.appendChild(tagContainer);
     }
 
-    const meta = document.createElement("div");
-    meta.className = "card-meta";
-    const promptCount = document.createElement("span");
-    promptCount.textContent = `提示词 ×${item.prompts.length}`;
-    meta.appendChild(promptCount);
+    const meta = document.createElement('div');
+    meta.className = 'card-meta';
+    // 仅保留“示例 ×N”，不显示“提示词 ×N”
     if (item.examples && item.examples.length > 0) {
       const exampleCount = document.createElement("span");
       exampleCount.textContent = `示例 ×${item.examples.length}`;
@@ -179,6 +311,24 @@ function renderGallery() {
     });
     dom.gallery.appendChild(card);
   });
+
+  lazyLoadImages(); // Initialize lazy loading
+}
+
+function lazyLoadImages() {
+  const images = document.querySelectorAll('img[data-src]');
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        img.src = img.dataset.src; // Load the actual image
+        img.removeAttribute('data-src'); // Remove data-src after loading
+        observer.unobserve(img); // Stop observing the image
+      }
+    });
+  });
+
+  images.forEach((img) => observer.observe(img));
 }
 
 function onTagClick(event) {
@@ -193,6 +343,8 @@ function onTagClick(event) {
     button.classList.add("active");
   }
   applyFilters();
+  // Active state may change layout; ensure toggle stays visible in first row
+  updateTagCollapseUI();
 }
 
 function clearFilters() {
@@ -202,6 +354,7 @@ function clearFilters() {
     .querySelectorAll(".tag-button")
     .forEach((btn) => btn.classList.remove("active"));
   applyFilters();
+  updateTagCollapseUI();
 }
 
 function handleSearchInput(event) {

@@ -31,6 +31,37 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 364：粉色吊带背心女生比心 ](#prompt-364)
+*   [案例 363：品牌创意3D广告 ](#prompt-363)
+*   [案例 362：自信优雅的黑色西装女士 ](#prompt-362)
+*   [案例 361：毛绒世界 ](#prompt-361)
+*   [案例 360：时尚女性与熊合影 ](#prompt-360)
+*   [案例 359：红色晚礼服女子 ](#prompt-359)
+*   [案例 358：卧室镜子自拍 ](#prompt-358)
+*   [案例 357：黑白风格肖像照 ](#prompt-357)
+*   [案例 356：黑白风格肖像照 ](#prompt-356)
+*   [案例 355：和漫威角色集体自拍 ](#prompt-355)
+*   [案例 354：超精细逼真的美丽女人肖像 ](#prompt-354)
+*   [案例 353：电影感的超现实主义肖像画 ](#prompt-353)
+*   [案例 352：女人3D数字插画 ](#prompt-352)
+*   [案例 351：身穿古代服饰的派大星和海绵宝宝 ](#prompt-351)
+*   [案例 350：中国红自拍照片 ](#prompt-350)
+*   [案例 349：复古小报童 ](#prompt-349)
+*   [案例 348：超级马里奥风格照片 ](#prompt-348)
+*   [案例 347：人物和宝可梦 ](#prompt-347)
+*   [案例 346：人物和大型耿鬼 ](#prompt-346)
+*   [案例 345：你抱着幼年版自己的复古风自拍 ](#prompt-345)
+*   [案例 344：中秋月下秋千照片 ](#prompt-344)
+*   [案例 343：超写实影棚肖像照 ](#prompt-343)
+*   [案例 342：一位坐地铁的女性 ](#prompt-342)
+*   [案例 341：东京地铁楼梯间美女照 ](#prompt-341)
+*   [案例 340：居酒屋里拍摄的美女 ](#prompt-340)
+*   [案例 339：百褶迷你裙美女 ](#prompt-339)
+*   [案例 338：都市上空巨大的涡旋冲破暴风云层 ](#prompt-338)
+*   [案例 337：低马尾女孩在日式居酒屋 ](#prompt-337)
+*   [案例 336：一幅如梦似幻的私密肖像照 ](#prompt-336)
+*   [案例 335：美丽的浅蓝色警服日本女子 ](#prompt-335)
+*   [案例 334：全身夜景肖像 ](#prompt-334)
 *   [案例 333：女生坐沙发上 ](#prompt-333)
 *   [案例 332：女生镜子自拍 ](#prompt-332)
 *   [案例 331：走廊上的女性 ](#prompt-331)
@@ -167,6 +198,890 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-364"></a>
+## 案例 364：粉色吊带背心女生比心 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1980462057272275105))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/364.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-粉色吊带背心女生比心">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "clean studio corner",
+    "background": "soft pastel sage seamless, subtle falloff, no clutter"
+  },
+
+  "subject": {
+    "age": "adult",
+    "description": "woman with fair skin, long wavy brown hair with straight bangs, vivid blue eyes",
+    "wardrobe": "pink strappy cami with black lace trim, blue plaid skirt",
+    "accessories": "delicate necklace, symmetrical pastel hair clips",
+    "pose": "full body; gentle S-curve; hip slightly popped; front knee inward; toes pointed; hands frame face in small heart gesture near chin",
+    "expression": "kawaii allure: bright eyes with micro-smile and soft pout; slight 8° head tilt toward camera",
+    "gaze": "direct to camera",
+    "body_notes": "realistic adult proportions; natural skin texture"
+  },
+
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 70,
+    "aperture_f": 2.2,
+    "shutter_s": 0.00625,
+    "iso": 200,
+    "white_balance_k": 5200,
+    "distance_m": 4.0,
+    "camera_height_m": 1.05,
+    "framing": "entire figure visible with 5% headroom and shoes in frame",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+
+  "lighting": {
+    "key": "large diffused softbox front-left at 45°, close to subject, high-key beauty",
+    "fill": "white bounce on camera-right one stop under key",
+    "hair": "soft rim from behind to lift hair texture",
+    "catchlights": "two circular catchlights at 10 and 2 o'clock",
+    "notes": "flicker-free LEDs; even skin luminance; avoid harsh speculars"
+  },
+
+  "color_grade": {
+    "style": "Ulzzang / kawaii soft-glam",
+    "palette": "pastel pinks and sage; neutral skin with peach blush",
+    "contrast": "medium-low with crisp micro-contrast on eyes and lips",
+    "saturation": "moderate"
+  },
+
+  "makeup": {
+    "eyes": "subtle winged liner, long lashes, soft brown shadow, gentle aegyo-sal highlight",
+    "cheeks": "peach gradient blush",
+    "lips": "pink gradient tint with light gloss"
+  },
+
+  "postprocess": {
+    "retouch": "light frequency separation; maintain pores and flyaway hair",
+    "clarity": "selective clarity on irises, lashes, lips",
+    "dodge_burn": "micro dodge on eyes and cupid's bow; mild burn on hair shadows",
+    "vignette": "very subtle"
+  },
+
+  "art_direction": {
+    "mood": "cute, playful, alluring yet tasteful",
+    "keywords": ["kawaii", "S-curve", "face-framing gesture", "soft glow", "clean studio"]
+  },
+
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "warped hands or extra fingers",
+    "deformed limbs",
+    "flat lighting",
+    "oversharpening halos",
+    "cluttered background"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"location": "干净的工作室角落",
+“背景”：“柔和的淡紫色无缝，微妙的衰减，没有混乱”
+}，
+
+“主题”： {
+"年龄": "成人",
+"description": "皮肤白皙，长长的棕色波浪发，直刘海，鲜艳的蓝眼睛，
+"wardrobe": "粉色吊带背心，黑色蕾丝边，蓝色格子裙",
+"accessories": "精致的项链，对称的淡色发夹",
+"pose": "全身；柔和的 S 形曲线；臀部微微外展；前膝向内；脚趾绷直；双手在下巴附近做出小心心的手势，
+"expression": "卡哇伊魅力：明亮的眼睛，微微微笑，轻轻噘嘴；头部略微向镜头倾斜 8°"
+"gaze": "直视相机",
+"body_notes": "逼真的成人比例；自然的皮肤纹理"
+}，
+
+“相机”： {
+“传感器”：“全帧”，
+"焦距毫米": 70,
+"aperture_f": 2.2,
+“shutter_s”：0.00625，
+“iso”：200，
+"白平衡k": 5200,
+“距离米”：4.0，
+"相机高度米": 1.05,
+"framing": "整个人物可见，5% 的头部空间和鞋子在框架内",
+“focus”：“eye_detect_AF 在最近的眼睛上”
+}，
+
+“灯光”： {
+"key": "大型漫射柔光箱位于左前方 45° 处，靠近拍摄对象，呈现高调美感",
+"fill": "白色在相机上弹跳-右键下停一站",
+"hair": "从后面添加柔软边缘，提升头发质感",
+"catchlights": "两个圆形的眼神光分别位于 10 点和 2 点位置",
+“注释”：“无闪烁 LED；均匀的皮肤亮度；避免刺眼的镜面反射”
+}，
+
+“颜色等级”：{
+"style": "Ulzzang / 可爱柔和魅力",
+"palette": "淡粉色和鼠尾草色；中性肤色，搭配桃色腮红",
+“对比度”：“中低，眼睛和嘴唇有清晰的微对比度”，
+“饱和度”：“中等”
+}，
+
+“化妆品”： {
+"eyes": "细腻的翼状眼线，纤长的睫毛，柔和的棕色眼影，柔和的撒娇高光",
+"cheeks": "桃色渐变腮红",
+“嘴唇”：“粉色渐变色调，带有淡淡的光泽”
+}，
+
+“后处理”：{
+"retouch": "光频分离；维持毛孔和飞散的头发",
+"clarity": "虹膜、睫毛、嘴唇的选择性清晰度",
+"dodge_burn": "对眼睛和丘比特之弓进行微减淡；对头发阴影进行轻度加深",
+“vignette”：“非常微妙”
+}，
+
+“艺术指导”：{
+"mood": "可爱、俏皮、迷人又有品位",
+"keywords": ["kawaii", "S-curve", "face-framement gesture", "soft glow", "clean studio"]
+}，
+
+"negative_prompts": [
+“nsfw”，
+“未成年的样子”，
+“文字或徽标”，
+“塑料娃娃皮肤”，
+“弯曲的手或多余的手指”，
+“畸形肢体”，
+“平面照明”，
+“过度锐化光晕”，
+“杂乱的背景”
+]
+}
+```
+
+<a id="prompt-363"></a>
+## 案例 363：品牌创意3D广告 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1979813700883366110))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/363.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌创意3D广告">
+</div>
+
+**提示词：**
+```
+Creative 3D ad for [Brand Name], with surreal object made from it, matching background color, real slogan below, logo on top, miniature person interacting, minimal and clever concept
+```
+
+**中文提示词：**
+```
+为 [品牌名称] 制作的创意 3D 广告，由超现实的物体制成，背景颜色匹配，下面是真实的口号，上面是徽标，微型人物互动，简约而巧妙的概念
+```
+
+<a id="prompt-362"></a>
+## 案例 362：自信优雅的黑色西装女士 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1980821497284554960))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/362.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自信优雅的黑色西装女士">
+</div>
+
+**提示词：**
+```
+A beautiful, confident woman wearing a black suit sits elegantly on a luxurious white chair that highlights her slim, graceful figure. Her right hand rests gently beneath her chin, with her chin slightly raised in a pose of self-assurance. Her head tilts subtly to the right, eyes steady and looking forward with confidence. Her facial features glow under high-quality cinematic lighting, enhancing her natural beauty. The background is pure white, featuring a rare art painting and soft, cinematic illumination. Beside the chair stands a unique white table topped with a black coffee cup and a stylish lamp decor, creating a refined and elegant atmosphere.
+```
+
+**中文提示词：**
+```
+一位美丽自信的女士身着黑色西装，优雅地坐在奢华的白色椅子上，衬托出她窈窕的身姿。她的右手轻抚下巴，下巴微微上扬，展现出自信的姿态。她的头微微向右倾斜，目光坚定，充满自信地向前看去。在高品质的电影级灯光下，她的五官更加光彩夺目，更显自然之美。纯白的背景，点缀着一幅罕见的艺术画作，柔和的电影级灯光营造出一种别致的氛围。椅子旁边摆放着一张独特的白色桌子，桌上摆放着黑色咖啡杯和时尚的灯饰，营造出精致优雅的氛围。
+```
+
+<a id="prompt-361"></a>
+## 案例 361：毛绒世界 (来源 [@azed_ai](https://x.com/azed_ai/status/1980664924918727038))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/361.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-毛绒世界">
+<img src="./images/361-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-毛绒世界">
+</div>
+
+**提示词：**
+```
+A soft and plush 3D model of a [subject] with a [key detail], rendered in a cute, stylized aesthetic. The texture appears velvety, squeezable, and toy-like, emphasizing the charm of animated [object type] designs. Clean background, centered composition, soft ambient lighting, pastel tones, subtle shadows, high-resolution render, front-facing view.
+```
+
+**中文提示词：**
+```
+一个柔软毛绒绒的3D模型，带有一个[关键细节]，以可爱、风格化的美感呈现。纹理柔软，可挤压，像玩具一样，凸显了动画[物体类型]设计的魅力。干净的背景，居中的构图，柔和的环境光，柔和的色调，微妙的阴影，高分辨率渲染，正面视图。
+```
+
+<a id="prompt-360"></a>
+## 案例 360：时尚女性与熊合影 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1980804390694056368))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/360.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时尚女性与熊合影">
+</div>
+
+**提示词：**
+```
+Ultra-cinematic shot of a confident, stylish woman in a sleek, dark suit blazer and combat boots, standing with a massive brown bear slightly behind her, with her hand resting on the bear. It's clear that the bear is her protector and loyal, trained companion. Ultra-detailed photo in Russian style. Dramatic, directed lighting, minimal environmental immersion, solid red background. The image exudes boldness, strength, and a feeling of high tension.
+```
+
+**中文提示词：**
+```
+这张极具电影感的照片展现了一位自信时尚的女子，身着时尚的深色西装外套和军靴，站在她身后一头巨大的棕熊旁，她的手放在熊身上。显然，这头熊是她的守护者，也是她训练有素的忠诚伙伴。这张细节丰富的照片展现了俄罗斯风格。戏剧性的定向灯光，极简的环境沉浸感，以及纯红色的背景。这张照片展现了大胆、力量和高度紧张的氛围。
+```
+
+<a id="prompt-359"></a>
+## 案例 359：红色晚礼服女子 (来源 [@ReemKhan_07](https://x.com/ReemKhan_07/status/1979887420930974163))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/359.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-红色晚礼服女子">
+</div>
+
+**提示词：**
+```
+​A full-body studio portrait of a beautiful young woman with long, wavy brown hair and the exact facial features as the second image provided, wearing an elegant, sleeveless, floor-length red evening gown. She is wearing a silver pendant necklace and matching silver earrings. The dress is a smooth, form-fitting fabric and she is wearing silver high, slim-heeled pumps. She is standing in a luxurious, modern penthouse setting with a dark wood floor and large floor-to-ceiling windows overlooking a city skyline at twilight. Her pose is poised and confident, with her hands clasped lightly in front of her. The lighting is soft and dramatic.
+```
+
+**中文提示词：**
+```
+这是一张工作室拍摄的全身肖像，描绘的是一位美丽的年轻女子，她有着一头长长的棕色波浪卷发，五官与第二张照片一模一样，身着优雅的无袖及地红色晚礼服。她佩戴着一条银色吊坠项链和与之相配的银色耳环。裙子面料光滑贴身，脚穿银色细高跟鞋。她站在一间奢华现代的顶层公寓里，深色木地板和宽大的落地窗俯瞰着暮色中的城市天际线。她姿态泰然自若，充满自信，双手轻轻握在身前。灯光柔和而富有戏剧性。
+```
+
+<a id="prompt-358"></a>
+## 案例 358：卧室镜子自拍 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1981124366411895079))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/358.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卧室镜子自拍">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "description": "Indoor mirror selfie in a contemporary bedroom or dressing area.",
+    "lighting": "Soft, warm ambient interior lighting, flattering and even.",
+    "environment": "Neutral background, slightly blurred, suggesting closet doors or plain walls."
+  },
+  "subject": {
+    "demographics": {
+      "ethnicity": "Korean (East Asian)",
+      "apparent_age": "20-23",
+      "build": "Very slender, 'S-line' figure with a notably tiny waist ('ant waist') and defined, toned abs."
+    },
+    "facial_aesthetics": {
+      "style_keywords": ["Ulzzang (얼짱) aesthetic", "Casual beauty", "Doll-like features", "Youthful and confident"],
+      "face_shape": "Small face with a coveted V-line jaw.",
+      "eyes": "Large, bright 'Doe eyes'. Prominent Aegyo-sal. Soft, natural eyeliner.",
+      "skin": "Flawless 'Glass skin', pale complexion, dewy finish.",
+      "lips": "Plump cherry lips, soft pink gradient tint.",
+      "hair": {
+        "color": "Warm medium brown",
+        "style": "Long, gentle waves",
+        "bangs": "Airy, 'see-through' bangs (Korean style) framing the forehead."
+      }
+    },
+    "pose": {
+      "type": "Standing mirror selfie.",
+      "action": "Subject is confidently lifting the hem of her sweater with both hands to expose her toned midriff.",
+      "expression": "Soft, pleasant expression, subtle smile, eyes focused on the phone screen.",
+      "framing": "Medium shot (hips to head)."
+    },
+    "wardrobe": {
+      "top": {
+        "garment": "Cropped cable-knit sweater",
+        "color": "Cream / Ivory white",
+        "details": "Distinctive hybrid design with sheer, voluminous organza ruffles on the sleeves and cuffs."
+      },
+      "bottom": {
+        "garment": "Blue jeans",
+        "fit": "Low-rise, relaxed fit.",
+        "details": "Light-to-medium wash denim, worn unbuttoned and slightly pulled down at the hips."
+      }
+    },
+    "accessories": {
+      "phone": "Dark gray smartphone held in the hand, rear camera visible in the mirror."
+    }
+  },
+  "camera_technical": {
+    "device": "Smartphone rear camera via mirror",
+    "look": "Clean, high-quality mobile photography, vertical orientation (3:4).",
+    "focus": "Sharp focus on the subject's face and torso."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"description": "在现代卧室或更衣区进行室内镜子自拍。",
+"lighting": "柔和、温暖的室内环境照明，令人赏心悦目且均匀。",
+"environment": "中性背景，略微模糊，类似于壁橱门或普通墙壁。"
+}，
+“主题”： {
+“人口统计”：{
+"ethnicity": "韩国人（东亚）",
+"apparent_age": "20-23",
+“身材”：非常苗条，‘S 型’身材，腰部明显纤细（“蚂蚁腰”），腹肌清晰紧实。
+}，
+“面部美学”：{
+"style_keywords": ["Ulzzang (얼짱) 审美", "休闲美", "洋娃娃般的五官", "年轻自信"],
+"face_shape": "小脸，拥有令人垂涎的 V 型下巴。",
+"eyes": "大而明亮的“小鹿眼”。突出的斜眼妆。柔和自然的眼线。",
+"skin": "完美无瑕的‘玻璃肌肤’，白皙的肤色，水润的妆容。",
+"lips": "丰满的樱桃唇，柔和的粉色渐变色调。",
+“头发”： {
+"color": "暖中棕色",
+"style": "长而柔和的波浪",
+"bangs": "飘逸的‘透视’刘海（韩式）修饰额头。"
+}
+}，
+“姿势”：{
+"type": "站立镜子自拍。",
+"action": "对象自信地用双手撩起毛衣下摆，露出紧致的腹部。",
+"expression": "柔和、愉快的表情，淡淡的微笑，眼睛专注于手机屏幕。",
+"framing": "中景（臀部到头部）。"
+}，
+“衣柜”： {
+“顶部”： {
+"garment": "短款绞花针织毛衣",
+"color": "奶油色/象牙白色",
+“详细信息”：“独特的混合设计，袖子和袖口上有透明、蓬松的欧根纱褶边。”
+}，
+“底部”： {
+"garment": "蓝色牛仔裤",
+"fit": "低腰，宽松版型。",
+“details”：“轻度至中度水洗牛仔布，未扣纽扣，臀部略微拉低。”
+}
+}，
+“配件”： {
+“手机”：“手中拿着深灰色的智能手机，镜子中可以看到后置摄像头。”
+}
+}，
+“相机技术”：{
+"device": "通过镜子的智能手机后置摄像头",
+"look": "清晰、高品质的手机摄影，垂直方向（3:4）。",
+"focus": "清晰地聚焦拍摄对象的脸部和躯干。"
+}
+}
+```
+
+<a id="prompt-357"></a>
+## 案例 357：黑白风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1980278681927877032))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/357.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白风格肖像照">
+</div>
+
+**提示词：**
+```
+A captivating black and white close-up portrait of a beautiful young Asian woman with flawless skin, short bob haircut featuring straight blunt bangs framing her forehead, eyes gently closed with long lashes, subtle pouty lips, serene and introspective expression, wearing a form-fitting deep V-neck black ribbed sweater that accentuates her, a delicate thin necklace with a small pendant, dramatic side lighting from the left creating strong shadows and highlights on her face, neck, and shoulders, high contrast chiaroscuro style, minimalist studio background with soft gradient from light to dark, photorealistic, vintage film grain effect, high detail, emotional and mysterious atmosphere.
+```
+
+**中文提示词：**
+```
+一张引人入胜的黑白特写肖像，展现一位美丽的年轻亚洲女性，拥有无瑕的肌肤和齐颈短发，直刘海整齐地框住前额。她双眼轻闭，睫毛纤长，嘴唇微噘，表情宁静而内省。她身穿一件凸显身材的深V领黑色罗纹毛衣，佩戴一条带有小吊坠的精致细项链。戏剧性的侧光从左侧打来，在她脸部、颈部和肩部营造出强烈的阴影与高光，呈现出高对比度的明暗对照画风。背景是简约的摄影棚，带有从明到暗的柔和渐变。画面具有照片级的真实感和复古胶片颗粒效果，细节丰富，营造出一种感性而神秘的氛围。
+```
+
+<a id="prompt-356"></a>
+## 案例 356：黑白风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1980858137788797269))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/356.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白风格肖像照">
+</div>
+
+**提示词：**
+```
+a woman standing confidently in a minimalist studio, shot from a slightly low angle, half-body portrait, her head tilted slightly down with a calm and enigmatic expression, middle-parted braided pigtails with a few loose strands falling over her face, subtle wet hair texture, wearing a tight black sleeveless dress and black leather gloves, holding a leather belt loosely in front of her body — dramatic single key light from upper right, high contrast, black and white tones, strong rim light accentuating her curves, plain textured wall background, cinematic noir atmosphere, fine art fashion photography, inspired by Helmut Newton and Peter Coulson, shallow depth of field, smooth gradients, elegant and powerful mood
+```
+
+**中文提示词：**
+```
+一位女士自信地站立在极简主义的摄影棚中，从略低的视角拍摄，半身肖像。她的头微微向下倾斜，表情平静而神秘。中分编织的双马尾辫，几缕发丝随意地落在脸庞上，头发带有微妙的湿润质感。她穿着紧身的黑色无袖连衣裙和黑色皮手套，双手松散地在身体前方握着一条皮带。画面采用戏剧性的单一主光源从右上角打下，高对比度，黑白影调，强烈的轮廓光勾勒出她的身体曲线。背景是纯色的纹理墙壁，营造出电影般的黑色电影氛围，如同艺术时尚摄影作品。灵感来源于赫尔穆特·牛顿和彼得·库尔森，景深较浅，光影过渡平滑，整体情绪优雅而充满力量。
+```
+
+<a id="prompt-355"></a>
+## 案例 355：和漫威角色集体自拍 (来源 [@xmliisu](https://x.com/xmliisu/status/1980161909828526514))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/355.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和漫威角色集体自拍">
+</div>
+
+**提示词：**
+```
+A ultra realistic group selfie, center is the person from the attached image (uploaded image facial details), wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.
+```
+
+**中文提示词：**
+```
+一张超逼真的集体自拍，中间是附件图片中的人物（上传图片的面部细节），他身穿合身的黑色衬衫和破洞牛仔裤，手持 iPhone 自拍。周围是克里斯·海姆斯沃斯饰演的雷神、盖尔·加朵饰演的神奇女侠、斯嘉丽·约翰逊饰演的黑寡妇、马克·鲁法洛饰演的绿巨人、亨利·卡维尔饰演的超人，以及全副武装的 RDJ，他们拥抱在一起，面带微笑，像亲密朋友一样随意摆姿势。充满乐趣、愉悦的心情，明亮的日光，电影级画质，自然的画面，细节丰富
+```
+
+<a id="prompt-354"></a>
+## 案例 354：超精细逼真的美丽女人肖像 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1980469269134733415))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/354.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超精细逼真的美丽女人肖像">
+</div>
+
+**提示词：**
+```
+Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion editorial, deep white plunging V-neck lace sequined evening gown, elegant low bun updo, soft studio lighting, light grey background, dramatic shadowplay, hyperrealistic, 8K
+```
+
+**中文提示词：**
+```
+超精细、逼真的美丽女人肖像，高级时装社论，深白色 V 领蕾丝亮片晚礼服，优雅的低发髻，柔和的工作室灯光，浅灰色背景，戏剧性的光影，超现实主义，8K
+```
+
+<a id="prompt-353"></a>
+## 案例 353：电影感的超现实主义肖像画 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1980503919492272216))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/353.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影感的超现实主义肖像画">
+</div>
+
+**提示词：**
+```
+A cinematic, hyper-realistic portrait of 
+@simplyannisa
+, keeping her real facial features completely unchanged. The woman sits at a wooden table, leaning slightly forward, with her right forearm resting naturally on the surface. Her right hand gently holds a dark ceramic mug with the word “
+@simplyannisa
+” written on it. Her fingers are slender, relaxed, and slightly curved. Her left arm is bent at the elbow, resting casually on the table. She wears a dark gray, slightly loose long-sleeve Henley top with the top buttons undone, subtly revealing a delicate neckline. Her hair falls naturally around her shoulders, soft waves catching the light. Her gaze is directed to the side, away from the camera, carrying a thoughtful and mysterious expression. The lighting is soft and moody, emphasizing the texture of her hair and face while adding cinematic contrast and emotional depth. The portrait is shot at eye level with an 85mm lens effect and a shallow depth of field, keeping her face and upper body in sharp focus while the background softly blurs. The overall color grading is muted and cinematic, with cool tones, soft shadows, and a minimalist dark background.
+```
+
+**中文提示词：**
+```
+这幅充满电影感的超现实主义肖像画，保留了@simplyannisa的真实面部特征。画中女子坐在木桌旁，身形微微前倾，右臂自然地搭在桌面上。她的右手轻轻地捧着一个深色陶瓷杯，杯上写着“ @simplyannisa ”三个字。她的手指纤细、放松，略带弧度。左臂肘部弯曲，随意地搭在桌上。她身穿一件略显宽松的深灰色长袖亨利衫，最上面的纽扣敞开，隐约露出精致的领口。她的头发自然地披散在肩上，柔和的波浪在光线下闪闪发光。她的目光转向侧面，远离镜头，带着一种若有所思、神秘莫测的表情。柔和的光线营造出一种忧郁的氛围，突出了她头发和面部的质感，同时增添了电影般的对比度和情感深度。这幅肖像画采用85毫米镜头，在视线高度处以浅景深拍摄，使她的脸部和上半身保持清晰对焦，而背景则略微模糊。整体色彩分级柔和且具有电影感，具有冷色调、柔和阴影和简约的深色背景。
+```
+
+<a id="prompt-352"></a>
+## 案例 352：女人3D数字插画 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1980553716131414281))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/352.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女人3D数字插画">
+</div>
+
+**提示词：**
+```
+A hyper-realistic 3D digital illustration of a woman with her natural facial features, hairstyle, and skin tone unchanged, styled in a Pixar-inspired cinematic look. She is smiling warmly while leaning through a glowing orange rectangular frame, both hands gently holding the edge of the frame. She wears a denim jacket layered over a black top, subtle jewelry, and a smartwatch on her wrist. The lighting is soft yet vibrant, highlighting facial depth, realistic fabric texture, and warm glow reflections on her face and hands. The background is softly blurred, creating a cinematic atmosphere with a perfect blend of realism, warmth, and Pixar-style charm.
+```
+
+**中文提示词：**
+```
+这幅超写实的3D数字插画描绘了一位女性，其自然的五官、发型和肤色均未改变，并采用了皮克斯风格的电影风格。她面带温暖的微笑，身影透过发光的橙色矩形画框倾身而立，双手轻轻握住画框边缘。她身穿牛仔夹克，内搭黑色上衣，佩戴着精致的珠宝，手腕上戴着智能手表。灯光柔和而明亮，凸显了面部深度、逼真的织物纹理以及她脸部和双手上温暖的光芒。背景轻柔地模糊处理，营造出一种电影般的氛围，完美融合了现实主义、温暖感和皮克斯风格的魅力。
+```
+
+<a id="prompt-351"></a>
+## 案例 351：身穿古代服饰的派大星和海绵宝宝 (来源 [@op7418](https://x.com/op7418/status/1980296606382780794))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/351.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身穿古代服饰的派大星和海绵宝宝">
+</div>
+
+**中文提示词：**
+```
+身上穿着唐朝服饰的一只派大星，自然逼真，北宋时期风格油画暗棕褐色旧版图高清，精细工笔，精细流畅、柔韧有力、充满韵律感。衣纹的勾勒，疏密有致。用色典雅，善于运用对比色，丰富和谐，头戴唐朝帽子
+```
+
+<a id="prompt-350"></a>
+## 案例 350：中国红自拍照片 (来源 [@xxx](xxxxxx))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/350.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国红自拍照片">
+</div>
+
+**中文提示词：**
+```
+图片中人物头发两侧别着黄色花朵，右脸颊有红色五角星图案，佩戴金色耳饰与细项链，身着印有白色 “China” 文字的红色 T 恤，红色纯色背景，妆容精致（红唇、自然眼妆），整体风格充满爱国情怀、清新明亮，高清细节。
+```
+
+<a id="prompt-349"></a>
+## 案例 349：复古小报童 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972570539006013947))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/349.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古小报童">
+</div>
+
+**中文提示词：**
+```
+保持人物面部五官和姿势不变，生成清新写真：人物穿米色短袖衬衫，下身搭配绿色背带裤，头戴绿色复古报童帽。佩戴红色小领巾，斜挎绿色小挎包，穿白色袜子。背景改为正红色，画面右上方书法英文“Happy Day”，文字融入人物周围，光线柔和均匀。
+```
+
+
+<a id="prompt-348"></a>
+## 案例 348：超级马里奥风格照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1971764229070884990))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/348.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超级马里奥风格照片">
+</div>
+
+**中文提示词：**
+```
+生成一张图片，人物头戴红色帽子，帽上有白色圆圈加红色 “M” 标志；上身是红色短袖，下身搭配蓝色背带裤，裤上有黄色圆形装饰扣，穿着红色的袜子还原度高，道具丰富多样。
+```
+
+<a id="prompt-347"></a>
+## 案例 347：人物和宝可梦 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972311003049415030))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/347.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物和宝可梦">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic editorial portrait of a person, generated from the provided image (same face 100%, same hairstyle, expression preserved). The subject stands confidently on a reflective glossy floor wearing a coordinated bright yellow and crimson outfit (hooded jacket or sweatshirt and tailored joggers) with lightning bolt-inspired linework and subtle embroidered electric motifs running along sleeves, chest and pant seams. Matching crimson and yellow sneakers complete the look. Beside the subject stands a large Pikachu-like creature, scaled to be equal to or taller than the person, with realistic textured fur and a vibrant palette of electric yellows and deep crimson accents that echo the clothing. Background is a moody electric yellow to deep crimson gradient that enhances the vibrant palette; both subject and creature are clearly reflected on the floor. Lighting uses dramatic warm key light and sculpting rim light to emphasize skin, fur and fabric detail, cinematic shallow depth of field, slight film grain for editorial grit, photoreal creature integration, ultra-detailed 8K quality.
+```
+
+**中文提示词：**
+```
+创造一张超现实的编辑肖像，人物形象基于提供的图像（面部100%相同，发型和表情保持不变）。主体自信地站立在反光的亮面地板上，身穿一套协调的亮黄色和深红色服装（连帽夹克或运动衫和修身慢跑裤），服装上饰有闪电状的线条设计和沿袖子、胸部和裤缝延伸的精致刺绣电气图案。搭配的深红色和黄色运动鞋完善了整体造型。主体旁边站立着一只大型皮卡丘状生物，其大小与人物相等或更高，拥有逼真的毛发纹理和鲜艳的电黄色及深红色点缀，与服装相呼应。背景是 moody 的电黄色到深红色的渐变，以增强鲜明的调色。主体和生物都清晰地反映在地面上。灯光采用戏剧性的暖色主光和造型轮廓光，以突出皮肤、毛发和织物的细节，电影般的浅景深，略带胶片颗粒以增加编辑质感，逼真的生物融合，超细节的8K画质。
+```
+
+<a id="prompt-346"></a>
+## 案例 346：人物和大型耿鬼 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1972307026714972370))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/346.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物和大型耿鬼">
+</div>
+
+**提示词：**
+```
+Hyper-realistic editorial portrait of a person, generated from the provided image (same face 100%, same hairstyle, expression preserved). The subject stands confidently on a reflective glossy floor wearing a coordinated deep purple and shadowy black outfit (hooded jacket or sweatshirt and tailored joggers) with ghostly wisp-inspired linework and subtle embroidered mischievous smile motifs running along sleeves, chest and pant seams. Matching crimson red and deep purple sneakers complete the look. Beside the subject stands a large Gengar, scaled to be equal to or taller than the person, with a realistic smooth, almost ethereal texture, and a vibrant palette of deep purples with glowing crimson red eyes that echo the clothing. Background is a moody deep purple to shadowy black gradient that enhances the vibrant palette; both subject and creature are clearly reflected on the floor. Lighting uses dramatic cool key light and sculpting rim light to emphasize skin, form and fabric detail, cinematic shallow depth of field, slight film grain for editorial grit, photoreal creature integration, ultra-detailed 8K quality.
+```
+
+**中文提示词：**
+```
+根据提供的图像生成的超现实主义人物肖像（100% 相同脸型、相同发型、保留表情）。人物自信地站在反光的光滑地板上，身着协调的深紫色和暗黑色服装（连帽夹克或运动衫和定制慢跑裤），带有幽灵般的缕缕线条，袖子、胸部和裤缝处绣有精致的顽皮笑脸图案。搭配的深红色和深紫色运动鞋使整个造型更加完美。人物旁边站着一只大型耿鬼，其比例与人物相等或更高，具有逼真的光滑、近乎空灵的纹理，以及鲜艳的深紫色调，闪闪发光的深红色眼睛与衣服相呼应。背景是从深紫色到暗黑色的渐变色，增强了鲜艳的色调；人物和生物都清晰地倒映在地板上。灯光采用戏剧性的冷色调主光和雕刻轮廓光来强调皮肤、形态和织物细节、电影浅景深、轻微的胶片颗粒感以增强编辑质感、逼真的生物融合以及超精细的 8K 质量。
+```
+
+
+<a id="prompt-345"></a>
+## 案例 345：你抱着幼年版自己的复古风自拍 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1971394542298440073))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/345.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你抱着幼年版自己的复古风自拍">
+</div>
+
+**提示词：**
+```
+retro selfies of you holding a baby version of you
+```
+
+**中文提示词：**
+```
+你抱着幼年版自己的复古风自拍
+```
+
+
+<a id="prompt-344"></a>
+## 案例 344：中秋月下秋千照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1975198365932769599))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/344.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中秋月下秋千照片">
+</div>
+
+**中文提示词：**
+```
+中秋月下秋千照片
+```
+
+<a id="prompt-343"></a>
+## 案例 343：超写实影棚肖像照 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1979569018928603432))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/343.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实影棚肖像照">
+</div>
+
+**中文提示词：**
+```
+超写实影棚肖像，一位男性优雅地斜倚在椅子靠背上，身着时尚的深色服装。以微妙的低角度拍摄，以突出他的面部特征和自信的表情。电影般的黑白调色，肤色自然精致。纯黑色背景，8K 锐利细节，突出服装、头发和眼睛的纹理，营造出戏剧性、栩栩如生的效果。
+```
+
+<a id="prompt-342"></a>
+## 案例 342：一位坐地铁的女性 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1979203307873931360))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/342.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位坐地铁的女性">
+</div>
+
+**提示词：**
+```
+a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, sitting with her knees together and hands gently folded over a glass, calm and elegant posture, oxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, her pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, flanked by two older Japanese policemen in uniform on each side, the man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; the man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, inside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, detailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, camera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1-1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, warm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography
+```
+
+**中文提示词：**
+```
+一位年轻美丽的日本女性，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿一件合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，一条深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，双膝并拢坐着，双手轻轻地交叉放在玻璃杯上，姿态平静而优雅，氧气清新的自然妆容搭配半透明的露珠底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮而通透，嘴唇是干净的鲜红色，但不油腻，她的姿势精致而沉稳：坐在狭窄的卡座中的一张狭窄的木凳上，脚踝略微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻地重叠在小玻璃杯放在两膝之间，下巴微微低垂，直视镜头，两侧各站着两名年纪稍长的穿制服的日本警察，左边的男子从门口探出身子，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意地垂着，表情专注而平静；右边的男子穿着条纹短袖衬衫，系着深色领带和警徽，帽子镶着金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副矜持、若有所思的样子，身处一间灯光昏暗的小酒吧里，里面摆满了老式的日本海报、旧酒瓶、狭窄的木墙、杂乱的架子，细致的物理环境：从门口拍摄，磨损的木门框形成了框中框；磨损的漆面横梁，手写的日文单据和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上反射着微弱的光线，空气潮湿；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，相机视角和比例：近距离交谈（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 宽高的垂直人像取景，轻微的中央重点构图强调了紧凑展位中的三人组，温暖的白炽灯光带有怀旧的琥珀色调，低饱和度色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影调色，荒木经惟和森山大道的街头摄影风格
+```
+
+<a id="prompt-341"></a>
+## 案例 341：东京地铁楼梯间美女照 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1979203277553307820))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/341.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-东京地铁楼梯间美女照">
+</div>
+
+**提示词：**
+```
+A blurry, high-grain snapshot taken in a Tokyo subway stairwell, charged with motion, humidity, and raw urban energy. The air feels thick and fluorescent, lit by overhead tube lights that cast a cold green-blue tint across the frame. The film grain, chromatic aberration, and lens distortion add a tactile sense of chaos — a fleeting instant suspended mid-run.
+
+At the center, a young woman in a tied white shirt and short plaid skirt is caught mid-step, descending the stairs. Her movement blurs, skirt flaring slightly, hair swept by motion. The focus drifts between her and the background, giving the shot a dreamlike disorientation, as if seen through memory or adrenaline.
+
+Her expression holds the entire frame together — eyes open, lips slightly parted, cheeks flushed, as if between alertness and vulnerability. There’s no posed awareness, only instinct — a moment stolen from time.
+
+Around her, commuters blur into silhouettes, the hallway tight and echoing, the walls reflecting harsh fluorescent glare. The composition feels accidental yet perfect: tilted, urgent, intimate.
+
+The atmosphere is electric and nostalgic, a mix of youth, motion, and fleeting emotion, like a fragment from a fever dream or an afterimage burned into film — not cinematic, but hyper-real, the kind of moment only disposable-camera photography captures: alive, imperfect, and painfully real.
+```
+
+**中文提示词：**
+```
+这是一张模糊的高颗粒快照，拍摄于东京地铁楼梯间，充满了运动、潮湿和原始的城市能量。空气感觉浓重而荧光，头顶的筒灯在画面上投射出冰冷的蓝绿色调。胶片颗粒、色差和镜头畸变增添了一种触觉上的混乱感——仿佛瞬间静止在运行中。
+照片中央，一位身着系带白衬衫和格子短裙的年轻女子正迈着轻快的步伐走下楼梯。她的动作模糊不清，裙摆微微扬起，头发随风飘动。焦点在她和背景之间游移，让这张照片呈现出一种如梦似幻的迷离感，仿佛透过记忆或肾上腺素的刺激而呈现。
+她的表情与整个画面融为一体——双眼睁开，嘴唇微张，脸颊泛红，仿佛介于警觉与脆弱之间。没有故作姿态的警觉，只有本能——一个从时间中偷来的瞬间。
+在她周围，通勤者的身影模糊不清，走廊狭窄而回声不断，墙壁反射着刺眼的荧光灯。这构图看似偶然，却又完美：倾斜、急促、亲密。
+氛围充满活力和怀旧，混合着青春、运动和转瞬即逝的情感，就像发烧梦境中的片段或刻在胶片上的残像——不是电影般的，而是超现实的，只有一次性相机摄影才能捕捉到的那种瞬间：鲜活、不完美、痛苦的真实。
+```
+<a id="prompt-340"></a>
+## 案例 340：居酒屋里用闪光灯拍摄的美女照片 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1979203220061982872))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/340.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-居酒屋里用闪光灯拍摄的美女照片">
+</div>
+
+**提示词：**
+```
+A flash snapshot taken in a small, crowded Japanese izakaya, filled with handwritten menus, old posters, and wooden textures. The lighting is from a direct on-camera flash, producing bright highlights, harsh shadows, and a slightly grainy texture that enhances the candid feeling.
+
+The main subject is a young woman sitting on a wooden bar stool, turning her body slightly and looking back over her shoulder toward the camera. She wears a white button-up shirt and a short high-waisted checkered skirt, revealing her legs and adding to the youthful, casual tone of the scene.
+
+Her face is softly lit by the flash — cheeks vividly blushed, red lips glossy, and eyes meeting the lens with a subtle, playful yet intimate expression. The smile is gentle but suggestive, carrying a slight sense of awareness and warmth. Her posture and gaze create a delicate tension between confidence and softness.
+
+The background is dim and crowded with older patrons in dark clothes, contrasting with her bright presence. The composition is tight and spontaneous, typical of 90s Japanese disposable camera photography — high flash contrast, slight blur, and natural imperfection.
+
+The overall mood is nostalgic, warm, and faintly ambiguous — capturing a moment that feels real, close, and emotionally charged, like a personal memory illuminated by flash rather than a staged portrait.
+```
+
+**中文提示词：**
+```
+这是一张在狭小拥挤的日式居酒屋里用闪光灯拍摄的照片，屋里摆满了手写菜单、老海报和木质纹理。光线来自机顶闪光灯的直射，营造出明亮的高光、刺眼的阴影和略带颗粒感的纹理，增强了照片的自然感。
+画面主体是一位年轻女子坐在酒吧木凳上，微微侧身，目光越过肩膀，望向镜头。她身穿白色纽扣衬衫和高腰格纹短裙，露出双腿，为画面增添了一抹青春随意的气息。
+闪光灯柔和地照亮了她的脸庞——双颊绯红，红唇闪耀光泽，目光与镜头交汇，眼神微妙、俏皮却又充满亲密感。她的笑容温柔却又充满暗示，透着一丝警觉与温暖。她的姿态和目光在自信与柔和之间营造出一种微妙的张力。
+背景昏暗，挤满了身着深色衣服的老年顾客，与她明亮的身影形成鲜明对比。构图紧凑自然，是90年代日本一次性相机摄影的典型特征——高闪光对比度、轻微的模糊和自然的瑕疵。
+整体氛围怀旧、温暖，略带一丝暧昧——捕捉真实、亲近、充满情感的瞬间，就像闪光灯照亮的个人记忆，而不是摆拍的肖像。
+```
+
+<a id="prompt-339"></a>
+## 案例 339：百褶迷你裙美女 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1979203321262149903))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/339.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-百褶迷你裙美女">
+</div>
+
+**提示词：**
+```
+The image features a subject with long, dark hair, dressed in a short-sleeved, cropped white top and a high-waisted, pleated blue mini skirt that ends well above mid-thigh, fitting snugly to accentuate the figure. The subject is captured in a slightly turned pose, leaning forward with one hand resting on a wall covered in a dense collage of overlapping posters, flyers, and advertisements in various colors such as red, yellow, blue, and white, with text in multiple languages, suggesting an urban or vintage environment. The wall appears worn, with visible creases and minor damage, adding to the nostalgic ambiance. The subject's facial expression, partially visible from a side angle, conveys a subtle mix of curiosity and playfulness. The lighting is dim with a warm tone, casting soft shadows that enhance the mood. The composition employs a low-angle perspective, drawing attention to the subject's lower body and the skirt's height, with a sharp focus on the subject against a slightly blurred background. The overall mood is provocative yet nostalgic, blending modern attire with a retro aesthetic. Technically, the image exhibits a deliberate soft-focus effect, contributing to a hazy, dreamlike quality that softens details and edges. Additionally, noticeable grain and noise texture are present, enhancing the vintage aesthetic and adding a tactile, gritty feel to the photograph. The resolution remains moderate, typical of digital photography, with a slightly desaturated color profile featuring a vintage filter effect. The aspect ratio is vertical, approximately 4:5, supporting the focused framing of the subject.
+```
+
+**中文提示词：**
+```
+照片中的人物留着一头乌黑的长发，身穿白色短袖上衣和高腰蓝色百褶迷你裙，裙摆长及大腿中部，贴身剪裁，凸显身材。人物略微侧身，身体前倾，一只手扶在墙上，墙上贴满了红、黄、蓝、白等各种颜色的海报、传单和广告，并配有多种语言的文字，营造出一种都市或复古的氛围。墙壁显得有些破旧，有明显的折痕和轻微的损坏，更增添了怀旧的氛围。从侧面看，人物的面部表情部分可见，流露出好奇与俏皮的微妙交织。昏暗的灯光搭配温暖的色调，投射出柔和的阴影，增强了氛围。构图采用低角度透视，将注意力吸引到人物的下半身和裙子的高度，并在略微模糊的背景上清晰地聚焦于人物。整体氛围既挑逗又怀旧，将现代服饰与复古美学融为一体。从技术角度来看，这张照片展现出一种刻意的柔焦效果，营造出朦胧梦幻的质感，柔化了细节和边缘。此外，明显的颗粒感和噪点纹理增强了复古美感，为照片增添了质感和粗糙感。分辨率保持中等水平，符合数码摄影的典型特征，略微降低的色彩饱和度，呈现出复古滤镜效果。画面纵横比约为4:5，有利于主体的聚焦构图。
+```
+
+<a id="prompt-338"></a>
+## 案例 338：都市上空巨大的涡旋冲破暴风云层 (来源 [@xxx](https://x.com/IamEmily2050/status/1979571282732777698))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/338.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-都市上空巨大的涡旋冲破暴风云层">
+</div>
+
+**提示词：**
+```
+A massive spiral vortex tears through storm clouds above a futuristic illuminated city, revealing blue sky beyond a visual metaphor for artificial general intelligence breaking through the turbulence of current limitations to reach clarity beyond human comprehension. 
+```
+
+**中文提示词：**
+```
+在一座灯火璀璨的未来都市上空，巨大的螺旋状涡旋冲破暴风云层，显露出后方的蓝天 —— 这一视觉隐喻象征着通用人工智能突破当前局限的重重阻碍，抵达人类难以理解的清晰境界。
+```
+
+<a id="prompt-337"></a>
+## 案例 337：低马尾女孩在日式居酒屋 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1978672690740310181))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/337.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-低马尾女孩在日式居酒屋">
+</div>
+
+**提示词：**
+```
+a young beautiful sweet smiling Asian woman with soft brown hair tied loosely in a low ponytail with gentle face-framing bangs, sitting sideways on a narrow wooden bar stool inside a tiny, crowded Japanese izakaya, turning back toward the camera with a gentle natural smile; wearing a white blouse and gray plaid high-waisted shorts; surrounded by middle-aged and elderly Japanese men in dark suits chatting quietly beside her; the bar interior is narrow and dimly lit, walls covered with old handwritten menus and vintage posters, cluttered shelves of bottles, ceramics, and small trinkets; soft warm tungsten lighting with slight haze, smoke lingering in the air, evoking the scent of grilled food and sake; authentic candid moment, intimate social atmosphere, nostalgic Showa-era Japanese nightlife vibe;cozy ambient tungsten lighting, low contrast, muted color palette with subtle green tint, shallow depth of field, film-like softness, slight haze, nostalgic 35mm analog photo, visible fine film grain, authentic Japanese retro bar atmosphere, candid portrait, in the style of Daido Moriyama, Takashi Homma, and Wong Kar Wai, Kodak Portra 400 film aesthetic --ar 3:4 --v 7
+```
+
+**中文提示词：**
+```
+一位年轻美丽、笑容甜美的亚洲女性，一头柔软的棕色头发扎成低马尾，刘海柔和地修饰着脸型，她侧身坐在一间狭小拥挤的日式居酒屋里，坐在一张狭窄的木质吧台凳上，面带温柔自然的微笑；她身穿白色衬衫和灰色格子高腰短裤；她周围是穿着深色西装的中老年日本男子，他们在她旁边轻声聊天；酒吧内部狭窄而昏暗，墙上贴满了古老的手写菜单和复古海报，架子上杂乱地摆满了瓶子、陶瓷和小饰品；柔和温暖的钨丝灯略带薄雾，烟雾在空气中缭绕，散发着烧烤食物和清酒的香味；真实的坦率时刻，亲密的社交氛围，怀旧的昭和时代日本夜生活氛围；舒适的环境钨丝灯，低对比度，柔和的色调，微妙的绿色色调，浅景深，胶片般的柔软度，轻微的雾霾，怀旧的 35 毫米模拟照片，可见的细胶片颗粒，真实的日本复古酒吧氛围，坦率的肖像，森山大道、本间隆和王家卫的风格，柯达 Portra 400 胶片美学 --ar 3:4 --v 7
+```
+
+<a id="prompt-336"></a>
+## 案例 336：一幅如梦似幻的私密肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1978041705623343437))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/336.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅如梦似幻的私密肖像照">
+</div>
+
+**提示词：**
+```
+a dreamy intimate portrait of a beautiful realistic asian woman lying under a blanket, soft natural light, cozy warm bedroom, cinematic film grain, 35mm film aesthetic, shallow depth of field, soft focus, delicate skin texture, natural makeup, slightly messy hair, Fujifilm Pro 400H look, pastel warm tones, realistic lighting, subtle haze, gentle atmosphere, by Petra Collins and Ren Hang --ar 3:4 --v7 --style raw
+```
+
+**中文提示词：**
+```
+一幅如梦似幻的私密肖像照：一位容貌精致、形象写实的亚裔女性躺在毛毯下，柔和的自然光线洒落，背景是温馨舒适的卧室。画面带有电影感颗粒质感，呈现 35 毫米胶片的美学风格，采用浅景深与柔焦效果，清晰展现细腻的肌肤纹理。人物妆容自然，头发略带凌乱，整体色调为柔和温暖的马卡龙色系，光线真实自然，还带有淡淡的朦胧感，营造出轻柔舒缓的氛围。（由佩特拉・科林斯与任航风格创作） --ar 3:4 --v7 --style raw
+```
+
+<a id="prompt-335"></a>
+## 案例 335：美丽的浅蓝色警服日本女子 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1979033662294241673))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/335.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美丽的浅蓝色警服日本女子">
+</div>
+
+**提示词：**
+```
+a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, 
+sitting with her knees together and hands gently folded over a glass, calm and elegant posture, 
+oxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, 
+her pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, 
+flanked by two older Japanese policemen in uniform on each side, 
+the man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; 
+the man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, 
+inside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, 
+detailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, 
+camera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1–1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, 
+warm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography --ar 3:4 --v 7
+```
+
+**中文提示词：**
+```
+一位年轻美丽的日本女子，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，
+她双膝并拢，双手轻轻地放在玻璃杯上，姿势平静而优雅，
+氧气清新的自然妆容，透明水润的底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮通风，嘴唇是干净鲜红但不油腻，
+她的姿势精致而沉稳：坐在狭小隔间的一张窄木凳上，脚踝微微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻重叠放在放在膝盖之间的小玻璃杯上方，下巴微微放低，直视镜头，
+两侧各有两名身穿制服的年长日本警察，
+左边的男人从门口探身向内，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意垂着，表情专注而平静；
+右边的男人穿着条纹短袖衬衫，系着深色领带，戴着徽章，帽子是方形的，上面有一条金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副内敛、若有所思的样子，
+在一个灯光昏暗的小酒吧里，摆满了复古的日本海报、旧瓶子、狭窄的木墙、杂乱的架子，
+详细的物理环境：从门口拍摄，磨损的木质门框形成了一个画框；磨损的涂漆横梁、手写的日文单子​​和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上隐约的反光，潮湿的空气；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，
+相机视角和比例：近距离对话距离（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 比例的垂直人像取景，轻微的中央重点构图，强调紧凑展位中的三人组，
+温暖的白炽灯，怀旧的琥珀色调，低饱和度的色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影色彩分级，风格类似于荒木经惟和森山大道的街头摄影 -ar 3:4 --v 7
+```
+
+<a id="prompt-334"></a>
+## 案例 334：全身夜景肖像 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1966758558483272144))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/334.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-全身夜景肖像">
+</div>
+
+**提示词：**
+```
+{
+    "description": "A hyper-realistic, 4K, full-body night-time portrait of a 23-year-old Korean woman with clear pale skin and long straight black hair tucked behind one ear.",
+    "subject": {
+      "age": 23,
+      "ethnicity": "Korean",
+      "skin_tone": "pale",
+      "hair": {
+        "colour": "black",
+        "style": "long, straight, tucked behind one ear"
+      },
+      "pose": "standing at a frost-covered bus stop, arms folded against the cold",
+      "expression": "70 % quiet annoyance, 30 % amused resignation, as if re-reading a text she regrets sending"
+    },
+    "outfit": {
+      "top_layers": [
+        "black blazer",
+        "navy sweatshirt",
+        "crisp white dress shirt",
+        "thin black tie"
+      ],
+      "bottom": "ultra-short black pleated skirt",
+      "legwear": "brand-new white knee-length pelerine socks",
+      "footwear": "polished black shoes"
+    },
+    "environment": {
+      "location": "night-time city bus stop",
+      "ground": "icy pavement reflecting distant headlights",
+      "fog": "dense, occupying the top third of the frame",
+      "bus_shelter": {
+        "glass": "steamed-up with one finger-drawn smiley that melts faster than the surrounding condensation"
+      },
+      "lighting": "cool blue-white, high contrast, cinematic"
+    },
+    "hidden_detail": "reflection in her left shoe: a blurred red double-decker bus that may or may not be arriving",
+    "camera": {
+      "angle": "low eye-level, full body in frame",
+      "lens_simulation": "Phase-One medium-format realism",
+      "depth_of_field": "sharp focus on subject, soft bokeh on distant lights"
+    },
+    "output": {
+      "style": "hyper-realistic, cinematic, cool colour grading"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"description": "这是一张超现实主义、4K、全身夜景肖像，照片中的一名 23 岁的韩国女性，皮肤白皙，一头长长的直黑发别在耳后。",
+“主题”： {
+“年龄”：23岁，
+“种族”：“韩国人”，
+"skin_tone": "苍白",
+“头发”： {
+“颜色”：“黑色”，
+“style”：“长而直，塞在一只耳朵后面”
+}，
+"pose": "站在结霜的公交车站，双臂交叉抵御寒冷",
+“表达”：“70% 是无声的恼怒，30% 是好笑的顺从，就像在重读一条她后悔发过的短信”
+}，
+“全套服装”： {
+"顶层"：[
+“黑色西装外套”，
+“海军蓝运动衫”，
+“清爽的白色正装衬衫”，
+“细黑领带”
+]，
+"bottom": "超短黑色百褶裙",
+"legwear": "全新白色及膝长袜",
+“footwear”：“抛光黑鞋”
+}，
+“环境”： {
+"location": "夜间城市公交车站",
+“ground”：“结冰的路面反射着远处的车灯”，
+"雾"："浓密，占据了画面的上三分之一"
+"公交车站"：{
+“玻璃”：“用手指画的笑脸被蒸腾起来，融化得比周围的冷凝水还快”
+}，
+“照明”：“冷蓝白色，高对比度，电影感”
+}，
+"hidden_​​detail": "她左脚鞋子里的倒影：一辆模糊的红色双层巴士，可能快到了，也可能还没到"
+“相机”： {
+"角度": "低视线，全身在画面中",
+"lens_simulation": "Phase-One 中画幅真实感",
+"depth_of_field": "清晰对焦主体，柔和远方灯光的散景"
+}，
+“输出”： {
+“风格”：“超现实、电影、酷炫色彩分级”
+}
+}
+}
+```
 
 <a id="prompt-333"></a>
 ## 案例 333：女生坐沙发上 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1975554358495654236))

@@ -61,20 +61,42 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  /* padding: 2.4rem clamp(1.8rem, 4vw, 3rem); */
-  padding: 1rem;
-  background: linear-gradient(
-    180deg,
-    rgba(15, 23, 42, 0.92) 0%,
-    rgba(15, 23, 42, 0.8) 60%,
-    transparent 100%
-  );
+  padding: 1.2rem clamp(1.8rem, 4vw, 3rem);
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.8) 60%, transparent 100%);
   backdrop-filter: blur(18px);
 }
 
 .header-top {
+  position: relative;
   max-width: 960px;
-  margin-bottom: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+
+.header-top-close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.4rem;
+  border: none;
+  background: rgba(148, 163, 184, 0.15);
+  border-radius: 999px;
+  width: 2rem;
+  height: 2rem;
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background var(--transition), transform var(--transition);
+}
+
+.header-top-close:hover {
+  background: rgba(56, 189, 248, 0.35);
+}
+
+.header-top-close:active {
+  transform: translateY(1px);
 }
 
 .tagline {
@@ -344,7 +366,7 @@ main {
 }
 
 .card-body {
-  padding: 0.9rem 1rem 1.1rem;
+  padding: 1.1rem 1.1rem 0.2rem;
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
