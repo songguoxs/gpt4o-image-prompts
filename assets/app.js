@@ -1,33 +1,33 @@
-const DATA_URL = './data/prompts.json';
+const DATA_URL = "./data/prompts.json";
 
 const state = {
   items: [],
   filteredItems: [],
   allTags: [],
   selectedTags: new Set(),
-  searchTerm: '',
+  searchTerm: "",
 };
 
 const dom = {
-  gallery: document.getElementById('gallery'),
-  emptyState: document.getElementById('emptyState'),
-  tagFilters: document.getElementById('tagFilters'),
-  tagFilterContainer: document.querySelector('.tag-filter-container'),
-  searchInput: document.getElementById('searchInput'),
-  clearSearch: document.getElementById('clearSearch'),
-  clearFilters: document.getElementById('clearFilters'),
-  resultStats: document.getElementById('resultStats'),
-  modal: document.getElementById('detailModal'),
-  modalTitle: document.getElementById('modalTitle'),
-  modalSource: document.getElementById('modalSource'),
-  modalTags: document.getElementById('modalTags'),
-  modalImages: document.getElementById('modalImages'),
-  modalPrompts: document.getElementById('modalPrompts'),
-  modalExamples: document.getElementById('modalExamples'),
-  modalNotes: document.getElementById('modalNotes'),
-  modalDescription: document.getElementById('modalDescription'),
-  modalClose: document.getElementById('modalClose'),
-  toast: document.getElementById('toast'),
+  gallery: document.getElementById("gallery"),
+  emptyState: document.getElementById("emptyState"),
+  tagFilters: document.getElementById("tagFilters"),
+  searchInput: document.getElementById("searchInput"),
+  clearSearch: document.getElementById("clearSearch"),
+  clearFilters: document.getElementById("clearFilters"),
+  resultStats: document.getElementById("resultStats"),
+  modal: document.getElementById("detailModal"),
+  modalTitle: document.getElementById("modalTitle"),
+  modalSource: document.getElementById("modalSource"),
+  modalTags: document.getElementById("modalTags"),
+  modalImages: document.getElementById("modalImages"),
+  modalPrompts: document.getElementById("modalPrompts"),
+  modalExamples: document.getElementById("modalExamples"),
+  modalNotes: document.getElementById("modalNotes"),
+  modalDescription: document.getElementById("modalDescription"),
+  modalClose: document.getElementById("modalClose"),
+  toast: document.getElementById("toast"),
+  toggleTagFilter: document.getElementById("toggleTagFilter"),
 };
 
 let searchDebounceTimer = null;
@@ -51,8 +51,8 @@ async function init() {
     bindEvents();
     setupHeaderTopDismiss();
   } catch (error) {
-    console.error('[prompts] Failed to initialise gallery', error);
-    showToast('数据加载失败，请检查控制台。', true);
+    console.error("[prompts] Failed to initialise gallery", error);
+    showToast("数据加载失败，请检查控制台。", true);
   }
 }
 
@@ -86,7 +86,9 @@ function setupHeaderTopDismiss() {
 async function fetchData() {
   const response = await fetch(DATA_URL);
   if (!response.ok) {
-    throw new Error(`Failed to fetch dataset: ${response.status} ${response.statusText}`);
+    throw new Error(
+      `Failed to fetch dataset: ${response.status} ${response.statusText}`
+    );
   }
   return response.json();
 }
@@ -96,44 +98,43 @@ function buildAllTags(items) {
   items.forEach((item) => {
     (item.tags || []).forEach((tag) => tagSet.add(tag));
   });
-  return Array.from(tagSet).sort((a, b) => a.localeCompare(b, 'zh-CN'));
+  return Array.from(tagSet).sort((a, b) => a.localeCompare(b, "zh-CN"));
 }
 
 function bindEvents() {
-  dom.tagFilters.addEventListener('click', onTagClick);
-  dom.clearFilters.addEventListener('click', clearFilters);
-  dom.searchInput.addEventListener('input', handleSearchInput);
-  dom.clearSearch.addEventListener('click', clearSearch);
-  // toggle button is created dynamically in renderTagFilters()
-  window.addEventListener('resize', () => {
-    if (resizeDebounceTimer) window.clearTimeout(resizeDebounceTimer);
-    resizeDebounceTimer = window.setTimeout(() => updateTagCollapseUI(), 150);
-  });
-  dom.modalClose.addEventListener('click', closeModal);
-  dom.modal.addEventListener('click', (event) => {
+  dom.tagFilters.addEventListener("click", onTagClick);
+  dom.clearFilters.addEventListener("click", clearFilters);
+  dom.searchInput.addEventListener("input", handleSearchInput);
+  dom.clearSearch.addEventListener("click", clearSearch);
+  dom.modalClose.addEventListener("click", closeModal);
+  dom.modal.addEventListener("click", (event) => {
     if (event.target === dom.modal) {
       closeModal();
     }
   });
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && !dom.modal.classList.contains('hidden')) {
+  // 添加标签过滤器展开/收起事件监听器
+  dom.toggleTagFilter.addEventListener("click", toggleTagFilter);
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !dom.modal.classList.contains("hidden")) {
       closeModal();
     }
   });
 }
 
 function renderTagFilters() {
-  dom.tagFilters.innerHTML = '';
+  dom.tagFilters.innerHTML = "";
   if (state.allTags.length === 0) {
-    dom.tagFilters.classList.add('hidden');
+    dom.tagFilters.classList.add("hidden");
     return;
   }
-  dom.tagFilters.classList.remove('hidden');
+  dom.tagFilters.classList.remove("hidden");
+  // 初始化标签过滤器为展开状态
+  dom.tagFilters.classList.add("expanded");
 
   state.allTags.forEach((tag) => {
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = 'tag-button';
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "tag-button";
     button.textContent = tag;
     button.dataset.tag = tag;
     dom.tagFilters.appendChild(button);
@@ -242,19 +243,19 @@ function toggleTagFilters() {
 }
 
 function renderGallery() {
-  dom.gallery.innerHTML = '';
+  dom.gallery.innerHTML = "";
   if (state.filteredItems.length === 0) {
-    dom.emptyState.classList.remove('hidden');
+    dom.emptyState.classList.remove("hidden");
     return;
   }
-  dom.emptyState.classList.add('hidden');
+  dom.emptyState.classList.add("hidden");
 
   state.filteredItems.forEach((item) => {
-    const card = document.createElement('article');
-    card.className = 'prompt-card';
+    const card = document.createElement("article");
+    card.className = "prompt-card";
     card.tabIndex = 0;
-    card.setAttribute('role', 'button');
-    card.setAttribute('aria-label', `查看案例 ${item.id}：${item.title}`);
+    card.setAttribute("role", "button");
+    card.setAttribute("aria-label", `查看案例 ${item.id}：${item.title}`);
 
     if (item.coverImage) {
       const img = document.createElement('img');
@@ -264,26 +265,26 @@ function renderGallery() {
       img.loading = 'lazy'; // Optional: Browser-native lazy loading
       card.appendChild(img);
     } else {
-      const placeholder = document.createElement('div');
-      placeholder.className = 'card-placeholder';
-      placeholder.textContent = 'No Image';
+      const placeholder = document.createElement("div");
+      placeholder.className = "card-placeholder";
+      placeholder.textContent = "No Image";
       card.appendChild(placeholder);
     }
 
-    const body = document.createElement('div');
-    body.className = 'card-body';
+    const body = document.createElement("div");
+    body.className = "card-body";
 
-    const title = document.createElement('h3');
-    title.className = 'card-title';
+    const title = document.createElement("h3");
+    title.className = "card-title";
     title.textContent = `案例 ${item.id}：${item.title}`;
     body.appendChild(title);
 
     if (item.tags && item.tags.length > 0) {
-      const tagContainer = document.createElement('div');
-      tagContainer.className = 'card-tags';
+      const tagContainer = document.createElement("div");
+      tagContainer.className = "card-tags";
       item.tags.slice(0, 4).forEach((tag) => {
-        const chip = document.createElement('span');
-        chip.className = 'tag-chip';
+        const chip = document.createElement("span");
+        chip.className = "tag-chip";
         chip.textContent = tag;
         tagContainer.appendChild(chip);
       });
@@ -294,16 +295,16 @@ function renderGallery() {
     meta.className = 'card-meta';
     // 仅保留“示例 ×N”，不显示“提示词 ×N”
     if (item.examples && item.examples.length > 0) {
-      const exampleCount = document.createElement('span');
+      const exampleCount = document.createElement("span");
       exampleCount.textContent = `示例 ×${item.examples.length}`;
       meta.appendChild(exampleCount);
     }
     body.appendChild(meta);
 
     card.appendChild(body);
-    card.addEventListener('click', () => openModal(item));
-    card.addEventListener('keydown', (event) => {
-      if (event.key === 'Enter' || event.key === ' ') {
+    card.addEventListener("click", () => openModal(item));
+    card.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
         openModal(item);
       }
@@ -331,15 +332,15 @@ function lazyLoadImages() {
 }
 
 function onTagClick(event) {
-  const button = event.target.closest('button[data-tag]');
+  const button = event.target.closest("button[data-tag]");
   if (!button) return;
   const tag = button.dataset.tag;
   if (state.selectedTags.has(tag)) {
     state.selectedTags.delete(tag);
-    button.classList.remove('active');
+    button.classList.remove("active");
   } else {
     state.selectedTags.add(tag);
-    button.classList.add('active');
+    button.classList.add("active");
   }
   applyFilters();
   // Active state may change layout; ensure toggle stays visible in first row
@@ -349,7 +350,9 @@ function onTagClick(event) {
 function clearFilters() {
   if (state.selectedTags.size === 0) return;
   state.selectedTags.clear();
-  dom.tagFilters.querySelectorAll('.tag-button').forEach((btn) => btn.classList.remove('active'));
+  dom.tagFilters
+    .querySelectorAll(".tag-button")
+    .forEach((btn) => btn.classList.remove("active"));
   applyFilters();
   updateTagCollapseUI();
 }
@@ -357,7 +360,7 @@ function clearFilters() {
 function handleSearchInput(event) {
   const value = event.target.value;
   state.searchTerm = value;
-  dom.clearSearch.style.display = value ? 'inline-flex' : 'none';
+  dom.clearSearch.style.display = value ? "inline-flex" : "none";
   if (searchDebounceTimer) window.clearTimeout(searchDebounceTimer);
   searchDebounceTimer = window.setTimeout(() => {
     applyFilters();
@@ -366,9 +369,9 @@ function handleSearchInput(event) {
 
 function clearSearch() {
   if (!state.searchTerm) return;
-  state.searchTerm = '';
-  dom.searchInput.value = '';
-  dom.clearSearch.style.display = 'none';
+  state.searchTerm = "";
+  dom.searchInput.value = "";
+  dom.clearSearch.style.display = "none";
   applyFilters();
 }
 
@@ -378,7 +381,9 @@ function applyFilters() {
 
   state.filteredItems = state.items.filter((item) => {
     if (selectedTags.length > 0) {
-      const hasAllTags = selectedTags.every((tag) => item.tags && item.tags.includes(tag));
+      const hasAllTags = selectedTags.every(
+        (tag) => item.tags && item.tags.includes(tag)
+      );
       if (!hasAllTags) return false;
     }
 
@@ -393,7 +398,7 @@ function applyFilters() {
       ...(item.notes || []),
       ...(item.tags || []),
     ]
-      .join('\n')
+      .join("\n")
       .toLowerCase();
 
     return haystack.includes(search);
@@ -410,8 +415,8 @@ function updateResultStats() {
   const hasSearch = Boolean(state.searchTerm.trim());
   const parts = [`共 ${filtered} / ${total} 个案例`];
   if (tags > 0) parts.push(`标签 ×${tags}`);
-  if (hasSearch) parts.push('已应用搜索');
-  dom.resultStats.textContent = parts.join(' · ');
+  if (hasSearch) parts.push("已应用搜索");
+  dom.resultStats.textContent = parts.join(" · ");
 }
 
 function openModal(item) {
@@ -419,7 +424,7 @@ function openModal(item) {
   if (item.source && item.source.url) {
     dom.modalSource.innerHTML = `来源：<a href="${item.source.url}" target="_blank" rel="noopener">${item.source.name}</a>`;
   } else {
-    dom.modalSource.textContent = '';
+    dom.modalSource.textContent = "";
   }
 
   renderModalTags(item.tags || []);
@@ -429,49 +434,49 @@ function openModal(item) {
   renderModalNotes(item.notes || []);
   renderModalDescription(item.description);
 
-  dom.modal.classList.remove('hidden');
-  document.body.classList.add('modal-open');
+  dom.modal.classList.remove("hidden");
+  document.body.classList.add("modal-open");
 }
 
 function closeModal() {
-  dom.modal.classList.add('hidden');
-  document.body.classList.remove('modal-open');
+  dom.modal.classList.add("hidden");
+  document.body.classList.remove("modal-open");
 }
 
 function renderModalTags(tags) {
-  dom.modalTags.innerHTML = '';
+  dom.modalTags.innerHTML = "";
   if (!tags.length) {
-    dom.modalTags.classList.add('hidden');
+    dom.modalTags.classList.add("hidden");
     return;
   }
-  dom.modalTags.classList.remove('hidden');
+  dom.modalTags.classList.remove("hidden");
   tags.forEach((tag) => {
-    const chip = document.createElement('span');
-    chip.className = 'tag-chip';
+    const chip = document.createElement("span");
+    chip.className = "tag-chip";
     chip.textContent = tag;
     dom.modalTags.appendChild(chip);
   });
 }
 
 function renderModalImages(images) {
-  dom.modalImages.innerHTML = '';
+  dom.modalImages.innerHTML = "";
   if (!images.length) {
-    dom.modalImages.classList.add('hidden');
+    dom.modalImages.classList.add("hidden");
     return;
   }
-  dom.modalImages.classList.remove('hidden');
-  const heading = document.createElement('h3');
-  heading.textContent = '示例图片';
+  dom.modalImages.classList.remove("hidden");
+  const heading = document.createElement("h3");
+  heading.textContent = "示例图片";
   dom.modalImages.appendChild(heading);
 
-  const grid = document.createElement('div');
-  grid.className = 'image-grid';
+  const grid = document.createElement("div");
+  grid.className = "image-grid";
 
   images.forEach((src, index) => {
-    const img = document.createElement('img');
+    const img = document.createElement("img");
     img.src = src;
     img.alt = `示例图片 ${index + 1}`;
-    img.loading = 'lazy';
+    img.loading = "lazy";
     grid.appendChild(img);
   });
 
@@ -479,52 +484,56 @@ function renderModalImages(images) {
 }
 
 function renderModalPrompts(prompts) {
-  dom.modalPrompts.innerHTML = '';
+  dom.modalPrompts.innerHTML = "";
   if (!prompts.length) {
-    dom.modalPrompts.classList.add('hidden');
+    dom.modalPrompts.classList.add("hidden");
     return;
   }
-  dom.modalPrompts.classList.remove('hidden');
-  const heading = document.createElement('h3');
-  heading.textContent = '提示词';
+  dom.modalPrompts.classList.remove("hidden");
+  const heading = document.createElement("h3");
+  heading.textContent = "提示词";
   dom.modalPrompts.appendChild(heading);
 
   prompts.forEach((prompt, index) => {
-    dom.modalPrompts.appendChild(createPromptBlock(prompt, index + 1, '提示词'));
+    dom.modalPrompts.appendChild(
+      createPromptBlock(prompt, index + 1, "提示词")
+    );
   });
 }
 
 function renderModalExamples(examples) {
-  dom.modalExamples.innerHTML = '';
+  dom.modalExamples.innerHTML = "";
   if (!examples.length) {
-    dom.modalExamples.classList.add('hidden');
+    dom.modalExamples.classList.add("hidden");
     return;
   }
-  dom.modalExamples.classList.remove('hidden');
-  const heading = document.createElement('h3');
-  heading.textContent = '示例提示';
+  dom.modalExamples.classList.remove("hidden");
+  const heading = document.createElement("h3");
+  heading.textContent = "示例提示";
   dom.modalExamples.appendChild(heading);
 
   examples.forEach((example, index) => {
-    dom.modalExamples.appendChild(createPromptBlock(example, index + 1, '示例'));
+    dom.modalExamples.appendChild(
+      createPromptBlock(example, index + 1, "示例")
+    );
   });
 }
 
 function renderModalNotes(notes) {
-  dom.modalNotes.innerHTML = '';
+  dom.modalNotes.innerHTML = "";
   if (!notes.length) {
-    dom.modalNotes.classList.add('hidden');
+    dom.modalNotes.classList.add("hidden");
     return;
   }
-  dom.modalNotes.classList.remove('hidden');
-  const heading = document.createElement('h3');
-  heading.textContent = '提示';
+  dom.modalNotes.classList.remove("hidden");
+  const heading = document.createElement("h3");
+  heading.textContent = "提示";
   dom.modalNotes.appendChild(heading);
 
-  const list = document.createElement('ul');
-  list.className = 'note-list';
+  const list = document.createElement("ul");
+  list.className = "note-list";
   notes.forEach((note) => {
-    const item = document.createElement('li');
+    const item = document.createElement("li");
     item.textContent = note;
     list.appendChild(item);
   });
@@ -532,36 +541,36 @@ function renderModalNotes(notes) {
 }
 
 function renderModalDescription(description) {
-  dom.modalDescription.innerHTML = '';
+  dom.modalDescription.innerHTML = "";
   if (!description) {
-    dom.modalDescription.classList.add('hidden');
+    dom.modalDescription.classList.add("hidden");
     return;
   }
-  dom.modalDescription.classList.remove('hidden');
-  const heading = document.createElement('h3');
-  heading.textContent = '补充描述';
-  const paragraph = document.createElement('div');
-  paragraph.className = 'description-block';
+  dom.modalDescription.classList.remove("hidden");
+  const heading = document.createElement("h3");
+  heading.textContent = "补充描述";
+  const paragraph = document.createElement("div");
+  paragraph.className = "description-block";
   paragraph.textContent = description;
   dom.modalDescription.appendChild(heading);
   dom.modalDescription.appendChild(paragraph);
 }
 
 function createPromptBlock(text, index, label) {
-  const block = document.createElement('div');
-  block.className = 'prompt-block';
+  const block = document.createElement("div");
+  block.className = "prompt-block";
 
-  const meta = document.createElement('div');
-  meta.className = 'prompt-meta';
-  const left = document.createElement('span');
+  const meta = document.createElement("div");
+  meta.className = "prompt-meta";
+  const left = document.createElement("span");
   left.textContent = `${label} ${index}`;
   meta.appendChild(left);
 
-  const copy = document.createElement('button');
-  copy.type = 'button';
-  copy.className = 'copy-btn';
-  copy.textContent = '复制';
-  copy.addEventListener('click', (event) => {
+  const copy = document.createElement("button");
+  copy.type = "button";
+  copy.className = "copy-btn";
+  copy.textContent = "复制";
+  copy.addEventListener("click", (event) => {
     event.stopPropagation();
     copyPrompt(text, copy);
   });
@@ -569,7 +578,7 @@ function createPromptBlock(text, index, label) {
   meta.appendChild(copy);
   block.appendChild(meta);
 
-  const code = document.createElement('pre');
+  const code = document.createElement("pre");
   code.textContent = text;
   block.appendChild(code);
 
@@ -584,32 +593,32 @@ async function copyPrompt(text, button) {
       fallbackCopy(text);
     }
     animateCopyButton(button);
-    showToast('提示词已复制 ✅');
+    showToast("提示词已复制 ✅");
   } catch (error) {
-    console.warn('[prompts] clipboard API failed, fallback', error);
+    console.warn("[prompts] clipboard API failed, fallback", error);
     fallbackCopy(text);
     animateCopyButton(button, true);
-    showToast('已使用备用方式复制', false);
+    showToast("已使用备用方式复制", false);
   }
 }
 
 function fallbackCopy(text) {
-  const textarea = document.createElement('textarea');
+  const textarea = document.createElement("textarea");
   textarea.value = text;
-  textarea.setAttribute('readonly', '');
-  textarea.style.position = 'fixed';
-  textarea.style.opacity = '0';
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.opacity = "0";
   document.body.appendChild(textarea);
   textarea.select();
-  document.execCommand('copy');
+  document.execCommand("copy");
   document.body.removeChild(textarea);
 }
 
 function animateCopyButton(button, withWarning = false) {
-  button.textContent = withWarning ? '已复制（备用）' : '已复制';
+  button.textContent = withWarning ? "已复制（备用）" : "已复制";
   button.disabled = true;
   setTimeout(() => {
-    button.textContent = '复制';
+    button.textContent = "复制";
     button.disabled = false;
   }, 1800);
 }
@@ -617,10 +626,29 @@ function animateCopyButton(button, withWarning = false) {
 function showToast(message, isError = false) {
   if (!dom.toast) return;
   dom.toast.textContent = message;
-  dom.toast.classList.toggle('error', isError);
-  dom.toast.classList.remove('hidden');
+  dom.toast.classList.toggle("error", isError);
+  dom.toast.classList.remove("hidden");
   if (toastTimer) window.clearTimeout(toastTimer);
   toastTimer = window.setTimeout(() => {
-    dom.toast.classList.add('hidden');
+    dom.toast.classList.add("hidden");
   }, 2200);
+}
+
+// 添加展开/收起标签过滤器的函数
+function toggleTagFilter() {
+  const isExpanded = dom.tagFilters.classList.contains("expanded");
+
+  if (isExpanded) {
+    // 收起
+    dom.tagFilters.classList.remove("expanded");
+    dom.tagFilters.classList.add("collapsed");
+    dom.toggleTagFilter.textContent = "展开";
+    dom.toggleTagFilter.setAttribute("aria-expanded", "false");
+  } else {
+    // 展开
+    dom.tagFilters.classList.remove("collapsed");
+    dom.tagFilters.classList.add("expanded");
+    dom.toggleTagFilter.textContent = "收起";
+    dom.toggleTagFilter.setAttribute("aria-expanded", "true");
+  }
 }

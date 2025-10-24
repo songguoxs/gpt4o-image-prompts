@@ -14,7 +14,8 @@
   --radius-sm: 8px;
   --shadow-soft: 0 14px 40px rgba(15, 23, 42, 0.45);
   --transition: 180ms ease;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui,
+    sans-serif;
 }
 
 * {
@@ -24,7 +25,11 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: radial-gradient(circle at 10% 10%, rgba(56, 189, 248, 0.12), transparent 35%),
+  background: radial-gradient(
+      circle at 10% 10%,
+      rgba(56, 189, 248, 0.12),
+      transparent 35%
+    ),
     radial-gradient(circle at 90% 5%, rgba(168, 85, 247, 0.07), transparent 40%),
     var(--bg);
   color: var(--text);
@@ -147,7 +152,8 @@ a:hover {
   padding: 0.35rem 0.75rem;
   border-radius: var(--radius-sm);
   cursor: pointer;
-  transition: background var(--transition), color var(--transition), transform var(--transition);
+  transition: background var(--transition), color var(--transition),
+    transform var(--transition);
 }
 
 .ghost-btn:hover {
@@ -178,47 +184,60 @@ a:hover {
   font-size: 0.95rem;
 }
 
+.tag-filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-subtle);
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  transition: background var(--transition);
+}
+
+.toggle-btn:hover {
+  background: rgba(56, 189, 248, 0.1);
+}
+
 .tag-filter {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55rem;
+  max-height: 120px;
+  overflow-y: auto;
   padding-right: 0.2rem;
-  /* height is controlled by .tag-filter-container (collapsed/expanded) */
+  transition: max-height 0.3s ease, opacity 0.3s ease;
 }
 
-/* Tag filter collapse/expand container */
-.tag-filter-container {
-  /* nothing special, acts as a wrapper */
+.tag-filter.collapsed {
+  max-height: 0;
+  opacity: 0;
 }
 
-.tag-filter-container.collapsed .tag-filter {
-  /* Collapsed to a single row; height measured in JS and set via --collapsed-height */
-  max-height: var(--collapsed-height, 40px);
-  overflow: hidden;
-}
-
-.tag-filter-container.expanded .tag-filter {
-  /* Show all rows */
-  max-height: none;
-  overflow: visible;
-}
-
-.tag-toggle-btn {
-  margin-left: auto;
-  font-size: 0.86rem;
-  white-space: nowrap;
-  flex: 0 0 auto;
+.tag-filter.expanded {
+  max-height: 120px;
+  opacity: 1;
 }
 
 .tag-button {
-  padding: 0.35rem 0.9rem;
+  padding: 0.3rem 0.7rem;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: rgba(15, 23, 42, 0.6);
   color: var(--text-subtle);
-  font-size: 0.88rem;
+  font-size: 0.8rem;
   cursor: pointer;
-  transition: transform var(--transition), border-color var(--transition), background var(--transition), color var(--transition);
+  transition: transform var(--transition), border-color var(--transition),
+    background var(--transition), color var(--transition);
 }
 
 .tag-button:hover {
@@ -239,8 +258,73 @@ main {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.6rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+}
+
+@media (min-width: 1400px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+}
+
+@media (max-width: 720px) {
+  .app-header {
+    position: static;
+    padding-top: 1.8rem;
+  }
+
+  .control-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .result-stats {
+    margin-left: 0;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+  }
+
+  .card-body {
+    padding: 0.7rem 0.8rem 0.9rem;
+    gap: 0.5rem;
+  }
+
+  .card-title {
+    font-size: 0.9rem;
+  }
+
+  .tag-chip {
+    padding: 0.1rem 0.45rem;
+    font-size: 0.65rem;
+  }
+
+  .card-meta {
+    font-size: 0.7rem;
+  }
+
+  .modal-content {
+    max-height: 88vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 0.8rem;
+  }
+
+  .card-title {
+    font-size: 0.85rem;
+  }
+
+  .tag-chip {
+    padding: 0.1rem 0.4rem;
+    font-size: 0.6rem;
+  }
 }
 
 .prompt-card {
@@ -285,24 +369,24 @@ main {
   padding: 1.1rem 1.1rem 0.2rem;
   display: flex;
   flex-direction: column;
-  gap: 0.9rem;
+  gap: 0.7rem;
 }
 
 .card-title {
   margin: 0;
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   letter-spacing: 0.01em;
 }
 
 .card-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0.3rem;
 }
 
 .tag-chip {
-  padding: 0.2rem 0.65rem;
-  font-size: 0.75rem;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.7rem;
   border-radius: 999px;
   background: rgba(56, 189, 248, 0.12);
   color: #bae6fd;
@@ -313,11 +397,11 @@ main {
   justify-content: space-between;
   align-items: center;
   color: var(--text-subtle);
-  font-size: 0.82rem;
+  font-size: 0.75rem;
 }
 
 .card-meta span + span::before {
-  content: '•';
+  content: "•";
   margin: 0 0.4rem;
   color: rgba(148, 163, 184, 0.4);
 }
@@ -350,7 +434,12 @@ main {
   width: min(960px, 100%);
   max-height: 90vh;
   padding: clamp(1.4rem, 2vw, 2.1rem);
-  background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.1), transparent 40%), rgba(8, 17, 35, 0.98);
+  background: radial-gradient(
+      circle at top right,
+      rgba(56, 189, 248, 0.1),
+      transparent 40%
+    ),
+    rgba(8, 17, 35, 0.98);
   border-radius: var(--radius-lg);
   border: 1px solid rgba(148, 163, 184, 0.2);
   box-shadow: var(--shadow-soft);
@@ -450,7 +539,8 @@ main {
   background: rgba(56, 189, 248, 0.12);
   color: #bae6fd;
   cursor: pointer;
-  transition: background var(--transition), color var(--transition), transform var(--transition);
+  transition: background var(--transition), color var(--transition),
+    transform var(--transition);
 }
 
 .copy-btn:hover {
@@ -462,7 +552,9 @@ main {
 pre {
   margin: 0;
   white-space: pre-wrap;
-  font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  font-family: "JetBrains Mono", "Fira Code", "SFMono-Regular", ui-monospace,
+    SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New",
+    monospace;
   font-size: 0.9rem;
   color: #f8fafc;
 }
@@ -500,28 +592,4 @@ pre {
 .toast.error {
   border-color: rgba(248, 113, 113, 0.65);
   color: #fee2e2;
-}
-
-@media (max-width: 720px) {
-  .app-header {
-    position: static;
-    padding-top: 1.8rem;
-  }
-
-  .control-bar {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .result-stats {
-    margin-left: 0;
-  }
-
-  .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  }
-
-  .modal-content {
-    max-height: 88vh;
-  }
 }
