@@ -129,14 +129,14 @@ a:hover {
   margin-bottom: 0; /* outer container handles spacing */
 }
 
-.ad-slot {
+.right-media {
   flex: 0 1 auto;
   width: auto;
   max-width: 100%;
   min-width: 0;
 }
 
-.ad-banner {
+.right-link {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -150,7 +150,7 @@ a:hover {
   text-decoration: none;
 }
 
-.ad-banner img {
+.right-link img {
   width: 100%;
   height: auto;
   display: block;
@@ -620,12 +620,12 @@ pre {
   .controls-with-right {
     justify-self: stretch;
   }
-  .ad-slot {
+  .right-media {
     width: 100%;
     max-width: 100%;
     margin: 0;
   }
-  .ad-banner {
+  .right-link {
     width: 100%;
   }
   .actions-row {
