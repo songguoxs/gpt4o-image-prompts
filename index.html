@@ -10,19 +10,30 @@
 </head>
 <body>
 <header class="app-header">
-  <div class="header-top">
-    <button id="headerTopClose" class="header-top-close" type="button" aria-label="关闭顶部说明，1 天内不再显示">✕</button>
-    <h1>🍌Nano Banana, GPT4o, ChatGPT, 豆包, 即梦等提示词图库</h1>
-    <p class="tagline">浏览、筛选和搜索提示词案例图库，快速复制提示词，探索灵感。</p>
+  <div class="controls-with-left">
+    <div class="header-top">
+      <h1>OpenNana提示词图库</h1>
+      <p class="tagline">浏览、筛选和搜索提示词案例图库，快速复制提示词，探索灵感。</p>
+    </div>
+
+    <div class="control-bar">
+      <label class="search-field" for="searchInput">
+        <span class="search-icon" aria-hidden="true">🔍</span>
+        <input id="searchInput" type="search" placeholder="搜索案例编号、标题或提示词..." autocomplete="off">
+        <button id="clearSearch" class="ghost-btn" type="button" aria-label="清除搜索">✕</button>
+      </label>
+      <div class="actions-row">
+        <button id="clearFilters" class="ghost-btn clear-filter-btn" type="button">清除筛选</button>
+        <div id="resultStats" class="result-stats" role="status" aria-live="polite"></div>
+      </div>
+    </div>
   </div>
-  <div class="control-bar">
-    <label class="search-field" for="searchInput">
-      <span class="search-icon" aria-hidden="true">🔍</span>
-      <input id="searchInput" type="search" placeholder="搜索案例编号、标题或提示词..." autocomplete="off">
-      <button id="clearSearch" class="ghost-btn" type="button" aria-label="清除搜索">✕</button>
-    </label>
-    <button id="clearFilters" class="ghost-btn clear-filter-btn" type="button">清除筛选</button>
-    <div id="resultStats" class="result-stats" role="status" aria-live="polite"></div>
+  <div class="controls-with-right">
+    <aside class="ad-slot">
+      <a href="https://image.yooart.top/" target="_blank" rel="nofollow noopener" class="ad-banner">
+        <img src="./assets/ad1.png"  alt="" />
+      </a>
+    </aside>
   </div>
   <div class="tag-filter-container">
     <div id="tagFilters" class="tag-filter" aria-label="标签筛选" role="group"></div>

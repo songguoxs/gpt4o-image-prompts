@@ -56,14 +56,19 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 10;
-  padding: 1.2rem clamp(1.8rem, 4vw, 3rem);
+  padding: 0.2rem clamp(1.8rem, 4vw, 3rem);
   background: linear-gradient(180deg, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.8) 60%, transparent 100%);
   backdrop-filter: blur(18px);
+  display: grid;
+  grid-template-columns: 45% 55%; /* 40% left, 60% right */
+  /*gap: 1rem;*/
+  align-items: stretch;
 }
 
 .header-top {
   position: relative;
-  max-width: 960px;
+  width: 100%;
+  max-width: none;
   margin-bottom: 0.4rem;
 }
 
@@ -102,10 +107,55 @@ a:hover {
 
 .control-bar {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: center;
   gap: 0.8rem;
   margin-bottom: 1rem;
+}
+
+/* Controls + Ad layout */
+.controls-with-ad {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(240px, 40vw, 810px);
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+/* Left area should grow, right ad stays fixed-ish */
+.controls-with-ad .control-bar {
+  min-width: 0;
+  margin-bottom: 0; /* outer container handles spacing */
+}
+
+.ad-slot {
+  flex: 0 1 auto;
+  width: auto;
+  max-width: 100%;
+  min-width: 0;
+}
+
+.ad-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: min(100%, 810px);
+  aspect-ratio: 810 / 130; /* scale proportionally */
+  height: auto;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: linear-gradient(135deg, rgba(56,189,248,.16), rgba(148,163,184,.08));
+  color: var(--text-subtle);
+  text-decoration: none;
+}
+
+.ad-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  border-radius: var(--radius-md);
 }
 
 .search-field {
@@ -113,7 +163,10 @@ a:hover {
   align-items: center;
   gap: 0.6rem;
   padding: 0.6rem 0.9rem;
-  min-width: min(360px, 100%);
+  flex: 1 1 360px;
+  min-width: 240px;
+  width: auto;
+  max-width: 50%;
   background: rgba(15, 23, 42, 0.6);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
@@ -161,6 +214,8 @@ a:hover {
 
 .clear-filter-btn {
   padding: 0.45rem 0.9rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
 }
 
 #clearSearch {
@@ -173,9 +228,23 @@ a:hover {
 }
 
 .result-stats {
-  margin-left: auto;
   color: var(--text-subtle);
   font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 0 1 28ch;
+  max-width: 28ch;
+}
+
+.actions-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex: 0 0 auto;
+  white-space: nowrap;
+  min-width: 0;
+  max-width: none;
 }
 
 .tag-filter {
@@ -189,6 +258,12 @@ a:hover {
 /* Tag filter collapse/expand container */
 .tag-filter-container {
   /* nothing special, acts as a wrapper */
+}
+
+/* When collapsed, ensure 10px spacing from previous row.
+   Grid row gap is 1rem; use negative margin to net 10px. */
+.tag-filter-container.collapsed {
+  margin-top: calc(10px - 1rem);
 }
 
 .tag-filter-container.collapsed .tag-filter {
@@ -508,9 +583,15 @@ pre {
     padding-top: 1.8rem;
   }
 
+  /* Keep ad visible on small screens; layout may scroll horizontally if too narrow */
+
   .control-bar {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .search-field {
+    width: 100%;
   }
 
   .result-stats {
@@ -524,4 +605,50 @@ pre {
   .modal-content {
     max-height: 88vh;
   }
+}
+
+/* Stack left/right when extremely narrow */
+@media (max-width: 900px) {
+  .app-header {
+    grid-template-columns: 1fr;
+  }
+  .controls-with-left,
+  .controls-with-right,
+  .tag-filter-container {
+    grid-column: 1;
+  }
+  .controls-with-right {
+    justify-self: stretch;
+  }
+  .ad-slot {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+  .ad-banner {
+    width: 100%;
+  }
+  .actions-row {
+    max-width: none;
+    width: 100%;
+  }
+}
+/* New left/right header layout */
+.controls-with-left {
+  grid-column: 1;
+  min-width: 0;
+  align-self: stretch;
+}
+
+.controls-with-right {
+  grid-column: 2;
+  align-self: stretch;
+  min-width: 0;
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: flex-end; /* right align */
+}
+
+.tag-filter-container {
+  grid-column: 1 / -1;
 }

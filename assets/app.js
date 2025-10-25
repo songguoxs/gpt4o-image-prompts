@@ -49,6 +49,8 @@ async function init() {
     renderGallery();
     updateResultStats();
     bindEvents();
+    // Ensure resultStats is placed immediately after clearFilters in the DOM
+    ensureStatsAfterClearFilters();
     setupHeaderTopDismiss();
   } catch (error) {
     console.error('[prompts] Failed to initialise gallery', error);
@@ -120,6 +122,15 @@ function bindEvents() {
       closeModal();
     }
   });
+}
+
+function ensureStatsAfterClearFilters() {
+  const btn = dom.clearFilters;
+  const stats = dom.resultStats;
+  if (!btn || !stats) return;
+  if (btn.nextElementSibling !== stats) {
+    btn.insertAdjacentElement('afterend', stats);
+  }
 }
 
 function renderTagFilters() {
@@ -412,6 +423,7 @@ function updateResultStats() {
   if (tags > 0) parts.push(`标签 ×${tags}`);
   if (hasSearch) parts.push('已应用搜索');
   dom.resultStats.textContent = parts.join(' · ');
+  //dom.resultStats.textContent = '';
 }
 
 function openModal(item) {
