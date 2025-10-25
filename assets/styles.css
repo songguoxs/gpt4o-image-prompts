@@ -608,7 +608,7 @@ pre {
 }
 
 /* Stack left/right when extremely narrow */
-@media (max-width: 900px) {
+@media (max-width: 0px) {
   .app-header {
     grid-template-columns: 1fr;
   }
