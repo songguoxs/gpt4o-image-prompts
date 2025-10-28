@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 380：卡通插图 ](#prompt-380)
+*   [案例 379：戴着报童帽身穿黑色马甲 ](#prompt-379)
+*   [案例 378：优雅姿势的最高分辨率照片 ](#prompt-378)
+*   [案例 377：坐在现代地铁长椅上 ](#prompt-377)
+*   [案例 376：坐在巨大光滑的白色岩层上 ](#prompt-376)
+*   [案例 375：一枚精致的人物金属硬币 ](#prompt-375)
+*   [案例 374：坐在一个毛茸茸的巨型可爱卡通怪物旁 ](#prompt-374)
+*   [案例 373：身穿一件宽松的白色衬衫肖像照 ](#prompt-373)
+*   [案例 372：90年代风格照片 ](#prompt-372)
+*   [案例 371：人物作为动物的高度详细肖像 ](#prompt-371)
 *   [案例 370：超现实主义哥特式兔子工作室肖像 ](#prompt-370)
 *   [案例 369：通过镜子捕捉时尚的卫生间更衣区 ](#prompt-369)
 *   [案例 368：影楼拍摄女性坐在椅子上肖像照 ](#prompt-368)
@@ -207,11 +217,220 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-380"></a>
+## 案例 380：卡通插图 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1978164256240501226))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/380.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通插图">
+</div>
 
+**提示词：**
+```
+A cartoon illustration of [OBJECT],
+photographed in a clean minimal studio setup. All objects remain realistic and three-dimensional, but have been transformed into expressive cartoon characters:
+• [DESCRIPTION & EMOTION]  
+  (describe facial features, expressions, and emotional tone for each object)
+• [ACTION]  
+• doodle lines are black, slightly uneven, and hand-drawn —  like quick expressive sketchbook strokes drawn directly on the objects.
+Style: hybrid mix of real product photography and cartoon doodle overlay.  
+Background: solid pastel [COLOR], clean and minimal.
+Lighting: soft, even, studio-style — subtle highlights and gentle shadows; no harsh light.
+Mood: [MOOD / THEME — e.g. playful, melancholic, poetic, humorous].  
+Keywords: hybrid photo-doodle, product cartoon, expressive characters, minimal pastel background. Aspect ratio: 1:1
+```
 
+**中文提示词：**
+```
+[OBJECT]的卡通插图，
+在简洁干净的工作室环境中拍摄。所有物体都保持了真实感和三维立体感，但又被转化成了富有表现力的卡通人物：
+• [描述和情感]
+（描述每个物体的面部特征、表情和情绪基调）
+• [行动]
+• 涂鸦线条是黑色的，略微不均匀，并且是手绘的——就像直接在物体上绘制的快速富有表现力的素描本笔触一样。
+风格：真实产品摄影和卡通涂鸦叠加的混合。
+背景：纯色粉彩[颜色]，干净、简约。
+灯光：柔和、均匀、工作室风格——微妙的高光和柔和的阴影；没有刺眼的光线。
+心情：[心情/主题 — 例如好玩、忧郁、诗意、幽默]。
+关键词：混合照片涂鸦、产品卡通、富有表现力的人物、极简柔和背景。长宽比：1:1
+```
 
+<a id="prompt-379"></a>
+## 案例 379：戴着报童帽身穿黑色马甲 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402164212597061))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/379.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-戴着报童帽身穿黑色马甲">
+</div>
+
+**提示词：**
+```
+Use 100% face above uploaded photo.
+A hyper-realistic, cinematic medium shot of a handsome man in his late 20s with black hair and black beard like uploaded photo, styled in the fashion of the 1920s. He wears a grey tweed newsboy cap, a black waistcoat over a crisp white shirt, a slim black tie, and black leather gloves. A heavy wool overcoat is draped over his shoulder.
+He leans against a weathered brick wall in a narrow, atmospheric alleyway, looking upwards with a cool, contemplative expression through his round sunglasses. The lighting is moody and dramatic, with cool tones and soft shadows creating a sense of depth and mystery. The photograph is ultra-detailed with sharp focus and a shallow depth of field.
+```
+
+**中文提示词：**
+```
+使用上传的 100% 面部照片。
+这张超现实主义的电影中景镜头展现了一位英俊的二十多岁男子，他有着上传照片般的黑发和黑胡须，一身20世纪20年代的时尚风格。他头戴灰色粗花呢报童帽，身穿黑色马甲，内搭清爽的白衬衫，系着一条纤细的黑色领带，戴着黑色皮手套。肩上披着一件厚重的羊毛大衣。
+他倚靠在一条狭窄而充满情调的小巷里，倚靠着一堵饱经风霜的砖墙，透过圆形墨镜，目光冷峻而沉思。灯光充满情调，充满戏剧性，冷色调和柔和的阴影营造出一种纵深感和神秘感。这张照片细节丰富，对焦清晰，景深浅。
+```
+
+<a id="prompt-378"></a>
+## 案例 378：优雅姿势的最高分辨率照片 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402158176972945))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/378.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-优雅姿势的最高分辨率照片">
+</div>
+
+**提示词：**
+```
+Create the highest-resolution picture of me posing elegantly with my back slightly turned and my head looking over the shoulder towards the camera. I am wearing a sleek, form-fitting strapless black evening gown, paired with long, elegant black velvet opera gloves. My hair is styled in loose, glossy waves cascading naturally over my shoulder.
+I wear small, subtle earrings and a delicate bracelet on one wrist. My expression is confident, graceful, and alluring. The background is a plain stucco gray with soft gradient lighting, giving it a high-fashion photography look. The lighting is dramatic but soft, highlighting the contours of my body and face with realistic shadows and textures.
+The image should look like a high-quality, ultra-realistic fashion magazine photo, keeping my real face exactly as shown in the reference photo.
+```
+
+**中文提示词：**
+```
+请拍一张我优雅姿势的最高分辨率照片，我的背影微微转过，头越过肩膀，望向镜头。我身着一件光滑修身的黑色露肩晚礼服，搭配一副优雅的黑色天鹅绒长款歌剧手套。我的头发是蓬松的、光泽的波浪，自然地披散在肩上。”
+我戴着小巧精致的耳环，一只手腕上戴着精致的手镯。我的表情自信、优雅、迷人。背景是朴素的灰泥灰，柔和的渐变灯光营造出高级时尚的摄影效果。灯光既戏剧化又柔和，用逼真的阴影和纹理凸显了我的身体和面部轮廓。
+该图像应该看起来像一张高质量、超逼真的时尚杂志照片，保留我的真实面容，与参考照片中显示的完全一样。
+```
+
+<a id="prompt-377"></a>
+## 案例 377：坐在现代地铁长椅上 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402145535373486))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/377.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-坐在现代地铁长椅上">
+</div>
+
+**提示词：**
+```
+Reference image: uploaded photo
+Face: keep the same face from the reference photo, calm and composed expression, eyes slightly hidden behind dark sunglasses. Preserve realistic proportions and lighting.
+Pose: seated pose on a modern subway bench, one arm resting on the leg, the other hanging down loosely. The body leans slightly forward with casual confidence, one shoulder lowered. Clothes: oversized houndstooth-patterned jacket over black turtleneck, wide dark jeans, chunky lace-up boots. Accessories: narrow black sunglasses, subtle rings, crossbody strap barely visible.
+Background: minimalistic urban metro interior with grey concrete walls, metallic accents, and modern geometric design. Lighting: diffused artificial indoor light, soft shadows, neutral color balance emphasizing grayscale tones. Atmosphere: moody street editorial — quiet confidence, understated power, cinematic stillness.
+Format: 2:3 Do not replace face; keep the same person with realistic proportions and lighting accuracy.
+```
+
+**中文提示词：**
+```
+参考图片：上传的照片
+脸部：保持参考照片中的脸部，表情沉稳冷静，眼睛略微隐藏在墨镜后。保持真实的比例和光线。
+姿势：坐在现代地铁长椅上，一只手臂搭在腿上，另一只手臂自然垂下。身体略微前倾，自信而随意，一侧肩膀下垂。服装：超大千鸟格纹夹克，内搭黑色高领毛衣，深色宽腿牛仔裤，系带厚底靴。配饰：黑色窄款墨镜，精致戒指，斜挎包带若隐若现。
+背景：极简主义的都市地铁内部，灰色混凝土墙面，金属元素点缀，以及现代几何设计。灯光：漫射的室内人造光，柔和的阴影，强调灰阶色调的中性色彩平衡。氛围：忧郁的街头风格——沉静自信，低调的力量，电影般的静谧。
+格式：2：3 不要替换面部；保持同一个人具有真实的比例和灯光准确性。
+```
+
+<a id="prompt-376"></a>
+## 案例 376：坐在巨大光滑的白色岩层上 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402132834767195))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/376.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-坐在巨大光滑的白色岩层上">
+</div>
+
+**提示词：**
+```
+A hyper-realistic portrait of a young man sitting on large, smooth white rocky formations under natural sunlight. He is wearing a loose, slightly crumpled beige linen shirt with the top buttons open, paired with white trousers. His outfit gives a relaxed, Mediterranean vibe.
+He is leaning back, one arm resting on the rock, and the other hand on his knee, looking slightly to the side. He wears slim black rectangular sunglasses. His hairstyle is short, slightly messy, and the sunlight casts soft shadows across his outfit and the textured rocks.
+The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
+```
+
+**中文提示词：**
+```
+这幅超现实主义肖像画描绘了一位年轻男子坐在巨大光滑的白色岩层上，沐浴在自然阳光下。他身穿宽松略带褶皱的米色亚麻衬衫，最上面的纽扣敞开着，搭配白色长裤。他的装扮散发着轻松的地中海风情。
+他向后仰着身子，一只手扶着岩石，另一只手放在膝盖上，目光略微侧向一侧。他戴着一副细长的黑色矩形墨镜。他的发型短而略显凌乱，阳光在他的衣服和纹理分明的岩石上投下柔和的阴影。
+整体氛围平静、时尚，充满地中海风情。脸部应该与参考照片完全匹配。
+```
+
+<a id="prompt-375"></a>
+## 案例 375：一枚精致的人物金属硬币 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402126845247707))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/375.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一枚精致的人物金属硬币">
+</div>
+
+**提示词：**
+```
+A detailed metallic coin featuring
+Person's face attached in the image ( Do not change facial features of the person from the uploaded photo. Keep face of person 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic)  embossed in profile, crafted with realistic engraved textures and fine relief detailing. The coin surface shows light reflections, scratches, and metallic sheen. Include subtle inscriptions or symbols around the border to resemble authentic minting. Centered on a dark, minimal background to emphasize the coin’s texture and realism
+```
+
+**中文提示词：**
+```
+一枚精致的金属硬币，图像中人物的面部特征（请勿更改上传照片中人物的面部特征。保持人物面部与参考图像 100% 准确。保持附加人物的原始面部特征不变且逼真）采用侧面浮雕，并采用逼真的雕刻纹理和精细的浮雕细节。硬币表面呈现光反射、划痕和金属光泽。在边缘处添加细微的铭文或符号，以模拟真实的铸币。硬币以深色、极简的背景为中心，以突出硬币的纹理和真实感
+```
+
+<a id="prompt-374"></a>
+## 案例 374：坐在一个毛茸茸的巨型可爱卡通怪物旁 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402120658948406))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/374.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-坐在一个毛茸茸的巨型可爱卡通怪物旁">
+</div>
+
+**提示词：**
+```
+make me sit next to a giant fluffy cute cartoon monster. I am real realistic but monster is 3d cartoon. It’s hugging me and cute. Big eyes  we are in house on bed
+```
+
+**中文提示词：**
+```
+让我坐在一个毛茸茸的巨型可爱卡通怪物旁边。我真的很逼真，但怪物是3D卡通的。它抱着我，很可爱。大眼睛，我们在屋里的床上。
+```
+
+<a id="prompt-373"></a>
+## 案例 373：身穿一件宽松的白色衬衫肖像照 (来源 [@eyishazyer](https://x.com/eyishazyer/status/1982402114413596850))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/373.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身穿一件宽松的白色衬衫肖像照">
+</div>
+
+**提示词：**
+```
+Create a black and white high-fashion editorial portrait of me, keeping my real face exactly as in the reference photo (no edits, same features, no retouching). I am wearing a loose white blouse. My pose is bold and expressive, with one arm raised to hold my hair up, partially covering my face. My gaze is intense and directed at the camera, creating a strong and enigmatic aura. The background is a plain minimalist wall with sharp natural daylight casting defined shadows, adding depth and contrast.
+Lighting is harsh and high-contrast, highlighting my facial contours, sharp cheekbones, and the texture of the hair and fabric. The style should feel raw, dramatic, and artistic.
+The overall image is high-fashion editorial in monochrome, cinematic, and striking.
+```
+
+**中文提示词：**
+```
+为我创作一幅黑白高级时尚编辑肖像，保留我的真实面容，与参考照片完全一致（未进行任何编辑，五官相同，未进行任何修饰）。我身穿一件宽松的白色衬衫。我的姿势大胆而富有表现力，一只手抬起，将头发拢起，遮住了部分脸部。我的目光专注地直视镜头，营造出一种强烈而神秘的氛围。背景是一面简洁的墙面，明亮的自然光投射出清晰的阴影，增添了画面的深度和对比度。
+光线强烈，对比度高，凸显了我的面部轮廓、棱角分明的颧骨，以及头发和布料的质感。风格应该给人一种原始、戏剧化、艺术感十足的感觉。
+整体形象是单色的、电影化的、引人注目的高级时尚社论。
+```
+
+<a id="prompt-372"></a>
+## 案例 372：90年代风格照片 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1982268011416592593))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/372.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代风格照片">
+</div>
+
+**提示词：**
+```
+Without changing her original face, create a portrait of a beautiful young woman with porcelain-white skin, captured with a 1990s-style camera using a direct front flash. Her messy dark brown hair is tied up, posing with a calm yet playful smile. She wears a modern oversized cream sweater. The background is a dark white wall covered with aesthetic magazine posters and stickers, evoking a cozy bedroom or personal room atmosphere under dim lighting.
+```
+
+**中文提示词：**
+```
+不改变她原本的面容，用一台90年代风格的相机，搭配前置闪光灯，为一位拥有瓷白肌肤的年轻女子创作一幅肖像。她凌乱的深棕色头发扎起，脸上挂着平静而俏皮的微笑。她身穿一件现代感十足的奶油色宽松毛衣。背景是一面深白色的墙，墙上贴满了美学杂志的海报和贴纸，在昏暗的灯光下，营造出舒适的卧室或私人房间氛围。
+```
+
+<a id="prompt-371"></a>
+## 案例 371：人物作为动物的高度详细肖像 (来源 [@LinusEkenstam](https://x.com/LinusEkenstam/status/1982790174418632891))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/371.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物作为动物的高度详细肖像">
+</div>
+
+**提示词：**
+```
+[Person] as an [Animal] highly detailed portrait
+```
+
+**中文提示词：**
+```
+[人物] 作为 [动物] 的高度详细肖像
+```
 
 <a id="prompt-370"></a>
 ## 案例 370：超现实主义哥特式兔子工作室肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1982469385156489563))
