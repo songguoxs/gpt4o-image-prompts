@@ -33,6 +33,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 392：正在更衣的女生 ](#prompt-392)
+*   [案例 391：咖啡厅室内女生 ](#prompt-391)
+*   [案例 390：彩虹色发型女生 ](#prompt-390)
+*   [案例 389：双马尾比心女生 ](#prompt-389)
+*   [案例 388：白色枕头上的睡眼惺忪女孩 ](#prompt-388)
+*   [案例 387：握着复古银色麦克风女生 ](#prompt-387)
+*   [案例 386：淡桃粉色宽松毛绒睡衣女孩 ](#prompt-386)
+*   [案例 385：一张极具戏剧张力的黑白特写肖像 ](#prompt-385)
+*   [案例 384：人和汽车的三视图 ](#prompt-384)
 *   [案例 383：一张超现实的微距照片 ](#prompt-383)
 *   [案例 382：3D chibi风格乙烯基收藏品 ](#prompt-382)
 *   [案例 381：一幅奢华的高级时尚肖像 ](#prompt-381)
@@ -220,8 +229,1091 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-392"></a>
+## 案例 392：正在更衣的女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178658397229294))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/392.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-正在更衣的女生">
+</div>
 
+**提示词：**
+```
+{
+  "scene": {
+    "location": "A minimalist, dark bedroom or dressing room",
+    "background": "A simple, dark grey wall, out of focus"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian woman, elegant, hair in a loose bun with stray strands",
+    "wardrobe": "A simple, dark-colored (e.g., black, navy) form-fitting dress",
+    "accessories": "None",
+    "pose": "Shot from behind, three-quarter view. Her own hand is reaching back, pulling the zipper down (e.g., to the middle of her back).",
+    "expression": "(Face mostly obscured or in profile) Subtle, mysterious, ambiguous",
+    "gaze": "Looking down at her hand or away from camera",
+    "body_notes": "Photorealistic, realistic adult proportions; realistic hand and skin texture on back"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 100,
+    "aperture_f": 2.8,
+    "shutter_s": 0.01,
+    "iso": 400,
+    "white_balance_k": 4500,
+    "distance_m": 2.0,
+    "camera_height_m": 1.6,
+    "framing": "Tight medium shot (head to waist), focusing on the hand, zipper, and back",
+    "focus": "Manual focus on the hand and zipper"
+  },
+  "lighting": {
+    "key": "Dramatic side light (gridded strip light) to highlight the hand and spine",
+    "fill": "Deep shadows, very low fill",
+    "hair": "Subtle rim light",
+    "notes": "Low-key, high-contrast, "storytelling" image"
+  },
+  "color_grade": {
+    "style": "Cinematic, moody, ambiguous",
+    "palette": "Desaturated, cool tones, blacks, skin tones",
+    "contrast": "High, "chiaroscuro"",
+    "saturation": "Low"
+  },
+  "makeup": {
+    "eyes": "(Not visible)",
+    "cheeks": "(Not visible)",
+    "lips": "(Not visible)"
+  },
+  "postprocess": {
+    "retouch": "Maintain natural skin texture, add film grain",
+    "clarity": "High clarity on the zipper and hand",
+    "dodge_burn": "Dodge on the spine, hand, and zipper pull",
+    "vignette": "Strong dark vignette"
+  },
+  "art_direction": {
+    "mood": "Sensual, ambiguous, mysterious, intimate, quiet",
+    "keywords": ["photorealistic", "sensual", "ambiguous", "zipper", "low-key", "cinematic", "intimate"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "cg",
+    "3d render",
+    "anime",
+    "warped hands",
+    "extra fingers",
+    "deformed limbs"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"location": "简约、黑暗的卧室或更衣室",
+“背景”：“简单的深灰色墙壁，失焦”
+}，
+“主题”： {
+"年龄": "成人",
+"description": "东亚女性，优雅，头发松散，发髻散落，
+"wardrobe": "一件简单的深色（例如黑色、海军蓝）合身连衣裙",
+"accessories": "无",
+"pose": "从后面拍摄，四分之三视角。她自己的手伸到后面，拉下拉链（例如，拉到她背部中间）。",
+"expression": "（脸部大部分被遮挡或侧面）微妙、神秘、暧昧",
+"gaze": "低头看着她的手或远离相机",
+"body_notes": "照片般逼真的成人比例；背部的手部和皮肤纹理逼真"
+}，
+“相机”： {
+“传感器”：“全帧”，
+"焦距毫米": 100,
+“aperture_f”：2.8，
+“shutter_s”：0.01，
+“iso”：400，
+"白平衡k": 4500,
+“距离_米”：2.0，
+"相机高度米": 1.6,
+"framing": "近距离中景拍摄（从头到腰），重点关注手、拉链和背部",
+"focus": "手动对焦手和拉链"
+}，
+“灯光”： {
+"key": "戏剧性的侧光（网格条灯）突出手部和脊柱",
+"fill": "深阴影，非常低的填充",
+"hair": "微妙的边缘光",
+"notes": "低调、高对比度、“讲故事”的图像"
+}，
+“颜色等级”：{
+"style": "电影化、喜怒无常、模棱两可",
+"palette": "去饱和、冷色调、黑色、肤色",
+"contrast": "高, "明暗对比"",
+“饱和度”：“低”
+}，
+“化妆品”： {
+"eyes": "(不可见)",
+"cheeks": "(不可见)",
+"lips": "(不可见)"
+}，
+“后处理”：{
+"retouch": "保持自然的皮肤纹理，添加胶片颗粒感",
+"clarity": "拉链和手部清晰度高",
+"dodge_burn": "躲避脊柱、手和拉链头",
+"vignette": "强烈的暗色调晕影"
+}，
+“艺术指导”：{
+"mood": "感性、暧昧、神秘、亲密、安静",
+“关键词”：[“照片写实”、“感性”、“模棱两可”、“拉链”、“低调”、“电影”、“亲密”]
+}，
+"negative_prompts": [
+“nsfw”，
+“未成年的样子”，
+“文字或徽标”，
+“塑料娃娃皮肤”，
+“cg”，
+“3D渲染”，
+“日本动画片”，
+“扭曲的手”，
+“额外的手指”，
+“肢体畸形”
+]
+}
+```
+
+<a id="prompt-391"></a>
+## 案例 391：咖啡厅室内女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178596581658768))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/391.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-咖啡厅室内女生">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "A bright, aesthetic cafe interior",
+    "background": "Pastel-colored wall, a small potted plant on the table, window light"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian woman, soft, wavy hair with air bangs",
+    "wardrobe": "Cute pastel-colored blouse or off-the-shoulder top",
+    "accessories": "Delicate layered necklaces, holding a latte or colorful drink",
+    "pose": "Sitting at the table, leaning forward slightly, hands around the cup, as if listening intently",
+    "expression": "Sweet, "first date" smile, slight head tilt, 'eye-smile'",
+    "gaze": "Direct to camera (as if the viewer is her date)",
+    "body_notes": "Photorealistic, realistic adult proportions; natural skin texture"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 50,
+    "aperture_f": 2.0,
+    "shutter_s": 0.008,
+    "iso": 250,
+    "white_balance_k": 5600,
+    "distance_m": 1.8,
+    "camera_height_m": 1.4,
+    "framing": "Medium close-up (chest-up), 'point-of-view' (POV) shot",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "Large, soft window light from the front-side",
+    "fill": "White bounce card or natural bounce from the table",
+    "hair": "Gentle rim light",
+    "catchlights": "Large, soft window catchlights",
+    "notes": "Bright, airy, clean aesthetic"
+  },
+  "color_grade": {
+    "style": "Ulzzang / 'Clean' aesthetic",
+    "palette": "Pastels, white, skin tones; clear, luminous skin",
+    "contrast": "Medium-low, clean shadows",
+    "saturation": "Moderate, fresh"
+  },
+  "makeup": {
+    "eyes": "Natural winged eyeliner ('puppy dog' style), highlighted aegyo-sal",
+    "cheeks": "Peach gradient blush",
+    "lips": "Glossy pink gradient lips"
+  },
+  "postprocess": {
+    "retouch": "Professional 'glass skin' retouch (light, maintain pores)",
+    "clarity": "Selective clarity on eyes, lips, and drink",
+    "vignette": "Very subtle bright vignette"
+  },
+  "art_direction": {
+    "mood": "Sweet, approachable, trendy, 'date' vibe",
+    "keywords": ["photorealistic", "sweet girl", "cafe", "date", "Ulzzang", "eye-smile", "POV"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "cg",
+    "3d render",
+    "anime",
+    "dark lighting",
+    "sad expression"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“地点”：“明亮、美观的咖啡馆内部”，
+“背景”：粉彩色的墙壁，桌上的一盆小植物，窗外的光线
+}，
+“主题”： {
+“年龄”: “成人”
+描述：东亚女性，头发柔软，微卷，留着蓬松的刘海。
+“衣橱”： “可爱的粉彩色衬衫或露肩上衣”，
+“配饰”：“精致的多层项链，配上一杯拿铁或色彩缤纷的饮品”，
+“姿势”：“坐在桌旁，身体微微前倾，双手捧着杯子，仿佛在认真倾听”，
+“表情”：“甜美的、‘初次约会’式的微笑，微微歪头，‘笑眼’”，
+“凝视”：“直视镜头（仿佛观众是她的约会对象）”，
+"body_notes": "逼真的成人比例；自然的皮肤纹理"
+}，
+“相机”： {
+"传感器": "全帧",
+"focal_length_mm": 50,
+"aperture_f": 2.0,
+"shutter_s": ​​0.008,
+“iso”：250，
+"white_balance_k": 5600,
+"distance_m": 1.8,
+"camera_height_m": 1.4,
+“构图”：“中近景（胸部以上），‘主观’（POV）镜头”，
+"focus": "eye_detect_AF on nearest eye"
+}，
+“灯光”： {
+“关键”：“来自正面的大而柔和的窗户光线”，
+“填充物”: “白色弹跳卡或桌面上的自然弹跳”，
+“头发”：“柔和的边缘光”，
+“眼神光”：“大而柔和的窗户眼神光”，
+备注：明亮、通风、干净的美学风格
+}，
+"color_grade": {
+"风格": "Ulzzang / 'Clean' 美学",
+“调色板”：“柔和的粉彩色调、白色、肤色；清透、透亮的肌肤”，
+“对比度”：“中低，干净的阴影”，
+“饱和度”：“适中，清新”
+}，
+“化妆品”： {
+“眼睛”：“自然上扬眼线（小狗眼线风格），高光卧蚕眼妆”，
+“脸颊”: “蜜桃渐变腮红”
+“嘴唇”： “亮粉色渐变唇妆”
+}，
+"后处理": {
+“修图”：“专业‘玻璃肌’修图（轻微，保留毛孔）”
+“清晰度”： “选择性地提高眼睛、嘴唇和饮料的清晰度”
+“小景”： “非常微妙的明亮小景”
+}，
+“艺术指导”：{
+“氛围”：“甜蜜、平易近人、时尚、‘约会’氛围”，
+关键词：["写实", "甜美女孩", "咖啡馆", "约会", "韩系美女", "笑眼", "第一人称视角"]
+}，
+"negative_prompts": [
+"nsfw",
+“未成年样貌”，
+“文字或标志”，
+“塑料娃娃皮肤”，
+“cg”，
+“3D渲染”，
+“日本动画片”，
+“昏暗的照明”，
+“悲伤的表情”
+]
+}
+```
+
+<a id="prompt-390"></a>
+## 案例 390：彩虹色发型女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178522988343619))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/390.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-彩虹色发型女生">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "Hyper-colorful studio",
+    "background": "Pastel pink wall, decorated with 80s/90s retro toys (e.g., My Little Pony, Care Bears), vinyl records"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian woman, rainbow pastel hair (wig), large, excited eyes",
+    "wardrobe": "Layered pastel t-shirts (e.g., mint green over lavender), a pink tutu skirt, colorful striped leg warmers, pastel high-top sneakers",
+    "accessories": "Excessive plastic jewelry: beaded necklaces, star bracelets, large bow in hair",
+    "pose": "High-energy, mid-jump or one leg popped high, arms up in excitement, peace signs",
+    "expression": "Hyper, excited, huge open-mouthed smile, 'genki'",
+    "gaze": "Direct to camera, full of energy",
+    "body_notes": "realistic adult proportions; natural skin texture"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 35,
+    "aperture_f": 4.0,
+    "shutter_s": 0.008,
+    "iso": 200,
+    "white_balance_k": 5000,
+    "distance_m": 3.0,
+    "camera_height_m": 1.0,
+    "framing": "Full body, capturing the dynamic pose",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "Bright, even, "pop" lighting (on-axis beauty dish or ring flash)",
+    "fill": "Two large softboxes on sides, eliminating shadows",
+    "hair": "Simple top light",
+    "catchlights": "Distinctive ring light catchlight",
+    "notes": "High-key, flat, "magazine pop" style"
+  },
+  "color_grade": {
+    "style": "Fairy Kei, 80s pastel-pop",
+    "palette": "All pastels: pink, lavender, mint, yellow; bright, clear skin",
+    "contrast": "Medium, very clean",
+    "saturation": "High saturation on all pastels"
+  },
+  "makeup": {
+    "eyes": "Bright pastel eyeshadow (e.g., blue), winged liner, glitter",
+    "cheeks": "Bright pink blush, maybe small face stickers (e.g., stars)",
+    "lips": "Bubblegum pink glossy lips"
+  },
+  "postprocess": {
+    "retouch": "Clean skin",
+    "clarity": "High clarity on all accessories and clothing layers",
+    "dodge_burn": "Minimal, keep lighting flat and bright",
+    "vignette": "None"
+  },
+  "art_direction": {
+    "mood": "Hyper, energetic, nostalgic, colorful, bubbly",
+    "keywords": ["Fairy Kei", "Harajuku", "pastel", "80s", "retro toys", "colorful", "bubbly"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "warped hands or extra fingers",
+    "deformed limbs",
+    "dark colors",
+    "Goth",
+    "sad expression"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“地点”：“色彩缤纷的工作室”，
+“背景”：“粉色墙面，装饰着 80 年代/90 年代的复古玩具（例如，小马宝莉、爱心熊）、黑胶唱片”
+}，
+“主题”： {
+“年龄”: “成人”
+描述：东亚女性，彩虹色假发，大而兴奋的眼睛。
+“衣橱”： “层叠的粉彩色T恤（例如，薄荷绿叠穿薰衣草色），粉色芭蕾舞裙，彩色条纹腿套，粉彩色高帮运动鞋”，
+“配饰”：“过多的塑料首饰：串珠项链、星星手镯、头发上的大蝴蝶结”，
+“姿势”：“充满活力，跳跃或单腿高高抬起，兴奋地举起双臂，比出和平手势”，
+“表情”：“亢奋、兴奋、咧嘴大笑，‘元气’”，
+“凝视”：“直视镜头，充满活力”，
+"body_notes": "逼真的成人比例；自然的皮肤纹理"
+}，
+“相机”： {
+"传感器": "全帧",
+"focal_length_mm": 35,
+"aperture_f": 4.0,
+"shutter_s": ​​0.008,
+“iso”：200，
+"white_balance_k": 5000,
+"distance_m": 3.0,
+"camera_height_m": 1.0,
+“构图”：“全身照，捕捉动态姿态”，
+"focus": "eye_detect_AF on nearest eye"
+}，
+“灯光”： {
+“关键”： “明亮、均匀、‘突出’的照明（轴向柔光罩或环形闪光灯）”，
+“填充”：“两侧各有一个大型柔光箱，消除阴影”，
+“头发”：“简单的顶光”，
+“眼神光”： “独特的环形灯光眼神光”，
+备注：高调、平淡、杂志流行风格
+}，
+"color_grade": {
+“风格”：“仙女系，80年代粉彩流行”
+“调色板”：“所有柔和的粉彩色调：粉色、薰衣草色、薄荷色、黄色；明亮、清透的肌肤”，
+“对比度”：“中等，非常干净”，
+“饱和度”：所有粉彩色调都具有高饱和度
+}，
+“化妆品”： {
+“眼睛”：“明亮的粉彩色眼影（例如蓝色），上扬的眼线，闪粉”，
+“脸颊”：“亮粉色腮红，也许可以贴一些小贴纸（例如星星）”，
+“嘴唇”： “泡泡糖粉色亮泽嘴唇”
+}，
+"后处理": {
+“修饰”: “干净的皮肤”，
+“清晰度”：“所有配饰和服装层都具有高清晰度”，
+"dodge_burn": "极简，保持光线平整明亮"
+“小插曲”： “无”
+}，
+“艺术指导”：{
+“情绪”： “亢奋、精力充沛、怀旧、色彩缤纷、活泼”
+关键词：[“仙女系”、“原宿”、“粉彩”、“80年代”、“复古玩具”、“色彩缤纷”、“活泼”]
+}，
+"negative_prompts": [
+"nsfw",
+“未成年样貌”，
+“文字或标志”，
+“塑料娃娃皮肤”，
+“畸形手或多余手指”，
+“肢体畸形”，
+“暗色”，
+“哥特式”
+“悲伤的表情”
+]
+}
+```
+
+<a id="prompt-389"></a>
+## 案例 389：双马尾比心女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178453216137391))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/389.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双马尾比心女生">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "Themed 'Maid Cafe' interior, focused and clean",
+    "background": "Bright pink walls, checkered floor, subtle hearts and ruffle decorations (soft focus, no distracting elements)"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "Realistic East Asian woman, dark hair in high twin-tails with ribbons, sparkling, energetic eyes",
+    "wardrobe": "Classic black maid dress with a short skirt, pristine white frilly apron, knee-high white socks with bows",
+    "accessories": "Frilly maid headband, ribbons in hair",
+    "pose": "Full body, dynamic 'moe moe kyun' pose; both hands making a heart gesture, one foot popped, slight bow",
+    "expression": "Extremely energetic, wide-eyed 'kawaii' smile, 'genki' (energetic) personality",
+    "gaze": "Direct to camera, engaging and cheerful",
+    "body_notes": "realistic adult proportions; natural skin texture"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 35,
+    "aperture_f": 2.8,
+    "shutter_s": 0.008,
+    "iso": 400,
+    "white_balance_k": 5000,
+    "distance_m": 3.0,
+    "camera_height_m": 1.0,
+    "framing": "Full body shot, slightly low angle to enhance cuteness and energy",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "Bright, even, slightly flat studio lighting (simulating cafe interior)",
+    "fill": "Large softboxes from both sides to eliminate shadows",
+    "hair": "Top-down rim light to separate hair",
+    "catchlights": "Multiple, large, bright catchlights",
+    "notes": "Very bright, 'pop' lighting, high-key"
+  },
+  "color_grade": {
+    "style": "Akihabara-pop, vibrant",
+    "palette": "Bright pink, black, white; clear, bright skin",
+    "contrast": "Medium, very clean and crisp",
+    "saturation": "High saturation"
+  },
+  "makeup": {
+    "eyes": "Emphasized 'anime' eyes, prominent aegyo-sal, long upper and lower lashes",
+    "cheeks": "Bright pink, circular blush",
+    "lips": "High-gloss pink or red lip tint"
+  },
+  "postprocess": {
+    "retouch": "Clean skin retouching, "idol" level",
+    "clarity": "High clarity on eyes, apron ruffles, and hair",
+    "dodge_burn": "Dodge on eyes to make them sparkle",
+    "vignette": "None"
+  },
+  "art_direction": {
+    "mood": "Energetic, cheerful, adorable, welcoming",
+    "keywords": ["maid cafe", "moe", "kawaii", "twin-tails", "heart gesture", "Akihabara"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "warped hands or extra fingers",
+    "deformed limbs",
+    "dark or moody",
+    "French maid (Victorian)",
+    "sad expression",
+    "cluttered background",
+    "photography equipment",
+    "lighting equipment"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“地点”：“以女仆咖啡厅为主题的室内设计，简洁明了”，
+“背景”：“亮粉色的墙壁，格子地板，精致的心形和褶皱装饰（柔焦，无分散注意力的元素）”
+}，
+“主题”： {
+“年龄”: “成人”
+“描述”：“一位写实的东亚女性，深色头发扎成高高的双马尾，用丝带系着，眼睛闪亮而充满活力。”
+“服装”：“经典的黑色女仆装，短裙，洁白的褶边围裙，带蝴蝶结的白色过膝袜”，
+“配饰”：“褶边女仆头带，头发上的丝带”，
+“姿势”：“全身动态‘萌萌哒’姿势；双手比心，一只脚翘起，微微鞠躬”
+“表情”：“活力四射，睁大眼睛露出‘可爱’的笑容，‘元气’（精力充沛）的性格”，
+“眼神”：“直视镜头，专注而快乐”，
+"body_notes": "逼真的成人比例；自然的皮肤纹理"
+}，
+“相机”： {
+"传感器": "全帧",
+"focal_length_mm": 35,
+"aperture_f": 2.8,
+"shutter_s": ​​0.008,
+“iso”：400，
+"white_balance_k": 5000,
+"distance_m": 3.0,
+"camera_height_m": 1.0,
+“构图”：“全身照，略微低角度拍摄，以增强可爱和活力”，
+"focus": "eye_detect_AF on nearest eye"
+}，
+“灯光”： {
+“关键”： “明亮、均匀、略微平淡的影棚照明（模拟咖啡馆内部）”
+“填充”：“从两侧使用大型柔光箱以消除阴影”，
+“头发”： “自上而下的边缘光，用于分离头发”，
+“眼神光”： “多个、大、明亮的眼神光”，
+备注：非常明亮、流行风格的灯光，高调
+}，
+"color_grade": {
+风格： “秋叶原流行，充满活力”
+“调色板”：“亮粉色、黑色、白色；清透、明亮的肌肤”
+“对比度”：“中等，非常干净清晰”，
+“饱和度”: “高饱和度”
+}，
+“化妆品”： {
+“眼睛”： “强调‘动漫’眼睛，突出卧蚕，上下睫毛长”，
+“脸颊”：“亮粉色，圆形腮红”，
+“唇部”： “高光泽粉色或红色唇彩”
+}，
+"后处理": {
+“修图”：“干净的皮肤修图，‘偶像’级别”，
+“清晰度”：“眼睛、围裙褶边和头发的清晰度很高”，
+"dodge_burn": "在眼睛上加闪，使它们闪闪发光",
+“小插曲”： “无”
+}，
+“艺术指导”：{
+“情绪”：“充满活力、开朗、可爱、热情好客”
+关键词：["女仆咖啡厅", "萌", "可爱", "双马尾", "爱心手势", "秋叶原"]
+}，
+"negative_prompts": [
+"nsfw",
+“未成年样貌”，
+“文字或标志”，
+“塑料娃娃皮肤”，
+“畸形手或多余手指”，
+“肢体畸形”，
+“阴郁或忧郁的”，
+“法国女仆（维多利亚时代）”
+“悲伤的表情”，
+“杂乱的背景”，
+“摄影器材”，
+“照明设备”
+]
+}
+```
+
+<a id="prompt-388"></a>
+## 案例 388：白色枕头上的睡眼惺忪女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178369262964886))
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/388.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-白色枕头上的睡眼惺忪女孩">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "Bedroom, in bed",
+    "background": "White pillows and soft, rumpled bedsheets, soft morning light"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian woman, beautiful 'just woke up' messy hair, sleepy eyes",
+    "wardrobe": "Simple, thin-strap camisole (e.g., silk or cotton), strap slightly falling off one shoulder",
+    "accessories": "None",
+    "pose": "Lying on her stomach in bed, propped up on her elbows, looking at the camera",
+    "expression": "Soft, sleepy smile, intimate, 'good morning' look",
+    "gaze": "Direct to camera, soft and alluring",
+    "body_notes": "Photorealistic, realistic adult proportions; natural skin texture, visible collarbones, 'sleepy' flush"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 50,
+    "aperture_f": 1.8,
+    "shutter_s": 0.01,
+    "iso": 400,
+    "white_balance_k": 5500,
+    "distance_m": 1.5,
+    "camera_height_m": 0.8,
+    "framing": "Close-up (chest-up), at eye level with her",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "Large, diffused window light from the side, creating very soft shadows",
+    "fill": "Bounced light from the white sheets",
+    "hair": "Soft halo from the window",
+    "catchlights": "Large, soft window catchlights",
+    "notes": "Very soft, high-key, intimate"
+  },
+  "color_grade": {
+    "style": "Intimate, soft, 'morning' aesthetic",
+    "palette": "Whites, skin tones, pastels; soft, luminous skin",
+    "contrast": "Very low, dreamy",
+    "saturation": "Moderate, soft"
+  },
+  "makeup": {
+    "eyes": "None, 'bare face' look",
+    "cheeks": "Natural, sleepy flush",
+    "lips": "Natural, hydrated"
+  },
+  "postprocess": {
+    "retouch": "Professional retouching, maintain "real skin" look",
+    "clarity": "Selective clarity on eyes and lashes",
+    "dodge_burn": "Subtle dodge on eyes and collarbone",
+    "vignette": "Subtle, bright vignette"
+  },
+  "art_direction": {
+    "mood": "Flirty, intimate, ambiguous, soft, sleepy, alluring",
+    "keywords": ["photorealistic", "flirty", "morning", "in bed", "ambiguous", "natural beauty", "sleepy"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "cg",
+    "3d render",
+    "anime",
+    "heavy makeup",
+    "warped hands"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"location": "卧室，在床上",
+"background": "白色枕头、柔软、皱巴巴的床单、柔和的晨光"
+}，
+“主题”： {
+"年龄": "成人",
+"description": "东亚女子，美丽的‘刚睡醒’凌乱的头发，睡眼惺忪的眼睛",
+"wardrobe": "简单的细肩带吊带背心（例如丝绸或棉质），肩带略微从一侧肩膀垂下",
+"accessories": "无",
+"pose": "趴在床上，用手肘支撑身体，看着镜头",
+"expression": "温柔、困倦的微笑、亲密的‘早上好’表情",
+"gaze": "直视镜头，柔和而诱人",
+"body_notes": "照片般逼真的成人比例；自然的皮肤纹理，清晰可见的锁骨，‘困倦’的红晕"
+}，
+“相机”： {
+“传感器”：“全帧”，
+"焦距毫米": 50,
+“aperture_f”：1.8，
+“shutter_s”：0.01，
+“iso”：400，
+"白平衡k": 5500,
+“距离米”：1.5，
+“相机高度”：0.8，
+"framing": "特写（胸部以上），与她视线齐平",
+“focus”：“eye_detect_AF 在最近的眼睛上”
+}，
+“灯光”： {
+"key": "从侧面射入的大型漫射窗光，形成非常柔和的阴影",
+"fill": "从白色床单反射的光线",
+"hair": "窗户透出的柔和光晕",
+"catchlights": "大而柔和的窗户聚光灯",
+"notes": "非常柔软，高调，亲密"
+}，
+“颜色等级”：{
+"style": "亲密、柔和、‘早晨’美学",
+"palette": "白色、肤色、粉彩色；柔软、明亮的皮肤",
+"contrast": "非常低，梦幻",
+"saturation": "中等，柔和"
+}，
+“化妆品”： {
+"eyes": "无，‘素颜’样子",
+"cheeks": "自然、困倦的红晕",
+"lips": "自然、水润"
+}，
+“后处理”：{
+"retouch": "专业修图，保持“真实肌肤”外观",
+"clarity": "选择性地清晰眼睛和睫毛",
+"dodge_burn": "眼睛和锁骨处细微减淡",
+"vignette": "微妙、明亮的小插图"
+}，
+“艺术指导”：{
+"mood": "轻浮、亲密、暧昧、柔和、困倦、诱人",
+"keywords": ["照片写实", "调情", "早晨", "在床上", "模棱两可", "自然美", "困倦"]
+}，
+"negative_prompts": [
+“nsfw”，
+“未成年的样子”，
+“文字或徽标”，
+“塑料娃娃皮肤”，
+“cg”，
+“3D渲染”，
+“日本动画片”，
+“浓妆艳抹”，
+“扭曲的手”
+]
+}
+```
+
+<a id="prompt-387"></a>
+## 案例 387：握着复古银色麦克风女生 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1981178292276527584))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/387.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-握着复古银色麦克风女生">
+</div>
+
+**提示词：**
+```
+{
+"scene": {
+    "location": "Bright photo studio",
+    "background": "Solid, high-saturation macaroon pink seamless background"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian woman, long curly caramel-colored hair with sparkling gold highlights, confident 'idol' gaze",
+    "wardrobe": "Sparkly 'idol' stage outfit: pink plaid pleated skirt, cropped top with white lace trim, large bow on chest, sequin details",
+    "accessories": "White lace wrist gloves, sparkly star-shaped hair clips, one hand holding a retro silver microphone (as a prop)",
+    "pose": "Full body, classic idol pose: one hand on hip, other hand making a heart gesture near cheek, S-curve posture, confident",
+    "expression": "Perfect, bright 'professional' smile, sparkling eyes, full of charm",
+    "gaze": "Direct to camera (engaging with fans)",
+    "body_notes": "realistic adult proportions; natural skin texture"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 70,
+    "aperture_f": 3.2,
+    "shutter_s": 0.008,
+    "iso": 100,
+    "white_balance_k": 5200,
+    "distance_m": 4.0,
+    "camera_height_m": 1.1,
+    "framing": "Full body shot, with enough space to show the pose",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "Large ring flash, creating the iconic ring catchlight",
+    "fill": "Two large softboxes on the sides, providing even, high-key 'K-pop' lighting",
+    "hair": "Hard light from high-behind to create shiny hair highlights",
+    "catchlights": "Clear ring-shaped catchlights",
+    "notes": "High-key, bright, no shadows, emphasize sparkly texture of outfit"
+  },
+  "color_grade": {
+    "style": "K-Pop / J-Pop Idol, high-key kawaii",
+    "palette": "Bright pink, white, caramel; flawless 'glass skin'",
+    "contrast": "Medium, very clean",
+    "saturation": "High saturation, vibrant"
+  },
+  "makeup": {
+    "eyes": "Stage makeup: thick false lashes, sparkly liquid eyeshadow, highlighted aegyo-sal",
+    "cheeks": "Bright strawberry-pink blush",
+    "lips": "High-gloss gradient 'juicy lips'"
+  },
+  "postprocess": {
+    "retouch": "Highly refined skin retouching, but maintain pore texture (not plastic)",
+    "clarity": "Enhance clarity on sequins, eyes, lips, and hair highlights",
+    "dodge_burn": "Micro dodge on aegyo-sal, nose bridge, and collarbones",
+    "vignette": "None, keep background clean"
+  },
+  "art_direction": {
+    "mood": "Sparkly, confident, energetic, sweet idol",
+    "keywords": ["idol", "K-Pop", "J-Pop", "stage outfit", "heart gesture", "sparkly"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "warped hands or extra fingers",
+    "deformed limbs",
+    "dark or moody lighting",
+    "plain clothing",
+    "sad expression"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"location": "明亮摄影工作室",
+"background": "纯色、高饱和度的马卡龙粉色无缝背景"
+}，
+“主题”： {
+"年龄": "成人",
+"description": "东亚女性，长长的卷曲焦糖色头发，带有闪亮的金色亮点，自信的“偶像”目光",
+"wardrobe": "闪亮的‘偶像’舞台装：粉色格子百褶裙，白色蕾丝边短款上衣，胸前大蝴蝶结，亮片细节",
+"accessories": "白色蕾丝腕手套，闪亮的星形发夹，一只手拿着复古的银色麦克风（作为道具）",
+"pose": "全身，经典偶像姿势：一只手叉腰，另一只手在脸颊附近做爱心手势，S 形曲线，自信",
+"expression": "完美、灿烂的‘专业’笑容，闪亮的眼睛，充满魅力",
+"gaze": "直视镜头（与粉丝互动）",
+"body_notes": "逼真的成人比例；自然的皮肤纹理"
+}，
+“相机”： {
+“传感器”：“全帧”，
+"焦距毫米": 70,
+"aperture_f": 3.2,
+“shutter_s”：0.008，
+"iso": 100,
+"白平衡k": 5200,
+“距离米”：4.0，
+"camera_height_m": 1.1,
+"framing": "全身照，留出足够的空间来展示姿势",
+“focus”：“eye_detect_AF 在最近的眼睛上”
+}，
+“灯光”： {
+"key": "大型环形闪光灯，营造标志性的环形眼神光",
+"fill": "两侧有两个大型柔光箱，提供均匀、高调的“K-pop”照明",
+"hair": "从高处照射强光，打造闪亮的头发亮点",
+"catchlights": "透明环形眼神光",
+"notes": "高调、明亮、无阴影，强调服装的闪亮质感"
+}，
+“颜色等级”：{
+"style": "K-Pop / J-Pop 偶像，高调可爱",
+"palette": "亮粉色、白色、焦糖色；完美无瑕的‘玻璃肌肤’",
+"contrast": "中等，非常干净",
+"saturation": "高饱和度，鲜艳"
+}，
+“化妆品”： {
+"eyes": "舞台妆：浓密的假睫毛、闪亮的液体眼影、高光的撒娇眼影",
+"cheeks": "明亮的草莓粉色腮红",
+"lips": "高光渐变‘水润双唇’"
+}，
+“后处理”：{
+"retouch": "高度精致的皮肤修饰，但保持毛孔纹理（不是塑料）",
+"clarity": "增强亮片、眼睛、嘴唇和头发亮点的清晰度",
+"dodge_burn": "对撒娇、鼻梁和锁骨进行微减淡",
+"vignette": "无，保持背景干净"
+}，
+“艺术指导”：{
+"mood": "闪亮、自信、活力、甜美的偶像",
+"keywords": ["偶像", "K-Pop", "J-Pop", "舞台服装", "心形手势", "闪亮"]
+}，
+"negative_prompts": [
+“nsfw”，
+“未成年的样子”，
+“文字或徽标”，
+“塑料娃娃皮肤”，
+“弯曲的手或多余的手指”，
+“畸形肢体”，
+“昏暗或阴郁的灯光”，
+“便衣”，
+“悲伤的表情”
+]
+}
+```
+
+<a id="prompt-386"></a>
+## 案例 386：淡桃粉色宽松毛绒睡衣女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1982984662747373744))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/386.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-淡桃粉色宽松毛绒睡衣女孩">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "location": "cozy bedroom corner",
+    "background": "soft-focus string of fairy lights against a pastel lavender wall"
+  },
+  "subject": {
+    "age": "adult",
+    "description": "East Asian women, messy shoulder-length dark hair, sleepy-looking soft brown eyes",
+    "wardrobe": "oversized, fluffy fleece pajama set (onesie or two-piece) in pastel peach, with a hood featuring animal ears (e.g., bunny)",
+    "accessories": "holding a large, cute teddy bear plush toy, wearing fuzzy socks",
+    "pose": "sitting on the floor, knees pulled up to chest, hugging the teddy bear, hood with ears is up",
+    "expression": "soft, sleepy pout, 'puffy' cheeks, half-smile, radiating comfort",
+    "gaze": "direct to camera, soft and inviting",
+    "body_notes": "realistic adult proportions; natural skin texture, relaxed posture"
+  },
+  "camera": {
+    "sensor": "full_frame",
+    "focal_length_mm": 50,
+    "aperture_f": 1.8,
+    "shutter_s": 0.0125,
+    "iso": 640,
+    "white_balance_k": 4800,
+    "distance_m": 2.5,
+    "camera_height_m": 0.8,
+    "framing": "medium shot, from head to knees, emphasizing the plush toy and pajamas",
+    "focus": "eye_detect_AF on nearest eye"
+  },
+  "lighting": {
+    "key": "soft, warm light from a nearby lamp (out of frame), simulating evening",
+    "fill": "ambient light from the fairy lights, creating small bokeh highlights",
+    "hair": "subtle glow on hair from fairy lights",
+    "catchlights": "multiple small, warm catchlights from fairy lights",
+    "notes": "warm, intimate, very soft, 'golden hour' indoor feel"
+  },
+  "color_grade": {
+    "style": "cozy & cute, soft-glam",
+    "palette": "pastel peach, lavender, warm creams; glowing skin",
+    "contrast": "low, dreamy, slightly hazy",
+    "saturation": "moderate"
+  },
+  "makeup": {
+    "eyes": "minimal, 'no-makeup' makeup, slightly smudged soft brown liner",
+    "cheeks": "flushed pink blush, as if warm",
+    "lips": "hydrated, natural pink lip tint"
+  },
+  "postprocess": {
+    "retouch": "very light skin softening, maintain pores",
+    "clarity": "selective clarity on eyes and plush toy texture",
+    "dodge_burn": "gentle dodge on cheeks and nose bridge",
+    "vignette": "soft, warm vignette to draw focus"
+  },
+  "art_direction": {
+    "mood": "cozy, sleepy, adorable, intimate",
+    "keywords": ["pajama", "plush toy", "fairy lights", "cozy", "animal ears"]
+  },
+  "negative_prompts": [
+    "nsfw",
+    "underage look",
+    "text or logos",
+    "plastic doll skin",
+    "warped hands or extra fingers",
+    "deformed limbs",
+    "bright daylight",
+    "sharp shadows",
+    "cluttered room"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"location": "舒适的卧室角落",
+“背景”：“柔和焦点的仙女灯串映衬着淡紫色的墙壁”
+}，
+“主题”： {
+"年龄": "成人",
+"description": "东亚女性，凌乱的齐肩黑发，睡眼惺忪的柔和棕色眼睛",
+"wardrobe": "超大蓬松羊毛睡衣套装（连体衣或两件套），淡桃色，带动物耳朵图案（例如兔子）的兜帽",
+"accessories": "抱着一只大大的、可爱的泰迪熊毛绒玩具，穿着毛茸茸的袜子",
+"pose": "坐在地板上，膝盖拉到胸前，抱着泰迪熊，带耳朵的帽子向上",
+"expression": "柔软、困倦的嘟嘴、‘浮肿’的脸颊、半微笑、散发着舒适感",
+"gaze": "直视镜头，柔和而诱人",
+"body_notes": "逼真的成人比例；自然的皮肤纹理，放松的姿势"
+}，
+“相机”： {
+“传感器”：“全帧”，
+"焦距毫米": 50,
+“aperture_f”：1.8，
+“shutter_s”：0.0125，
+"iso": 640,
+"白平衡k": 4800,
+“距离米”：2.5，
+“相机高度”：0.8，
+"framing": "中景，从头到膝盖，突出毛绒玩具和睡衣",
+“focus”：“eye_detect_AF 在最近的眼睛上”
+}，
+“灯光”： {
+"key": "附近灯光发出的柔和、温暖的光线（画面外），模拟夜晚",
+"fill": "来自仙女灯的环境光，创造出小的散景高光",
+"hair": "仙女灯在头发上散发出微妙的光芒",
+"catchlights": "来自仙女灯的多个小而温暖的眼神光",
+“注释”：“温暖、亲密、非常柔软、‘黄金时段​​’室内感觉”
+}，
+“颜色等级”：{
+"style": "舒适可爱，柔和迷人",
+"palette": "淡桃色、薰衣草色、暖色乳霜；容光焕发的肌肤",
+"contrast": "低，梦幻，略带朦胧",
+“饱和度”：“中等”
+}，
+“化妆品”： {
+"eyes": "极简主义的‘素颜’妆容，略微晕染的柔和棕色眼线笔",
+“脸颊”：“泛着粉红色的腮红，仿佛温暖”，
+"lips": "水润自然的粉色唇彩"
+}，
+“后处理”：{
+"retouch": "非常轻微的皮肤柔化，维持毛孔",
+“清晰度”：“眼睛和毛绒玩具纹理的选择性清晰度”，
+"dodge_burn": "在脸颊和鼻梁上轻轻减淡",
+"vignette": "柔和、温暖的晕影来吸引焦点"
+}，
+“艺术指导”：{
+"mood": "舒适、困倦、可爱、亲密",
+"keywords": ["睡衣", "毛绒玩具", "仙女灯", "舒适", "动物耳朵"]
+}，
+"negative_prompts": [
+“nsfw”，
+“未成年的样子”，
+“文字或徽标”，
+“塑料娃娃皮肤”，
+“弯曲的手或多余的手指”，
+“畸形肢体”，
+“明亮的日光”，
+“清晰的阴影”，
+“杂乱的房间”
+]
+}
+```
+
+<a id="prompt-385"></a>
+## 案例 385：一张极具戏剧张力的黑白特写肖像 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1983347050306523506))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/385.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张极具戏剧张力的黑白特写肖像">
+</div>
+
+**中文提示词：**
+```
+一张极具戏剧张力的黑白特写肖像，展现了一位英俊的年轻东亚男性。他的头发微湿，凌乱地贴在额头和脸颊上，脸颊上挂着几颗水珠。他眼神迷离，嘴唇微张，表情中带着一丝脆弱和诱惑。他穿着一件被水浸湿的黑色T恤，贴合在肩膀上。强烈的侧光照亮了他脸上的水珠和湿润的皮肤，形成鲜明的高光，与深邃的阴影形成强烈对比。极简的深色背景，照片极具电影氛围，高细节，胶片颗粒感重，传达出一种神秘而充满张力的情绪。
+```
+
+<a id="prompt-384"></a>
+## 案例 384：人和汽车的三视图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1983425570596892858))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/384.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人和汽车的三视图">
+</div>
+
+**提示词：**
+```
+A cinematic automotive photoshoot of me, keeping my real face unchanged. The scene is composed of three perspectives as a :
+
+1. Top Panel: Interior close-up: I am seated inside the car, wearing a fitted black polo shirt, shown in the side mirror reflection. My face is serious and focused, my gaze directed forward with determination. The angle captures only side view part of my profile, framed cleanly within the mirror, emphasizing intensity and precision.
+
+2.Middle Panel: I am standing confidently next to a sleek black Ford Mustang. My posture is relaxed but strong: both arms are crossed over my chest in a confident manner, while my left leg is straight and my right leg bent slightly at the knee, with the foot leaning casually against the car. My gaze is directed slightly off-camera, with a calm and assertive expression. I am wearing a fitted black polo shirt with subtle detailing, slim grey jeans with a clean cut, and brown leather boots. My outfit is minimal yet stylish, emphasizing a modern masculine vibe. Pose like a pro, same face as the uploaded photo.
+
+3. Bottom Panel: Rear car shot: The camera captures the back of the Mustang, showcasing the "YOUR NAME" license plate and muscular lines of the car. The photo emphasizes the glossy texture of the vehicle and its aggressive, cinematic presence. The setting is an urban environment with modern architecture and concrete walls, giving a gritty, cinematic atmosphere. The lighting is natural but slightly diffused, highlighting both me and the polished surface of the car.
+
+The perspectives vary:
+
+- The mirror reflection close-up is shot tight with a portrait focal length (~85mm).
+
+- The exterior full-body shot is taken at eye-level with a slightly wide lens to capture both me and the car in full view.
+
+- The rear car angle uses a low perspective to emphasize power and presence.
+
+Style: Cinematic automotive editorial, urban setting, moody and stylish, professional fashion-meets- car photography, same face.
+```
 
 <a id="prompt-383"></a>
 ## 案例 383：一张超现实的微距照片 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1982774584198991988))
