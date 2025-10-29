@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 383：一张超现实的微距照片 ](#prompt-383)
+*   [案例 382：3D chibi风格乙烯基收藏品 ](#prompt-382)
+*   [案例 381：一幅奢华的高级时尚肖像 ](#prompt-381)
 *   [案例 380：卡通插图 ](#prompt-380)
 *   [案例 379：戴着报童帽身穿黑色马甲 ](#prompt-379)
 *   [案例 378：优雅姿势的最高分辨率照片 ](#prompt-378)
@@ -216,6 +219,103 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+<a id="prompt-383"></a>
+## 案例 383：一张超现实的微距照片 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1982774584198991988))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/383.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张超现实的微距照片">
+</div>
+
+**提示词：**
+```
+Create a hyper-real macro photograph of a tiny (CHARACTER) about 10–12 cm tall, gently held between a real human thumb and index finger or sitting on the fingertip. The character naturally touches the thumb for scale and holds (ACCESSORY). Studio setting with a soft grey gradient background, subtle bokeh. Skin, fabric and hair show micro-texture; add accurate contact shadows where fingers meet the character. Lighting: softbox at 45°, faint rim light on the far side; no harsh glare. Camera look: 100mm macro • f/2.8 • ISO 100 • 1/160s (shallow depth of field; eyes perfectly in focus). Hands look clean, natural anatomy, 5 fingers, realistic nails and pores. The character’s outfit is simple textured knit (dark grey) unless the identity demands otherwise; proportions and perspective must read real, not toy. Treat (CHARACTER) respectfully and keep likeness faithful if based on a real person. Composition: subject centered, from mid-torso up, with the thumb and index framing the character;
+```
+
+**中文提示词：**
+```
+创建一张超现实的微距照片，照片中一个约 10-12 厘米高的微小（角色），轻轻地放在真人的拇指和食指之间或放在指尖上。角色自然地触摸拇指以进行缩放并握住（配件）。工作室设置具有柔和的灰色渐变背景，微妙的散景。皮肤、织物和头发显示微观纹理；在手指与角色接触的地方添加准确的接触阴影。照明：45° 柔光箱，远端微弱的边缘光；无刺眼眩光。相机外观：100mm 微距 • f/2.8 • ISO 100 • 1/160s（浅景深；眼睛完美对焦）。手看起来干净，解剖自然，5 个手指，逼真的指甲和毛孔。除非身份另有要求，否则角色的服装是简单的纹理针织（深灰色）；比例和透视必须是真实的，而不是玩具。尊重地对待（角色），如果基于真人，则保持相似性。构图：以主体为中心，从躯干中部向上，用拇指和食指框住人物；
+```
+
+<a id="prompt-382"></a>
+## 案例 382：3D chibi风格乙烯基收藏品 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1982860799879114903))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/382.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D chibi风格乙烯基收藏品">
+</div>
+
+**提示词：**
+```
+A 3D chibi-style vinyl collectible figure of [CHARACTER NAME] Big head, small body, cartoon proportion, Standing inside a Youtooz-style
+packaging box with: Transparent front window
+"YOUTOOZ COLLECTIBLES" logo on the top
+Number label ([#XXX]) on the top-left
+Bottom front text: “[CHARACTER NAME]” and lower with smaller font “VINYL FIGURE”
+Cartoon 2D illustration of [CHARACTER NAME] on the side of the box ([ILLUSTRATION DESCRIPTION])
+
+Background/theme:
+[BOX COLORS + TEXTURES + ICONIC MOTIFS RELATED TO CHARACTER] 
+[Figure POSE OR GESTURE] 
+[Outfit DESCRIPTION + SIGNATURE ITEMS]
+
+Face details: The facial features (mouth/eyes/details) must be fully 3D sculpted, not flat or printed.
+Lighting: clean product photography look, minimal soft shadows
+Style: vinyl-toy aesthetic with a mix of matte + glossy accents depending on costume, Composition: 3/4 product shot view, full box visible. The entire packaging box must be fully visible inside the frame with a clean margin around all edges.
+```
+
+**中文提示词：**
+```
+3D chibi 风格乙烯基收藏品 [CHARACTER NAME] 大头，小身体，卡通比例，站在 Youtooz 风格的
+包装盒带有：透明前窗
+顶部有“YOUTOOZ COLLECTIBLES”标志
+左上角的数字标签（[#XXX]）
+底部文字：“[CHARACTER NAME]” 下方用较小的字体写着“VINYL FIGURE”
+盒子侧面的 [角色名称] 卡通 2D 插图（[插图描述]）
+
+背景/主题：
+[盒子颜色 + 纹理 + 与角色相关的标志性图案]
+[人物姿势或手势]
+[服装描述 + 标志性物品]
+
+面部细节：面部特征（嘴巴/眼睛/细节）必须完全 3D 雕刻，而不是平面或印刷的。
+灯光：干净的产品摄影外观，最小的柔和阴影
+风格：搪胶玩具美学，根据服装搭配哑光和亮光元素。构图：3/4 产品视角，完整包装盒清晰可见。整个包装盒必须在框架内完全可见，所有边缘均留有清晰的空白。
+```
+
+<a id="prompt-381"></a>
+## 案例 381：一幅奢华的高级时尚肖像 (来源 [@wanerfu](https://x.com/wanerfu/status/1983353100066009387))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/381.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅奢华的高级时尚肖像">
+</div>
+
+**中文提示词：**
+```
+一幅奢华的高级时尚肖像，[角色描述]优雅地坐在装饰华丽的大型长方形画框下边缘
+
+画框细节：
+• 巴洛克/洛可可风格长方形画框
+• 用[画框颜色和质地]绘制，与整体色调和谐
+
+环境：
+• 背景：优雅的工作室墙面，经典镶板[颜色]
+• 地板：略有反光，[地板颜色]
+
+灯光：
+• 电影式高调时尚光线
+• 主体柔和柔散光
+• 轻微轮廓分离
+
+相机：
+• 对称居中全身肖像
+• 干净的编辑时尚构图
+• 8K超清高端大片品质
+
+风格标签：单色 | 悬浮画框 | 电影工作室时尚 | 奢华编辑美学
+```
 
 <a id="prompt-380"></a>
 ## 案例 380：卡通插图 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1978164256240501226))
