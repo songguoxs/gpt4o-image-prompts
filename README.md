@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 398：超大道具的影棚拍摄照片 ](#prompt-398)
+*   [案例 397：一张抓拍的年轻女子照片 ](#prompt-397)
+*   [案例 396：创建3D推特个人资料卡片 ](#prompt-396)
 *   [案例 395：赛博美学未来社交软件界面照片 ](#prompt-395)
 *   [案例 394：和索尼克马里奥在一起合照 ](#prompt-394)
 *   [案例 393：全身写实时尚肖像照 ](#prompt-393)
@@ -232,8 +235,64 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-398"></a>
+## 案例 398：超大道具的影棚拍摄照片 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1983963917425480087))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/398.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超大道具的影棚拍摄照片">
+</div>
 
+**提示词：**
+```
+A full-body hyper-realistic studio portrait of [CHARACTER DESCRIPTION] in a [POSE TYPE] pose, sitting gracefully on a large [OBJECT] positioned [ORIENTATION: horizontal / vertical] on a smooth [BACKGROUND COLOR] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism.
+```
+
+**中文提示词：**
+```
+一张全身超写实摄影棚肖像照，[人物描述] 以[姿势类型]的姿态优雅地坐在一个大型[物体]上，该物体[方向：水平/垂直]放置在光滑的[背景颜色]地板上。物体显得尺寸较大且逼真，与人物完美融合，而非悬浮。物体表面展现出精准的纹理、反射和材质深度。姿势展现了人物与物体之间的互动——自然、时尚且富有表现力。人物姿态平衡自信，与物体的色调和风格相得益彰。背景无缝衔接，墙面和地板颜色相同，下方略浅并带有柔和的反射。灯光：干净专业的摄影棚布光——左前方柔和的主光，右侧轻柔的补光，以及用于分离主体的微妙边缘光，曝光均衡。氛围：电影般的奢华时尚大片风格，构图极简，追求照片级的真实感。
+```
+
+<a id="prompt-397"></a>
+## 案例 397：一张抓拍的年轻女子照片 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1984456357752250749))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/397.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张抓拍的年轻女子照片">
+</div>
+
+**提示词：**
+```
+A candid snapshot of a young woman with straight black hair, blunt bangs, large expressive eyes, and fair skin, standing casually in a bustling Tokyo street, wearing a low-cut crop top and high-waisted shorts, slight motion blur on the edges, natural daylight filtering through buildings, captured as if from a hidden angle with a smartphone camera.
+```
+
+**中文提示词：**
+```
+一张抓拍的年轻女子照片，她有着乌黑的直发、齐刘海、明亮的大眼睛和白皙的皮肤，随意地站在熙熙攘攘的东京街头，身穿低胸露脐上衣和高腰短裤，边缘略带动态模糊，自然光透过建筑物洒下，仿佛是用智能手机从隐蔽角度拍摄的。
+```
+
+<a id="prompt-396"></a>
+## 案例 396：创建3D推特个人资料卡片 (来源 [@shiri_shh](https://x.com/shiri_shh/status/1984196161784422790))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/396.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创建3D推特个人资料卡片">
+</div>
+
+**提示词：**
+```
+Step 1: Take a screenshot of your Twitter profile.
+Step 2: Open ChatGPT
+Step 3: Paste your screenshot and this prompt below
+
+Create a hyper-realistic 3D render of a transparent twitter profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in pink, purple, and orange gradient inspired by the twitter color palette. Display the following profile information on the card using modern, minimal sans-serif typography.
+```
+
+**中文提示词：**
+```
+第1步：截取您的 Twitter 个人资料屏幕截图。
+第2步：打开 ChatGPT
+第3步：粘贴您的屏幕截图和以下提示
+
+制作一张超逼真的透明推特个人资料卡的3D渲染图，设计灵感源自未来主义的玻璃身份识别卡，可轻柔地夹在两指之间。卡片应为圆角矩形，材质为透明光面玻璃或亚克力，边缘带有粉色、紫色和橙色渐变的霓虹灯效果，灵感来自推特的配色方案。使用现代简约的无衬线字体在卡片上展示以下个人资料信息。
+```
 
 <a id="prompt-395"></a>
 ## 案例 395：赛博美学未来社交软件界面照片 (来源 [@dotey](https://x.com/dotey/status/1983941652730278148))
