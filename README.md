@@ -33,7 +33,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
-*   [案例 400：一张抓拍的年轻女子照片 ](#prompt-400)
+*   [案例 400：一张抓拍的年轻女子山间徒步照片 ](#prompt-400)
 *   [案例 399：年轻的东亚女性K-Pop偶像风格 ](#prompt-399)
 *   [案例 398：超大道具的影棚拍摄照片 ](#prompt-398)
 *   [案例 397：一张抓拍的年轻女子照片 ](#prompt-397)
@@ -238,20 +238,20 @@
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
 <a id="prompt-400"></a>
-## 案例 400：一张抓拍的年轻女子照片 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1984456357752250749))
+## 案例 400：一张抓拍的年轻女子山间徒步照片 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1984610333831414061))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/400.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张抓拍的年轻女子照片">
+<img src="./images/400.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张抓拍的年轻女子山间徒步照片">
 </div>
 
 **提示词：**
 ```
-A candid snapshot of a young woman with straight black hair, blunt bangs, large expressive eyes, and fair skin, standing casually in a bustling Tokyo street, wearing a low-cut crop top and high-waisted shorts, slight motion blur on the edges, natural daylight filtering through buildings, captured as if from a hidden angle with a smartphone camera.
+A natural grab shot of an alluring day-style woman hiking in the mountains, ponytail with bangs, flushed cheeks from exertion, in a sports bra top and leggings, pausing to look at the view, misty background with slight fog, captured mid-step for dynamic feel.
 ```
 
 **中文提示词：**
 ```
-一张抓拍的年轻女子照片，她有着乌黑的直发、齐刘海、明亮的大眼睛和白皙的皮肤，随意地站在熙熙攘攘的东京街头，身穿低胸露脐上衣和高腰短裤，边缘略带动态模糊，自然光透过建筑物洒下，仿佛是用智能手机从隐蔽角度拍摄的。
+一张自然抓拍的照片，展现了一位迷人的日间风格女性在山间徒步。她梳着带刘海的马尾辫，因运动而双颊泛红，穿着运动内衣和紧身裤，正停下来欣赏风景。背景薄雾朦胧，照片捕捉到她迈步的瞬间，营造出动态感。
 ```
 
 <a id="prompt-399"></a>
