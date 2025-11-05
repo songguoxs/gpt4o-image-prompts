@@ -33,6 +33,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 406：一幅超写实全身肖像与路飞互动 ](#prompt-406)
+*   [案例 405：超逼真全身肖像与角色互动 ](#prompt-405)
+*   [案例 404：小巧可爱的等距视角 ](#prompt-404)
+*   [案例 403：一幅超写实细节丰富的水下特写肖像 ](#prompt-403)
+*   [案例 402：一位中年男子数字漫画 ](#prompt-402)
+*   [案例 401：年轻女子身穿深色连帽衫的特写肖像 ](#prompt-401)
 *   [案例 400：一张抓拍的年轻女子山间徒步照片 ](#prompt-400)
 *   [案例 399：年轻的东亚女性K-Pop偶像风格 ](#prompt-399)
 *   [案例 398：超大道具的影棚拍摄照片 ](#prompt-398)
@@ -236,6 +242,222 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-406"></a>
+## 案例 406：一幅超写实全身肖像与路飞互动 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1985805353901310327))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/406.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实全身肖像与路飞互动">
+</div>
+
+**提示词：**
+```
+Ultra-realistic full-body portrait of the attached image. The person is interacting with Monkey D. Luffy in a front-facing pose, both standing side by side, smiling directly at the camera. Their body language is friendly and natural — Luffy’s arm rests around the person’s shoulder, while both share a joyful, relaxed laugh. Studio or neutral environment with soft cinematic lighting and a warm beige-to-burgundy gradient background. The person wears casual modern clothes: beige T-shirt, navy shorts, and white sneakers, while Luffy retains his original look — straw hat, red vest, blue shorts, yellow sash, and sandals. Expression and mood: happy, authentic, full of energy and camaraderie, captured in photorealistic textures, realistic lighting, and cinematic composition with high-fashion editorial quality.
+```
+
+**中文提示词：**
+```
+附图为一幅超写实全身肖像。图中人物与蒙奇·D·路飞正面互动，两人并肩而立，面带微笑地直视镜头。他们的肢体语言友好自然——路飞的手臂搭在人物的肩上，两人开怀大笑，轻松自在。拍摄环境为影棚或中性光线，柔和的电影级灯光，背景采用温暖的米色至酒红色渐变。人物身着休闲现代服饰：米色T恤、藏蓝色短裤和白色运动鞋，而路飞则保持着他标志性的造型——草帽、红色马甲、蓝色短裤、黄色腰带和凉鞋。人物的表情和情绪：快乐、真实、充满活力和友谊，以逼真的纹理、真实的灯光和电影级的构图捕捉，呈现出高级时尚杂志的品质。
+```
+
+<a id="prompt-405"></a>
+## 案例 405：超逼真全身肖像与角色互动 (来源 [@iUllr](https://x.com/iUllr/status/1985631195724431694))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/405.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真全身肖像与角色互动">
+</div>
+
+**提示词：**
+```
+Ultra-realistic full-body portrait of the attached image.
+The person is interacting with {fictional character} in a {pose/interaction type}.  
+Studio or neutral environment, soft cinematic lighting, {optional color palette}.  
+The person wears {clothing style and colors}, The fictional character retains its original appearance, including skin color, clothing, and signature features.  
+Expression and mood: {emotional tone}, captured in photorealistic textures, realistic lighting, cinematic composition, high fashion editorial quality.
+```
+
+**中文提示词：**
+```
+附图的超逼真全身肖像。
+该人正在以{姿势/互动类型}与{虚构角色}互动。
+摄影棚或中性环境，柔和的电影灯光，{可选调色板}。
+该人物穿着{服装款式和颜色}，虚构人物保留其原有的外貌，包括肤色、服装和标志性特征。
+表情和mood: {情感基调}，以逼真的纹理、逼真的光照、电影般的构图、高级时尚编辑品质捕捉。
+```
+
+<a id="prompt-404"></a>
+## 案例 404：小巧可爱的等距视角 (来源 [@AmirMushich](https://x.com/AmirMushich/status/1985740675871056194))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/404.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-小巧可爱的等距视角">
+</div>
+
+**提示词：**
+```
+Tiny cute isometric [CHARACTER or PRODUCT], soft lighting, soft pastel colors, 3d icon clay render, substance 3d, pastel background
+```
+
+**中文提示词：**
+```
+小巧可爱的等距视角[角色或产品]，柔和的光线，柔和的粉彩色调，3D图标粘土渲染，Substance 3D，粉彩背景
+```
+
+<a id="prompt-403"></a>
+## 案例 403：一幅超写实细节丰富的水下特写肖像 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1985960595422867603))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/403.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实细节丰富的水下特写肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "description": "Hyper-realistic, ultra-detailed close-up portrait of the left half of a young woman’s face submerged in water. One eye is in sharp focus. Light rays create caustic reflections and fluid patterns across her skin. Tiny suspended water droplets and bubbles add depth.",
+    "details": {
+      "subject": "Young woman's face, fair skin, focused eye (left)",
+      "pose": "Submerged in water",
+      "lighting": "Cinematic soft shadows with crisp highlights, light rays creating caustic patterns",
+      "attire": "Not visible, implied underwater setting",
+      "hair": "Dark hair visible on the right side, extending into the water",
+      "expression": "Calm and serene, with an intense gaze from the focused eye",
+      "mood": "Surreal, dreamlike, ethereal, and serene"
+    }
+  },
+  "image_settings": {
+    "size": "original",
+    "quantity": 1,
+    "style": "Underwater macro portrait photography",
+    "composition": "Close-up, with a shallow depth of field and an underwater macro perspective, emphasizing textures and light play. Cropped to show only the left half of the face.",
+    "aspect_ratio": "3:4"
+  },
+  "output_format": {
+    "type": "image",
+    "expected_result": "A visually striking and highly detailed underwater portrait, showcasing the interplay of light, water, and skin textures."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+描述：一幅超写实、细节丰富的特写肖像，描绘了一位年轻女子浸在水中的左半边脸。她的一只眼睛清晰可见。光线在她皮肤上形成折射和流动的纹理。悬浮的细小水滴和气泡增添了画面的深度。
+“细节”： {
+“主题”：“年轻女子的脸，白皙的皮肤，专注的眼神（左）”
+“姿势”：“浸在水中”，
+“照明”：“电影般的柔和阴影，清晰的高光，光线营造出焦散图案”，
+“服装”：“不可见，暗示水下环境”，
+“头发”：“右侧可见深色头发，延伸到水中”，
+“表情”：“平静而安详，目光专注而锐利”，
+“氛围”：“超现实的、梦幻的、空灵的、宁静的”
+}
+},
+"image_settings": {
+"尺寸": "原尺寸",
+“数量”：1，
+“风格”：“水下微距人像摄影”，
+“构图”：“特写镜头，采用浅景深和水下微距视角，强调纹理和光影效果。裁剪后仅显示脸部的左半部分。”
+"aspect_ratio": "3:4"
+},
+"output_format": {
+"type": "image",
+"预期结果": "一幅视觉效果惊艳、细节丰富的水下肖像，展现了光线、水和皮肤纹理之间的相互作用。"
+}
+}
+```
+
+<a id="prompt-402"></a>
+## 案例 402：一位中年男子数字漫画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1985908915427758305))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/402.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位中年男子数字漫画">
+</div>
+
+**提示词：**
+```
+Create a realistic digital caricature painting of a middle-aged man (attached photo) with a slightly oversized head, exuding charm and quiet confidence. He is dressed in a modern, stylish bomber jacket made of dark olive nylon with subtle reflective highlights that give it a sleek and fashionable look. Underneath, he wears a warm-toned flannel shirt slightly visible at the collar and cuffs, paired with khaki cargo pants and black sneakersthat ground the outfit with a casual yet confident energy. Completing his look, he wears a brown flat cap tilted slightly forward — a small detail that adds personality and flair.
+
+The man is portrayed in a mid-shot, adjusting his glasses with one hand while gazing directly at the viewer with a self-assured and composed expression. His head is slightly larger than normal, emphasizing his thoughtful character and giving the image a light caricature charm without losing realism.The facial expression radiates intelligence, humor, and approachability.
+
+The lighting is warm and soft, like that of a late afternoon sun filtering through a studio setup. Smooth gradual shadows enhance the contours of his face, while subtle highlights accentuate the texture of his bomber jacket and the reflection in his glasses. His skin tones glow naturally under the warm light, creating a pleasant sense of depth and realism.The background is a gradient of warm brown and beige hues, blending smoothly from light to dark. This background is simple yet elegant, allowing the subject to stand out while maintaining a professional, editorial quality.
+
+The art style should combine semi-realistic digital painting with the texture of oil brushstrokes, delivering a balanced fusion of realism and stylized charm.Clean outlines, smooth blending, and controlled highlights give the impression of a modern portrait illustration—detailed, expressive, and visually captivating.
+```
+
+**中文提示词：**
+```
+请创作一幅逼真的数字漫画，描绘一位中年男子（附图），他头部略大，散发着魅力和沉稳的自信。他身着一件现代时尚的深橄榄色尼龙飞行员夹克，夹克上点缀着低调的反光元素，更添几分精致格调。夹克内搭一件暖色调法兰绒衬衫，领口和袖口隐约可见，下身搭配卡其色工装裤和黑色运动鞋，整体造型休闲又不失自信。最后，他头戴一顶棕色鸭舌帽，帽檐略微前倾——这个小细节为他增添了个性和魅力。
+
+画面采用中景拍摄，男子一手扶着眼镜，一手直视镜头，神态自信沉稳。他的头部略大于常人，突显了他深思熟虑的性格，赋予画面一种略带漫画式的魅力，却又不失写实感。面部表情散发着智慧、幽默和亲切的气息。
+
+光线温暖柔和，如同午后阳光透过摄影棚洒下的光芒。平滑的阴影勾勒出他面部的轮廓，而微妙的高光则突显了他飞行员夹克的质感和眼镜上的反光。在暖光的映衬下，他的肤色自然透亮，营造出令人愉悦的立体感和真实感。背景由温暖的棕色和米色渐变而成，由浅至深自然过渡。这种背景简洁而优雅，既突出了拍摄对象，又保持了专业、时尚的质感。
+
+艺术风格应结合半写实的数字绘画和油画笔触的质感，呈现出写实与风格化魅力的平衡融合。清晰的轮廓、流畅的过渡和可控的高光，给人以现代肖像插画的印象——细节丰富、富有表现力且引人入胜。
+```
+
+<a id="prompt-401"></a>
+## 案例 401：年轻女子身穿深色连帽衫的特写肖像 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1986010537310961720))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/401.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子身穿深色连帽衫的特写肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "description": "A close-up portrait of a young woman in a dark hooded sweatshirt, with green digital code reflected on her face from a computer screen, set in a dark, urban environment with blurred city lights in the background.",
+    "details": {
+      "subject": "Young woman with a serious expression, olive skin, and visible facial features despite the reflections.",
+      "pose": "Facing directly towards the viewer, looking intently at the camera.",
+      "lighting": "Dramatic, low-key lighting, primarily from the green glow of a computer monitor reflecting on her face and some blurred, warm streetlights in the distant background.",
+      "attire": "Dark, large hooded sweatshirt, with the hood pulled up to cover her head, creating a sense of anonymity.",
+      "hair": "Long, dark hair partially visible beneath the hood.",
+      "expression": "Intense, focused, and slightly wary gaze, conveying a sense of concentration and maybe isolation.",
+      "mood": "Mysterious, intense, technologically-focused, reminiscent of a hacker or surveillance theme."
+    }
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quantity": 1,
+    "style": "Cinematic, dark and moody, high contrast with strong shadows and highlights from the screen, grainy texture.",
+    "composition": "Medium close-up, with the computer screen visible in the foreground (partially obscured) and blurred streetlights in the background through a window."
+  },
+  "output_format": {
+    "type": "image",
+    "expected_result": "A powerful and atmospheric image conveying themes of technology, surveillance, and urban mystery."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+描述：一位年轻女子身穿深色连帽衫的特写肖像，电脑屏幕上的绿色数字代码反射在她的脸上，背景是昏暗的城市灯光，以及模糊的城市灯光。
+“细节”： {
+“主体”：“一位表情严肃、肤色呈橄榄色、面部特征清晰可见的年轻女子，尽管有反光，但她的面部特征依然清晰可见。”
+“姿势”：“正对观众，目光专注地注视镜头。”
+“灯光”：“戏剧性的低调灯光，主要来自电脑显示器反射在她脸上的绿色光晕，以及远处背景中模糊的暖色调路灯。”
+“着装”：“深色大号连帽衫，帽子拉起来遮住头，给人一种匿名感。”
+“头发”：“长长的黑发从兜帽下隐约可见。”
+“表情”：“目光专注、凝重，略带警惕，传达出一种专注和或许是孤寂的感觉。”
+“氛围”：“神秘、紧张、以科技为中心，让人联想到黑客或监控主题。”
+}
+},
+"image_settings": {
+"size": "1024x1024",
+“数量”：1，
+“风格”：“电影感十足，阴暗忧郁，高对比度，屏幕阴影和高光强烈，颗粒感强。”
+“构图”：“中近景，前景可见电脑屏幕（部分被遮挡），背景中透过窗户可以看到模糊的路灯。”
+},
+"output_format": {
+"type": "image",
+"expected_result": "一幅充满力量和氛围的画面，传达了科技、监控和都市神秘的主题。"
+}
+}
+```
 
 <a id="prompt-400"></a>
 ## 案例 400：一张抓拍的年轻女子山间徒步照片 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1984610333831414061))
