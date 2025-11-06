@@ -33,6 +33,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 415：九个不同服装姿势和表情的Q版贴纸 ](#prompt-415)
+*   [案例 414：干净柔和的米色工作室中的3x3照片 ](#prompt-414)
+*   [案例 413：铅笔风格的大头漫画 ](#prompt-413)
+*   [案例 412：3D漫画肖像 ](#prompt-412)
+*   [案例 411：一位女子从智能手机屏幕中走出 ](#prompt-411)
+*   [案例 410：被几个动物环绕的自拍风格照片 ](#prompt-410)
+*   [案例 409：大型胶囊形容器的品牌3D渲染图 ](#prompt-409)
+*   [案例 408：角色变成3D收藏级Q版人偶 ](#prompt-408)
+*   [案例 407：将明星变成趣味十足的3D卡通肖像 ](#prompt-407)
 *   [案例 406：一幅超写实全身肖像与路飞互动 ](#prompt-406)
 *   [案例 405：超逼真全身肖像与角色互动 ](#prompt-405)
 *   [案例 404：小巧可爱的等距视角 ](#prompt-404)
@@ -242,6 +251,201 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-415"></a>
+## 案例 415：九个不同服装姿势和表情的Q版贴纸 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1985738257708302430))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/415.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-九个不同服装姿势和表情的Q版贴纸">
+</div>
+
+**提示词：**
+```
+Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with phrases like "Goodmorning", "Lunch kana", "Huh", "Hugs", "Thank you", "Goodnight", "You're the best" "miss you" "mwah 😙" "good job" and "Ingat ka". Set on a soft white-to-pastel blue gradient background for a fun, positive vibe.
+```
+
+**中文提示词：**
+```
+制作一个 10:16 的 3D 可爱画布，包含九个不同服装、姿势和表情的 Q 版贴纸。请参考附图。每个贴纸都有白色边框，并包含一个对话框，上面写着“早上好”、“午餐时间”、“嗯”、“抱抱”、“谢谢”、“晚安”、“你最棒了”、“想你”、“么😙 ”、“做得好”和“Ingat ka”（注意安全）。背景采用柔和的白色到淡蓝色渐变，营造轻松愉快的氛围。
+```
+
+<a id="prompt-414"></a>
+## 案例 414：干净柔和的米色工作室中的3x3照片 (来源 [@miilesus](https://x.com/miilesus/status/1981800648036561146))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/414.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-干净柔和的米色工作室中的3x3照片">
+</div>
+
+**提示词：**
+```
+Editorial 3x3 photo grid in a clean soft beige studio. Character (matches reference 100%) wearing lightweight dark navy shirt, ivory trousers, barefoot for raw simplicity. Lighting: large diffused key light directly front-right, silver reflector left, subtle rim from top. Shots to include: 1. extreme close-up of lips + cheekbone with blurred hand partially covering (85mm, f/1.8, razor-thin DOF); 2. tight crop on eyes looking into lens with reflection of light strip visible (85mm, f/2.0); 3. black & white close portrait resting chin on fist, face filling frame (50mm, f/2.2); 4. over-shoulder shot, blurred foreground fabric curtain framing half face (85mm, f/2.0); 5. very close frontal with hands overlapping face, light streak across eyes (50mm, f/2.5); 6. tight angled portrait showing hair falling into eyes, soft-focus background (85mm, f/2.2); 7. crop of hands touching jawline, eyes cropped out (50mm, f/3.2, detail-focused); 8. half-body seated sideways on low cube, head turned sharply away, blurred foreground (35mm, f/ 4.5); 9. intense close-up of profile with single tear-like water droplet, cinematic light slice across (85mm, f/ 1.9). Angles: mostly tight headshots with slight high/low tilts, maintaining variation. Capture RAW, professional muted grade, smooth tonal contrast, subtle cinematic grain. Mood: intimate, introspective, character-led editorial minimalism with delicate use of fabric as prop.
+```
+
+**中文提示词：**
+```
+干净柔和的米色工作室中的编辑 3x3 照片网格。人物（与参考 100 %)相匹配）身穿轻薄的深蓝色海军蓝衬衫、象牙色裤子，赤脚，呈现原始简约风​​格。灯光：右前方直接有大型漫射主光，左侧有银色反光板，顶部有微妙的边缘。拍摄内容包括：1. 嘴唇 + 颧骨的极端特写，手模糊部分遮盖（85mm，f/1.8，极薄景深）；2. 紧密裁剪眼睛，看着镜头，可见光带反射（85mm，f/2。 0) ；3. 黑白近距离肖像，下巴靠在拳头上，脸部充满画面（50mm，f/2.2）；4. 过肩镜头，模糊的前景织物窗帘框住半张脸（85mm，f/2。 0) ；5. 非常近的正面，双手重叠在脸上，光线穿过眼睛（50mm，f/2.5）；6. 紧密角度的肖像，显示头发落入眼睛，柔焦背景（85mm，f/2.2）；7. 裁剪至触及下颌线的手，眼睛被裁剪掉（50mm，f/3.2，注重细节）；8. 半身侧坐在矮柜上，头部急剧转向别处，前景模糊（35mm，f/4.5）；9. 侧面特写，一滴泪珠状水滴，电影般的光片划过（85mm，f/1.9）。角度：大多为近距离头像，略微高/低倾斜，保持变化。拍摄 RAW 格式，专业柔和等级，平滑的色调对比度，微妙的电影颗粒感。氛围：亲密、内省、以人物为主导的编辑极简主义，巧妙地使用织物作为道具。
+```
+
+<a id="prompt-413"></a>
+## 案例 413：铅笔风格的大头漫画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984828527687188684))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/413.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-铅笔风格的大头漫画">
+</div>
+
+**提示词：**
+```
+{
+"image_edit": {
+
+"subject": "uploaded_image",
+
+"Goal":"proportional composition of The whole body bottom to head is a caricature with the face and head exaggerated in the extremely shape of the eyes, nose, lips.",
+
+"style": "textured paper", "refine details, retain original charcoal structure and strong brushes pencil, aesthetic composition and expression, pure black, brushes stroke"
+
+{"style": "pencil brush stroke", "no types text", "position":" stylized near shoulder, aesthetic replacement, no right_bottom"
+
+},
+
+{
+
+"output":
+
+"a big head caricature." Ensure to create an image with a noticeably exaggerated head size for the caricature effect you desire, while retaining the charcoal and brush stroke style"
+
+}
+
+}
+```
+
+**中文提示词：**
+```
+{
+"image_edit": {
+
+主题：上传的图片，
+
+“目标”：“从下到头，全身比例构成一幅漫画，脸部和头部被极度夸张，眼睛、鼻子、嘴唇的形状都极度突出。”
+
+“风格”：“纹理纸”，“精细刻画细节，保留原有炭笔结构和强劲的笔触，美学构图和表现力，纯黑，笔触”
+
+{"style": "铅笔笔触", "无文字", "position":"肩部附近风格化，美学替换，无右下角"
+
+},
+
+{
+
+“输出”：
+
+“一幅大头漫画”。为了达到你想要的漫画效果，务必创作一幅头部明显夸张的图像，同时保留炭笔和笔触风格。
+
+}
+
+}
+```
+
+<a id="prompt-412"></a>
+## 案例 412：3D漫画肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984518065619681365))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/412.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D漫画肖像">
+</div>
+
+**提示词：**
+```
+3D caricature portrait of [SUBJECT], Pixar/DreamWorks style — expressive eyes, slightly oversized head, exaggerated ears & nose, realistic skin shading with soft subsurface scattering, detailed hair, gentle warm smile, smooth polished materials, subtle fabric texture, soft ambient lighting, warm reddish-orange gradient background — balanced realism and stylized charm.
+```
+
+**中文提示词：**
+```
+[SUBJECT]的3D漫画肖像，皮克斯/梦工厂风格——富有表现力的眼睛，略微过大的头部，夸张的耳朵和鼻子，逼真的皮肤阴影和柔和的次表面散射，细致的头发，温柔温暖的微笑，光滑的抛光材质，微妙的织物纹理，柔和的环境光，温暖的红橙色渐变背景——平衡的现实主义和风格化的魅力。
+```
+
+<a id="prompt-411"></a>
+## 案例 411：一位女子从智能手机屏幕中走出 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984477243968770374))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/411.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位女子从智能手机屏幕中走出">
+</div>
+
+**提示词：**
+```
+A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen showing the Twitter profile [Shreyayadav___]. She’s captured mid-step, confidently emerging from the digital world into reality as the phone glass shatters with glowing fragments. Floating social media icons (hearts, comments, follows) surround her. She wears trendy streetwear with lifelike fabric and lighting reflections. The minimalist gradient studio background adds 3D depth.
+```
+
+**中文提示词：**
+```
+一张超写实的电影感照片，一位女子从智能手机屏幕中走出，屏幕上显示着她的推特个人资料[Shreyayadav ___ ]。照片捕捉到她迈步的瞬间，自信地从数字世界走向现实世界，手机屏幕破碎，碎片闪耀着光芒。漂浮的社交媒体图标（爱心、评论、关注）环绕着她。她身着时尚街头服饰，面料逼真，光线反射效果极佳。极简的渐变摄影棚背景增添了立体感。
+```
+
+<a id="prompt-410"></a>
+## 案例 410：被几个动物环绕的自拍风格照片 (来源 [@HustleXR](https://x.com/HustleXR/status/1984465896895889891))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/410.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-被几个动物环绕的自拍风格照片">
+</div>
+
+**提示词：**
+```
+A selfie-style shot of a smiling young man with dark hair and a beard, wearing a red and black plaid shirt. He is surrounded by several animated movie monsters, including Count Dracula, a mummy, a large blue furry monster resembling Sulley from Monsters Inc., a werewolf, and a smaller blue vampire bat character. They are all smiling and posing for the selfie. The background is a grand hall with stained-glass windows and chandeliers, resembling a gothic castle or church interior. The lighting is warm and inviting.
+```
+
+**中文提示词：**
+```
+一张自拍风格的照片，照片中一位笑容灿烂的年轻男子，留着深色头发和胡须，身穿红黑格子衬衫。他被几个动画电影中的怪物环绕，包括德古拉伯爵、木乃伊、一只体型庞大的蓝色毛茸茸怪物（类似《怪兽公司》里的苏利文）、狼人，以及一只体型较小的蓝色吸血蝙蝠。它们都面带微笑，摆着姿势自拍。背景是一个宏伟的大厅，配有彩色玻璃窗和枝形吊灯，宛如哥特式城堡或教堂内部。灯光温暖而温馨。
+```
+
+<a id="prompt-409"></a>
+## 案例 409：大型胶囊形容器的品牌3D渲染图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1984265548251980140))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/409.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大型胶囊形容器的品牌3D渲染图">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic 3D render of a large capsule-shaped container. The top half is solid and glossy in the brand’s signature color, featuring the official [BRAND] logo prominently. The bottom half is transparent, revealing multiple miniature famous products of this brand, [PRODUCT], neatly packed inside. Set against a dark background with cinematic lighting and soft reflections to create a premium, surreal advertising aesthetic. Ultra-detailed, professional product render style. 1080x1080 dimension
+```
+
+**中文提示词：**
+```
+制作一个超逼真的大型胶囊形容器的3D渲染图。上半部分为品牌标志性颜色的实心亮面材质，并醒目地印有[品牌]官方标识。下半部分为透明材质，展现出该品牌众多知名产品的微缩模型[产品]，整齐地包装在内。以深色背景搭配电影级灯光和柔和的反射效果，营造出高端超现实的广告美感。采用超精细的专业产品渲染风格。尺寸为1080x1080。
+```
+
+<a id="prompt-408"></a>
+## 案例 408：角色变成3D收藏级Q版人偶 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/1984585442487124448))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/408.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-角色变成3D收藏级Q版人偶">
+</div>
+
+**提示词：**
+```
+3D collectible chibi-style figure of [insert celebrity or character name], ultra-detailed, stylized proportions (large head, small body), expressive face, cinematic lighting, soft shadows, Pixar-quality realism, glossy vinyl toy texture, standing pose, high detail clothing, character-accurate outfit, professional product photography, rendered in Unreal Engine 5, on a minimal studio background, toy display aesthetic, 8K ultra realistic
+```
+
+**中文提示词：**
+```
+3D 收藏级 Q 版人偶，原型为[插入名人或角色名称]，细节丰富，比例协调（大头小身），面部表情生动，采用电影级光影效果，阴影柔和，呈现皮克斯级别的逼真度，触感光滑如乙烯基玩具，采用站姿，服装细节丰富，还原角色造型，专业产品摄影，使用虚幻引擎 5 渲染，背景简洁，呈现玩具展示美感，8K 超高清画质。
+```
+
+<a id="prompt-407"></a>
+## 案例 407：将明星变成趣味十足的3D卡通肖像 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/1985525539445297574))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/407.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将明星变成趣味十足的3D卡通肖像">
+</div>
+
+**提示词：**
+```
+Full-body 3D caricature of [Character Name] in Pixar/DreamWorks style, featuring expressive large eyes, slightly oversized head, and subtly exaggerated facial features. Realistic skin with soft subsurface scattering, detailed hair, and a gentle warm smile. Smooth polished surfaces with subtle fabric texture on clothing. Dynamic pose showing personality, with full body visible and balanced proportions. Soft ambient lighting, warm reddish-orange gradient background. Cinematic quality, high detail, vibrant yet natural colors, stylized charm with balanced realism.
+```
+
+**中文提示词：**
+```
+以皮克斯/梦工厂风格绘制的[角色名称]全身3D卡通形象，拥有富有表现力的大眼睛、略微夸张的头部和略微夸张的面部特征。逼真的肌肤呈现出柔和的次表面散射效果，头发细节丰富，笑容温暖而亲切。光滑的表面处理，服装上的织物纹理细腻。动态的姿态展现出鲜明的个性，全身清晰可见，比例均衡。柔和的环境光，温暖的红橙色渐变背景。电影级的品质，高度的细节刻画，鲜艳而自然的色彩，风格化的魅力与恰到好处的写实感完美融合。
+```
 
 <a id="prompt-406"></a>
 ## 案例 406：一幅超写实全身肖像与路飞互动 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1985805353901310327))
