@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 425：穿着充气羽绒服的鸟儿 ](#prompt-425)
+*   [案例 424：一个可爱的拟人化动物 ](#prompt-424)
+*   [案例 423：一幅逼真的全身肖像 ](#prompt-423)
+*   [案例 422：逼真的高清全身漫画人物 ](#prompt-422)
+*   [案例 421：超逼真的野生动物摄影场景 ](#prompt-421)
 *   [案例 420：居家光影三联画 ](#prompt-420)
 *   [案例 419：年轻女子公交车上的窗户边 ](#prompt-419)
 *   [案例 418：将电影海报重新设计成黏土动画风格 ](#prompt-418)
@@ -256,6 +261,115 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-425"></a>
+## 案例 425：穿着充气羽绒服的鸟儿 (来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/1987864542756679921))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/425.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿着充气羽绒服的鸟儿">
+</div>
+
+**提示词：**
+```
+A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tree branch. the background is a blurred green grassland, in the style of real photography with natural lighting.
+```
+
+**中文提示词：**
+```
+一只穿着充气[彩色]羽绒服的鸟栖息在枯树枝顶上。背景是模糊的绿色草地，采用自然光拍摄的真实照片风格。
+```
+
+<a id="prompt-424"></a>
+## 案例 424：一个可爱的拟人化动物 (来源 [@azed_ai](https://x.com/azed_ai/status/1987837427348799741))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/424.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个可爱的拟人化动物">
+</div>
+
+**提示词：**
+```
+A cute anthropomorphic [subject] in triple view: front-left, front, and back. Standing upright with a plump body, expressive face, and wearing [clothing/style]. Cartoon mascot in 2D animation style, clean bold lines, flat shading with subtle gradients, soft outlines, and a light neutral background.
+```
+
+**中文提示词：**
+```
+一个可爱的拟人化[对象]，以三视图呈现：左前、正面和背面。它站立着，身体圆润，表情丰富，身着[服装/风格]。卡通吉祥物，采用二维动画风格，线条简洁有力，平涂阴影带有微妙的渐变，轮廓柔和，背景为浅色中性色。
+```
+
+<a id="prompt-423"></a>
+## 案例 423：一幅逼真的全身肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1988227330947358728))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/423.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅逼真的全身肖像">
+</div>
+
+**提示词：**
+```
+A realistic full-body portrait of a [ARTIST] in their signature style, positioned next to a giant vertical smartphone displaying a Spotify interface. The phone screen shows a music player interface featuring the song “[SONG]” with signature [COLOR] accent colors at approximately 80% opacity for a premium aesthetic effect.
+The artist wears their characteristic outfit and styling. Their pose is confident and editorial, embodying the mood and energy of the song. Expression matches their iconic persona.
+Technical specifications:
+• Plain background with subtle [COLOR] lighting accents
+• Soft studio lighting with colored gels in signature [COLOR] tones
+• 35mm or 50mm lens, f/2.2, ISO 100-160, shutter speed 1/125
+• Sharp focus on subject and phone interface
+• Editorial style consistent with premium music platform campaigns
+```
+
+**中文提示词：**
+```
+一幅[艺术家]的逼真全身肖像，采用其标志性风格，旁边是一部巨大的竖屏智能手机，屏幕上显示着Spotify界面。手机屏幕上的音乐播放器界面以歌曲“[歌曲]”为特色，并采用标志性的[颜色]强调色，透明度约为80%，以营造高级美感。
+这位艺人身着标志性的服装，摆出自信而富有时尚感的姿势，完美诠释了歌曲的情绪和能量。他们的表情也与他们标志性的形象相得益彰。
+技术规格：
+• 纯色背景，带有柔和的[颜色]灯光点缀
+• 采用柔和的影棚灯光，搭配标志性的[COLOR]色调彩色滤光片
+• 35mm 或 50mm 镜头，f/2.2 光圈，ISO 100-160，快门速度 1/125 秒
+• 清晰聚焦于主体和手机界面
+• 编辑风格与高端音乐平台推广活动保持一致
+```
+
+<a id="prompt-422"></a>
+## 案例 422：逼真的高清全身漫画人物 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1988599304991490363))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/422.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逼真的高清全身漫画人物">
+</div>
+
+**提示词：**
+```
+A realistic HD full-body caricature of [Character], with [describe exaggerated physical features — e.g., oversized head, expressive eyes, exaggerated smile, etc.], showing [emotional expression — e.g., confident smirk, wild laughter, intense focus].
+They are wearing [detailed outfit description — e.g., a tailored black suit with gold accents, flowing red cape, futuristic armor, etc.] and performing an epic action — [e.g., leaping through flames, conducting an orchestra in a storm, breaking through walls, holding lightning in hand].
+Set in [location — e.g., neon-lit city, royal palace, desert battlefield, futuristic lab, etc.], under [lighting style — e.g., cinematic golden hour, dramatic spotlight, cool moonlight glow].
+The atmosphere feels [describe mood — e.g., heroic, intense, humorous, dramatic, chaotic].
+
+In the style of caricature realism, emphasize [expression details — e.g., wrinkles, skin texture, exaggerated smile lines, hair flow, muscle tension], with cinematic lighting, sharp focus, hyper-realistic rendering, and 3D caricature proportions.
+```
+
+**中文提示词：**
+```
+逼真的高清全身漫画人物[角色]，具有[描述夸张的身体特征——例如，过大的头部、有表现力的眼睛、夸张的笑容等]，展现[情绪表达——例如，自信的微笑、狂野的笑声、专注的神情]。
+他们穿着[详细的服装描述——例如，带有金色点缀的黑色定制西装、飘逸的红色披风、未来主义盔甲等]，并进行史诗般的动作——[例如，跃过火焰、在暴风雨中指挥交响乐团、破墙而入、手持闪电]。
+场景设定在[例如，霓虹闪烁的城市、皇家宫殿、沙漠战场、未来实验室等]，采用[例如，电影般的黄金时段、戏剧性的聚光灯、清冷的月光]照明风格。
+气氛感觉[描述情绪——例如，英雄的、激烈的、幽默的、戏剧性的、混乱的]。
+
+以漫画写实风格，强调[表情细节——例如皱纹、皮肤纹理、夸张的笑纹、头发的飘动、肌肉的紧张感]，采用电影般的照明、清晰的焦点、超现实的渲染和 3D 漫画比例。
+```
+
+<a id="prompt-421"></a>
+## 案例 421：超逼真的野生动物摄影场景 (来源 [@NanoBanana_labs](https://x.com/NanoBanana_labs/status/1988840767994126797))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/421.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的野生动物摄影场景">
+</div>
+
+**提示词：**
+```
+Ultra-realistic wildlife photography scene, (use reference face from uploaded photo). A man wearing proper wildlife-safari clothing — light brown outdoor shirt, rugged cargo pants, and sturdy field boots. He is lying flat on the grassy ground, holding a professional DSLR camera with a large telephoto lens, focusing on wildlife. On his shoulder sits a playful lion cub looking into the distance. Golden hour natural light, African savannah background, cinematic depth of field, 8K detail, vibrant colors. Keep my face 100% accurate. HD quality DSLR.
+```
+
+**中文提示词：**
+```
+超逼真的野生动物摄影场景（使用上传照片中的参考人脸）。一位身着专业野生动物狩猎服的男子——浅棕色户外衬衫、结实耐用的工装裤和厚实的野外靴。他平躺在草地上，手持一台配备长焦镜头的专业单反相机，正专注于拍摄野生动物。他的肩上趴着一只活泼的小狮子，正眺望着远方。拍摄于黄金时段的自然光线下，以非洲稀树草原为背景，拥有电影级的景深，8K超高清细节，色彩鲜艳。力求100%还原我的面部特征。高清单反拍摄。
+```
 
 <a id="prompt-420"></a>
 ## 案例 420：居家光影三联画 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1987128220030992892))
