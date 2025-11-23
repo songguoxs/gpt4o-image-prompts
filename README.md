@@ -312,31 +312,6 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a id="prompt-475"></a>
 ## 案例 475：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651))
 
