@@ -33,6 +33,21 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 440：美妆检测器 ](#prompt-440)
+*   [案例 439：从图像中创建图案或分解图 ](#prompt-439)
+*   [案例 438：疯狂的程序喵 ](#prompt-438)
+*   [案例 437：飞机立体剖面信息图 ](#prompt-437)
+*   [案例 436：职业生涯历程可视化为地图 ](#prompt-436)
+*   [案例 435：穿着成名的衣服拍合照在上海江滩 ](#prompt-435)
+*   [案例 434：西游记人物坐地铁 ](#prompt-434)
+*   [案例 433：地标信息图 ](#prompt-433)
+*   [案例 432：电视屏幕内容复制到油画中 ](#prompt-432)
+*   [案例 431：权游角色拿着护照 ](#prompt-431)
+*   [案例 430：动漫与现实分割肖像 ](#prompt-430)
+*   [案例 429：长文本古诗画画 ](#prompt-429)
+*   [案例 428：幽默涂鸦风格 ](#prompt-428)
+*   [案例 427：川剧变脸解密拆解图 ](#prompt-427)
+*   [案例 426：三英飙车战吕布 ](#prompt-426)
 *   [案例 425：穿着充气羽绒服的鸟儿 ](#prompt-425)
 *   [案例 424：一个可爱的拟人化动物 ](#prompt-424)
 *   [案例 423：一幅逼真的全身肖像 ](#prompt-423)
@@ -261,6 +276,348 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-440"></a>
+## 案例 440：美妆检测器 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1992171138730885618))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/440.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美妆检测器">
+</div>
+
+**提示词：**
+```
+Use the provided portrait photo <YOUR PHOTO> as the base. 
+Do NOT change the person’s face, expression, age, skin tone or gender. Just overlay a clean, minimal infographic on top.
+Create a high-resolution vertical “FACIAL AESTHETIC REPORT” poster, studio lighting, soft beige background, premium beauty clinic style.
+The subject can be MALE or FEMALE – keep them exactly as in the original photo. 
+Add thin white lines and labels pointing to each area of the REAL face, with percentage scores based on global aesthetic ratios, symmetry and proportions (not changing the face):
+1. Eyes:
+   Label near the eyes with a line pointing to them:
+   “Eyes Beauty – 0–100%”
+   Example: “Eyes Beauty – 92%”
+2. Cheeks:
+   Label near the cheekbones:
+   “Cheeks Harmony – 0–100%”
+   Example: “Cheeks Harmony – 85%”
+3. Lips:
+   Label close to the mouth:
+   “Lips Shape – 0–100%”
+   Example: “Lips Shape – 88%”
+4. Eyebrows:
+   Label above or beside the brows:
+   “Eyebrows Design – 0–100%”
+   Example: “Eyebrows Design – 80%”
+5. Jaw & Chin:
+   Label near the jawline and chin:
+   “Jaw & Chin Definition – 0–100%”
+   Example: “Jaw & Chin Definition – 90%”
+6. Overall Facial Symmetry:
+   Label near the center of the face:
+   “Facial Symmetry – 0–100%”
+   Example: “Facial Symmetry – 89%”
+At the bottom center of the poster, add a BIG, bold number inside a circle or rectangle:
+   “OVERALL SCORE: XX%”
+This is the total facial aesthetic score from 1–100%.
+Design style:
+– clean, medical-grade, aesthetic-clinic infographic
+– modern thin sans-serif typography
+– white text and lines, subtle drop shadows
+– no logos, no extra graphics, no text other than the labels and scores above.
+```
+
+**中文提示词：**
+```
+请使用提供的肖像照片<YOUR PHOTO>作为基础。
+请勿改变人物的面部特征、表情、年龄、肤色或性别。只需在其上叠加一个简洁明了的信息图即可。
+制作一张高分辨率竖版“面部美学报告”海报，采用影棚灯光、柔和的米色背景，营造高级美容诊所风格。
+拍摄对象可以是男性或女性——请保持与原照片完全一致。
+在真实面部的每个区域添加细白线和标签，并根据整体美学比例、对称性和比例（不改变面部）给出百分比评分：
+1. 眼睛：
+在眼睛附近贴上标签，并用线指向眼睛：
+“眼部美感 – 0–100%”
+例如：“眼部美感 – 92%”
+2. 脸颊：
+颧骨附近的标签：
+“脸颊和谐度 – 0–100%”
+例如：“双颊和谐度 – 85%”
+3. 嘴唇：
+靠近嘴部的标签：
+“唇形 – 0–100%”
+例如：“唇形 – 88%”
+4. 眉毛：
+眉毛上方或旁边的标签：
+“眉形设计 – 0–100%”
+例如：“眉形设计 – 80%”
+5. 下颌和下巴：
+下颌线和下巴附近的标签：
+“下颌和下巴轮廓 – 0–100%”
+例如：“下颌和下巴轮廓 – 90%”
+6. 面部整体对称性：
+脸部中央附近的标签：
+“面部对称性 – 0–100%”
+例如：“面部对称性 – 89%”
+在海报底部中央，用圆形或矩形框出一个醒目的大号数字：
+“总分：XX%”
+这是面部美学总评分，范围从 1% 到 100%。
+设计风格：
+– 洁净、医用级、美容诊所信息图
+现代纤细无衬线字体
+白色文字和线条，淡淡的阴影
+– 除了上面的标签和分数之外，没有标志、没有额外的图形、没有文字。
+```
+
+<a id="prompt-439"></a>
+## 案例 439：从图像中创建图案或分解图 (来源 [@LinusEkenstam](https://x.com/LinusEkenstam/status/1992105428873056499))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/439.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-从图像中创建图案或分解图">
+</div>
+
+**提示词：**
+```
+Create an image of the different patterns that makes up this shoe. lay them out individually against a neutral surface
+```
+
+**中文提示词：**
+```
+请将构成这双鞋的不同图案分别绘制出来，并逐一摆放在中性表面上。
+```
+
+<a id="prompt-438"></a>
+## 案例 438：疯狂的程序喵 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991529211392323991))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/438.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂的程序喵">
+</div>
+
+**中文提示词：**
+```
+3D皮克斯风格渲染。一只戴着厚眼镜的橘猫正坐在电脑前疯狂敲代码，表情崩溃。它的电脑屏幕背后贴着一张显眼的便利贴，写着：“需求改了八百遍，甲方说还是第一版好”。桌子上散落的咖啡杯上印着：“代码写得好，头发掉得早”。背景是乱糟糟的服务器机房。
+```
+
+<a id="prompt-437"></a>
+## 案例 437：飞机立体剖面信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991542503850516544))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/437.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-飞机立体剖面信息图">
+</div>
+
+**中文提示词：**
+```
+创作一幅极具科技感的3D立体剖面信息图，旨在展示现代商用喷气式飞机的内部结构与运作原理。图面以高度还原和精细化的方式呈现，将飞机主体（包括机身、机翼、尾翼及重点展示的涡扇发动机）进行半拆解式的剖面处理，揭示其复杂的内在构造。关键零部件（例如：驾驶舱航电系统、客舱框架、货舱、燃油箱、机翼翼肋/翼梁、发动机压气机/涡轮、起落架机械装置等）被有序地拆解、悬浮排列，并用引导线连接至主体。每个主要部分都配有清晰、专业的英文标注，明确注明结构名称及其简洁的功能描述。整体布局追求极致的整洁与逻辑性，背景干净，风格宛如一张未来的交互式高级工程蓝图。
+```
+
+<a id="prompt-436"></a>
+## 案例 436：职业生涯历程可视化为地图 (来源 [@alisa_fortin](https://x.com/alisa_fortin/status/1992049339511030009))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/436.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业生涯历程可视化为地图">
+</div>
+
+**提示词：**
+```
+Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a simple prompt.
+```
+
+**中文提示词：**
+```
+这个是提示词使用方法：
+将您的 LinkedIn 个人资料下载为 PDF 文件，并附上简单的提示将其提供给 Nano Banana Pro。
+```
+
+<a id="prompt-435"></a>
+## 案例 435：穿着成名的衣服拍合照在上海江滩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991694806201037174))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/435.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿着成名的衣服拍合照在上海江滩">
+</div>
+
+**中文提示词：**
+```
+创建一个超写实、极致锐利的全彩大画幅图像，在一个宽阔的电影感画面中，展示了9位知名中国影视剧角色穿着他们的成名影视剧造型的站在一起。这张图像必须看起来像是一张完美拍摄的杂志社论封面，拥有无可挑剔的布光、逼真的皮肤纹理，以及头发、毛孔、反射和织物纤维的微观细节。
+
+总体风格与氛围
+
+照片级真实感，8K分辨率，浅景深，柔和的自然补光 + 强烈的金色边缘光（轮廓光）。
+
+高动态范围（HDR），经过校准的色彩分级。
+
+肤色完美准确，展现亚洲人真实的皮肤质感。
+
+清晰的织物细节，高级定制服装的单根线和材质纹理清晰可见。
+
+平衡的构图，微广角镜头（35mm），中心重点构图。
+
+极小的背景杂讯，但有足够的环境构建以营造真实感。
+
+环境
+
+日落时分，一个豪华的露天屋顶露台，俯瞰着现代（例如上海或香港风格的）城市天际线。
+
+元素包括：温暖的金色日落光线包裹着人物剪影；抛光的大理石地面反射着光芒。
+
+宽高比：16:9
+```
+
+<a id="prompt-434"></a>
+## 案例 434：西游记人物坐地铁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991681971529908358))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/434.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-西游记人物坐地铁">
+</div>
+
+**中文提示词：**
+```
+拥挤的北京地铁车厢，但乘客全是神话人物（孙悟空、猪八戒等）。车厢连接处的滚动屏显示红色字体：“前往西天取经的乘客请注意，前方到站：高老庄”。车门玻璃上贴着警告标示：“禁止在车厢内施展法术”。
+```
+
+<a id="prompt-433"></a>
+## 案例 433：地标信息图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1991820056377078179))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/433.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-地标信息图">
+</div>
+
+**提示词：**
+```
+Create an infographic image of [LANDMARK], combining a real photograph of the landmark with blueprint-style technical annotations and diagrams overlaid on the image. Include the title “[LANDMARK]” in a hand-drawn box in the corner. Add white chalk-style sketches showing key structural data, important measurements, material quantities, internal diagrams, load-flow arrows, cross-sections, floor plans, and notable architectural or engineering features. Style: blueprint aesthetic with white line drawings on the photograph, technical/architectural annotation style, educational infographic feel, with the real environment visible behind the annotations
+```
+
+**中文提示词：**
+```
+请制作一张[地标]的信息图，将地标的真实照片与蓝图风格的技术注释和图表叠加在图像上。在角落的手绘框中注明标题“[地标]”。添加白色粉笔风格的草图，展示关键结构数据、重要尺寸、材料用量、内部结构图、荷载流向箭头、横截面图、平面图以及显著的建筑或工程特征。风格：蓝图美学，照片上叠加白色线条图，技术/建筑注释风格，具有教育信息图的感觉，注释后方可见真实环境。
+```
+
+<a id="prompt-432"></a>
+## 案例 432：电视屏幕内容复制到油画中 (来源 [@goodside](https://x.com/goodside/status/1992038915881029641))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/432.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电视屏幕内容复制到油画中">
+</div>
+
+**提示词：**
+```
+Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
+```
+
+**中文提示词：**
+```
+1998 年的一张业余照片，一位中年艺术家正在用手将电脑屏幕上的图像复制到绷紧的画布上的油画中，但图像本身却是艺术家绘制递归图像时的照片。
+```
+
+<a id="prompt-431"></a>
+## 案例 431：权游角色拿着护照 (来源 [@ProperPrompter](https://x.com/ProperPrompter/status/1992248716443402662))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/431.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-权游角色拿着护照">
+</div>
+
+**提示词：**
+```
+change it to [an unexpected, unlikely westeros character] in a different but relevant location, with an updated passport portrait, sigil, and origin based on the character’s actual history. use real westeros locations like king’s landing instead of “kingdom of the …”
+```
+
+**中文提示词：**
+```
+将其改为[一位出人意料、不太可能出现在维斯特洛大陆的人物]，并设定一个与该人物相关的地点，同时更新护照照片、纹章和出身信息，使其符合该人物的真实历史。使用维斯特洛大陆的真实地点，例如君临城，而不是“……王国”。
+```
+
+<a id="prompt-430"></a>
+## 案例 430：动漫与现实分割肖像 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1992018970078065032))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/430.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫与现实分割肖像">
+</div>
+
+**提示词：**
+```
+A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumaki, face split vertically in half. A distinct black line separates the two art styles down the center. [LEFT HALF]: Classic anime style, bright blonde spiky hair, blue anime eye, black whisker marks, metal headband with bold lines. [RIGHT HALF]: Gritty realism, realistic dirty blonde textured hair, piercing blue human eye, whisker marks as faint scars, weathered metal texture on the headband with rust. The headband and facial features align perfectly to form a single, unified character portrait, rendered in Unreal Engine 5.
+```
+
+**中文提示词：**
+```
+一张16:9的电影式宽屏镜头，画面中央是漩涡鸣人的头像，脸部被垂直分割成两半。一条清晰的黑线将两种不同的画风从中间分开。[左半边]：经典的动漫风格，亮金色的刺猬头，蓝色的动漫眼睛，黑色的胡须印记，带有粗线条的金属头箍。[右半边]：写实风格，逼真的脏金色纹理头发，锐利的蓝色眼睛，胡须印记如同淡淡的疤痕，头箍上带有锈迹的金属质感。头箍和面部特征完美契合，构成一幅浑然一体的角色肖像，使用虚幻引擎5渲染而成。
+```
+
+<a id="prompt-429"></a>
+## 案例 429：长文本古诗画画 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991474296221495538))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/429.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-长文本古诗画画">
+</div>
+
+**中文提示词：**
+```
+根据以下古诗画一幅画，并附上原文。
+汉皇重色思倾国，御宇多年求不得。杨家有女初长成，养在深闺人未识。天生丽质难自弃，一朝选在君王侧。回眸一笑百媚生，六宫粉黛无颜色。
+春寒赐浴华清池，温泉水滑洗凝脂。侍儿扶起娇无力，始是新承恩泽时。云鬓花颜金步摇，芙蓉帐暖度春宵。春宵苦短日高起，从此君王不早朝。
+承欢侍宴无闲暇，春从春游夜专夜。后宫佳丽三千人，三千宠爱在一身。金屋妆成娇侍夜，玉楼宴罢醉和春。姊妹弟兄皆列土，可怜光彩生门户。遂令天下父母心，不重生男重生女。
+骊宫高处入青云，仙乐风飘处处闻。缓歌慢舞凝丝竹，尽日君王看不足。渔阳鼙鼓动地来，惊破霓裳羽衣曲。九重城阙烟尘生，千乘万骑西南行。
+翠华摇摇行复止，西出都门百余里。六军不发无奈何，宛转蛾眉马前死。花钿委地无人收，翠翘金雀玉搔头。君王掩面救不得，回看血泪相和流。
+黄埃散漫风萧索，云栈萦纡登剑阁。峨嵋山下少人行，旌旗无光日色薄。蜀江水碧蜀山青，圣主朝朝暮暮情。行宫见月伤心色，夜雨闻铃肠断声。
+天旋地转回龙驭，到此踌躇不能去。马嵬坡下泥土中，不见玉颜空死处。君臣相顾尽沾衣，东望都门信马归。
+归来池苑皆依旧，太液芙蓉未央柳。芙蓉如面柳如眉，对此如何不泪垂？春风桃李花开日，秋雨梧桐叶落时。西宫南内多秋草，落叶满阶红不扫。
+梨园弟子白发新，椒房阿监青娥老。夕殿萤飞思悄然，孤灯挑尽未成眠。迟迟钟鼓初长夜，耿耿星河欲曙天。鸳鸯瓦冷霜华重，翡翠衾寒谁与共？悠悠生死别经年，魂魄不曾来入梦。
+临邛道士鸿都客，能以精诚致魂魄。为感君王辗转思，遂教方士殷勤觅。排空驭气奔如电，升天入地求之遍。上穷碧落下黄泉，两处茫茫皆不见。
+忽闻海上有仙山，山在虚无缥缈间。楼阁玲珑五云起，其中绰约多仙子。中有一人字太真，雪肤花貌参差是。
+金阙西厢叩玉扃，转教小玉报双成。闻道汉家天子使，九华帐里梦魂惊。揽衣推枕起徘徊，珠箔银屏迤逦开。云鬓半偏新睡觉，花冠不整下堂来。风吹仙袂飘飖举，犹似霓裳羽衣舞。玉容寂寞泪阑干，梨花一枝春带雨。
+含情凝睇谢君王，一别音容两渺茫。昭阳殿里恩爱绝，蓬莱宫中日月长。回头下望人寰处，不见长安见尘雾。惟将旧物表深情，钿合金钗寄将去。钗留一股合一扇，钗擘黄金合分钿。但令心似金钿坚，天上人间会相见。
+临别殷勤重寄词，词中有誓两心知。七月七日长生殿，夜半无人私语时。在天愿作比翼鸟，在地愿为连理枝。天长地久有时尽，此恨绵绵无绝期。
+```
+
+<a id="prompt-428"></a>
+## 案例 428：幽默涂鸦风格 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992181199473938774))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/428.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-幽默涂鸦风格">
+</div>
+
+**提示词：**
+```
+A doodle-style [subject], naive lines, humorous shape exaggeration
+```
+
+**中文提示词：**
+```
+涂鸦风格的 [主体]，线条稚拙，造型夸张幽默
+```
+
+<a id="prompt-427"></a>
+## 案例 427：川剧变脸解密拆解图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991685064569266240))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/427.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-川剧变脸解密拆解图">
+</div>
+
+**中文提示词：**
+```
+生成一张中国川剧变脸这门绝技的解密拆解图,中文字体不要变形。宽高比16:9
+```
+
+<a id="prompt-426"></a>
+## 案例 426：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/426.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三英飙车战吕布">
+</div>
+
+**中文提示词：**
+```
+绘制一幅古今混搭幽默水墨插画，主题为《三英飙车战吕布》：
+
+画面为黄昏时分，天空云霞绚丽，大片留白凸显意境；
+刘备、关羽、张飞三人乘坐一辆疾驰的红色双排座宝马轿车在尘土飞扬的古代战场急转漂移——
+
+刘备坐在驾驶位，双手紧握方向盘，神情专注严肃；
+关羽坐在副驾驶，神情悠然，手持梳子对着后视镜悠闲梳理垂胸长髯，胡须飘逸夸张；
+张飞在后排表情嚣张，朝身后追赶者从窗户竖起中指，姿势夸张，喜剧效果明显；
+宝马轿车的车体与轮胎透视夸张拉伸，明显体现高速飘逸带来的强烈动感；
+
+后方远处吕布头戴雉翎金冠、身穿古代铠甲，头盔飘带飞扬，骑着一辆复古红色哈雷摩托，奋力追赶宝马车，高举方天画戟怒吼，动作与神情极为夸张，充满戏剧冲突；
+
+整体采用传统写意水墨笔触配合淡彩晕染，颜色柔和典雅，墨色层次丰富细腻；
+保留传统朱印（“寶玉印”）题款于画面适当位置，结合适度的留白处理，营造出强烈的古典幽默感与现代元素的奇妙融合效果。
+```
 
 <a id="prompt-425"></a>
 ## 案例 425：穿着充气羽绒服的鸟儿 (来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/1987864542756679921))
