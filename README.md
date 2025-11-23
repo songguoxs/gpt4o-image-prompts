@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 450：揭秘照片的幕后制作过程 ](#prompt-450)
+*   [案例 449：你生气的时候其实也可以很可爱 ](#prompt-449)
+*   [案例 448：将素描人物添加到您的真实照片中 ](#prompt-448)
+*   [案例 447：SPaceX工程原理图和蓝图线条 ](#prompt-447)
+*   [案例 446：伪造的历史 ](#prompt-446)
+*   [案例 445：将漫画人物融入你的真人照片 ](#prompt-445)
+*   [案例 444：魔法窗口 ](#prompt-444)
+*   [案例 443：火星监控录像 ](#prompt-443)
+*   [案例 442：历史时代错误 ](#prompt-442)
+*   [案例 441：自由女神像建筑蓝图 ](#prompt-441)
 *   [案例 440：美妆检测器 ](#prompt-440)
 *   [案例 439：从图像中创建图案或分解图 ](#prompt-439)
 *   [案例 438：疯狂的程序喵 ](#prompt-438)
@@ -276,6 +286,171 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-450"></a>
+## 案例 450：揭秘照片的幕后制作过程 (来源 [@icreatelife](https://x.com/icreatelife/status/1991945836914147524))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/450.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-揭秘照片的幕后制作过程">
+</div>
+
+**提示词：**
+```
+I’d like to see a behind the scenes of a photoshoot how this photograph was created
+```
+
+**中文提示词：**
+```
+我想看看这张照片拍摄的幕后花絮，了解它是如何创作出来的。
+```
+
+<a id="prompt-449"></a>
+## 案例 449：你生气的时候其实也可以很可爱 (来源 [@gizakdag](https://x.com/gizakdag/status/1992241809691709598))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/449.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你生气的时候其实也可以很可爱">
+</div>
+
+**提示词：**
+```
+Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright blue and pink), stylized spikes and simple shapes. Toy figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture
+```
+
+**中文提示词：**
+```
+根据参考图片，将对象转化为一个光鲜亮丽的设计师玩具角色。角色比例圆润流畅，轮廓丰满，表情夸张卡通，大嘴巴张开，眼睛小巧精致，细节刻画鲜明。表面采用高光泽乙烯基材质，反光强烈，色彩饱和度高（尤其是亮蓝色和粉色），造型别致，线条简洁。整体风格偏向玩具人偶，采用摄影棚灯光，背景干净，阴影效果强烈，塑料质感极佳。
+```
+
+<a id="prompt-448"></a>
+## 案例 448：将素描人物添加到您的真实照片中 (来源 [@egeberkina](https://x.com/egeberkina/status/1992151432422986028))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/448.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将素描人物添加到您的真实照片中">
+</div>
+
+**提示词：**
+```
+Add clean, minimal white line-drawing illustrations of people into this photo. Match the perspective, lighting, and scale of the scene. The illustrated figures should interact naturally and meaningfully with the environment, reflecting the mood, purpose, and activity of the space. Keep the drawings simple, fluid, and expressive, with no facial details. Maintain a modern, warm, and slightly whimsical tone that complements the overall aesthetic. Do not obscure any original elements. The illustrated figures should feel like friendly, imaginative additions that blend seamlessly with the context of the scene.
+```
+
+**中文提示词：**
+```
+在这张照片中添加简洁的白色线条人物插画。插画的视角、光线和比例应与照片中的场景相符。人物应与环境自然而有意义地互动，反映空间的氛围、用途和活动。保持线条简洁流畅、富有表现力，无需添加面部细节。保持现代、温暖且略带奇幻的基调，与整体美感相得益彰。不要遮挡任何原有元素。插画人物应像友好而富有想象力的点缀，与场景环境完美融合。
+```
+
+<a id="prompt-447"></a>
+## 案例 447：SPaceX工程原理图和蓝图线条 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992422194341957878))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/447.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-SPaceX工程原理图和蓝图线条">
+</div>
+
+**中文提示词：**
+```
+一张 [SPace X] 的高角度广角实景摄影照片作为背景，上面覆盖着详细的白色技术工程原理图和蓝图线条。风格是直接在照片上进行白色手绘粉笔或铅笔素描。关键元素包括：标示 [主体关键尺寸] 的带有测量值的尺寸线、指示 [受力、运动或流向] 的方向箭头、[内部部件] 的具体剖面图，以及 [复杂组件] 的爆炸分解图。用整洁的手写字体标注关键特征的文本标签。美学风格：教育科普图表、工业设计分析、干净、精确、混合媒介。在左下角包含一个手绘框内的蓝图风格 Logo，文字为“[Space X]”。
+```
+
+<a id="prompt-446"></a>
+## 案例 446：伪造的历史 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263633464946805))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/446.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-伪造的历史">
+</div>
+
+**提示词：**
+```
+Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walking on the "Moon surface," but the camera pulls back to reveal it is just a sandbox in a studio. A boom mic operator is visible in the top corner. Stanley Kubrick is shouting instructions through a megaphone. Studio lights, film grain, slightly blurry, handheld camera movement style.
+```
+
+**中文提示词：**
+```
+1969年，一段泄露的秘密摄影棚拍摄花絮。尼尔·阿姆斯特朗正行走在“月球表面”，但镜头拉远，揭示出那只是摄影棚里的沙箱。画面右上角可以看到一名吊杆麦克风操作员。斯坦利·库布里克正用扩音器大声喊着指示。摄影棚灯光、胶片颗粒感、略微模糊的画面，以及手持摄影机的移动风格。
+```
+
+<a id="prompt-445"></a>
+## 案例 445：将漫画人物融入你的真人照片 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263611428082031))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/445.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将漫画人物融入你的真人照片">
+</div>
+
+**提示词：**
+```
+A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting on one of the seats is a 2D black-and-white manga illustration of a tired samurai. The character is drawn with clean ink lines and cross-hatching shading. The lighting from the subway car hits the 2D drawing correctly, creating realistic highlights on the ink. The character holds a real photographic soda can, blending the 2D and 3D worlds. 4k, cinematic composition.
+```
+
+**中文提示词：**
+```
+一张东京拥挤地铁车厢的超写实照片。车厢里，一个疲惫的武士坐在一个二维黑白漫画人物上。人物线条干净利落，运用了交叉阴影技法。地铁车厢的灯光恰到好处地照射在二维画面上，在墨线处营造出逼真的高光。人物手中拿着一个真实的汽水罐，巧妙地将二维和三维世界融合在一起。4K分辨率，电影级构图。
+```
+
+<a id="prompt-444"></a>
+## 案例 444：魔法窗口 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263588900409458))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/444.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-魔法窗口">
+</div>
+
+**提示词：**
+```
+Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
+```
+
+**中文提示词：**
+```
+一张摄于1975年的颗粒感很强的35毫米胶片照片。一位建筑工人在一栋砖房的一楼安装一块巨大的玻璃窗。透过这块透明的玻璃，我们看到的不是房间内部，而是从摩天大楼俯瞰夜色中霓虹闪烁的东京都市景象。然而，玻璃的倒影却正确地展现了摄影师身后阳光明媚的郊区花园。视觉上的异常，一种微妙的恐怖感，以及胶片特有的质感。
+```
+
+<a id="prompt-443"></a>
+## 案例 443：火星监控录像 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263564896395420))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/443.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-火星监控录像">
+</div>
+
+**提示词：**
+```
+Grainy surveillance security camera footage from inside a Mars habitat airlock. High-angle top-down view. Elon Musk is sitting on a metal crate, looking up directly at the camera with a tired, manic expression. He is wearing a dirty SpaceX flight suit. The lighting is dim industrial red emergency lighting. Image quality is poor: video compression blocks, horizontal tracking lines, and noise. "REC" blinking icon and timecode in green font on screen.
+```
+
+**中文提示词：**
+```
+一段来自火星栖息地气闸内部的监控录像，画面模糊不清。高角度俯视视角。埃隆·马斯克坐在一个金属箱子上，抬头直视摄像头，表情疲惫而狂躁。他穿着一件脏兮兮的SpaceX飞行服。照明是昏暗的工业红色应急灯。图像质量很差：视频压缩块、水平跟踪线和噪点。屏幕上闪烁着“REC”图标，时间码以绿色字体显示。
+```
+
+<a id="prompt-442"></a>
+## 案例 442：历史时代错误 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263520441000304))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/442.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-历史时代错误">
+</div>
+
+**提示词：**
+```
+A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a canvas director's chair, laughing hysterically while holding a styrofoam coffee cup. A makeup artist is powdering his nose. In the background, the Lincoln Memorial construction is just a painted plywood backdrop. Flash photography, vignetting, harsh shadows, breaking the illusion.
+```
+
+**中文提示词：**
+```
+一张摄于1865年的幕后宝丽来照片。亚伯拉罕·林肯坐在帆布导演椅上，手里拿着一个泡沫咖啡杯，放声大笑。一位化妆师正在给他扑粉。背景中，林肯纪念堂的建造工程只不过是一块涂了颜色的胶合板。闪光灯、暗角、生硬的阴影，打破了照片的逼真效果。
+```
+
+<a id="prompt-441"></a>
+## 案例 441：自由女神像建筑蓝图 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263499398205640))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/441.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自由女神像建筑蓝图">
+</div>
+
+**提示词：**
+```
+A photorealistic wide-angle landscape shot of the Statue of Liberty with the New York City skyline and harbor in the background. Superimposed on the scene is a white, hand-drawn augmented reality technical overlay. Features include: 1. Sketchy white leader lines pointing to key details like the "Torch," "Crown Rays," and "Copper Shell" with handwritten text labels. 2. Large dimensional vertical measurement arrows indicating the total height from ground to torch. 3. Small floating wireframe icons showing wind load data and material composition. Aesthetic: Structural engineering analysis, F1 broadcast graphics style, bright outdoor daylight, architectural blueprint overlay.
+```
+
+**中文提示词：**
+```
+一张逼真的广角风景照，展现了自由女神像，背景是纽约市的天际线和港口。画面上叠加了一层白色手绘增强现实技术图层。其特点包括：1. 用白色线条勾勒出关键细节，例如“火炬”、“皇冠光芒”和“铜壳”，并附有手写文字标签。2. 大型垂直测量箭头指示从地面到火炬的总高度。3. 小型悬浮线框图标显示风荷载数据和材料成分。美学风格：结构工程分析、F1赛车转播画面风格、明亮的户外日光、建筑蓝图叠加。
+```
 
 <a id="prompt-440"></a>
 ## 案例 440：美妆检测器 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1992171138730885618))
