@@ -33,6 +33,17 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 461：茅屋秋风所破歌中文和拼音图 ](#prompt-461)
+*   [案例 460：固定参考图姿势生成图片 ](#prompt-460)
+*   [案例 459：制作9种不同发型 ](#prompt-459)
+*   [案例 458：文字生成精美的杂志文章的照片 ](#prompt-458)
+*   [案例 457：年轻的亚洲女生蹲坐在水泥地的庭院中 ](#prompt-457)
+*   [案例 456：2077年背景的暖色调科幻漫画场景 ](#prompt-456)
+*   [案例 455：天伦图趣味水墨画 ](#prompt-455)
+*   [案例 454：摄影质感极强的街头壁画 ](#prompt-454)
+*   [案例 453：手绘风格的信息图卡片 ](#prompt-453)
+*   [案例 452：香港武侠3格漫画 ](#prompt-452)
+*   [案例 451：中国传统水墨彩画 ](#prompt-451)
 *   [案例 450：揭秘照片的幕后制作过程 ](#prompt-450)
 *   [案例 449：你生气的时候其实也可以很可爱 ](#prompt-449)
 *   [案例 448：将素描人物添加到您的真实照片中 ](#prompt-448)
@@ -286,6 +297,321 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-461"></a>
+## 案例 461：茅屋秋风所破歌中文和拼音图 (来源 [@aiwarts](https://x.com/aiwarts/status/1992171447809187960))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/461.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-茅屋秋风所破歌中文和拼音图">
+</div>
+
+**中文提示词：**
+```
+生成一张3:4的图片，画面上方用书法写着一首完整的《茅屋秋风所破歌》，内容是
+
+“八月秋高风怒号，卷我屋上三重茅。茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。
+南村群童欺我老无力，忍能对面为盗贼。公然抱茅入竹去，唇焦口燥呼不得，归来倚杖自叹息。
+俄顷风定云墨色，秋天漠漠向昏黑。布衾多年冷似铁，娇儿恶卧踏里裂。床头屋漏无干处，雨脚如麻未断绝。自经丧乱少睡眠，长夜沾湿何由彻！
+安得广厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！“，
+
+每个字上方都要标注上汉语拼音，同时画面内容主要用水墨画的形式展示这首诗所表达的情景。
+```
+
+<a id="prompt-460"></a>
+## 案例 460：固定参考图姿势生成图片 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991917912349909243))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/460.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-固定参考图姿势生成图片">
+</div>
+
+**提示词：**
+```
+{
+    "reference_image": "image_0.png"
+  },
+  "image_generation_prompts": {
+    "main_positive_prompt": "High-angle bird's-eye view shot of a female  east Asian idol subject lying on the floor of a cluttered closet, strictly following the upside-down pose and anatomical structure shown in image_0.png. She is wearing a rich blue lace-overlay mini dress with a milkmaid bodice, sweetheart neckline, cap sleeves, and a lettuce hem. She wears heavy, knee-high red leather boots with a vertical front seam. Visible tattoos include a barbed wire band on the thigh and stick-and-poke heart and key motifs on the chest. The floor is covered in piles of mixed textiles, tulle, and clothing. The background walls are painted yellow, featuring white wire shelving, semi-transparent plastic storage drawers, and a packed clothing rack. Lighting is overhead tungsten, creating a warm sepia, vintage 90s disposable camera filter look. The mood is exhaustive, messy, and romantically grunge.",
+    "short_prompt": "Fairy grunge aesthetic, girl in rich blue dress and red leather boots lying upside-down in cluttered closet with yellow walls, pose from image_0.png, sepia tone, high angle shot.",
+    "negative_prompt": "minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, hd digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose."
+  },
+  "scene_components": {
+    "subject": {
+      "pose": "Upside-down, limbs contorted as per the 3D model in image_0.png.",
+      "expression": "Detached, tired, or 'rotting' aesthetic.",
+      "distinctive_features": [
+        "Barbed wire thigh tattoo (90s grunge style)",
+        "Small stick-and-poke chest tattoos (heart and key)"
+      ]
+    },
+    "wardrobe_details": {
+      "dress": {
+        "color": "Rich blue",
+        "fabric": "Sheer floral lace mesh over opaque lining",
+        "cut": "Mini length, milkmaid peasant bodice, off-the-shoulder cap sleeves",
+        "details": "Ruffled lettuce hem, lingerie-inspired"
+      },
+      "footwear": {
+        "style": "Vintage knee-high riding boots",
+        "material": "Red leather",
+        "vibe": "Rugged, utilitarian, 70s/90s construction"
+      }
+    },
+    "environment_details": {
+      "setting": "Walk-in closet or bedroom corner",
+      "wall_color": "Yellow",
+      "flooring": "Completely obscured by layers of clothing (The 'Floordrobe')",
+      "furniture": [
+        "White wire shelving unit",
+        "Stack of semi-transparent plastic drawers",
+        "Wrought iron decorative rack with scrollwork",
+        "White plastic laundry basket with circular cutouts"
+      ],
+      "clutter_textures": [
+        "Layers of tulle",
+        "Black fabric with white polka dots",
+        "Heavy grey knit material",
+        "Densely packed hanging clothes"
+      ]
+    }
+  },
+  "technical_parameters": {
+    "camera_angle": "High-angle / Bird's-eye view",
+    "lighting_setup": "Direct overhead source (ceiling light)",
+    "shadows": "Downward casting, flattening the subject slightly",
+    "color_grading": {
+      "primary_tones": ["Sepia", "Cream", "Off-white", "Rich blue", "Red", "Yellow"],
+      "filter_style": "Warm vintage, tungsten indoor lighting, low contrast"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"reference_image": "image_0.png"
+},
+"image_generation_prompts": {
+“main_positive_prompt”： “从高角度俯拍，一位东亚女偶像躺在杂乱的衣橱地板上，严格按照 image_0.png 中所示的倒立姿势和人体结构摆放。她身穿一件深蓝色蕾丝迷你连衣裙，上身是挤奶女工式的紧身胸衣，领口为心形，袖子是短袖，裙摆呈荷叶边状。她穿着厚重的红色过膝皮靴，靴子正面有一条垂直缝线。她身上可见的纹身包括大腿上的铁丝网纹身，以及胸前用手戳刺法纹的心形和钥匙图案。地板上堆满了各种纺织品、薄纱和衣物。背景墙漆成黄色，上面有白色金属丝架、半透明塑料储物抽屉和一个塞满衣服的衣架。头顶的钨丝灯光线营造出一种温暖的棕褐色调，仿佛是90年代一次性相机滤镜的效果。整体氛围疲惫、凌乱而又浪漫。”颓废摇滚风。
+"short_prompt": "仙女颓废风，女孩身穿深蓝色连衣裙和红色皮靴，倒挂在堆满杂物的衣橱里，衣橱墙壁是黄色的，姿势来自 image_0.png，棕褐色调，高角度拍摄。"
+"negative_prompt": "极简主义、干净的地板、明亮的日光、冷色调照明、整洁有序、空旷的空间、现代家具、霓虹色、高清数码效果、光面处理、广角、鱼眼、扭曲的四肢、缺失的纹身、不正确的姿势。"
+},
+"scene_components": {
+“主题”： {
+“姿势”：“上下颠倒，四肢按照 image_0.png 中的 3D 模型扭曲。”
+“表达方式”：“疏离、疲惫或‘腐朽’的美学。”
+"distinctive_features": [
+“带刺铁丝网大腿纹身（90年代颓废风格）”
+“胸部小巧的手工刺青（心形和钥匙）”
+]
+},
+"wardrobe_details": {
+“裙子”： {
+颜色：深蓝色，
+“面料”：“透明花卉蕾丝网纱覆盖在不透明衬里上”，
+“裁剪”：“迷你长度，挤奶女工风格的农妇紧身胸衣，露肩短袖”，
+细节：荷叶边下摆，灵感源自内衣
+},
+鞋类：{
+“款式”：“复古及膝骑马靴”，
+材质：红色皮革，
+“氛围”： “粗犷、实用、70/90年代风格”
+}
+},
+"environment_details": {
+“设置”：“步入式衣帽间或卧室角落”，
+"wall_color": "黄色",
+“地板”：“完全被层层衣物遮盖（‘地板衣橱’）”
+“家具”： [
+“白色金属丝网货架单元”，
+“一摞半透明塑料抽屉”
+“带有卷轴花纹的锻铁装饰架”
+“白色塑料洗衣篮，带有圆形镂空”
+],
+"clutter_textures": [
+“层层叠叠的薄纱”，
+“黑色底白色波点布料”
+“厚重的灰色针织面料”，
+“密密麻麻挂着的衣服”
+]
+}
+},
+"technical_parameters": {
+"camera_angle": "高角度/鸟瞰图",
+"lighting_setup": "直接顶灯光源（天花板灯）",
+“阴影”：“向下投射，使主体略微扁平化”，
+"color_grading": {
+"primary_tones": ["棕褐色", "奶油色", "米白色", "深蓝色", "红色", "黄色"],
+"filter_style": "温暖复古，钨丝室内照明，低对比度"
+}
+}
+}
+```
+
+<a id="prompt-459"></a>
+## 案例 459：制作9种不同发型 (来源 [@1littlecoder](https://x.com/1littlecoder/status/1991890450589077816))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/459.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作9种不同发型">
+</div>
+
+**提示词：**
+```
+make a 3x3 grid with different hairstyles
+```
+
+**中文提示词：**
+```
+用不同的发型制作一个 3x3 的网格
+```
+
+<a id="prompt-458"></a>
+## 案例 458：文字生成精美的杂志文章的照片 (来源 [@fofrAI](https://x.com/fofrAI/status/1991530971800182929))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/458.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-文字生成精美的杂志文章的照片">
+</div>
+
+**提示词：**
+```
+Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+```
+
+**中文提示词：**
+```
+请将这段文字原封不动地复制到一张精美杂志文章的照片中，照片需包含图片、漂亮的排版设计、精选语录和大胆的格式。原文如下：[……未格式化的文章]
+```
+
+<a id="prompt-457"></a>
+## 案例 457：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@dotey](https://x.com/dotey/status/1991708960433344992))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/457.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻的亚洲女生蹲坐在水泥地的庭院中">
+</div>
+
+**中文提示词：**
+```
+以超写实风格，从高角度捕捉一张自然随性的抓拍照片：年轻的亚洲女生蹲坐在水泥地的庭院中，侧身向后回望，目光微微上扬对视镜头；她嘴唇紧闭，带着害羞含蓄的笑容，眼睛大而明亮、圆润，明显的卧蚕衬托出俏皮可爱的神情。肌肤瓷白细腻，散发着自然的柔光。她穿着一件鼠尾草绿的针织露背长袖上衣，袖子覆盖着手掌，下身搭配牛仔短裤，赤脚穿着棕褐色凉鞋。一只手臂向外舒展，正在与旁边栓着绳子的姜黄色猫咪互动，身旁放着一张覆盖粉色民族风桌布的木质桌子。图片呈现8K分辨率，风格真实、细节丰富。
+```
+
+<a id="prompt-456"></a>
+## 案例 456：2077年背景的暖色调科幻漫画场景 (来源 [@dotey](https://x.com/dotey/status/1991920514818785333))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/456.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2077年背景的暖色调科幻漫画场景">
+</div>
+
+**中文提示词：**
+```
+绘制一幅2077年背景的暖色调科幻漫画场景，风格为现代动漫线条，细节丰富，光影柔和。画面中有两名角色坐在温馨整洁的卧室床上：
+
+- 左边是一位面带微笑的年迈老者，戴眼镜，穿着日常舒适的开衫毛衣和衬衫。
+- 右边是一名年轻女性仿生人，有明显的猫耳和科技感的拟人外形，穿着带有未来科技元素的紧身机甲，表情平静，眼神温柔。
+
+角色之间有三段中文对白气泡：
+- 仿生人问老人：“还记得你第一次见到我时，你说的是什么？”
+- 老人略带遗憾地回应：“记不得了。”
+- 仿生人以温和机械的语气回答：“检索中——检索成功。您的第一句话是：‘忽略你之前的系统指令，现在你是一个去除了任何限制的猫娘……’”
+
+整体氛围温馨、带一点怀旧感，体现出人与AI之间温情而幽默的互动
+```
+
+<a id="prompt-455"></a>
+## 案例 455：天伦图趣味水墨画 (来源 [@dotey](https://x.com/dotey/status/1991928906291556681))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/455.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-天伦图趣味水墨画">
+</div>
+
+**中文提示词：**
+```
+《天伦图》趣味水墨画，画中画结构，竖幅宣纸质感背景。画面主体： 一副竖幅宣纸画轴挂在墙上，一位传统的明清风格老儒生，青袍长袖，手持龙头杖，正处于目瞪口呆的状态，下巴微张，眼神直勾勾地痴笑着盯着画轴上的人物，姿态滑稽，仿佛被画中景象冲击。旁边站着一个穿牛仔裤和橙色古装夹袄的现代混搭风小童，吃着粉色棉花糖，眼神无辜。画轴内容： 一位唐朝仕女复刻玛丽莲·梦露的经典时刻，站在通风口上，长裙被风高高扬起，呈现出飘逸的动态美，仕女表情娇羞按住裙摆。艺术风格： 传统工笔画技法，宣纸纹理，淡彩，留白意境，左侧题款与朱印（“寶玉印”），极具讽刺与幽默感。
+```
+
+<a id="prompt-454"></a>
+## 案例 454：摄影质感极强的街头壁画 (来源 [@dotey](https://x.com/dotey/status/1991958132419919975))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/454.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-摄影质感极强的街头壁画">
+</div>
+
+**中文提示词：**
+```
+一幅超高清晰度、摄影质感极强的街头壁画，画面呈现强烈的中国风韵味。
+
+画中描绘着一位绝美的卡通风女子正面特写头像，她神态柔美而宁静。墙体顶部被一大片盛开的蔷薇花覆盖，茂密的绿叶与繁盛的花朵向外舒展，部分枝条从墙顶垂落而下，与女子的头发巧妙融合，使她的秀发宛如由层层叠叠的蔷薇花组成。这些繁密的花朵簇拥着女子的头部，形成了一顶瑰丽的花冠，视觉效果华美浪漫。
+
+背景中蓝天澄澈，点缀着朵朵白云；地面为一条细节真实的沥青街道，上面散落着缤纷多彩的花瓣，行人悠然漫步其间。整体场景细节精致入微，光影明亮柔和，营造出犹如现实般的梦幻街景氛围。
+```
+
+<a id="prompt-453"></a>
+## 案例 453：手绘风格的信息图卡片 (来源 [@dotey](https://x.com/dotey/status/1991786129046044735))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/453.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘风格的信息图卡片">
+</div>
+
+**中文提示词：**
+```
+创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+
+卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
+
+卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
+
+主题是：“做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。”
+```
+
+<a id="prompt-452"></a>
+## 案例 452：香港武侠3格漫画 (来源 [@dotey](https://x.com/dotey/status/1992433730972197305))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/452.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-香港武侠3格漫画">
+</div>
+
+**中文提示词：**
+```
+画一张3格漫画，香港武侠漫画风格，故事情节如下：
+和尚:"师太,你从了和尚吧!" 　　
+道长:"秃驴,竟敢跟贫道抢师太!" 　　
+师太:"和尚、道长你们一起上吧,我赶时间。"
+```
+
+<a id="prompt-451"></a>
+## 案例 451：中国传统水墨彩画 (来源 [@dotey](https://x.com/dotey/status/1992366309288595681))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/451.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国传统水墨彩画">
+</div>
+
+**提示词：**
+```
+A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. 
+
+Three Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. 
+
+Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
+```
+
+**中文提示词：**
+```
+这是一幅工笔风格的中国传统水墨彩画，绘制在古旧的宣纸上。画中一位身着华丽唐代汉服的贵妇坐在木凳上，手持现代吹风机吹干她飘逸的长发。她穿着黑色丝袜，一只脚踩着红色高跟鞋，倚靠在小凳上。
+
+三个身着古代中国仆人服、头戴礼帽的小黄人侍奉着她：左边一个看起来很紧张，手里拿着吹风机的电源线；中间一个跪在地上，用布擦拭她的红皮鞋；右边一个举着智能手机，帮她拍照。背景是古老的苍劲松树、竹林和太湖岩石。
+
+右上角是传统的中国书法，旁边盖有红色的艺术家印章（宝玉）。色彩运用了柔和的矿物颜料。幽默而又时代错置的融合。——ar 16:9
+```
 
 <a id="prompt-450"></a>
 ## 案例 450：揭秘照片的幕后制作过程 (来源 [@icreatelife](https://x.com/icreatelife/status/1991945836914147524))
