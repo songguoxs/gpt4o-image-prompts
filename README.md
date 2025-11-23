@@ -33,6 +33,20 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 475：三英飙车战吕布 ](#prompt-475)
+*   [案例 474：任天堂明星大乱斗游戏海报全家福 ](#prompt-474)
+*   [案例 473：年轻的亚洲女生蹲坐在水泥地的庭院中 ](#prompt-473)
+*   [案例 472：地球达人秀 ](#prompt-472)
+*   [案例 471：真人电影片场泄露照片 ](#prompt-471)
+*   [案例 470：图片注解 ](#prompt-470)
+*   [案例 469：动漫转真人 ](#prompt-469)
+*   [案例 468：伪造抖音截图 ](#prompt-468)
+*   [案例 467：明星合拍 ](#prompt-467)
+*   [案例 466：14个毛茸茸的小家伙并排挤沙发上 ](#prompt-466)
+*   [案例 465：出生到80岁各个年龄段的节日照片 ](#prompt-465)
+*   [案例 464：rick and morty画风卡片 ](#prompt-464)
+*   [案例 463：名人金句卡 ](#prompt-463)
+*   [案例 462：根据文字生成发布会现场图片 ](#prompt-462)
 *   [案例 461：茅屋秋风所破歌中文和拼音图 ](#prompt-461)
 *   [案例 460：固定参考图姿势生成图片 ](#prompt-460)
 *   [案例 459：制作9种不同发型 ](#prompt-459)
@@ -308,6 +322,283 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-475"></a>
+## 案例 475：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/475.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三英飙车战吕布">
+</div>
+
+**中文提示词：**
+```
+绘制一幅古今混搭幽默水墨插画，主题为《三英飙车战吕布》：
+
+画面为黄昏时分，天空云霞绚丽，大片留白凸显意境；
+刘备、关羽、张飞三人乘坐一辆疾驰的红色双排座宝马轿车在尘土飞扬的古代战场急转漂移——
+
+刘备坐在驾驶位，双手紧握方向盘，神情专注严肃；
+关羽坐在副驾驶，神情悠然，手持梳子对着后视镜悠闲梳理垂胸长髯，胡须飘逸夸张；
+张飞在后排表情嚣张，朝身后追赶者从窗户竖起中指，姿势夸张，喜剧效果明显；
+宝马轿车的车体与轮胎透视夸张拉伸，明显体现高速飘逸带来的强烈动感；
+
+后方远处吕布头戴雉翎金冠、身穿古代铠甲，头盔飘带飞扬，骑着一辆复古红色哈雷摩托，奋力追赶宝马车，高举方天画戟怒吼，动作与神情极为夸张，充满戏剧冲突；
+
+整体采用传统写意水墨笔触配合淡彩晕染，颜色柔和典雅，墨色层次丰富细腻；
+保留传统朱印（“寶玉印”）题款于画面适当位置，结合适度的留白处理，营造出强烈的古典幽默感与现代元素的奇妙融合效果。
+```
+
+<a id="prompt-474"></a>
+## 案例 474：任天堂明星大乱斗游戏海报全家福 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1991541693708136662))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/474.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-任天堂明星大乱斗游戏海报全家福">
+</div>
+
+**中文提示词：**
+```
+绘制任天堂明星大乱斗游戏海报全家福，风格与游戏保持一致性。aspect 9:16 2k
+```
+
+<a id="prompt-473"></a>
+## 案例 473：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991027882605621629))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/473.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻的亚洲女生蹲坐在水泥地的庭院中">
+</div>
+
+**提示词：**
+```
+{
+  "image_metadata": {
+    "title": "Candid Charm: The Playful Gaze",
+    "category": "Hyper-realistic Lifestyle Photography",
+    "tone": "Charming, Raw, Youthful, Candid"
+  },
+  "prompt_elements": {
+    "subject": {
+      "description": "Young Asian woman with a cute, soft, round face shape and pale, porcelain skin. Her skin texture is natural and dewy with a soft glow.",
+      "face_detail": "Distinctive large, dark, round eyes with prominent 'aegyo-sal' (charming under-eye fullness), looking up sideways at the camera with a mischievous, innocent doe-eyed gaze. Her mouth is posed in a specific tight-lipped, suppressed smile (lips pressed together firmly in a thin line), creating a shy, playful, and quirky expression.",
+      "pose": "Crouched low in a full squat, knees bent, body turned away but head turned sharply back over her shoulder to face the lens.",
+      "action": "One arm extended straight out in a long sleeve to interact with a ginger cat."
+    },
+    "fashion": {
+      "garment_top": "Sage-green ribbed knit shrug/top with very long sleeves covering the hands, open back with thin crisscross straps.",
+      "garment_bottom": "Denim shorts.",
+      "footwear": "Bare feet in tan sandals."
+    },
+    "environment": {
+      "setting": "Rustic open-air patio.",
+      "props": "Wooden table with a pink tribal/geometric patterned runner.",
+      "ground": "Rough concrete floor."
+    },
+    "technical_specs": {
+      "style": "Candid smartphone photography aesthetic, high angle shot.",
+      "lighting": "Natural daylight, soft shadows, capturing the gleam in the eyes.",
+      "focus": "Sharp focus on the eyes and the quirky mouth expression."
+    }
+  },
+  "full_prompt_string": "A hyper-realistic candid photo from a high angle showing a young Asian woman squatting on a concrete patio. She is looking back over her shoulder and up at the camera with a very specific expression: her lips are pressed together in a tight, shy, suppressed smile, and her eyes are wide, dark, and round with prominent aegyo-sal (under-eye fullness), giving a cute, mischievous doe-eyed look. She has pale, glowing skin. She wears a sage-green open-back knit top with long sleeves covering her hands, and denim shorts. She is extending a hand toward an orange tabby cat on a leash near a wooden table with a pink patterned cloth. 8k resolution, raw style.",
+  "negative_prompt": "open mouth, teeth showing, laughing, lipstick, heavy makeup, western features, distorted eyes, bad hands, extra fingers, low resolution, blur."
+}
+```
+
+<a id="prompt-472"></a>
+## 案例 472：地球达人秀 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991745697708941739))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/472.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-地球达人秀">
+</div>
+
+**提示词：**
+```
+A cinematic, 21:9, ultra-high-definition (8K) wide-shot photograph capturing the electrifying grand finale of the fictional TV show "Earth Got Talent." The setting is a massive, sold-out Las Vegas-style arena at night. The stage floor is glossy black and highly reflective. The backdrop is a colossal, curved LED screen displaying the glittering golden logo "EARTH GOT TALENT" around a mesmerizing, photorealistic CGI animation of a spinning planet Earth.
+Lighting and Atmosphere:
+Dynamic professional studio lighting. Volumetric spotlights (stark white) isolate the main subjects. Intersecting beams of saturated color (ruby red, sapphire blue, and vibrant gold) cut through a light atmospheric haze, adding depth. Golden confetti is actively raining down from the ceiling.
+Character Composition:
+• The Host (Center Stage): Kim Jong Un stands proudly at a sparkling crystal podium. He is wearing his signature, perfectly tailored black Mao suit (emphasize the wool texture) adorned with detailed, shining medals. He is beaming, holding a gold-plated microphone, and gesturing dramatically toward the contestant.
+• The Judges (Stage Left): Seated at a long, polished mahogany judges' desk with integrated lighting, nameplates, and large golden buzzers.
+• Donald Trump (Far Left): In a dark navy suit and bright red silk tie. He leans forward intensely, scowling, his hand hovering millimeters above a large, illuminated red buzzer.
+• Vladimir Putin (Middle): Dressed sharply in a black cashmere turtleneck and tailored dark suit. Arms crossed, observing the stage with a stern, calculating smirk.
+• Xi Jinping (Right): In a crisp black Mao suit, sitting with impeccable posture, hands folded neatly, offering a calm, enigmatic smile.
+• The Contestant (Front and Center): Elon Musk stands confidently on the contestant mark, bathed in a high-intensity spotlight. He wears a sleek, black SpaceX leather flight jacket and black trousers. He smirks at the judges, presenting a detailed miniature model of the Tesla Cybertruck in one hand and a faintly pulsing Neuralink brain-chip implant (with visible circuitry) in the other.
+Technical Specifications:
+Captured with a professional cinema camera (e.g., Arri Alexa LF) using a 35mm prime lens at f/2.8. This creates a shallow depth of field, rendering the massive cheering audience in the background as a pleasing bokeh. Impeccable photorealism, accurate facial likenesses and skin textures, and dramatic cinematic color grading with deep shadows and vibrant highlights.
+```
+
+<a id="prompt-471"></a>
+## 案例 471：真人电影片场泄露照片 (来源 [@minchoi](https://x.com/minchoi/status/1991544444051755056))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/471.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人电影片场泄露照片">
+</div>
+
+**提示词：**
+```
+Generate leaked photo BTS from KPOP Demon Hunters live action movie set
+```
+
+**中文提示词：**
+```
+生成 BOP 恶魔猎人真人电影片场泄露照片
+```
+
+<a id="prompt-470"></a>
+## 案例 470：图片注解 (来源 [@nmatares](https://x.com/nmatares/status/1991696386031837424))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/470.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-图片注解">
+</div>
+
+**提示词：**
+```
+add sketch annotations on top of this image explaining the camera movement. I want it to crane up and the look down as an aerial shot
+```
+
+**中文提示词：**
+```
+在这张图片上添加草图注释，解释镜头运动。我希望镜头向上摇，然后向下拍摄，形成航拍镜头。
+```
+
+<a id="prompt-469"></a>
+## 案例 469：动漫转真人 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1991573512713347181))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/469.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫转真人">
+</div>
+
+**中文提示词：**
+```
+1:1变真人
+```
+
+<a id="prompt-468"></a>
+## 案例 468：伪造抖音截图 (来源 [@tuzi_ai](https://x.com/tuzi_ai/status/1991523528295014822))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/468.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-伪造抖音截图">
+</div>
+
+**提示词：**
+```
+帮我生成一帧抖音竖屏短视频截图，内容是厨房帝王蟹下锅处理，厨师面对镜头展示食材和案板上成套的厨具
+```
+
+<a id="prompt-467"></a>
+## 案例 467：明星合拍 (来源 [@SebJefferies](https://x.com/SebJefferies/status/1991531687147360728))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/467.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-明星合拍">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic, ultra-sharp, full-color large-format image featuring a massive group of celebrities from different eras, all standing together in a single wide cinematic frame. The image must look like a perfectly photographed editorial cover with impeccable lighting, lifelike skin texture, micro-details of hair, pores, reflections, and fabric fibers.GENERAL STYLE & MOOD
+
+Photorealistic, 8k, shallow depth of field, soft natural fill light + strong golden rim light
+
+High dynamic range, calibrated color grading
+
+Skin tones perfectly accurate
+
+Crisp fabric detail with individual threads visible
+
+Balanced composition, slightly wide-angle lens (35mm), center-weighted
+
+All celebrities interacting naturally, smiling, posing, or conversing
+
+Minimal background noise, but with enough world-building to feel realTHE ENVIRONMENT
+
+A luxurious open-air rooftop terrace at sunset overlooking a modern city skyline.
+
+Elements include:Warm golden light wrapping around silhouettes
+
+Polished marbl
+```
+
+<a id="prompt-466"></a>
+## 案例 466：14个毛茸茸的小家伙并排挤沙发上 (来源 [@nickfloats](https://x.com/nickfloats/status/1991531506397741156))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/466.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-14个毛茸茸的小家伙并排挤沙发上">
+</div>
+
+**提示词：**
+```
+A medium shot of the 14 fluffy characters sitting squeezed together side-by-side on a worn beige fabric sofa and on the floor. They are all facing forwards, watching a vintage, wooden-boxed television set placed on a low wooden table in front of the sofa. The room is dimly lit, with warm light from a window on the left and the glow from the TV illuminating the creatures' faces and fluffy textures. The background is a cozy, slightly cluttered living room with a braided rug, a bookshelf with old books, and rustic kitchen elements in the background. The overall atmosphere is warm, cozy, and amused.
+```
+
+**中文提示词：**
+```
+一个中景镜头，14个毛茸茸的小家伙并排挤在一张米色旧布艺沙发上和地板上。它们都面向前方，看着一台老式木箱电视机，电视机放在沙发前的一张矮木桌上。房间光线昏暗，左侧窗户透进温暖的光线，电视机的光芒照亮了小家伙们的脸庞和毛茸茸的触感。背景是一个温馨而略显凌乱的客厅，铺着编织地毯，书架上摆放着旧书，远处还有一些质朴的厨房元素。整体氛围温暖、舒适而又充满趣味。
+```
+
+<a id="prompt-465"></a>
+## 案例 465：出生到80岁各个年龄段的节日照片 (来源 [@minchoi](https://x.com/minchoi/status/1991526532536496353))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/465.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-出生到80岁各个年龄段的节日照片">
+</div>
+
+**提示词：**
+```
+Generate the holiday photo of this person through the ages up to 80 years old
+```
+
+**中文提示词：**
+```
+生成此人从出生到80岁各个年龄段的节日照片
+```
+
+<a id="prompt-464"></a>
+## 案例 464：rick and morty画风卡片 (来源 [@oran_ge](https://x.com/oran_ge/status/1991677670778892600))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/464.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-rick and morty画风卡片">
+</div>
+
+**中文提示词：**
+```
+使用 rick and morty 画风，非常详细地介绍xxxxx
+```
+
+<a id="prompt-463"></a>
+## 案例 463：名人金句卡 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991718646570426763))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/463.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-名人金句卡">
+</div>
+
+**中文提示词：**
+```
+一张宽的名人金句卡，棕色背景，衬线体浅金色 “保持饥饿, 保持愚蠢” 小字“——Steve Jobs”，文字前面带一个大的淡淡的引号，人物头像在左边，文字在右边，文字占画面比例2/3，人物占1/3，人物有点渐变过渡的感觉
+```
+
+<a id="prompt-462"></a>
+## 案例 462：根据文字生成发布会现场图片 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991760674435780778))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/462.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据文字生成发布会现场图片">
+</div>
+
+**中文提示词：**
+```
+根据文字生成一张照片：一个宏大的苹果发布会现场，现场很多观众，场景很暗，有绚丽的灯光，镜头聚焦在很宽的大屏幕，弧形屏幕，文字和屏幕一样有一定的透视感，很小的人物剪影站在舞台上，紫色到蓝色弥散背景上，白色文字有一些渐变，像是现场实拍，高级感 16:9
+```
 
 <a id="prompt-461"></a>
 ## 案例 461：茅屋秋风所破歌中文和拼音图 (来源 [@aiwarts](https://x.com/aiwarts/status/1992171447809187960))
