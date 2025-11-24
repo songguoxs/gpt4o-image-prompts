@@ -33,6 +33,18 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 490：一张高分辨率的户外全身照 ](#prompt-490)
+*   [案例 489：艺术家正在绘制自己的微型人偶 ](#prompt-489)
+*   [案例 488：极简儿童绘画风格 ](#prompt-488)
+*   [案例 487：图片的8种初始草图 ](#prompt-487)
+*   [案例 486：超级赛亚人式变身过程 ](#prompt-486)
+*   [案例 485：彩色手绘风格表情包 ](#prompt-485)
+*   [案例 484：制作一个4×4的网格符合年代的风格 ](#prompt-484)
+*   [案例 483：诸葛连弩的复古风格工程爆炸图 ](#prompt-483)
+*   [案例 482：传统的中国工笔水墨画-仙女 ](#prompt-482)
+*   [案例 481：传统的工笔风格水墨画 ](#prompt-481)
+*   [案例 480：分格漫画手稿图 ](#prompt-480)
+*   [案例 479：一键OOTD ](#prompt-479)
 *   [案例 478：全景式角色深度概念分解图 ](#prompt-478)
 *   [案例 477：进击的巨人画风菜谱：红烧肉 ](#prompt-477)
 *   [案例 476：菜谱-番茄炒蛋 ](#prompt-476)
@@ -314,6 +326,257 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-490"></a>
+## 案例 490：一张高分辨率的户外全身照 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992905971891597520))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/490.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张高分辨率的户外全身照">
+</div>
+
+**提示词：**
+```
+A high-resolution, full outdoor shot of a young East Asian woman with a radiant smile, captured from the chest up. She stands under bright, direct sunlight, casting strong, defined shadows from the brick building behind her. Her dark, wavy, and voluminous hair is styled with subtle curls, and a pair of white-framed round sunglasses are pushed up onto her head. She has fair, smooth skin, bright, upturned dark eyes, a delicate nose, and a wide, open-mouthed smile revealing her upper teeth. Her lips are a natural, soft pink. She wears a fitted, red scoop-neck tank top that is slightly cropped, revealing a hint of her midriff and navel. A delicate silver chain with a small cross pendant adorns her neck. A black strap from a backpack or shoulder bag is visible over her left shoulder. Her right hand, with slender fingers and light nail polish, holds a vibrant, glossy red spherical object, resembling a cherry or lollipop. The background features a reddish-brown brick building with repetitive architectural columns or pilasters, topped with light-colored caps, creating strong vertical shadows. The setting is a sunny urban sidewalk with light-colored paving. The overall aesthetic is cheerful, vibrant, and natural with a focus on sharp detail and warm lighting.
+```
+
+**中文提示词：**
+```
+这是一张高分辨率的户外全身照，拍摄对象是一位笑容灿烂的年轻东亚女性，镜头从胸部以上捕捉。她站在明媚的阳光下，身后的砖砌建筑投下清晰的阴影。她一头浓密的深色波浪卷发，略带卷曲，一副白色圆框太阳镜被推到头顶。她拥有白皙光滑的肌肤，明亮上扬的深色眼睛，精致的鼻子，以及灿烂的笑容，露出上排牙齿。她的嘴唇是自然柔和的粉红色。她穿着一件修身的红色圆领露脐背心，隐约露出小腹和肚脐。一条精致的银项链，上面挂着一个小十字架吊坠。她的左肩上斜挎着一条黑色肩带，可能是背包或单肩包的。她纤细的右手涂着浅色指甲油，手里拿着一个鲜艳的亮红色球形物体，看起来像樱桃或棒棒糖。背景是一栋红棕色砖砌建筑，重复的建筑立柱或壁柱顶端饰以浅色柱帽，营造出强烈的垂直阴影。场景设定在阳光明媚的城市人行道上，铺着浅色路面。整体美感明快、充满活力且自然，注重清晰的细节和温暖的光线。
+```
+
+<a id="prompt-489"></a>
+## 案例 489：艺术家正在绘制自己的微型人偶 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1992666519495410162))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/489.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-艺术家正在绘制自己的微型人偶">
+</div>
+
+**提示词：**
+```
+Create an image of this person as an artist painting a tiny miniature figurine version of themselves. The person is wearing their most iconic signature outfit, looking directly at the camera with a confident expression while holding a tiny paintbrush in one hand. The small action figure-sized version of themselves is prominently placed on a clean workbench in front of them - make the miniature slightly larger and more visible than realistic scale so it clearly stands out. The miniature figure is also wearing the same iconic outfit in a signature pose. Minimal art supplies on the workbench to avoid clutter - just 2-3 small paint bottles and one extra brush, keeping the focus on the person and their miniature. Soft neutral white background, professional studio lighting, shallow depth of field. The composition emphasizes the person’s face looking at camera and the miniature figure they’re working on. Clean, uncluttered, photorealistic style with high detail on both figures
+```
+
+**中文提示词：**
+```
+创作一幅人物肖像，描绘此人作为艺术家正在绘制自己的微型人偶。此人身着其最具标志性的服装，自信地直视镜头，一手拿着一支小画笔。一个与真人大小相仿的微型人偶醒目地摆放在他面前干净的工作台上——将微型人偶的尺寸略大于实际比例，使其更加突出。微型人偶也穿着同样的标志性服装，摆出标志性的姿势。工作台上摆放的绘画用品极简，避免杂乱——只有两三瓶小颜料和一支备用画笔，从而将焦点集中在人物和微型人偶上。柔和的中性白色背景，专业的影棚灯光，浅景深。构图突出了人物看向镜头的面部表情以及他正在绘制的微型人偶。画面风格简洁明快，追求照片级的写实效果，人物和微型人偶的细节都需高度还原。
+```
+
+<a id="prompt-488"></a>
+## 案例 488：极简儿童绘画风格 (来源 [@azed_ai](https://x.com/azed_ai/status/1992548740272623996))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/488.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简儿童绘画风格">
+</div>
+
+**提示词：**
+```
+A [subject] in a minimalist children's drawing style, using thick white lines and glowing contours. The background is softly blurred with [environment details]. Floating elements like [floating details] add a whimsical touch. Full-body view, warm and simple aesthetic.
+```
+
+**中文提示词：**
+```
+一幅采用极简儿童绘画风格的[人物]，运用粗白线和闪亮轮廓线勾勒而成。背景柔和虚化，并点缀有[环境细节]。漂浮的[细节]等元素增添了一丝奇幻感。全身像，画面温暖简洁。
+```
+
+<a id="prompt-487"></a>
+## 案例 487：图片的8种初始草图 (来源 [@gizakdag](https://x.com/gizakdag/status/1992620272177004855))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/487.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-图片的8种初始草图">
+</div>
+
+**提示词：**
+```
+Create 8 different initial sketches leading to this final character.
+```
+
+**中文提示词：**
+```
+创建 8 个不同的初始草图，最终形成这个角色。
+```
+
+<a id="prompt-486"></a>
+## 案例 486：超级赛亚人式变身过程 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992699713905140013))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/486.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超级赛亚人式变身过程">
+</div>
+
+**提示词：**
+```
+Create a detailed visual chart showing the full evolution of “Super Saiyan–style transformations”, using an original Saiyan-inspired warrior , depicted in multiple stages from base form to divine transformations
+```
+
+**中文提示词：**
+```
+制作一张详细的图表，展示“超级赛亚人式变身”的完整演变过程，使用一个原创的赛亚人战士形象，并描绘其从基础形态到神级变身的多个阶段。
+```
+
+<a id="prompt-485"></a>
+## 案例 485：彩色手绘风格表情包 (来源 [@Gorden_Sun](https://x.com/Gorden_Sun/status/1992778144605212912))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/485.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-彩色手绘风格表情包">
+</div>
+
+**中文提示词：**
+```
+为我生成图中角色的绘制 Q 版的，LINE 风格的半身像表情包，注意头饰要正确
+彩色手绘风格，使用 4x6 布局，涵盖各种各样的常用聊天语句，或是一些有关的娱乐 meme
+其他需求：不要原图复制。所有标注为手写简体中文。
+生成的图片需为 4K 分辨率 16:9
+```
+
+<a id="prompt-484"></a>
+## 案例 484：制作一个4×4的网格符合年代的风格 (来源 [@blizaine](https://x.com/blizaine/status/1992586719275954558))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/484.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作一个4×4的网格符合年代的风格">
+</div>
+
+**提示词：**
+```
+Make a 4×4 grid starting with the 1880s. In each section, I should appear styled according to that decade (clothing, hairstyle, facial hair, accessories). Use colors, background, & film style accordingly.
+```
+
+**中文提示词：**
+```
+制作一个 4×4 的网格，从 19 世纪 80 年代开始。在每个区域中，我的形象都应该符合该年代的风格（服装、发型、胡须、配饰）。颜色、背景和电影风格也应与之相符。
+```
+
+<a id="prompt-483"></a>
+## 案例 483：诸葛连弩的复古风格工程爆炸图 (来源 [@lxfater](https://x.com/lxfater/status/1992869294569324715))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/483.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-诸葛连弩的复古风格工程爆炸图">
+</div>
+
+**中文提示词：**
+```
+请创建诸葛连弩的复古风格工程爆炸图，里面的文字是中文
+```
+
+<a id="prompt-482"></a>
+## 案例 482：传统的中国工笔水墨画-仙女 (来源 [@dotey](https://x.com/dotey/status/1992450418291466517))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/482.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-传统的中国工笔水墨画-仙女">
+</div>
+
+**提示词：**
+```
+A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds. 
+
+She is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains. 
+
+In the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
+```
+
+**中文提示词：**
+```
+这是一幅传统的中国工笔水墨画，画在古旧的纹理宣纸上。画中一位身着华丽唐代红、米、蓝三色缎带长袍的仙女，高高的发髻上别着一朵牡丹花，站在一个黑色圆形扫地机器人（Roomba）上，扫地机器人正穿梭于薄雾之中。
+
+她右手拿着一个香草冰淇淋甜筒，左手拎着一个棕色的路易威登Monogram帆布手提包。在她下方，一只小猫头鹰背上驮着一只绿色的青蛙，青蛙撑着一把荷叶伞。背景是墨色的云朵和远处的群山。
+
+左上角有书法题字，并印有红色长方形艺术家印章，上面写着“宝玉”。
+```
+
+<a id="prompt-481"></a>
+## 案例 481：传统的工笔风格水墨画 (来源 [@dotey](https://x.com/dotey/status/1992695763017830722))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/481.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-传统的工笔风格水墨画">
+</div>
+
+**提示词：**
+```
+A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a giant turtle swimming calmly through a turbulent river, carrying a playful and anachronistic tableau on its shell:
+At the turtle’s forefront, Tang Sanzang and the Queen of the Women's Kingdom amusingly reenact the iconic scene from the movie Titanic. The Queen stands serenely with arms outstretched like Rose, while Tang Sanzang tenderly embraces her waist from behind like Jack, immersed in romantic sentiment. 
+Behind them, Sha Wujing (Sha Monk) leisurely sits cross-legged, casually holding a fishing rod with a cigarette dangling from his lips, completely relaxed as he fishes. Beside him, Zhu Bajie humorously stands on the turtle’s shell, comically relieving himself into the river, with an exaggeratedly proud expression. Further back, Sun Wukong rides energetically on a surfboard amidst the rolling waves, carrying a modern rocket launcher aimed confidently at a mysterious UFO hovering above.
+Traditional Chinese calligraphy adorns one side of the painting, accompanied by a classic red artist’s seal inscribed "寶玉印". The artwork cleverly blends classical aesthetics with contemporary humor, creating a playful and satirical fusion across eras.
+```
+
+**中文提示词：**
+```
+这是一幅传统的工笔风格水墨画。画面幽默地描绘了一只巨龟在湍急的河流中平静游动，龟壳上驮着一幅滑稽而又略显不合时宜的画作：
+在龟形雕塑的最前排，唐三藏和女国女王正在滑稽地重现电影《泰坦尼克号》中的经典场景。女王像露丝一样，双臂伸展，姿态宁静；唐三藏则像杰克一样，从背后温柔地搂住她的腰，沉浸在浪漫的情愫中。
+在他们身后，沙悟净悠闲地盘腿而坐，嘴里叼着烟，手里拿着鱼竿，悠然自得地垂钓着。他旁边，猪八戒滑稽地站在龟壳上，对着河里撒尿，一副得意洋洋的模样。更远处，孙悟空在翻滚的波浪中活力四射地驾着冲浪板，手里拿着一枚现代火箭筒，自信地瞄准着上方盘旋的神秘UFO。
+画作一侧饰以传统中国书法，并钤有经典的红色艺术家印章“宝玉印”。这幅作品巧妙地融合了古典美学与现代幽默，创造出一种跨越时代的诙谐讽刺之美。
+```
+
+<a id="prompt-480"></a>
+## 案例 480：分格漫画手稿图 (来源 [@lijigang_com](https://x.com/lijigang_com/status/1992900099484320208))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/480.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-分格漫画手稿图">
+</div>
+
+**中文提示词：**
+```
+你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。  
+
+请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！  
+
+不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。
+ ────────────────  
+
+{你提供的待分析内容在此}
+```
+
+<a id="prompt-479"></a>
+## 案例 479：一键OOTD (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992884544278548721))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/479.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一键OOTD">
+</div>
+
+**中文提示词：**
+```
+Create an OOTD collage image.价格你随便填
+
+【构图要求】
+- 左侧放置全身或半身照片的主角（时尚街拍风）
+- 右侧以白底排版列出所有单品
+- 每件单品包含：物品图、品牌名、中文品名、价格
+- 布局整洁、有呼吸感，时尚杂志风格
+
+【视觉风格】
+- 明亮自然街拍光线
+- 真实质感的衣物贴图，呈现清晰材质
+- 右侧采用电商风格白底商品照
+- 字体干净现代（类似无衬线字体）
+- 整体专业、极简、精致
+
+【人物说明】
+- 女性角色，时髦、有气质
+- 穿着：灰色短款针织、条纹衬衫、牛仔外套、深蓝短裙、黑色单鞋（可替换）
+- 造型自然，像真人街拍
+
+【单品列表排版】
+- 以独立小模块方式呈现每件单品
+- 每件单品包括：
+  - 商品照（剪影风）
+  - 品牌名（英文或中文）
+  - 品名（中文）
+  - 价格（人民币）
+
+【整体风格方向】
+- 像小红书/微博时尚博主常用的 OOTD 拼贴
+- 风格年轻、日常、好看、实用
+- 色调统一且具有品牌感
+```
 
 <a id="prompt-478"></a>
 ## 案例 478：全景式角色深度概念分解图 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992621791588835494))
