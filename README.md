@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 493：PS5的技术蓝图 ](#prompt-493)
+*   [案例 492：根据坐标生成图片 ](#prompt-492)
+*   [案例 491：10种不同发型 ](#prompt-491)
 *   [案例 490：一张高分辨率的户外全身照 ](#prompt-490)
 *   [案例 489：艺术家正在绘制自己的微型人偶 ](#prompt-489)
 *   [案例 488：极简儿童绘画风格 ](#prompt-488)
@@ -327,17 +330,51 @@
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-493"></a>
+## 案例 493：PS5的技术蓝图 (来源 [@egeberkina](https://x.com/egeberkina/status/1992173777518813266))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/493.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-PS5的技术蓝图">
+</div>
 
+**提示词：**
+```
+A two-panel technical blueprint diagram in clean monochrome line-art, matching the exact layout of the provided PlayStation 1 schematic. On the left side, draw a full, intact Sony PlayStation 5 console in precise thin line-art on a white background. On the right side, draw a highly detailed, vertically exploded-view diagram of the PS5 showing each internal component separated into layers: outer shell panels, faceplates, cooling fan, heatsink tower, Blu-ray drive, motherboard, SSD module, power supply, internal frame, ports, vents, base stand, screws. Use consistent thin grey line-weight with no shading. Add numbered circular labels around each part, and include a matching numbered parts list at the bottom just like the reference blueprint. Place the SONY logo, PlayStation logo, and “PlayStation 5” text in the top left in the exact same position and style as the uploaded reference image. The entire artwork should mirror the composition, spacing, typography, and minimalist engineering-ma
+```
 
+**中文提示词：**
+```
+绘制一张双面板的技术蓝图，采用简洁的单色线条，布局与提供的 PlayStation 1 原理图完全一致。左侧面板，以精细的细线在白色背景上绘制完整的索尼 PlayStation 5 主机。右侧面板，绘制一张高度详细的 PS5 垂直分解图，将每个内部组件分层展示：外壳面板、面板、散热风扇、散热塔、蓝光光驱、主板、固态硬盘模块、电源、内部框架、接口、通风口、底座支架和螺丝。使用粗细一致的灰色细线，不要添加阴影。在每个部件周围添加编号的圆形标签，并在底部添加与参考蓝图相同的编号部件清单。将 SONY 标志、PlayStation 标志和“PlayStation 5”字样放置在左上角，位置和样式与上传的参考图像完全相同。整幅图应在构图、间距、字体和极简工程风格等方面保持一致。
+```
 
+<a id="prompt-492"></a>
+## 案例 492：根据坐标生成图片 (来源 [@FinanceYF5](https://x.com/FinanceYF5/status/1992830924548104344))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/492.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据坐标生成图片">
+</div>
 
+**中文提示词：**
+```
+生成坐标 36.4602° N, 25.3730° E 的日落图像
+```
 
+<a id="prompt-491"></a>
+## 案例 491：10种不同发型 (来源 [@MrDavids1](https://x.com/MrDavids1/status/1992695614023622734))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/491.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-10种不同发型">
+</div>
 
+**提示词：**
+```
+Create a grid of 10 different hairstyles for this women. List the name of each hairstyle and the brief history about the hairstyle. They can be from any era.
+```
 
-
+**中文提示词：**
+```
+为这位女性创建一个包含10种不同发型的表格。列出每种发型的名称和简要历史。发型可以来自任何时代。
+```
 
 <a id="prompt-490"></a>
 ## 案例 490：一张高分辨率的户外全身照 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992905971891597520))
