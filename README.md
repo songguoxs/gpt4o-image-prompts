@@ -33,6 +33,21 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 508：女子海边电影风格肖像照 ](#prompt-508)
+*   [案例 507：中国各朝代时间轴 ](#prompt-507)
+*   [案例 506：一个全新的Instagram账号 ](#prompt-506)
+*   [案例 505：解数学题 ](#prompt-505)
+*   [案例 504：品牌联名海报 ](#prompt-504)
+*   [案例 503：平抛运动轨迹与速度位移分解图 ](#prompt-503)
+*   [案例 502：老北京航拍 ](#prompt-502)
+*   [案例 501：大唐长安插画 ](#prompt-501)
+*   [案例 500：赛博黄历 ](#prompt-500)
+*   [案例 499：成都旅游地图 ](#prompt-499)
+*   [案例 498：小世界也能成就大故事 ](#prompt-498)
+*   [案例 497：日本乡村公交车站雨夜的场景 ](#prompt-497)
+*   [案例 496：身着一件惊艳的概念前卫礼服 ](#prompt-496)
+*   [案例 495：微缩的温馨客厅 ](#prompt-495)
+*   [案例 494：和路飞的一张超酷自拍 ](#prompt-494)
 *   [案例 493：PS5的技术蓝图 ](#prompt-493)
 *   [案例 492：根据坐标生成图片 ](#prompt-492)
 *   [案例 491：10种不同发型 ](#prompt-491)
@@ -329,6 +344,382 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-508"></a>
+## 案例 508：女子海边电影风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992795956597628978))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/508.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子海边电影风格肖像照">
+</div>
+
+**提示词：**
+```
+A young woman standing on the beach at dusk, captured in a soft emotional film-style portrait. 
+Her dark hair is messy from the sea breeze, strands blowing across her face. 
+She has natural, slightly flushed skin with a subtle grainy texture. 
+Wearing a white spaghetti-strap top and denim bottoms. 
+The background shows dark ocean waves and a moody sky with soft sunset colors—dusty pink, blue-gray, and muted lavender. 
+The overall image features a low-saturation, cool-toned cinematic film filter with soft contrast, slight grain, and a hazy atmosphere. 
+Close-up portrait, melancholic mood, natural lighting, realistic details, 8K.
+```
+
+**中文提示词：**
+```
+黄昏时分，一位年轻女子站在海滩上，被拍摄成一张柔和而富有情感的电影风格肖像照。
+海风吹乱了她乌黑的头发，几缕发丝飘落在她的脸上。
+她的皮肤自然红润，质地略带颗粒感。
+身穿白色吊带背心和牛仔裤。
+背景是深色的海浪和阴郁的天空，夕阳的颜色柔和而朦胧——灰粉色、蓝灰色和淡紫色。
+整体画面采用低饱和度、冷色调的电影胶片滤镜，对比度柔和，颗粒感轻微，氛围朦胧。
+特写人像，忧郁氛围，自然光线，逼真细节，8K分辨率。
+```
+
+<a id="prompt-507"></a>
+## 案例 507：中国各朝代时间轴 (来源 [@bggg_ai](https://x.com/bggg_ai/status/1991674051727880549))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/507.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国各朝代时间轴">
+</div>
+
+**中文提示词：**
+```
+帮我生成超长的竖图，内容是中国各朝代的时间推进介绍信息图。确保朝代都完整。
+```
+
+<a id="prompt-506"></a>
+## 案例 506：一个全新的Instagram账号 (来源 [@shweta_ai](https://x.com/shweta_ai/status/1991536669682721223))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/506.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个全新的Instagram账号">
+</div>
+
+**提示词：**
+```
+Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror selfie, a café shot, friends at dinner, a blurry party photo, a walking shot, a laptop/coffee work shot, a pet moment, a sunset, and a candid laugh.
+```
+
+**中文提示词：**
+```
+生成一个包含 9 张图片的‘照片合集’，展现这个人周末的点点滴滴：一张镜子自拍、一张咖啡馆照片、与朋友共进晚餐的照片、一张模糊的派对照片、一张步行照片、一张笔记本电脑/咖啡工作照片、一张宠物照片、一张日落照片和一张抓拍的笑声。
+```
+
+<a id="prompt-505"></a>
+## 案例 505：解数学题 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991768891966812273))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/505.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-解数学题">
+</div>
+
+**中文提示词：**
+```
+画一张草稿纸，上面是这道题的解法
+```
+
+<a id="prompt-504"></a>
+## 案例 504：品牌联名海报 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/504.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌联名海报">
+</div>
+
+**中文提示词：**
+```
+画幅比例16:9，官方游戏联动海报，杰作，充满活力的《绝区零》动漫风格。  场景: 四位时尚的动漫角色（一位黑夹克粉发女孩是视觉中心，一位银发女孩，一位白发男孩，一位黑发男孩）在未来城市夜晚上摆姿势，每人都拿着一杯可乐。  环境: 这是一个未来城市的夜间街道，整个场景  被巨大、发光的霓虹灯招牌所主导。  一个以风格化的“ZZZ”标志为特色的、巨大且不容错过的霓虹灯招牌，是背景的绝对视觉焦点，在主角们身后闪耀着明亮的光芒。 其他写着“可口可乐”的霓虹灯也同样醒目，将整个场景沐浴在鲜艳的紫色和蓝色光线中。  特殊效果: 草莓和柠檬等水果被包裹在透明气泡中漂浮，发光的粉色和蓝色能量漩涡贯穿画面。  文字元素:  左上角: 显示“绝区零”和“可乐”的Logo，由“X”连接。  底部中央: 一大块醒目的中文文字“绝区零 X 可乐：异能觉醒，双倍快乐！”。字体为粗体、风格化的艺术字，白色填充，带有厚重的紫粉渐变描边。  中文下方: 黑色矩形框内有白色大写英文“LIMITED COLLAB”。  艺术风格: 高度细节，线条干净，来自巨型霓虹灯的电影级光效，动态构图。  负面提示词: 模糊, 低质量, 人体结构崩坏, 手部畸形, 丑陋, 水印, 签名, 乱码文字, 字母变形
+```
+
+<a id="prompt-503"></a>
+## 案例 503：平抛运动轨迹与速度位移分解图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991697151811023274))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/503.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-平抛运动轨迹与速度位移分解图">
+</div>
+
+**中文提示词：**
+```
+平抛运动轨迹与速度位移分解图
+```
+
+<a id="prompt-502"></a>
+## 案例 502：老北京航拍 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/502.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-老北京航拍">
+</div>
+
+**中文提示词：**
+```
+画幅比例16:9，一幅关于精妙含蓄与视觉智慧的杰作。一幅老北京城市肌理的无人机鸟瞰图。核心概念是汉字“衚”**完美无缝地**融入了整个城市景观。
+
+**字体与建筑的融合 (终极的精妙之处):**
+- **无物理高差:** “衚”字不是一个独立的、高耸的或庞大的结构。构成其笔画的墙体，与周围所有的胡同、四合院的墙体，在**高度、材质和风格上完全一致**。它身处肌理之中，而非凌驾其上。
+- **“光影雕刻”:** 汉字的形态并非由结构来凸显，而是由**大师级的、富有氛围感的光影**来呈现。一束低角度的午后斜阳（Raking Light）横扫整个场景。光线刚好捕捉到构成“衚”字形态的墙体的边缘，使其微妙地变亮，同时在其“笔画”（即胡同）内部投下深刻而轮廓分明的阴影。这个字，是被光所揭示，而非被水泥所建造。
+- **“氛围透视”:** 一层纤薄的、贴地的晨雾或霭气，弥漫在周边的庭院和巷陌中，使边缘的细节略微柔化。然而，构成“衚”字形态的那些路径和庭院，则**微妙地更加清晰、对比度更高**，由此形成一个自然的视觉焦点，让隐藏的形状在凝视者的眼中浮现。
+
+**优雅的字体排版布局:**
+保留精致且艺术化的字体设计。
+- **主标题:** 标题“字里京城”被排成一个强有力的单列竖排，位于右侧。背景区域被巧妙地处理成半透明的微妙褪色效果，以确保文字的可读性而不突兀。字体是优雅的“新宋体”风格。一条极细的竖线与文字平行。
+- **信息标签:** 标签文字（“灰瓦”、“国槐”）采用小号、精致的手写体。它们通过一条铅笔在图纸上画出般的、针尖般纤细的手绘曲线连接到物体。**不要有方框，不要有发光效果。**
+
+**美学:**
+整体基调是宁静、引人深思且意境深远的。色调是考究的“高级灰”，以饱和度低的色彩为主，唯一的色彩点缀来自阳光温暖的轻抚。画面拥有一种“众目睽睽下的秘密”般的气质，回报着观者的耐心与洞察力。它是一次具有深刻绘画感和哲学氛围的超写实渲染。
+
+**负面提示词:**
+高耸的墙壁, 雕塑般的汉字, 庞大的结构, 过于明显的汉字形状, 平均的光照, 平光, 发光方框, 未来感UI, 无衬线字体, 抽象, 2D, 色彩鲜艳, 卡通, 糟糕的书法, 水印。
+```
+
+<a id="prompt-501"></a>
+## 案例 501：大唐长安插画 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684207513350329))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/501.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大唐长安插画">
+</div>
+
+**中文提示词：**
+```
+画幅比例16:9，一幅令人叹为观止的插画地图学杰作，描绘了唐代首都长安的地图。整个画面以唐代仕女画的精致风格呈现，令人联想到绘画大师周昉的作品。媒材是在陈旧、细腻的绢本上使用工笔重彩。
+
+**构图与透视:**
+地图采用“散点透视”的长卷形式。城市感觉更像一幅生动的织锦，而非僵硬的蓝图。朱雀大街作为画面的中轴线。
+
+**插画与字体细节:**
+- **作为微型场景的地标:** 关键地点是小巧、精致的叙事场景：
+- **大明宫:** 宫廷仕女在园林中演奏乐器。
+- **西市:** 粟特商人与贵族妇女交易丝绸。
+- **曲江池:** 仕女们正在进行“曲水流觞”。
+- **作为地图元素的优雅人物:** 优雅的唐代仕女被用作装饰元素，她们的姿态和袖带引导着观众的视线。
+
+**一百零八坊 - 高级指令:**
+一百零八坊由一个个优雅的手绘长方形印章来代表。核心目标是用貌似可信的、具有历史感的文字填充这些印章。
+- **指令:** AI不必尝试渲染全部108个独一无二的坊名，而是必须从提供的“样本集”中学习，并用相似的、合理的、不重复的双字坊名去填充每一个印章。
+- **著名坊名样本集 (用于风格参考):**
+“平康坊”、“崇仁坊”、“兴庆坊”、“道政坊”、“长兴坊”、“永崇坊”、“亲仁坊”、“永宁坊”、“怀远坊”、“延康坊”、“金城坊”、“布政坊”。
+- **风格强制要求:** 所有印章内的文字必须是优美、纤细、典雅的“小篆”字体。结构应为“[某][某]坊”。
+
+**主标题与标签:**
+- **主标题:** “大唐长安”以雄浑大气的隶书，竖排书写在右上角。
+- **标签:** 街道（“朱雀大街”）和河流（“渭水”）的名称，以娟秀的行书直接写在绢本背景上，并顺着路径的曲线流动。
+
+**美学与氛围:**
+调色板丰富而华丽（朱砂、石绿、石青、金箔）。线条如“游丝描”般细劲流畅。整体氛围是一种繁华、诗意、优雅的感觉。
+
+**负面提示词:**
+英文, 罗马字母, 3D, 现代地图, 网格布局, 几何形状, 电脑字体, 西方艺术风格, 卡通, 简单, 极简, 空白区域, 水印, 糟糕的书法, 乱码。
+```
+
+<a id="prompt-500"></a>
+## 案例 500：赛博黄历 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684059450253416))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/500.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-赛博黄历">
+</div>
+
+**中文提示词：**
+```
+画幅比例16:9，一张为美团设计的、超级复杂的商业海报，风格是未来主义的道家黄历或符箓图。
+布局与风格: 整张海报是一个密集的、复杂的网格，充满了文字和图标，模仿在泛黄旧纸上的中国传统木版画。所有文字都采用经典的木刻风格楷体或宋体，从右到左竖排。
+中心神像: 中央是一位“外卖神君”，以古版画风格描绘。他身穿黄帝袍，头戴袋鼠耳神冠，一手托着显示美团App的手机，另一手托着外卖餐盒。
+复杂文字网格:
+顶部标题: 在一个华丽的画框中，从右到左写着主标题：“赛博黄历·万事皆宜”。
+环绕网格: 中心神像被代表十二时辰（子、丑、寅…）的网格包围。每个时辰下都有一列竖排文字描述宜忌，例如“宜：點宵夜”和“忌：空腹眠”。
+角落元素: 四角是八卦卦象，每个卦象都与一项美团业务和一个小版画图标相关联（例如，机械马代表共享单车）。
+细节: 海报上装饰着几个红色的、篆书风格的方形印章。整体氛围是古代神秘主义与现代日常生活的融合，一种“赛博道教”美学。杰作，高信息密度。
+负面提示词: 3D, 照片, 现代字体, 横排文字, 极简, 简单, 模糊, 丑陋, 畸形, 糟糕的书法, 水印。
+```
+
+<a id="prompt-499"></a>
+## 案例 499：成都旅游地图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/499.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-成都旅游地图">
+</div>
+
+**中文提示词：**
+```
+画幅比例16:9，一张迷人而精致的成都手绘旅游地图，具有吉卜力工作室艺术设定集般的风格。整个画面是在一张有纹理的、陈旧的羊皮纸上的水彩和钢笔淡彩插画。整体美学风格异想天开、充满活力和生活气息。
+
+地图布局与风格:
+地图以风格化的等轴测视角，展示了成都的核心地标，这些地标被描绘成可爱、精细的微缩建筑和图标（例如，熊猫基地的熊猫、锦里的灯笼、人民公园的茶馆）。布局是有机的、自由流动的，而非基于僵硬的网格。
+
+至关重要的字体排版挑战 (高难度部分):
+所有文字必须以一种优美的、略带不完美感的手写书法风格（行楷）呈现，看起来就像是用绘制插图的同一支钢笔写出来的。
+1.  **主标题:** 主标题“成都慢行图”被艺术性地写在顶部一条飘逸的缎带上。
+2.  **带角度的趣味标签:** 每个地标图标旁边，都以俏皮的、略带倾斜的方式写着它的名字（例如：“宽窄巷子”、“武侯祠”、“杜甫草堂”）。文字需要感觉是有机放置的，而不是死板的水平线。
+3.  **沿路径弯曲的文字:** 一条风格化的锦江贯穿地图。河流的名字“锦江”二字，需要沿着河流的弯曲路径优雅地书写。这是一个关键测试点。
+4.  **融合性的注释:** 地图上散布着小小的、异想天开的注释，这些注释结合了文字和图标。例如：
+    - 一条写着“吃火锅!”的注释，旁边画着一个小小的红辣椒。
+    - 一个“喝茶咯!”的标签，旁边有一个冒着热气的微型茶杯图标。
+    - 区域名称“锦江区”被写在一个手绘的云朵形状里。
+5.  **手绘图例:** 在一个角落，有一个手绘的“图例”方框，里面有小图标（如茶杯、熊猫脸、寺庙屋顶）和它们对应的手写标签。
+6.  **印章:** 一枚红色的、仿佛手工篆刻风格的印章，印着“蓉”字（成都的简称），被盖在角落，并与边框有轻微的重叠。
+
+美学:
+一幅插画地图学的杰作。文字和插图的融合必须天衣无缝。水彩效果要柔和，有可见的水渍和纹理，而钢笔线条则要自信而生动。整体感觉温暖、诱人，充满个性。
+
+负面提示词:
+电脑字体, 计算机生成的文字, 直线, 僵硬的网格, 完美对齐, 只有水平文字, 文字浮层, 照片, 3D, 极简, 通用图标, 拼写错误, 乱码, 水印。
+```
+
+<a id="prompt-498"></a>
+## 案例 498：小世界也能成就大故事 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1992753152903495716))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/498.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-小世界也能成就大故事">
+</div>
+
+**中文提示词：**
+```
+创作一幅高度精细的微缩超现实场景，场景中微小的人物与附图所示的[此处插入品牌和产品名称]产品进行逼真的互动。这些人物应表现得仿佛产品就是他们的整个世界，所有视觉元素都应自然而然地适应产品的形态和特性，没有任何预设的前提。确保人物与产品之间的互动能够巧妙而连贯地体现品牌的形象和预期用途，并采用简洁的视觉构图和极简的背景。运用电影级的灯光、清晰的阴影和锐利的摄影技巧，将[品牌名称]的标志无缝融入场景，并添加一句能够自动适应产品语境的简短标语。要求：1:1 – 超精细 – 照片级写实 – 简洁专业的制作。
+```
+
+<a id="prompt-497"></a>
+## 案例 497：日本乡村公交车站雨夜的场景 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1992864343709663397))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/497.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日本乡村公交车站雨夜的场景">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation_prompt": {
+    "full_text": "An ultra-realistic 8K UHD photograph of a rainy night scene at a rural Japanese bus stop. A person (based on the attached photos, with a normal build) is standing, holding a small red umbrella, wearing a red jumpsuit, blue boots, and a yellow t-shirt, looking to the side with an expression of apprehension and curiosity. Beside him, a gigantic, realistic Totoro creature, with wet fur and a leaf on its head, waits in the rain. The setting includes an aged bus stop sign, dense wet forest trees in the background, and the lighting comes from a dim lamppost and the moon, with realistic rain reflections on the wet asphalt. Wide shot. The face must be sharp and expressive.",
+    "technical_specs": {
+      "medium": "Photograph",
+      "resolution": "8K UHD",
+      "style": "Ultra-realistic",
+      "composition": "Wide shot",
+      "focus": "Sharp and expressive face"
+    },
+    "lighting": {
+      "sources": ["Dim lamppost", "Moon"],
+      "effects": ["Realistic rain reflections on wet asphalt"]
+    },
+    "environment": {
+      "location": "Rural Japanese bus stop",
+      "weather": "Rainy night",
+      "background": "Dense wet forest trees",
+      "props": ["Aged bus stop sign"]
+    },
+    "subjects": [
+      {
+        "type": "Human",
+        "reference_source": "Attached photos",
+        "build": "Normal",
+        "attire": {
+          "clothing": "Red jumpsuit, yellow t-shirt",
+          "footwear": "Blue boots",
+          "accessories": "Small red umbrella"
+        },
+        "pose": "Standing, looking to the side",
+        "expression": "Apprehension and curiosity"
+      },
+      {
+        "type": "Creature",
+        "identity": "Gigantic realistic Totoro",
+        "details": ["Wet fur", "Leaf on head"],
+        "action": "Waiting in the rain"
+      }
+    ]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation_prompt": {
+"full_text": "一张超逼真的8K超高清照片，描绘的是日本乡村公交车站雨夜的场景。照片中，一位身材正常的男子（根据附图）手持一把红色小伞，身穿红色连体裤、蓝色靴子和黄色T恤，侧身看向一旁，脸上带着一丝担忧和好奇。在他身旁，一只巨大的、栩栩如生的龙猫，毛发湿漉漉的，头上顶着一片树叶，在雨中等待着。场景中包含一块老旧的公交车站牌，背景是茂密的湿润森林，光线来自昏暗的路灯和月光，雨水在湿漉漉的沥青路面上倒映出逼真的光影。广角镜头。面部表情必须清晰且富有表现力。"
+"technical_specs": {
+“媒介”：“照片”，
+分辨率：8K 超高清，
+风格：超写实
+构图：广角镜头，
+“焦点”：“轮廓分明、富有表现力的脸庞”
+},
+“灯光”： {
+“来源”：[“昏暗的路灯”，“月亮”]，
+“效果”：[“湿沥青路面上逼真的雨水反射”]
+},
+“环境”： {
+"地点": "日本乡村巴士站",
+“天气”：“雨夜”，
+“背景”：“茂密的湿润森林树木”，
+道具：[“老旧的公交车站牌”]
+},
+“主题”：[
+{
+“类型”：“人类”，
+"reference_source": "附图",
+"构建": "正常",
+着装：{
+“服装”：“红色连体裤，黄色T恤”，
+“鞋类”：“蓝色靴子”，
+“配件”： “红色小伞”
+},
+“姿势”：“站立，侧视”，
+“表情”：“忧虑和好奇”
+},
+{
+"type": "生物",
+“身份”：“巨大的逼真龙猫”，
+细节：[“湿漉漉的毛皮”，“头上的叶子”]
+“动作”：“在雨中等待”
+}
+]
+}
+}
+```
+
+<a id="prompt-496"></a>
+## 案例 496：身着一件惊艳的概念前卫礼服 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1992650501402542303))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/496.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身着一件惊艳的概念前卫礼服">
+</div>
+
+**提示词：**
+```
+(full body shot, wide angle view:1.2), [A woman], in a dynamic pose with arm outstretched, wearing a spectacular conceptual avant-garde gown. The bodice is a fitted (colorful patterned patchwork tapestry fabric:1.3). The skirt is NOT fabric and NOT simple ribbons. The skirt is constructed entirely from (GIANT, MASSIVE 3D PERSIAN CALLIGRAPHY STROKES cut from matte paper:1.6). (A violent wind effect blows the calligraphy structure upwards and outwards to the left:1.5), creating a huge swirling anti-gravity vortex of letters that billows like smoke high into the air. The right side of the skirt anchors to the floor. Dramatic color gradient: The floating strokes on the left are (fiery orange and bright red:1.4), transitioning smoothly across the body to (deep teal, emerald green, and dark blue strokes on the bottom right:1.4). White minimalist studio background with (distinctive patterned gobo shadows cast on the wall:1.3). Cinematic lighting, hyper-detailed paper texture, masterpiece, 8k. (simple ribbons with writing on them:1.6), (thin paper strips:1.5), (small text:1.4), standard fabric skirt, normal dress, metallic texture, shiny plastic, glossy finish, wire mesh, angel wings, feathers attached to back, symmetrical skirt, messy background, low quality, blurry.
+```
+
+**中文提示词：**
+```
+（全身镜头，广角：1.2），[一位女性]摆出一个动态的姿势，手臂伸展，身着一件惊艳的概念前卫礼服。紧身胸衣采用（色彩斑斓的图案拼接挂毯面料：1.3）。裙摆并非布料，也并非简单的丝带。裙摆完全由（巨大的、巨大的3D波斯书法笔触，由哑光纸切割而成：1.6）构成. (一阵强风将这些书法结构向上向左吹拂：1.5），形成一个巨大的、旋转的、反重力的字母漩涡，如同烟雾般高高升腾。裙摆右侧固定在地面上。戏剧性的色彩渐变：左侧漂浮的笔触是（炽热的橙色和鲜红色：1.4），平滑地过渡到（右下角的深青色、翠绿色和深蓝色笔触：1.4）。白色极简主义工作室背景，墙上投射着独特的图案投影：1.3。电影级灯光，超精细的纸张纹理，杰作，8K。（带有文字的简单丝带：1.6），（细纸条：1.5），（小字：1.4），标准布料裙子，普通连衣裙，金属质感，闪亮塑料，光泽表面，金属网，天使翅膀，背部附有羽毛，对称裙子，凌乱的背景，低质量，模糊。
+```
+
+<a id="prompt-495"></a>
+## 案例 495：微缩的温馨客厅 (来源 [@egeberkina](https://x.com/egeberkina/status/1992654337815007678))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/495.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩的温馨客厅">
+</div>
+
+**提示词：**
+```
+A photorealistic ESC keycap scene shows a miniature cozy living room setup. Inside: a glowing red Netflix screen, a plush red couch, popcorn bowl, and throw blanket. A small figure lounges with feet up, watching content. The red “N” logo glows from behind like mood lighting. Outside: cool tech-blue reflections on F1, Shift, and Q keys. The word “ESC” is subtly present in a glassy fog on top of the cap.
+```
+
+**中文提示词：**
+```
+一张逼真的 ESC 键帽场景图展现了一个微缩的温馨客厅。室内：一台闪着红光的 Netflix 屏幕、一张柔软的红色沙发、一碗爆米花和一条毯子。一个小人儿懒洋洋地翘着二郎腿，正在观看视频。红色的“N”字标志从后面透出光芒，如同氛围灯一般。室外：F1、Shift 和 Q 键上反射着酷炫的科技蓝光。“ESC”字样则以朦胧的玻璃质感隐约出现在键帽顶部。
+```
+
+<a id="prompt-494"></a>
+## 案例 494：和路飞的一张超酷自拍 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992707230505009620))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/494.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和路飞的一张超酷自拍">
+</div>
+
+**提示词：**
+```
+Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted. Use a Thousand Sunny deck background with bright blue sky. Keep the selfie composition intact and integrate both characters naturally.
+```
+
+**中文提示词：**
+```
+让路飞站在男子旁边，咧嘴一笑，草帽微微倾斜。背景使用千阳号的甲板，天空湛蓝明亮。保持自拍构图完整，自然地将两个人物融入画面。
+```
 
 <a id="prompt-493"></a>
 ## 案例 493：PS5的技术蓝图 (来源 [@egeberkina](https://x.com/egeberkina/status/1992173777518813266))
