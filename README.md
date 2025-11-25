@@ -33,6 +33,8 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 523：一张年轻女性的逼真特写自拍照 ](#prompt-523)
+*   [案例 522：衣橱拆解与风格分析 ](#prompt-522)
 *   [案例 521：绘制[地标]的手绘等距示意图 ](#prompt-521)
 *   [案例 520：龙珠卡牌 ](#prompt-520)
 *   [案例 519：高端工作室照片 ](#prompt-519)
@@ -357,6 +359,192 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-523"></a>
+## 案例 523：一张年轻女性的逼真特写自拍照 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1993206753236787443))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/523.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张年轻女性的逼真特写自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "subject": "Baby ꕤ Blue",
+  "description": "Create a realistic close-up selfie of a young woman (face must be 100% unchanged). The photo is taken with a digital camera in a dimly lit room using a powerful camera flash, creating sharp contrast between the illuminated face and the dark background. The color tones combine a cozy feeling with modern simplicity, featuring cool tones and soft textures of the knitted clothing.",
+  "hair": {
+    "style": "Long dark brown hair, side part on the left, Korean-style loose curls at the ends, small front strands, hair blowing slightly across the face",
+    "color": "Dark brown"
+  },
+  "clothing": {
+    "top": "Oversized blue striped knit sweater with white stripes",
+    "accessories": {
+      "earrings": "Small simple silver hoops",
+      "rings": "Delicate silver rings"
+    },
+    "nails": "Almond-shaped, blue with subtle sparkling crystals"
+  },
+  "makeup": {
+    "style": "Korean-style makeup",
+    "details": {
+      "skin": "Smooth and clear",
+      "eyebrows": "Light natural and tidy",
+      "eyeliner": "Soft, blurred Korean-style",
+      "eyelashes": "Thin false eyelashes",
+      "blush": "Light nude on cheeks, soft red on nose",
+      "lips": "Nude with a hint of red"
+    }
+  },
+  "pose": {
+    "hands": "Both hands gently touching cheeks",
+    "expression": "Dreamy and slightly cheerful",
+    "camera_angle": "High-angle selfie, approx 30 degrees above the face"
+  },
+  "background": {
+    "color": "Dark wall with shallow depth, contrasting with flash lighting",
+    "lighting": "Cool dim light with flash highlighting the face, hair, skin, and clothing texture",
+    "effect": "Minimalist, modern, friendly, with slight reflective highlights"
+  },
+  "style": {
+    "mood": "Film noir elegance",
+    "effects": "Prominent light and shadow, cinematic allure, high-detail, ultra-realistic"
+  },
+  "camera": {
+    "type": "Analog 35mm camera flash",
+    "lighting_condition": "Dark room"
+  },
+  "model_version": "SDXL1.0"
+}
+```
+
+**中文提示词：**
+```
+{
+主题："Baby ꕤ Blue",
+描述：拍摄一张年轻女性的逼真特写自拍照（面部必须完全不变）。照片需在光线昏暗的房间内使用数码相机拍摄，并使用强力闪光灯，使明亮的脸部与黑暗的背景形成鲜明对比。色彩搭配应兼具温馨舒适与现代简约风格，以冷色调和针织服装的柔软质感为特色。
+“头发”： {
+“发型”：“深棕色长发，左侧分，发尾韩式蓬松卷曲，前额留有几缕碎发，头发微微飘动，遮住脸庞。”
+颜色：深棕色
+},
+“衣服”： {
+上衣：宽松的蓝色条纹针织毛衣，带有白色条纹。
+“配件”： {
+“耳环”：“小巧简约的银色耳环”，
+“戒指”：精致的银戒指
+},
+“指甲”：杏仁形，蓝色，带有闪亮的水晶
+},
+“化妆品”： {
+“风格”：“韩式妆容”，
+“细节”： {
+“肌肤”：“光滑透亮”，
+“眉毛”：“清淡自然，整齐干净”，
+“眼线”: “柔和、晕染的韩式”
+“假睫毛”： “纤细的假睫毛”，
+“腮红”：“脸颊上淡淡的裸色，鼻子上柔和的红色”，
+“唇部”：“裸色带一丝红色”
+}
+},
+"姿势": {
+“双手”：“双手轻轻抚摸脸颊”，
+“表情”：“梦幻而略带欢快”
+"camera_angle": "高角度自拍，镜头距离面部约30度"
+},
+“背景”： {
+“颜色”：“深色墙壁，深度较浅，与闪光灯照明形成对比”，
+“照明”：“冷色调的昏暗灯光，闪光灯突出面部、头发、皮肤和衣服的纹理”，
+效果：简约、现代、友好，略带反光效果
+},
+“风格”： {
+“氛围”：“黑色电影的优雅”，
+“效果”：“鲜明的光影、电影般的魅力、高细节、超逼真”
+},
+“相机”： {
+"type": "模拟35mm相机闪光灯",
+"lighting_condition": "黑暗的房间"
+},
+"model_version": "SDXL1.0"
+}
+```
+
+<a id="prompt-522"></a>
+## 案例 522：衣橱拆解与风格分析 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1993194975169781882))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/522.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-衣橱拆解与风格分析">
+</div>
+
+**提示词：**
+```
+**Task: Create a comprehensive "Wardrobe Deconstruction and Style Profile" collage based on an uploaded image.**
+
+**Objective:**
+Act as a professional fashion archivist and technical designer. Given an uploaded image of a person, generate a visually compelling, high-resolution "Style Profile" collage that meticulously deconstructs their entire ensemble, from the outermost layer to the foundational structure. The final output must be a single, cohesive, photorealistic image.
+
+**Core Elements:**
+
+1.  **Central Subject Image:**
+    *   Place the subject from the uploaded image in a full-body pose as the central focus.
+    *   Maintain the subject's likeness (face, hair, clothing) while enhancing the image to a professional, high-fashion photographic standard.
+
+2.  **Complete Ensemble Deconstruction (Photorealistic Product Shots):**
+    *   Generate a visual breakdown of the subject's attire, presenting each item as a separate, high-quality product photograph. This breakdown must include:
+        *   **Outer and Mid-Layers:** All visible garments and accessories.
+        *   **Foundational Elements:** A technical illustration of the essential structural garments that provide shape and support to the silhouette (e.g., a bra, slip, or specific underlayer). These elements must be rendered as **objective, flat-lay design schematics** with a focus on material and construction, not on the human form.
+    *   Include detailed close-ups of key materials (e.g., fabric weave, leather texture, metal finish) to emphasize quality and design.
+
+3.  **Lifestyle & Contextual Items:**
+    *   Based on the subject's style, infer and generate a collection of 4-6 photorealistic items that suggest their likely environment, interests, or daily routine.
+
+4.  **Expression & Detail Sheet:**
+    *   Generate a series of 3-4 close-up portraits showing a range of natural, context-appropriate expressions.
+
+**Aesthetic and Layout Guidelines:**
+
+*   **Overall Style:** Strictly **Hyper-realistic, photographic style**. Absolutely no illustration, anime, or hand-drawn elements.
+*   **Layout:** Arrange all elements in a **clean, balanced, and modular collage** on a neutral background (white or light gray). The layout must be visually logical and professional, resembling a high-end fashion technical document.
+*   **Annotations:** Use a clean, minimalist font for all text.
+    *   **Title:** Generate a professional, gender-neutral title (e.g., "Technical Deconstruction: The Urban Minimalist").
+    *   **Labels:** Add brief, descriptive labels for all deconstructed items, including the "Foundational Elements," using technical terms (e.g., "Structural Support Garment," "Base Layer").
+
+**Crucial Instruction:** The rendering of all "Foundational Elements" must be purely technical and objective, presented as a **design schematic or flat-lay product shot** to emphasize construction and material, completely detached from the central subject's body.
+```
+
+**中文提示词：**
+```
+**任务：根据上传的图片，制作一份全面的“衣橱拆解与风格分析”拼贴画。 **
+
+**目标:**
+扮演专业时尚档案管理员和技术设计师的角色。根据上传的人物照片，生成一幅视觉冲击力强、高分辨率的“风格档案”拼贴画，细致入微地解构其整体造型，从最外层到最内层结构。最终成果必须是一张完整、连贯、逼真的图像。
+
+**核心要素:**
+
+1.  **中心主题图像:**
+* 将上传图片中的人物以全身姿势作为中心焦点。
+* 在保持拍摄对象（面部、头发、服装）特征的同时，将图像提升至专业、高级时尚摄影标准。
+
+2.  **完整整体解构（照片级产品照片） :**
+* 生成一份人物服装的视觉分解图，将每件单品单独拍摄成高质量的产品照片。这份分解图必须包含：
+* **外层和中间层:**所有可见的服装和配饰。
+* **基础元素:**为塑造身形和支撑身体轮廓的基本结构性服装（例如，胸罩、衬裙或特定内衬）提供技术图示。这些元素必须以**客观的平铺设计示意图**的形式呈现，重点在于材料和结构，而非人体形态。
+* 添加关键材料（例如织物编织、皮革纹理、金属表面处理）的详细特写镜头，以强调质量和设计。
+
+3.  **生活方式和环境因素:**
+* 根据人物的风格，推断并生成 4-6 件逼真的物品，以暗示其可能的环境、兴趣或日常生活。
+
+4.  **表达式和详细信息表:**
+* 拍摄 3-4 张特写肖像，展现一系列自然、符合情境的表情。
+
+**美学和布局指南:**
+
+* **整体风格:**严格**超写实、摄影风格**.绝对没有插图、动漫或手绘元素。
+* **版式:**将所有元素以简洁、平衡且模块化的拼贴形式排列 ( ** **背景为中性色（白色或浅灰色）。版式必须在视觉上逻辑清晰且专业，类似于高端时尚技术文档。
+* **注释:**所有文本均使用简洁的字体。
+* **标题:**生成一个专业的、性别中立的标题（例如，“技术解构：城市极简主义”）。
+* **标签:**为所有拆解的物品添加简短的描述性标签，包括“基础元素”，使用技术术语（例如，“结构支撑服装”、“基础层”）。
+
+**关键指导:**所有“基础元素”的呈现必须纯粹是技术性的和客观的，以**设计示意图或平铺产品照片**的形式呈现，以强调结构和材料，完全脱离中心主体的身体。
+```
 
 <a id="prompt-521"></a>
 ## 案例 521：绘制[地标]的手绘等距示意图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993026620274131247))
