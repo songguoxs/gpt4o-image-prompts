@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 521：绘制[地标]的手绘等距示意图 ](#prompt-521)
+*   [案例 520：龙珠卡牌 ](#prompt-520)
+*   [案例 519：高端工作室照片 ](#prompt-519)
+*   [案例 518：极简主义鸡尾酒摄影 ](#prompt-518)
+*   [案例 517：动漫转真人 ](#prompt-517)
 *   [案例 516：配料合成食材 ](#prompt-516)
 *   [案例 515：担担面高级海报 ](#prompt-515)
 *   [案例 514：复刻图片提示词 ](#prompt-514)
@@ -352,6 +357,204 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-521"></a>
+## 案例 521：绘制[地标]的手绘等距示意图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993026620274131247))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/521.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-绘制[地标]的手绘等距示意图">
+</div>
+
+**提示词：**
+```
+Create a hand drawn isometric schematic diagram of [LANDMARK]. 1080x1080 dimension
+```
+
+<a id="prompt-520"></a>
+## 案例 520：龙珠卡牌 (来源 [@servasyy](https://x.com/servasyy/status/1993337294477218061))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/520.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-龙珠卡牌">
+</div>
+
+**提示词：**
+```
+A 3x3 grid layout displaying 9 different premium Japanese TCG collectible card designs, each featuring Son Goku in Super Saiyan form with unique battle scenes.
+
+Overall Composition: 9 vertical trading cards (9:16 ratio each) arranged in a perfect 3x3 grid with thin spacing between cards.
+
+Each Card Contains:
+
+Son Goku (SSR rarity) in dynamic charging attack poses with clenched fists
+
+Golden lightning-shaped ki aura spiraling upward with intense particle burst effects
+
+Shattered rocky ground and dark thunder clouds (motion-blurred backgrounds)
+
+Radial golden speed lines in mid-ground
+
+Flying debris rocks and energy sparks in foreground
+
+Holographic foil texture with glow effects on energy areas
+
+Top-left: "SSR" metallic badge with golden light rays
+
+Border: Futuristic tech frame with lightning pattern decorations
+
+Bottom: Black hexagonal nameplate "SON GOKU (UI SIGN)" in metallic gold font
+
+9 Different Scenes (varied poses and angles):
+
+Frontal charging punch
+
+Side aerial kick with energy burst
+
+Kamehameha charging stance
+
+Spinning attack with motion trails
+
+Upward rising power-up pose
+
+Downward diving strike
+
+Energy sphere preparation
+
+Defensive counter stance
+
+Final impact explosion moment
+
+Consistent Color Palette Across All Cards:
+
+Primary: Radiant gold (#FFD700) and electric blue (#00BFFF)
+
+Contrast: Deep purple (#4B0082)
+
+Highlights: Pure white (#FFFFFF) with bloom
+
+Shadows: Deep blue-black (#001F3F)
+
+Technical Specs: Ultra detailed TCG card art collection, multiple dynamic action poses, explosive energy burst effects, professional digital illustration, dramatic cinematic lighting, motion blur effects, Dragon Ball Z/Super official trading card aesthetic, Bandai Carddass premium quality, holographic rainbow foil treatment on all cards
+```
+
+<a id="prompt-519"></a>
+## 案例 519：高端工作室照片 (来源 [@MayorKingAI](https://x.com/MayorKingAI/status/1993040352987824579))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/519.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端工作室照片">
+</div>
+
+**提示词：**
+```
+Create a high-end 8k studio photograph. The person from the reference is standing on the left side, posing with a [POSE] attitude and wearing [CLOTHING]. To their right, dominating the scene, stands a GIANT, human-scale monolithic smartphone (floor-standing). The massive screen is on and displays a crystal-clear, authentic [SOCIAL APP] user interface. Key visible details on the screen must be sharp and legible and appear exactly as they would in the real app's layout: the profile picture (matching the subject), the username "@[USERNAME]", the follower count "[FOLLOWER COUNT]" displayed realistically within the standard profile stats area (not artificially enlarged), and a consistent feed of posts below. Premium studio lighting with the screen casting a subtle glow on the subject. Clean minimalist white background
+```
+
+**中文提示词：**
+```
+创作一张高端 8K 工作室照片。参考人物站在左侧，摆出 [POSE] 姿势，身着 [CLOTHING]。在其右侧，占据画面中心位置的是一部巨大的、与真人大小相当的落地式智能手机。巨大的屏幕已开启，显示着清晰逼真的 [SOCIAL APP] 用户界面。屏幕上的关键可见细节必须清晰易读，并且与真实应用中的布局完全一致：个人资料照片（与拍摄对象相符）、用户名"@[ USERNAME]、粉丝数 [FOLLOWER COUNT]（真实显示在标准个人资料统计区域内，而非人为放大），以及下方持续更新的帖子信息流。使用高级工作室灯光，屏幕散发出柔和的光晕，照亮拍摄对象。背景为简洁的白色背景。
+```
+
+<a id="prompt-518"></a>
+## 案例 518：极简主义鸡尾酒摄影 (来源 [@egeberkina](https://x.com/egeberkina/status/1992950387616485874))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/518.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简主义鸡尾酒摄影">
+</div>
+
+**提示词：**
+```
+{
+  "style": "Ultra-minimalist cocktail photography with a soft beige backdrop, an elegant coupe glass centered in the frame, diffused natural lighting, and a subtle shadow to the right. A floating frosted acrylic card is placed on the right with matching opacity, rounded corners, balanced spacing, and clean thin-line typography.",
+
+  "cocktail": {
+    "name": "Ruby Melon Light",
+    "ingredients": [
+      "Vodka",
+      "Fresh Watermelon Juice",
+      "Lime Juice",
+      "Agave Syrup",
+      "Watermelon Slice"
+    ],
+
+    "levels": {
+      "Sweet": "●●●○○",
+      "Sour": "●●○○○",
+      "Salty": "○○○○○",
+      "Creamy": "●○○○○"
+    },
+
+    "tag": "LIGHT & FRESH",
+    "price": "$12 USD"
+  },
+
+  "card_design": {
+    "layout": "Title placed at the top-left, ingredients listed vertically, a thin divider line separating sections, a level block using dot ratings, a minimal plant-like graphic on the right, and the tag with price at the bottom.",
+    "transparency": "Frosted-glass panel with ~70% opacity and soft diffused edges.",
+    "corner_radius": "Small rounded corners for a sleek modern look.",
+    "font": "Thin, clean sans-serif typography."
+  },
+
+  "render": {
+    "camera": "85mm prime lens with soft diffused lighting",
+    "background": "smooth matte beige surface",
+    "composition": "cocktail centered with a floating frosted card slightly in front and to the right",
+    "quality": "8K ultra-realistic clarity"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+风格：极简主义鸡尾酒摄影，柔和的米色背景，优雅的香槟杯置于画面中央，柔和的自然光线，右侧略带阴影。右侧放置一张与背景透明度相匹配的磨砂亚克力卡片，圆角设计，间距均衡，字体简洁纤细。
+
+"鸡尾酒": {
+"name": "Ruby Melon Light",
+“原料”： [
+“伏特加酒”，
+“鲜榨西瓜汁”
+“青柠汁”，
+“龙舌兰糖浆”，
+“西瓜片”
+],
+
+"级别": {
+“甜”: “ ●●●○○ “,
+“酸”： “ ●●○○○ “，
+“咸的”: “ ○○○○○ “，
+“奶油味”： ●○○○○
+},
+
+标签：清淡爽口
+价格：12 美元
+},
+
+"card_design": {
+“布局”：“标题位于左上角，配料垂直排列，各部分之间用细线分隔，采用点状评级的水平模块，右侧是简约的植物图案，底部是价格标签。”
+“透明度”：“磨砂玻璃面板，不透明度约为70%，边缘柔和扩散。”
+"corner_radius": "小圆角，打造时尚现代的外观。"
+字体：纤细、简洁的无衬线字体。
+},
+
+“使成为”： {
+“相机”：“85mm 定焦镜头，柔和漫射光”，
+“背景”: “光滑的哑光米色表面”
+“构图”：“鸡尾酒位于中心，一张漂浮的磨砂卡片略微偏前偏右”，
+“画质”: “8K 超逼真清晰度”
+}
+}
+```
+
+<a id="prompt-517"></a>
+## 案例 517：动漫转真人 (来源 [@gizakdag](https://x.com/gizakdag/status/1993010965752037832))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/517.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫转真人">
+</div>
+
+**提示词：**
+```
+Create a realistic photo of this character.
+```
 
 <a id="prompt-516"></a>
 ## 案例 516：配料合成食材 (来源 [@servasyy](https://x.com/servasyy/status/1992968777013850371))
