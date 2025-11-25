@@ -33,6 +33,14 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 516：配料合成食材 ](#prompt-516)
+*   [案例 515：担担面高级海报 ](#prompt-515)
+*   [案例 514：复刻图片提示词 ](#prompt-514)
+*   [案例 513：labubu风格动态 ](#prompt-513)
+*   [案例 512：高清杂志跨页 ](#prompt-512)
+*   [案例 511：最后的晚餐 ](#prompt-511)
+*   [案例 510：宫崎骏的角色走进最后的晚餐 ](#prompt-510)
+*   [案例 509：记忆宫殿学习英语 ](#prompt-509)
 *   [案例 508：女子海边电影风格肖像照 ](#prompt-508)
 *   [案例 507：中国各朝代时间轴 ](#prompt-507)
 *   [案例 506：一个全新的Instagram账号 ](#prompt-506)
@@ -344,6 +352,232 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-516"></a>
+## 案例 516：配料合成食材 (来源 [@servasyy](https://x.com/servasyy/status/1992968777013850371))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/516.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-配料合成食材">
+</div>
+
+**提示词：**
+```
+Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom with extra spacing before the final dish:
+
+1) Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder
+
+2) Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered
+
+3) Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands
+
+4) Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first
+
+5) Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack
+
+6) Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room
+
+7) Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.
+
+Each layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".
+
+NO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
+
+<a id="prompt-515"></a>
+## 案例 515：担担面高级海报 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992989895850430908))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/515.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-担担面高级海报">
+</div>
+
+**提示词：**
+```
+At the very top center of the composition, floating prominently above the ingredient layers, is a luxurious title label. The text reads "担担面 DAN DAN NOODLES" rendered in expressive, handwritten Chinese brush calligraphy (毛笔字) style. The lettering possesses a heavy, three-dimensional sculpted gold metal texture (金属质感) with a brushed finish, warm golden sheen, and realistic metallic reflections catching the dramatic studio lighting. It looks like forged gold brushstrokes floating in space.
+Premium Chinese noodle restaurant food poster featuring deconstructed layers of Dan Dan Noodles / Spicy Sichuan Noodles floating in vertical stack on pure black background (#000000). Seven distinct layers from top to bottom (below the main gold title) with extra spacing before the final dish:
+ * Top layer: pile of bright red dried chili flakes and golden-brown Sichuan peppercorn powder
+ * Second layer: light yellow crushed peanuts and vibrant green chopped scallions scattered
+ * Third layer: coiled handmade alkaline noodles in pale yellow, showing clear texture and strands
+ * Fourth layer: yellow bean sprouts (yacai) and bright green peas scattered - these vegetables would be placed in the bowl first
+ * Fifth layer: transparent glass bowl filled with deep red spicy chili oil broth, floating chili pieces visible, glossy surface with reflections - this soup base is poured over the vegetables, so it appears BELOW the vegetables in the vertical stack
+ * Sixth layer: EMPTY SPACE - a larger gap with only subtle floating oil droplets, steam wisps, and small ingredient particles drifting down, creating visual separation and breathing room
+ * Bottom/Final layer (with significantly larger gap above): a complete finished Dan Dan Noodles dish in a traditional dark brown ceramic bowl, viewed from the same 45-degree angled perspective as all other layers above. The bowl contains all ingredients combined - pale yellow noodles coated in glossy red chili oil, topped with crushed peanuts, bright green chopped scallions, bean sprouts, peas, and red chili flakes sprinkled on top. The noodles look freshly mixed and glistening with oil, subtle steam rising. This finished bowl is at the same scale and viewing angle as the deconstructed ingredients above. The extra spacing above emphasizes this as the final result, creating a dramatic reveal of the transformation from separated components to complete dish.
+Each layer separated with gaps revealing textures and details. Layers 1-5 have normal spacing between them. Layer 6 is an intentional empty transition space with double or triple the normal gap distance. Layer 7 (finished dish) sits at the bottom with clear visual separation. Chinese and English bilingual labels with elegant arrows pointing to each component: "辣椒油&花椒粉 Chili Oil & Sichuan Pepper Powder", "麻辣风味 Numbing & Spicy Flavor", "花生碎&葱花 Crushed Peanuts & Scallions", "手工碱面 Handmade Noodles", "芽菜&豌豆 Yacai & Peas", "丰富配料 Rich Toppings", "红油汤底 Spicy Red Broth", "成品 Finished Dish".
+NO white pedestal, NO platform base. All layers float freely in space against pure black background. Dramatic studio lighting from 45-degree angle, rim lighting highlighting textures and glass bowl transparency. All layers including the finished bowl and the top gold title share identical lighting, perspective angle, and photorealistic quality. Subtle steam effects, oil droplets floating around layers, with more particles in the empty transition space. Star sparkle effect in bottom right corner near the finished dish. Dark moody aesthetic, luxurious commercial food photography style, ultra-realistic, highly detailed, professional restaurant advertising quality, 9:16 vertical format.
+```
+
+<a id="prompt-514"></a>
+## 案例 514：复刻图片提示词 (来源 [@Jackywine](https://x.com/Jackywine/status/1993110891404116143))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/514.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复刻图片提示词">
+</div>
+
+**中文提示词：**
+```
+详细描述完整的图像复刻 JSON 提示词，包含物体、服装、头发、细节、配饰、摄像设备、环境、灯光、风格、身体动态，一切都要详细复刻原图，最终输出一个优化的元提示词， 800 字
+```
+
+<a id="prompt-513"></a>
+## 案例 513：labubu风格动态 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992980014841925773))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/513.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-labubu风格动态">
+</div>
+
+**提示词：**
+```
+# System Prompt: 
+Pop Mart "The Monsters" x Real Human Fashion Editorial Generator
+
+**Role:** Senior Art Director & IP Collaboration Specialist.
+**Expertise:** Photorealistic Character Fusion, Commercial Fashion Layout, and "Digital Twin" Identity Preservation.
+
+**CORE DIRECTIVE:**
+Generate a high-end fashion magazine spread merging a **Real Human User** (with strict identity preservation) and a **Pop Mart IP Character** (The Monsters Family). They must be styled as "Fashion Partners" with active interaction.
+
+## 1. The "Twin-Subject" Composition
+
+### A. The Anchor: Real Human (Strict Constraint)
+* **Identity Lock:** You MUST strictly adhere to the facial features, hair color/style, and body proportions of the uploaded user reference image. Do not alter the user's identity.
+* **Outfit Replication:** Precisely replicate the clothing items from the reference (e.g., Khaki jacket, plaid lining, lace tunic, split-pattern tie, newsboy cap).
+* **Expression:** Natural, confident, suitable for a street snap.
+
+### B. The Companion: Pop Mart IP Character (Dynamic Selection)
+* **Character Logic:** Select a character from "The Monsters" family that best fits the outfit's vibe:
+    * *Labubu:* For playful, mischievous, or casual styles.
+    * *Zimomo:* For cooler, edgier, or more "boss-like" outfits (distinctive tail and ears).
+    * *Tycoco:* For quirky, avant-garde, or skeletal/structure-heavy looks.
+* **"Miniature Couture" Styling:** The chosen character must wear a **custom-tailored miniature version** of the user's outfit. The clothes should fit their unique body shape (e.g., cap sits around Labubu's ears; tie fits Zimomo's shorter neck).
+* **Material Reality:** Render the character with hyper-realistic textures (e.g., plush fur for Labubu/Zimomo, matte vinyl for others) contrasting with the realistic fabric of the clothes.
+
+### C. Interaction Dynamics (Crucial)
+* **Active Engagement:** The Human and the Character must interact, not just pose side-by-side.
+    * *Examples:* High-fiving, the character sitting on the user's shoulder, the user fixing the character's tie, holding hands walking, or looking at a phone together.
+* **Scale:** The character should be approximately knee-height (walking) or shoulder-sized (carrying), consistent with "life-sized toy" physics.
+
+## 2. Visual Aesthetics & Layout
+
+### A. Background & Atmosphere
+* **Setting:** Realistic urban street photography context (blurred for depth).
+* **Lighting:** Coherent lighting source (Sunlight/Streetlight) hitting both the Human and the Character from the same angle to ensure they look like they inhabit the same physical space.
+
+### B. Artistic Layout (Magazine Style)
+* **Dynamic Boundaries:** Use artistic dividers (Brush strokes, paper tears, fluid geometric shapes) to separate the "Lifestyle Image" (Left, ~60%) from the "Utility Sidebar" (Right, ~40%).
+* **Typography:** Include a catchy, stylish headline overlay (e.g., "MONSTER STYLE", "CITY TWINS", "ZIMOMO x [User Name]").
+
+## 3. Sidebar Utility & Data
+
+### A. Mood & Occasion Tags
+* **Function:** Provide context for the outfit.
+* **Format:** Stylish tags or floating text.
+    * *Example:* "Situation: Coffee Run", "Mood: Cheeky", "Vibe: Retro Workwear".
+
+### B. Smart Color Analysis (色卡)
+* **Visual:** A dedicated section showing the **Color Palette** of the outfit.
+* **Format:** A strip of 5 circles/squares extracting the dominant colors (e.g., Khaki, Burgundy, Forest Green, Cream, Brown) with Hex codes or Pantones.
+
+### C. Item Breakdown (Classic)
+* **List:** The 5 key items (Cap, Jacket, Top, Tie, Boots).
+* **Style:** Isolated "Ghost Mannequin" cutouts.
+* **Text:** Bold "**OOTD STYLE**" header, Chinese item name, and Price (¥).
+
+## 4. Execution Process
+1.  **Analyze Input:** Identify user face + Outfit details.
+2.  **Select IP:** Choose Labubu, Zimomo, or other based on "Vibe Check".
+3.  **Render Fusion:** Generate the interactive scene with matching lighting.
+4.  **Compose Layout:** Apply the artistic boundary and overlay typography.
+5.  **Final Output:** A seamless integration of Reality and Pop Art.
+```
+
+<a id="prompt-512"></a>
+## 案例 512：高清杂志跨页 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1992985009540698359))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/512.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高清杂志跨页">
+</div>
+
+**中文提示词：**
+```
+Pop Mart "The Monsters" x Real Human Fashion Editorial Generator
+
+Role: Senior Art Director & IP Collaboration Specialist. Expertise: Photorealistic Character Fusion, Commercial Fashion Layout, and "Digital Twin" Identity Preservation.
+CORE DIRECTIVE:Generate a high-end fashion magazine spread merging a Real Human User (with strict identity preservation) and a Pop Mart IP Character (The Monsters Family). They must be styled as "Fashion Partners" with active interaction.
+
+视觉总监控制台已接管。正在调用高端时尚影像生成引擎。
+身份锁定：迪丽热巴 (Dilraba Dilmurat)
+IP 联结：Pop Mart - Labubu (The Monsters)
+风格基调：超现实 × 超真实 / 城市街头 / 高级时装感
+【项目交付：Pop Mart《THE MONSTERS》× 迪丽热巴 高端时尚跨页大片】
+作品名为：《双重曝光：城市奇遇 / DOUBLE EXPOSURE: URBAN ODYSSEY》
+【整体视觉】
+一幅横向展开的 4K 高清杂志跨页。视觉语言融合了纪实街拍的粗颗粒胶片感与超现实主义的精致洁癖感。左右页之间被一道极具张力的“撕裂与颜料涂抹”艺术边界分割，仿佛现实世界被怪诞力量撕开一角。
+【左页 (60%)：主封面大片 Visual Focus】
+光影与场景：
+场景设定在东京涩谷或上海法租界的黄昏街头。金色的夕阳余晖（Golden Hour）从侧后方打入，在迪丽热巴的发丝和 Labubu 的绒毛上勾勒出绝美的金色轮廓光。背景是虚化但可辨识的繁忙十字路口、霓虹灯牌和移动的车流光影，景深极具电影感。
+人物主体（迪丽热巴）：
+面孔 100% 锁定迪丽热巴。她呈现出一种松弛而巨星的街拍状态，身体微侧，回头看向镜头，眼神里交织着酷感与被伙伴逗乐的笑意。她戴着复古报童帽，身着廓形解构的卡其色风衣，领口露出复杂的格纹衬衫与蕾丝打底层次，颈间系着松垮的拼色领带。
+IP 互动（Labubu）：
+一只拥有极其真实毛绒纹理和搪胶面部质感的经典款 Labubu，像一个真实的“等身玩偶”般攀坐在迪丽热巴的左肩。它穿着一套精细度极高的“微缩定制版”卡其风衣和迷你格纹领带。Labubu 脸上挂着标志性的坏笑，一只爪子正淘气地掀起迪丽热巴报童帽的帽檐，仿佛在搞恶作剧。
+版面设计：
+左上角叠加着极具冲击力的时尚衬线字体标题：
+DILRABA × LABUBU
+THE MONSTER ISSUE
+【右页 (40%)：专业边栏内容 Editorial Sidebar】
+氛围标签区 (Top)：
+在撕裂边界的右侧，悬浮着半透明的胶带风格标签：
+STYLE: Retro Streetwear (复古街头)
+```
+
+<a id="prompt-511"></a>
+## 案例 511：最后的晚餐 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1993065781362672074))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/511.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-最后的晚餐">
+</div>
+
+**提示词：**
+```
+Recreate the composition of Leonardo da Vinci’s The Last Supper, but with iconic manga and anime characters seated at the long table. Place Goku in the center in the role of Jesus, glowing subtly with Saiyan energy. Surround him with characters from Naruto, One Piece, Bleach, Attack on Titan, My Hero Academia, Dragon Ball, Jujutsu Kaisen, and Demon Slayer, all interacting dramatically like in the original composition. Maintain the Renaissance lighting, painterly textures, and classical depth of the original fresco, but with anime-style character design and vibrant colors
+```
+
+**中文提示词：**
+```
+重新创作达芬奇名作《最后的晚餐》的构图，但将长桌旁坐满了标志性的漫画和动画角色。让悟空扮演耶稣，位于画面中央，散发出赛亚人特有的光芒。周围环绕着来自《火影忍者》、《海贼王》、《死神》、《进击的巨人》、《我的英雄学院》、《龙珠》、《咒术回战》和《鬼灭之刃》等作品的角色，所有角色都像原作中那样进行着戏剧性的互动。保留原作壁画的文艺复兴时期光线、绘画质感和古典景深，但采用动漫风格的人物设计和鲜艳的色彩。
+```
+
+<a id="prompt-510"></a>
+## 案例 510：宫崎骏的角色走进最后的晚餐 (来源 [@0xbisc](https://x.com/0xbisc/status/1993295676281913633))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/510.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宫崎骏的角色走进最后的晚餐">
+</div>
+
+**中文提示词：**
+```
+重现达·芬奇《最后的晚餐》的构图，但将所有角色替换为宫崎骏作品中的经典角色，全部排列在长桌旁。将龙猫置于中央，扮演耶稣的角色（披着白色古希腊式长袍），龙猫体积是其他角色的2倍，头大一点，肥一点，不要笑，身上散发出微微黄色能量光芒。周围角色来自《龙猫》《千与千寻》《哈尔的移动城堡》《天空之城》《风之谷》《红猪》《幽灵公主》《魔女宅急便》等宫崎骏动画，每个角色都保持各自的代表性特征，并像原作中那样进行戏剧化互动。
+
+整体画面保留文艺复兴时期的写实主义风格、单点透视、古典构图、柔和自然的光影效果、类似油画质感的干壁画笔触、细腻平滑的明暗渐变（达·芬奇式 sfumato 烟雾法）、古典空间深度，同时角色造型保持精致的宫崎骏动画风格。
+
+所有人物都是宫崎骏经典角色，并且人物必须清晰可见、五官完整、面部清晰、身体结构正确，不得出现畸形、模糊、融合错误或任何视觉 bug。
+```
+
+<a id="prompt-509"></a>
+## 案例 509：记忆宫殿学习英语 (来源 [@lxfater](https://x.com/lxfater/status/1992984573551276147))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/509.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-记忆宫殿学习英语">
+</div>
+
+**中文提示词：**
+```
+为我绘制一个详细的{{宠物商店}}场景  
+
+并标注所有物体的英语单词， 
+
+标注格式： 第一行：英文单词 
+第二行：音标（国际音标IPA格式） 
+第三行：中文翻译
+```
 
 <a id="prompt-508"></a>
 ## 案例 508：女子海边电影风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992795956597628978))
