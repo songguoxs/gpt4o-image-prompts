@@ -33,6 +33,13 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 530：长平之战信息图 ](#prompt-530)
+*   [案例 529：识字小报元提示词 ](#prompt-529)
+*   [案例 528：大幅油画肖像 ](#prompt-528)
+*   [案例 527：我的世界神秘时代信息卡 ](#prompt-527)
+*   [案例 526：流年运势图 ](#prompt-526)
+*   [案例 525：Labubu和迪丽热巴高端时尚跨页大片 ](#prompt-525)
+*   [案例 524：风格化的3D人物漫画 ](#prompt-524)
 *   [案例 523：一张年轻女性的逼真特写自拍照 ](#prompt-523)
 *   [案例 522：衣橱拆解与风格分析 ](#prompt-522)
 *   [案例 521：绘制[地标]的手绘等距示意图 ](#prompt-521)
@@ -161,6 +168,153 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-530"></a>
+## 案例 530：长平之战信息图 (来源 [@imxiaohu](https://x.com/imxiaohu/status/1993154201699160066))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/530.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-长平之战信息图">
+</div>
+
+**中文提示词：**
+```
+用一组图，描绘公元前260年5月至10月之间，东经112°41到113°09′，，北纬35°39′到35°59′ 发生的事情，并给出详细的信息图，图上要用中文说明发生了什么事情，以及结果的重要信息
+```
+
+<a id="prompt-529"></a>
+## 案例 529：识字小报元提示词 (来源 [@lxfater](https://x.com/lxfater/status/1993238777033105634))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/529.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-识字小报元提示词">
+</div>
+
+**中文提示词：**
+```
+请生成一张儿童识字小报《游乐园》，竖版 A4，学习小报版式，适合 5–9 岁孩子 认字与看图识物。 一、小报标题区（顶部） 顶部居中大标题：《游乐园识字小报》 风格：十字小报 / 儿童学习报感 文本要求：大字、醒目、卡通手写体、彩色描边 装饰：周围添加与 游乐园 相关的贴纸风装饰，颜色鲜艳 二、小报主体（中间主画面） 画面中心是一幅 卡通插画风的「游乐园」场景： 整体气氛：明亮、温暖、积极 构图：物体边界清晰，方便对应文字，不要过于拥挤。 场景分区与核心内容 核心区域 A（主要对象）：表现 游乐园 的核心活动（孩子们在玩游乐设施）。 核心区域 B（配套设施）：展示相关的工具或物品（售票、零食、指示设施）。 核心区域 C（环境背景）：体现环境特征（入口、路牌、彩旗、绿地等）。 主题人物 角色：1 位可爱卡通人物（身份：游乐园工作人员/游客小朋友皆可）。 动作：正在进行与场景相关的自然互动（如微笑指路、挥手欢迎、陪孩子玩）。 三、必画物体与识字清单（Generated Content） 请务必在画面中清晰绘制以下物体，并为其预留贴标签的位置： 1. 核心角色与设施： gōng zuò rén yuán 工作人员 shòu piào chù 售票处 guò shān chē 过山车 mó tiān lún 摩天轮 xuán zhuǎn mǎ 旋转木马 2. 常见物品/工具： piào 票 qì qiú 气球 bīng jī líng 冰淇淋 bào mǐ huā 爆米花 táng hú lu 糖葫芦 miàn jù 面具 wán jù 玩具 xiǎo qí zi 小旗子 3. 环境与装饰： rù kǒu 入口 chū kǒu 出口 zhǐ shì pái 指示牌 cǎi qí 彩旗 guǎng chǎng 广场 (注意：画面中的物体数量不限于此，但以上列表必须作为重点描绘对象；总计 18 个典型名词，适合 5–9 岁儿童识字。) 四、识字标注规则 对上述清单中的物体，贴上中文识字标签： 格式：两行制（第一行拼音带声调，第二行简体汉字）。 样式：彩色小贴纸风格，白底黑字或深色字，清晰可读。 排版：标签靠近对应的物体，不遮挡主体。 五、画风参数 风格：儿童绘本风 + 识字小报风 色彩：高饱和、明快、温暖 (High Saturation, Warm Tone) 质量：8k resolution, high detail, vector illustration style, clean lines.
+```
+
+<a id="prompt-528"></a>
+## 案例 528：大幅油画肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1993331098005520856))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/528.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大幅油画肖像">
+</div>
+
+**提示词：**
+```
+Use the uploaded photo as the face reference for both the large painted portrait in the background and the full-body woman in the foreground. Create a stylish cinematic scene with a woman sitting confidently on the table in her personal luxury office room. She wears a loose pastel-toned dress or an oversized soft-colored suit, blending elegance and subtle boldness.The background features a huge artistic portrait of the same woman, painted with expressive pastel brushstrokes — pink, peach, beige — dynamic, sweeping strokes that create movement. Soft daylight, fashion-editorial mood, clean composition.
+Signature: Shreya Yadav
+```
+
+**中文提示词：**
+```
+使用上传的照片作为面部参考，绘制背景中的大幅油画肖像和前景中的全身女性形象。创作一个时尚的电影场景：一位女性自信地坐在她豪华私人办公室的桌子上。她身着宽松的粉彩色连衣裙或宽松的浅色套装，优雅中透着一丝大胆。背景是一幅同一位女性的巨幅艺术肖像，以富有表现力的粉彩色笔触——粉色、桃色、米色——绘制而成，动感流畅的笔触营造出灵动的氛围。柔和的日光，时尚大片的风格，简洁的构图。
+签名：Shreya Yadav
+```
+
+<a id="prompt-527"></a>
+## 案例 527：我的世界神秘时代信息卡 (来源 [@manateelazycat](https://x.com/manateelazycat/status/1993248526479114602))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/527.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我的世界神秘时代信息卡">
+</div>
+
+**中文提示词：**
+```
+绘制使用中文绘制成为完整的信息卡输出，尽可能的使用PUNCH的展示所有内容在一页内容！这是一个基于您提供的文章内容设计的完整信息卡片。可以包含香蕉的形象元素展示，为了达到“PUNCH”的效果，我采用了模块化设计，提炼了核心关键词，并配合了视觉符号和紧凑的排版，强调视觉冲击力和信息获取效率。
+
+内容是我的世界神秘时代1.7.10版本的核心玩法
+
+一幅展示《我的世界》神秘时代 1.7.10 核心玩法的插画，
+
+包含魔力节点、研究桌、魔杖、注魔祭坛、坩埚炼金、傀儡自动化，
+
+画面充满奥术符文、紫色和蓝色的魔法能量，具有神秘感与古典魔法科技风格，
+
+带有漂浮的魔法书、Vis 流动特效、魔法装置运转的细节。
+
+高质量、精细纹理、发光效果、幻想风。
+```
+
+<a id="prompt-526"></a>
+## 案例 526：流年运势图 (来源 [@MindfulReturn](https://x.com/MindfulReturn/status/1993101356857729434))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/526.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-流年运势图">
+</div>
+
+**中文提示词：**
+```
+用一个长图生成我的流年运势，标识出他命运齿轮启动点，发生的可能性和方向。图片标题就叫你的命运齿轮。绘制使用中文绘制成为完整的信息卡输出，尽可能的使用PUNCH的展示所有内容在一页内容！基于提供的文章内容设计的完整信息卡片。为了达到“PUNCH”的效果，采用了模块化设计，提炼了核心关键词，并配合了视觉符号和紧凑的排版，强调视觉冲击力和信息获取效率。
+```
+
+<a id="prompt-525"></a>
+## 案例 525：Labubu和迪丽热巴高端时尚跨页大片 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1993449671445139756))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/525.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Labubu和迪丽热巴高端时尚跨页大片">
+</div>
+
+**中文提示词：**
+```
+身份锁定：迪丽热巴 (Dilraba Dilmurat)
+IP 联结：Pop Mart - Labubu (The Monsters)
+风格基调：超现实 × 超真实 / 城市街头 / 高级时装感
+【项目交付：Pop Mart《THE MONSTERS》× 迪丽热巴 高端时尚跨页大片】
+作品名为：《双重曝光：城市奇遇 / DOUBLE EXPOSURE: URBAN ODYSSEY》
+(以下为最终成片的高精度视觉描述，模拟高端杂志跨页呈现效果)
+【整体视觉】
+一幅横向展开的 4K 高清杂志跨页。视觉语言融合了纪实街拍的粗颗粒胶片感与超现实主义的精致洁癖感。左右页之间被一道极具张力的“撕裂与颜料涂抹”艺术边界分割，仿佛现实世界被怪诞力量撕开一角。
+【左页 (60%)：主封面大片 Visual Focus】
+光影与场景：
+场景设定在东京涩谷或上海法租界的黄昏街头。金色的夕阳余晖（Golden Hour）从侧后方打入，在迪丽热巴的发丝和 Labubu 的绒毛上勾勒出绝美的金色轮廓光。背景是虚化但可辨识的繁忙十字路口、霓虹灯牌和移动的车流光影，景深极具电影感。
+人物主体（迪丽热巴）：
+面孔 100% 锁定迪丽热巴。她呈现出一种松弛而巨星的街拍状态，身体微侧，回头看向镜头，眼神里交织着酷感与被伙伴逗乐的笑意。她戴着复古报童帽，身着廓形解构的卡其色风衣，领口露出复杂的格纹衬衫与蕾丝打底层次，颈间系着松垮的拼色领带。
+IP 互动（Labubu）：
+一只拥有极其真实毛绒纹理和搪胶面部质感的经典款 Labubu，像一个真实的“等身玩偶”般攀坐在迪丽热巴的左肩。它穿着一套精细度极高的“微缩定制版”卡其风衣和迷你格纹领带。Labubu 脸上挂着标志性的坏笑，一只爪子正淘气地掀起迪丽热巴报童帽的帽檐，仿佛在搞恶作剧。
+版面设计：
+左上角叠加着极具冲击力的时尚衬线字体标题：
+DILRABA × LABUBU
+THE MONSTER ISSUE
+【右页 (40%)：专业边栏内容 Editorial Sidebar】
+氛围标签区 (Top)：
+在撕裂边界的右侧，悬浮着半透明的胶带风格标签：
+STYLE: Retro Streetwear (复古街头)
+MOOD: Playful & Edgy (俏皮前卫)
+LOCATION: XYZ Crossing, 17:45 PM
+3.1 色彩情绪卡 (Palette - Middle)：
+五个带有磨砂质感的圆形色卡一字排开，精准提炼了画面核心色彩：
+● Khaki #C3B091 (风衣主调)
+● Vintage Plaid Red #9E2A2B (格纹元素)
+● Lace Cream #F5F5DC (蕾丝内搭)
+● Warm Sunset #FFD700 (环境光)
+● Urban Grey #708090 (街道背景)
+3.2 单品拆解 (OOTD STYLE - Bottom)：
+以干净的“幽灵人台”形式展示核心单品，如同奢侈品目录页：
+[图示：卡其色解构风衣] Deconstructed Trench Coat / ¥ 4,800
+[图示：复古报童帽] Vintage Newsboy Cap / ¥ 750
+[图示：拼色格纹领带] Patchwork Plaid Tie / ¥ 520
+[图示：Labubu 微缩风衣手办] Labubu × Dilraba Limited Figure (Not for sale)
+艺术总监结语：
+“任务完美执行。我们成功捕捉到了迪丽热巴身上那股自在的巨星松弛感，并让 Labubu 以一种令人信服的‘真实生物感’介入其中。这是一次打破次元壁的完美共谋，画面充满了叙事张力与高级时装屋的质感。”
+```
+
+<a id="prompt-524"></a>
+## 案例 524：风格化的3D人物漫画 (来源 [@rovvmut_](https://x.com/rovvmut_/status/1993255617855729818))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/524.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-风格化的3D人物漫画">
+</div>
+
+**提示词：**
+```
+A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+```
+
+**中文提示词：**
+```
+根据上传的图片，创作一幅风格化的3D人物漫画，面部表情丰富，风格夸张活泼。渲染风格流畅精致，材质干净，环境光柔和。背景采用醒目的色彩，以突出人物的魅力和存在感。
+```
 
 <a id="prompt-523"></a>
 ## 案例 523：一张年轻女性的逼真特写自拍照 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1993206753236787443))
