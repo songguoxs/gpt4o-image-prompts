@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 540：物品拆解图 ](#prompt-540)
+*   [案例 539：根据歌词生成电影般的图像 ](#prompt-539)
+*   [案例 538：创作一个电影分镜脚本 ](#prompt-538)
+*   [案例 537：风格学习 ](#prompt-537)
+*   [案例 536：食物制作成的超写实3D写实图 ](#prompt-536)
+*   [案例 535：将paper转换成教授白板的图片 ](#prompt-535)
+*   [案例 534：四季变化信息图 ](#prompt-534)
+*   [案例 533：烤面包流程图 ](#prompt-533)
+*   [案例 532：Markdown转换为信息图 ](#prompt-532)
+*   [案例 531：让人做出Emoji的表情 ](#prompt-531)
 *   [案例 530：长平之战信息图 ](#prompt-530)
 *   [案例 529：识字小报元提示词 ](#prompt-529)
 *   [案例 528：大幅油画肖像 ](#prompt-528)
@@ -168,6 +178,171 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-540"></a>
+## 案例 540：物品拆解图 (来源 [@PandaTalk8](https://x.com/PandaTalk8/status/1993645881254658229))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/540.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-物品拆解图">
+</div>
+
+**提示词：**
+```
+Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into 8–12 key parts and arranged in a clean grid or radial pattern on a minimalist wooden or matte gray table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
+```
+
+**中文提示词：**
+```
+超逼真的 8K 平面照片，采用严格的摆拍风格。从上方俯视 90° 拍摄附图中的物体，将其完全拆解成 8-12 个主要部件，并以简洁的网格或放射状图案排列在极简主义的木质或哑光灰色桌面上。部件间距均匀，完美对齐，无重叠，无多余物体。柔和的漫射多光源照明，阴影微妙，色彩平衡自然，整个画面清晰锐利。高度还原真实材质（金属、塑料、橡胶握把、电路板、螺丝）。每个部件旁边都应添加一个细长的白色矩形框，以及一个简洁清晰的英文标签（无衬线字体），标签应放置在部件旁边，但不能遮挡部件；注释必须清晰易读，但又不影响整体美观。
+```
+
+<a id="prompt-539"></a>
+## 案例 539：根据歌词生成电影般的图像 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992490800710578615))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/539.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据歌词生成电影般的图像">
+</div>
+
+**提示词：**
+```
+generate a cinematic sequence of images for a song based on the lyrics [quote lyrics].
+```
+
+**中文提示词：**
+```
+根据歌词 [引用歌词] 为一首歌生成电影般的图像序列。
+```
+
+<a id="prompt-538"></a>
+## 案例 538：创作一个电影分镜脚本 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992597408128045462))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/538.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创作一个电影分镜脚本">
+</div>
+
+**提示词：**
+```
+Create a cinematic storyboard of the first page of 1984, by using widescreen panels
+```
+
+**中文提示词：**
+```
+使用宽屏分镜，为《1984》第一页创作一个电影分镜脚本。
+```
+
+<a id="prompt-537"></a>
+## 案例 537：风格学习 (来源 [@sundyme](https://x.com/sundyme/status/1992753783731064990))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/537.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-风格学习">
+</div>
+
+**中文提示词：**
+```
+学习这种风格，设计一款复古单反相机。
+```
+
+<a id="prompt-536"></a>
+## 案例 536：食物制作成的超写实3D写实图 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1993044556242166220))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/536.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物制作成的超写实3D写实图">
+</div>
+
+**提示词：**
+```
+Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly integrated into a photorealistic, bustling cityscape of [REAL CITY]. The object must be instantly recognizable as [MONUMENT], but entirely composed of realistic textures and materials from [FOOD]. Ensure accurate proportions and architectural detail, adapted to the food’s form, appearing as if it truly belongs in the city. The city should be vibrant and detailed, with realistic lighting that complements the monument. 1:1 aspect ratio, no text or extra elements.
+```
+
+**中文提示词：**
+```
+完全由[食物]制成的[纪念碑]的超写实3D渲染，无缝融入[真实城市]的照片级写实、繁忙的城市景观中。该物体必须能被一眼辨识为[纪念碑]，但完全由[食物]的写实纹理和材质构成。确保准确的比例和建筑细节，并适应食物的形态，使其看起来仿佛真正属于这座城市。城市应充满活力且细节丰富，并具有与该纪念碑相得益彰的写实光影。1:1 纵横比，无文本或额外元素。
+```
+
+<a id="prompt-535"></a>
+## 案例 535：将paper转换成教授白板的图片 (来源 [@skirano](https://x.com/skirano/status/1991527921316773931))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/535.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将paper转换成教授白板的图片">
+</div>
+
+**提示词：**
+```
+Take this paper and transform in the image of a professor whiteboard image. diagrams, arrows, boxes and captions explaining the core idea visually. Use colors as well
+```
+
+**中文提示词：**
+```
+请将这张纸转换成教授白板的图片。用图表、箭头、方框和说明文字，以可视化的方式解释核心概念。也可以使用颜色。
+```
+
+<a id="prompt-534"></a>
+## 案例 534：四季变化信息图 (来源 [@jacalulu](https://x.com/jacalulu/status/1991547184731549946))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/534.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四季变化信息图">
+</div>
+
+**提示词：**
+```
+generate a detailed infographic that explains the 4 seasons as experienced in Toronto, Canada. The infographic is for a grade 3 classroom. Make it in the style of Eric Carle
+```
+
+**中文提示词：**
+```
+请制作一张详细的信息图，解释加拿大安大略省多伦多市的四季变化。这张信息图是为三年级课堂设计的，风格请参考艾瑞·卡尔的绘本风格。
+```
+
+<a id="prompt-533"></a>
+## 案例 533：烤面包流程图 (来源 [@emollick](https://x.com/emollick/status/1991549167773376978))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/533.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-烤面包流程图">
+</div>
+
+**提示词：**
+```
+i need a flowchart for how to toast bread, make it as wacky and over the top and complicated as possible.
+```
+
+**中文提示词：**
+```
+我需要一个烤面包的流程图，越古怪、越夸张、越复杂越好。
+```
+
+<a id="prompt-532"></a>
+## 案例 532：Markdown转换为信息图 (来源 [@tobi](https://x.com/tobi/status/1991706720750694601))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/532.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Markdown转换为信息图">
+</div>
+
+**提示词：**
+```
+Make this markdown transcript into a infographic
+```
+
+**中文提示词：**
+```
+将此 Markdown 文档转换为信息图
+```
+
+<a id="prompt-531"></a>
+## 案例 531：让人做出Emoji的表情 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1992849169602818431))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/531.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-让人做出Emoji的表情">
+</div>
+
+**提示词：**
+```
+Make this person do the expression of emoji [EMOJI]
+```
+
+**中文提示词：**
+```
+让这个人做出表情符号[EMOJI]的表情
+```
 
 <a id="prompt-530"></a>
 ## 案例 530：长平之战信息图 (来源 [@imxiaohu](https://x.com/imxiaohu/status/1993154201699160066))
