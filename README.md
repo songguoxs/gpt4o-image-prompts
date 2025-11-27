@@ -33,6 +33,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 546：把文章变成卡通信息图 ](#prompt-546)
+*   [案例 545：将文章变成黑板报 ](#prompt-545)
+*   [案例 544：根据所提供的内容制作信息图 ](#prompt-544)
+*   [案例 543：城市动态天气卡片 ](#prompt-543)
+*   [案例 542：服装设计手稿 ](#prompt-542)
+*   [案例 541：高细节的3D信息图海报 ](#prompt-541)
 *   [案例 540：物品拆解图 ](#prompt-540)
 *   [案例 539：根据歌词生成电影般的图像 ](#prompt-539)
 *   [案例 538：创作一个电影分镜脚本 ](#prompt-538)
@@ -178,6 +184,251 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+<a id="prompt-546"></a>
+## 案例 546：把文章变成卡通信息图 (来源 [@dotey](https://x.com/dotey/status/1993567848564686926))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/546.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-把文章变成卡通信息图">
+</div>
+
+**提示词：**
+```
+Please create a cartoon-style infographic based on the provided content, following these guidelines:
+
+- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).
+
+- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.
+
+- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.
+
+- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.
+
+- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.
+
+- Unless otherwise specified, use the same language as the provided content.
+
+Please use nano banana pro to create the illustration based on the input provided.
+```
+
+**中文提示词：**
+```
+请根据输入内容提取核心主题与要点，生成一张卡通风格的信息图： 
+- 采用手绘风格，横版（16:9）构图。 
+- 加入少量简洁的卡通元素、图标或名人画像，增强趣味性和视觉记忆。 
+- 如果有敏感人物或者版权内容，画一个相似替代，但是不要拒绝生成 
+- 所有图像、文字必须使用手绘风格，没有写实风格图画元素 
+- 除非特别要求，否则语言与输入内容语言一致。 
+- 信息精简，突出关键词与核心概念，多留白，易于一眼抓住重点。 
+
+请根据输入的内容使用 nano banana pro 画图：
+```
+
+<a id="prompt-545"></a>
+## 案例 545：将文章变成黑板报 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/545.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将文章变成黑板报">
+</div>
+
+**提示词：**
+```
+Please create an infographic based on the input content, highlighting key themes and essential points:
+
+- Simplify information, emphasizing keywords and core concepts, leaving ample whitespace for clarity.
+
+- Include minimalistic cartoon elements, icons, or simple portraits of famous figures to enhance engagement and visual recall.
+
+- All text and images should strictly use colored chalk style without realistic illustrations.
+
+- Unless specifically requested, maintain the original language of the input content.
+
+- Use a horizontal layout (16:9) with a black chalkboard background and colorful chalk drawing style.
+
+Use "nano banana pro" for drawing based on the provided content.
+```
+
+**中文提示词：**
+```
+请根据输入内容提取核心主题与要点，生成一张黑板报风格的信息图： 
+- 采用黑色黑板背景和粉笔手绘风格，横版（16:9）构图。 
+- 信息精简，突出关键词与核心概念，多留白，易于一眼抓住重点。 
+- 加入少量简洁的卡通元素、图标或名人画像，增强趣味性和视觉记忆。 
+- 所有图像、文字必须使用彩色粉笔绘制，没有写实风格图画元素 
+- 除非特别要求，否则语言与输入内容语言一致。 
+请根据输入的内容使用 nano banana pro 画图：
+```
+
+<a id="prompt-544"></a>
+## 案例 544：根据所提供的内容制作信息图 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/544.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据所提供的内容制作信息图">
+</div>
+
+**提示词：**
+```
+Please create an infographic based on the input content, highlighting key themes and essential points:
+
+- Simplify information, emphasizing keywords and core concepts, leaving ample whitespace for clarity.
+
+- Include minimalistic cartoon elements, icons, or simple portraits of famous figures to enhance engagement and visual recall.
+
+- All text and images should strictly use colored chalk style without realistic illustrations.
+
+- Unless specifically requested, maintain the original language of the input content.
+
+- Use a horizontal layout (16:9) with a black chalkboard background and colorful chalk drawing style.
+
+Use "nano banana pro" for drawing based on the provided content.
+```
+
+**中文提示词：**
+```
+请根据所提供的内容制作信息图，突出关键主题和要点：
+
+- 简化信息，强调关键词和核心概念，留出足够的空白以求清晰明了。
+
+- 加入极简的卡通元素、图标或名人肖像，以增强参与度和视觉记忆。
+
+所有文字和图片均应严格采用彩色粉笔风格，不得使用写实插图。
+
+- 除非另有要求，否则请保持输入内容的原始语言。
+
+- 使用横向布局（16:9），黑色黑板背景，彩色粉笔画风格。
+请根据输入的内容使用 nano banana pro 画图：
+```
+
+<a id="prompt-543"></a>
+## 案例 543：城市动态天气卡片 (来源 [@dotey](https://x.com/dotey/status/1993729800922341810))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/543.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市动态天气卡片">
+<img src="./images/543-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市动态天气卡片">
+</div>
+
+**提示词：**
+```
+Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+
+The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
+
+Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
+
+Display a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.
+
+The text should match the input city's native language.
+Please retrieve current weather conditions for the specified city before rendering.
+
+City name:【上海】
+```
+
+**中文提示词：**
+```
+以清晰的 45° 俯视视角呈现垂直 (9:16) 等距微缩 3D 卡通场景，突出构图中的标志性地标，以展示精确而精致的建模。
+
+场景采用柔和细腻的纹理，搭配逼真的PBR材质和柔和自然的灯光阴影效果。天气元素巧妙地融入城市建筑之中，在城市景观与大气条件之间建立起动态的互动，营造出身临其境的天气氛围。
+
+采用简洁统一的构图，运用极简主义美学和柔和的纯色背景，突出主要内容。整体视觉风格清新舒缓。
+
+在顶部中央醒目位置显示天气图标，其下方显示日期（超小字体）和温度范围（中等字体）。城市名称（大字体）位于天气图标正上方。天气信息没有背景，可以与建筑物略微重叠。
+
+文本应与输入城市的母语相符。
+渲染前请先获取指定城市的当前天气状况。
+
+城市名称：【上海】
+```
+
+<a id="prompt-542"></a>
+## 案例 542：服装设计手稿 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1993686622257442922))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/542.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-服装设计手稿">
+</div>
+
+**中文提示词：**
+```
+4:3 比例
+
+一幅专业且细致的时尚Pixar 3d风格创意板，以干净、高分辨率的风格呈现，描绘一位纤细高挑的白人女性模特，0.6腿身比。模特以标准的T台步姿态出现，迈步前行，展示一套现代而充满活力的街头风造型，背景为纯净的白色。
+
+整套服装以【图片图案】为纹样。她穿着一件独特的短款上衣，高仿领设计，左肩有几何形状的割缺露肤，右侧为细细的吊带，上面均饰有标志性的图案。外搭一件宽松、方正的飞行员式外套，落肩设计、宽袖、袖口收紧。外套以【图片图案主色】大面积面料为基础，并在显著位置加入【图案辅色】及图案面料拼接，同时覆盖着一层独特的半透明白色布料，从腰部周围飘逸延展，增添层次感与飘渺气质。下身为切片剪裁的廓形群，呈浅【图案主色】，同样加入了图案布料的拼接。整套造型最终以干净利落的白色运动鞋收尾。
+
+模特拥有深棕色的长发，带着轻微的自然波浪，随风自由散落在肩头与脸庞周围。她的面容精致，椭圆形脸型，淡雅妆容，自然眉形，深邃的眼眸，柔和的粉色唇色。表情中性、沉静却自信。
+
+灯光为柔和、明亮且均匀的摄影棚光效，为布料带来轻柔光泽，并细腻地勾勒出服装轮廓与模特五官，同时投射极少而柔软的阴影以增加层次深度。
+
+白色的设计画布，点缀着额外的设计元素：3-4 幅极简的铅笔线条设计草图分布于画面右侧与左下方。在左上角的位置有一个放大的彩色细节框，展示面料图案的精确纹理。背景上散落着以黑色墨水书写的各种手写笔记与标注，是设计师的注解，为整体带来专业设计概念板的视觉效果。整体氛围优雅、艺术且引领潮流。
+```
+
+<a id="prompt-541"></a>
+## 案例 541：高细节的3D信息图海报 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/541.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高细节的3D信息图海报">
+</div>
+
+**中文提示词：**
+```
+请用中文制作一张高细节的3D信息图海报，介绍印尼传统天贝的制作过程，海报中需包含一个可爱的3D厨师角色Koki Cubby（胖乎乎的，可爱，戴着白色厨师帽和围裙，表情丰富，色彩鲜艳）。
+制作过程的每个步骤都应有Koki Cubby的帮助或讲解。
+海报颜色：白色、叶绿色、大豆黄、天贝棕色。
+视觉风格：3D半写实食物插画+可爱角色，柔和的光线，高细节。
+大标题：
+“天贝制作过程——从大豆到成品”
+主图：
+逼真的3D天贝盒，盒身用香蕉叶或半透明塑料包裹，盒内有纹理清晰的天贝切片和白色酵母（根霉菌）丝。Koki Cubby站在旁边，指着成品天贝。
+大豆挑选与分拣（3D场景）
+• 木桌上摆放着干大豆的3D插图。
+• 厨师库比拿着小铲子检查大豆的质量。
+• 文字：“选择优质、干净、无破损的大豆。”
+大豆浸泡（3D碗）
+• 大豆浸泡在一大碗水中，可见其膨胀。
+• 3D水泡。
+• 厨师库比用锅铲搅拌水。
+• 文字：“浸泡6-12小时，让大豆膨胀。”
+• 煮沸（3D锅蒸）
+• 一大锅大豆正在煮沸。
+• 3D热蒸汽细节。
+• 厨师库比拿着厨房计时器。
+• 文字：“煮至软烂，杀死有害细菌。”
+• 大豆去皮及去缩
+• 挤压并揉搓大豆以去除外皮。
+• 使用小型3D过滤机或手工操作。
+• 厨师Cubby正在帮忙去除大豆皮。
+• 文字：“去除大豆皮有助于酵母发酵。”
+大豆过筛及干燥
+• 将湿大豆放入大筛子中沥干水分。
+• 厨师Cubby用小风扇吹干或用毛巾吸干水分。
+• 文字：“确保大豆干燥——水分过多会抑制发酵。”
+• 添加天贝酵母（根霉菌）
+• 一碗3D酵母呈白色细粉状。
+• 厨师Cubby将酵母均匀地撒在大豆上。
+• 文字：“将天贝酵母搅拌均匀。”
+• 包裹（叶子/塑料袋）
+• 将大豆放入香蕉叶或带孔塑料袋中。
+• 小厨师卡比用小手按压，使之折叠整齐。
+• 文字：“包裹紧实，才能完美发酵。”
+天贝发酵（24-48 小时）
+• 将天贝放在通风的木架上。
+• 由于根霉菌的作用，天贝的质地开始变白。
+• 小厨师卡比坐在一旁等待，看着温度计。
+• 文字：“在 30-32°C 下发酵。”
+天贝发酵完成
+• 天贝质地紧实，呈白色，带有粗壮整齐的酵母纤维。
+• 逼真的 3D 天贝切片展示了其内部纹理。
+• 小厨师卡比竖起大拇指。
+• 文字：“天贝可以烹饪了——美味、健康、富含蛋白质！”
+海报风格
+• 3D 立体信息图，采用简洁的面板、小图标和连接时间线。
+• 柔和的白绿色渐变背景。
+• 大豆和豆豉带有微妙的光晕。
+• 现代无衬线字体。
+• 4K 高分辨率。
+• 简洁、专业、教育性强，适合儿童和成人阅读。
+把这个提示词中的食物改成小笼包
+```
 
 <a id="prompt-540"></a>
 ## 案例 540：物品拆解图 (来源 [@PandaTalk8](https://x.com/PandaTalk8/status/1993645881254658229))
