@@ -218,7 +218,7 @@
 ## 案例 575：极繁主义波普艺术图层 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1993609750051766767))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/575.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极繁主义波普艺术图层">
+<img src="./images/575.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image  Prompts-极繁主义波普艺术图层">
 </div>
 
 **提示词：**
