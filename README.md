@@ -33,6 +33,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 552：超现实主义日式水墨画 ](#prompt-552)
+*   [案例 551：现代芝加哥河滨清明上河图风格 ](#prompt-551)
+*   [案例 550：手绘风格的时尚风格概念分解图 ](#prompt-550)
+*   [案例 549：LINE风格半身Q版表情包 ](#prompt-549)
+*   [案例 548：仿真绣苏绣表情包 ](#prompt-548)
+*   [案例 547：手绘日历插画 ](#prompt-547)
 *   [案例 546：把文章变成卡通信息图 ](#prompt-546)
 *   [案例 545：将文章变成黑板报 ](#prompt-545)
 *   [案例 544：根据所提供的内容制作信息图 ](#prompt-544)
@@ -185,6 +191,242 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+
+
+
+
+
+
+
+<a id="prompt-552"></a>
+## 案例 552：超现实主义日式水墨画 (来源 [@Preda2005](https://x.com/Preda2005/status/1992472259127283888))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/552.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义日式水墨画">
+</div>
+
+**提示词：**
+```
+Create a highly detailed surreal Japanese sumi-e illustration blending ancient Edo-period aesthetics with futuristic absurdity. At twilight, under a vast sky streaked with vermilion and indigo brushstrokes, Doraemon stands atop a traditional pagoda roof reinforced with glowing fiber cables and neon scaffolding. He pilots a weathered, patchwork mecha painted in faded indigo lacquer, shaped like a vintage wind-up toy with exposed gears, silk-banner decals, and steam exhausts puffing from shoulder vents. The mecha wears a digital mawashi displaying shifting kanji runes. Doraemon’s expression is intense but comically determined, his paw gripping a lever made from polished bamboo and chrome.
+
+Across the composition, Hello Kitty appears inside a towering golden-armored mecha resembling an ornate Hannya mask, with sakura-shaped LEDs pulsing across its chestplate. Her stance mirrors that of a sumo rikishi mid-tachiai, legs wide, palms extended, toes digging into the glowing tatami rooftop below. Tiny holographic cherry blossoms swirl in the air, catching the last ambient light from futuristic Edo lanterns floating in midair via anti-gravity rings.
+
+Below, dozens of onlookers in layered kimono-hologram hybrids cheer with glowing fans shaped like old kabuki masks. Some wear AR visors shaped like fox spirits, their faces half-lit by the flickering light of vending machines embedded in shrine walls. In one corner, an elderly monk with cybernetic arms calmly sketches the scene on a floating washi-scroll, eyes glowing faintly behind antique round glasses.
+
+The entire piece is rendered in expressive sumi-e ink washes with chaotic splashes for motion trails, delicate dry-brush hatching for armor texture, and faint pastel watercolors to accent light sources. Negative space is used deliberately around the combatants to amplify their presence. A red artist seal (宝雷印) is stamped boldly in the lower corner, harmonizing the traditional technique with the scene’s absurd modernity.
+```
+
+**中文提示词：**
+```
+创作一幅细节丰富的超现实主义日式水墨画，融合江户时代的古典美学与未来主义的荒诞风格。暮色降临，在朱红与靛蓝交织的广袤天空下，哆啦A梦站在一座由发光纤维缆绳和霓虹灯脚手架加固的传统宝塔屋顶上。他驾驶着一架饱经风霜、涂着褪色靛蓝漆的机甲，外形酷似老式发条玩具，齿轮外露，饰有丝绸旗帜图案，肩部通风口喷出蒸汽。机甲上系着一条印有不断变化的汉字图案的数码腰带。哆啦A梦表情严肃而又滑稽地坚定，他的爪子紧紧握着一个由抛光竹子和镀铬制成的操纵杆。
+
+画面中，Hello Kitty 出现在一座高耸的金色铠甲机甲内，机甲造型宛如一副华丽的般若面具，胸甲上闪烁着樱花形状的 LED 灯。她的站姿如同相扑力士立合的姿势，双腿分开，手掌伸展，脚趾深深扎入下方发光的榻榻米屋顶。细小的全息樱花在空中飞舞，捕捉着未来感十足的江户灯笼在反重力环的辅助下悬浮于半空中时散发的最后一丝光芒。
+
+下方，数十名身着层叠和服与全息投影混合服饰的围观者挥舞着形似古老歌舞伎面具的发光扇子欢呼雀跃。一些人戴着狐狸精造型的增强现实（AR）头盔，他们的脸庞被神社墙壁上自动售货机闪烁的灯光照亮了一半。在一个角落里，一位装着机械手臂的老僧正平静地在一张漂浮的和纸卷轴上描绘着眼前的景象，他那双透过古董圆眼镜闪烁着微光的眼睛。
+
+整幅作品以极富表现力的水墨晕染技法绘制而成，奔放的泼墨笔触勾勒出动感轨迹，精细的干笔阴影描绘出盔甲的纹理，淡雅的粉彩则突出了光源。画中刻意在战斗人物周围留出空白，以增强他们的存在感。画面左下角醒目地盖上了红色的艺术家印章（宝雷印），将传统技法与画面荒诞的现代感巧妙地融合在一起。
+```
+
+<a id="prompt-551"></a>
+## 案例 551：现代芝加哥河滨清明上河图风格 (来源 [@dotey](https://x.com/dotey/status/1992469131438719122))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/551.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代芝加哥河滨清明上河图风格">
+</div>
+
+**提示词：**
+```
+A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
+
+Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
+
+Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
+
+Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
+```
+
+**中文提示词：**
+```
+这是一幅气势恢宏、细节丰富的中国传统水墨彩绘手卷，绘制在古老的绢本上，完美地模仿了张择端《清明上河图》的艺术风格、笔法和散点透视法。
+
+中心场景：俯瞰熙熙攘攘的现代芝加哥河滨。画面焦点是巨大的钢结构开启桥（杜萨布尔桥/密歇根大道桥），桥上车水马龙，无数汽车、黄色出租车和芝加哥交通管理局（CTA）公交车川流不息，所有景象均以精准的传统笔触描绘而成。
+
+环境细节：下方芝加哥河上穿梭着现代风格的游船、水上出租车和皮划艇。河岸两侧林立着风格复古的芝加哥摩天大楼（类似箭牌大厦和论坛报大厦），这些建筑以传统的“画”技法绘制而成。远处可见高架铁路，一列“L”型列车正在行驶。
+
+人类活动：河滨步道和桥边的人行道上挤满了数百个身着现代休闲服饰的小人。他们有的在慢跑，有的在用智能手机拍照，有的在街头小吃摊（热狗摊）前排队，有的在遛狗。整个场景细节丰富，略显杂乱，并以柔和的复古大地色调呈现。
+```
+
+<a id="prompt-550"></a>
+## 案例 550：手绘风格的时尚风格概念分解图 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1992877077570453712))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/550.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘风格的时尚风格概念分解图">
+</div>
+
+**提示词：**
+```
+A fashion-style concept breakdown sheet in hand-drawn illustration style. 
+Center: full-body view of a stylish, confident female character with a slightly sexy vibe (not explicit), in a dynamic yet natural pose. 
+Surrounding: structured layout of her key components:
+• Clothing layering – show outerwear, innerwear, tights (lace, sheer textures), shapewear with detailed pattern zoom-ins.  
+• Expression sheet – 3-4 facial expressions (neutral, shy, surprised, focused).
+• Close-up zooms – textures of fabric folds, skin details, hand gestures.
+• Lifestyle & accessories – open handbag with daily items: lipstick, perfume, mirror compact, hand cream, diary, supplements.
+• Material annotations – handwritten-style notes beside each item (e.g., “soft lace,” “matte leather,” “shade #520”).
+
+Background: soft beige or parchment paper texture to evoke a design sketchbook.
+Lighting: clean, soft shadows to unify the scene.
+Output: high-quality 2D illustration in 4K, balanced between sensuality and fashion editorial.
+Language: labels in Chinese + English.
+```
+
+**中文提示词：**
+```
+手绘风格的时尚风格概念分解图。
+中心：一位时尚自信的女性角色的全身像，略带性感（但不露骨），姿态充满活力又自然。
+周围环境：她的关键组成部分的结构化布局：
+• 服装叠穿——展示外套、内衣、紧身裤（蕾丝、透明质地）、塑身衣，并放大细节图案。
+• 表情表 – 3-4 种面部表情（中性、害羞、惊讶、专注）。
+• 特写镜头——展现织物褶皱的纹理、皮肤细节、手势。
+• 生活方式和配饰 – 打开手提包，里面装着日常用品：口红、香水、粉饼、护手霜、日记本、保健品。
+• 材料注释 – 每件物品旁边的手写风格注释（例如，“柔软的蕾丝”、“哑光皮革”、“色号 #520”）。
+
+背景：柔和的米色或羊皮纸纹理，以唤起人们对设计草图本的联想。
+光线：干净、柔和的阴影使画面统一。
+输出：4K 高清 2D 插图，兼具性感与时尚感。
+语言：中文+英文标签。
+```
+
+<a id="prompt-549"></a>
+## 案例 549：LINE风格半身Q版表情包 (来源 [@dotey](https://x.com/dotey/status/1993042754008686712))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/549.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-LINE风格半身Q版表情包">
+</div>
+
+**提示词：**
+```
+Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.
+
+Arrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.
+Use handwritten-style fonts for text.
+Output must be original—avoid direct copying of the reference image.
+Final image should be in 4K resolution, 16:9 aspect ratio.
+```
+
+**中文提示词：**
+```
+根据所示角色，创作一套色彩鲜艳、手绘风格的 LINE 风格半身 Q 版表情符号肖像，确保准确地描绘出他们的头部饰品。
+
+将图片排列成 4x6 的布局，内容以常见的聊天短语或相关的幽默表情包为特色。
+文本请使用手写体字体。
+输出内容必须为原创——避免直接复制参考图像。
+最终图像应为 4K 分辨率，16:9 宽高比。
+```
+
+<a id="prompt-548"></a>
+## 案例 548：仿真绣苏绣表情包 (来源 [@TaXue2025](https://x.com/TaXue2025/status/1993542832930668942))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/548.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-仿真绣苏绣表情包">
+</div>
+
+**中文提示词：**
+```
+生成一张 16:9、4K 分辨率的仿真绣苏绣表情包大图：
+
+- 画面为 4×6 网格，共 24 个 1:1 方形小格，每格是一位同一角色的古典中式美人半身像表情包（胸部以上），脸部约占每格 60%–70%。
+- 头饰、发型、服装风格严格参考提供的原始角色形象，保持一致，但不要原图复制。
+
+风格要求：
+- 整体为仿真绣苏绣作品：人物五官、皮肤、头发、衣纹和背景全部由细密丝线和刺绣针脚构成，使用仿真绣 + 乱针绣技法，丝线有光泽、针脚平齐细密，形成微微凸起的真实绣面。
+- 底布为近乎纯白或极浅米色真丝绸，背景极简，仅有很淡云纹或暗纹，不加入复杂图案。
+
+禁止：
+- 不要油画、水彩、数码画笔纹理；
+- 不要相机景深、虚化、炫光、镜头光斑和 UI 特效。
+
+表情与文字：
+- 24 格覆盖常见聊天情绪和娱乐 meme（如开心、无语、震惊、委屈、嫌弃、坏笑、吃瓜、躺平、笑死、我裂开了等）。
+- 每一格配一条短句，使用手写风格简体中文，不用印刷体和英文。
+```
+
+<a id="prompt-547"></a>
+## 案例 547：手绘日历插画 (来源 [@dotey](https://x.com/dotey/status/1993754650336428422))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/547.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘日历插画">
+<img src="./images/547-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘日历插画">
+</div>
+
+**提示词：**
+```
+Please create a cute, stylish calendar illustration in a vertical (9:16) layout featuring a fresh, bright, hand-drawn style:
+
+Illustration Requirements:
+
+- The main character is a young, fashionable female with a cute and lively watercolor or hand-drawn texture, vibrant yet soft colors.
+- Character features include large eyes, rounded rosy cheeks, and bold, fashionable accessories (e.g., sunglasses, hoop earrings, headscarves, headbands, bows, knit hats, etc.). Clothing should be bright, with dynamic and playful poses. Proportions may be slightly exaggerated (e.g., larger head, slender waist).
+- Outfit and accessories must reflect seasonal elements, holidays, recommended activities ("auspicious items"), or distinctive local characteristics based on the user's location and input. Outfit description: [{Character Outfit Description}]
+- Character positioned centrally or slightly right-aligned to leave ample whitespace for textual content.
+- Pure white, minimalist background without additional decorative elements, emphasizing the character and text.
+
+Calendar Layout:
+
+- Prominent position at the top center: Gregorian date number [{Gregorian Date Number}] (large and eye-catching).
+- Below the date number, display the English month [{English Month}].
+- Below the English month, display the year [{Year Number}].
+- Symmetrical layout left and right of the date: weekday in both local language [{Weekday in Local Language}] and English [{Weekday in English}], along with the lunar date and local holiday [{Lunar or Local Calendar Date}] [{Local Holiday}], ensuring clear, elegant fonts.
+
+"Recommended Activities" and Inspirational Quote:
+
+- Vertically aligned on the left side in bold handwriting: [{Recommended Activities}], using brush calligraphy for Chinese users and complementary handwriting style for other languages, slightly larger and vertically arranged.
+- To the right of "Recommended Activities," arrange vertically an inspirational and comforting quote [{Inspirational Quote}] in slightly smaller matching handwriting.
+
+Localized Elements:
+
+- Incorporate distinct local cultural elements or landmarks based on the user's current location or input into the character's outfit, accessories, or details (e.g., city landmarks, climate characteristics, local cultural motifs).
+
+General Guidelines:
+
+- All elements must be neatly arranged with balanced whitespace.
+- Ensure text readability without overlapping or obscuring the illustration.
+- Replace all placeholder content with information dynamically generated based on user input or system-provided user data.
+```
+
+**中文提示词：**
+```
+请生成一张可爱、时尚的竖版（9:16）日历插画，风格为清新明快的手绘插画风：
+
+一、插画要求：
+
+- 人物为年轻时尚的女生形象，风格可爱灵动，采用水彩或手绘质感，色彩鲜艳柔和。
+- 人物特征包括：大眼睛、圆润的红润脸颊，佩戴夸张时尚的配饰（如墨镜、圆环耳环、头巾、发带或蝴蝶结、毛线帽等），服装色彩明亮，人物姿势生动俏皮，身体比例适当夸张（如头部稍大、腰身纤细）。
+- 根据节假日、“宜事项”或所处季节以及用户所在位置的特色元素，配套的人物造型穿着描述为：【{人物造型穿着描述}】
+- 人物位于画面中央或偏右，为文字内容留出充分的留白空间。
+- 背景纯白、极简，不含额外装饰元素，突出主体人物与文字。
+
+二、日历元素布局：
+
+- 上方正中央显著位置：公历日期数字【{公历日期数字}】（字体大而醒目）
+- 日期数字下方配有英文月份【{英文月份}】
+- 日期左右两侧分别标注星期中英文【{星期中文}】【{星期英文}】和农历日期及节假日【{农历日期中文}】【{节假日}】，布局左右对称，字体清晰优雅。
+
+三、“宜”事项与励志句子：
+
+- 左侧竖排粗体显示当天的【宜】事项：【{宜事项}】，字体为简洁的手写毛笔体，略大，竖向排列。
+- 【宜事项】右边以稍小字体竖向排列对应的励志治愈句子【{励志句子}】。
+
+四、地点个性化元素：
+
+- 根据用户当前位置或输入位置，适当在插画的人物穿着、配饰或细节上融入当地标志性元素或特色（如城市地标、气候特征、地域风情）。
+
+整体说明：
+
+- 所有占位符信息请根据用户输入或用户信息和系统信息自行检索生成
+- 所有元素的布局要整齐、美观，保持适度的空间留白。
+- 文字位置确保清晰易读，避免与插画重叠、遮挡。
+```
 
 <a id="prompt-546"></a>
 ## 案例 546：把文章变成卡通信息图 (来源 [@dotey](https://x.com/dotey/status/1993567848564686926))
