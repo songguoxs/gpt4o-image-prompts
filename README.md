@@ -33,6 +33,27 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 573：身着白色针织上衣的阳光女孩 ](#prompt-573)
+*   [案例 572：奶油水彩手账 ](#prompt-572)
+*   [案例 571：早朝了开个视频会议先 ](#prompt-571)
+*   [案例 570：游戏角色试图从电视屏幕爬到客厅 ](#prompt-570)
+*   [案例 569：泛黄旧报纸手账 ](#prompt-569)
+*   [案例 568：金毛直播 ](#prompt-568)
+*   [案例 567：你好地球人 ](#prompt-567)
+*   [案例 566：李小龙与尤达大师以武会友 ](#prompt-566)
+*   [案例 565：明星合照的幕后花絮 ](#prompt-565)
+*   [案例 564：马里奥路易吉给碧奇公主修理厨房 ](#prompt-564)
+*   [案例 563：西游记师徒四人组成了一个摇滚乐队 ](#prompt-563)
+*   [案例 562：涂鸦记号笔手账 ](#prompt-562)
+*   [案例 561：国家一级摆烂许可证 ](#prompt-561)
+*   [案例 560：未经他人苦莫劝他人善 ](#prompt-560)
+*   [案例 559：月亮不睡我不睡 ](#prompt-559)
+*   [案例 558：宇航员坐在弯弯的月亮边钓星星 ](#prompt-558)
+*   [案例 557：职业生涯地图图片 ](#prompt-557)
+*   [案例 556：女子一只手夸张地伸向镜头 ](#prompt-556)
+*   [案例 555：在复仇者大厦跟死侍合个影 ](#prompt-555)
+*   [案例 554：粉红色的星之卡吐泡泡 ](#prompt-554)
+*   [案例 553：马斯克教爱因斯坦拍照 ](#prompt-553)
 *   [案例 552：超现实主义日式水墨画 ](#prompt-552)
 *   [案例 551：现代芝加哥河滨清明上河图风格 ](#prompt-551)
 *   [案例 550：手绘风格的时尚风格概念分解图 ](#prompt-550)
@@ -191,12 +212,335 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-573"></a>
+## 案例 573：身着白色针织上衣的阳光女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993870488955961747))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/573.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身着白色针织上衣的阳光女孩">
+</div>
 
+**提示词：**
+```
+{
+    "image_metadata": {
+      "title": "The Golden Hour: Backlight Beauty",
+      "category": "Outdoor Portrait",
+      "tone": "Warm, Romantic, Glowing, Dreamy"
+    },
+    "prompt_elements": {
+      "subject": {
+        "description": "Beautiful East Asian girl with a doll-like face and porcelain skin.",
+        "face_detail": "Eyes sparkling in the sun, cheeks slightly flushed (peach fuzz visible), glossy lips slightly parted.",
+        "pose": "Leaning against a wooden railing, turning back towards the sun.",
+        "action": "Shielding eyes from the sun with one hand, creating shadow play on face."
+      },
+      "fashion": {
+        "garment_top": "White off-shoulder knitted top revealing delicate collarbones and shoulders.",
+        "garment_bottom": "Light blue denim skirt.",
+        "footwear": "Sandals."
+      },
+      "environment": {
+        "setting": "Balcony or park at sunset.",
+        "props": "Blurred trees and golden light in background.",
+        "ground": "N/A."
+      },
+      "technical_specs": {
+        "style": "Cinematic portrait, backlit.",
+        "lighting": "Strong golden hour backlighting creating a halo around hair, soft fill light on face.",
+        "focus": "Extreme close-up on the face and eyes."
+      }
+    },
+    "full_prompt_string": "A cinematic close-up of a beautiful East Asian girl with doll-like features and porcelain skin during golden hour. She wears a white off-shoulder knit top, exposing her delicate shoulders. She shields her eyes from the sun, casting soft shadows. Her skin glows, and fine peach fuzz is visible. Her eyes sparkle, and her lips are glossy. 8k resolution, romantic lighting, detailed iris, dreamy atmosphere.",
+    "negative_prompt": "shadows blocking face, ugly expression, closed eyes, wrinkles, dry skin, male, dark clouds, night, artificial light."
+}
+```
 
+**中文提示词：**
+```
+{
+"image_metadata": {
+标题：《黄金时刻：逆光之美》
+“类别”: “户外人像”
+基调：温暖、浪漫、柔和、梦幻
+},
+"prompt_elements": {
+“主题”： {
+描述：一位拥有洋娃娃般精致面容和瓷器般肌肤的美丽东亚女孩。
+“面部细节”： “双眼在阳光下闪闪发光，双颊微微泛红（可见细小的绒毛），光泽的嘴唇微微张开。”
+“姿势”：“倚靠在木制栏杆上，背对太阳。”
+“动作”：“用一只手遮住眼睛，避免阳光直射，在脸上制造光影效果。”
+},
+“时尚”： {
+"garment_top": "白色露肩针织上衣，露出精致的锁骨和肩膀。"
+"garment_bottom": "浅蓝色牛仔裙。",
+“鞋类”: “凉鞋”。
+},
+“环境”： {
+“场景”：“日落时的阳台或公园。”
+道具：背景中​​模糊的树木和金色的光线。
+“地面”： “不适用。”
+},
+"technical_specs": {
+风格：电影人像，逆光。
+“光线”：“强烈的黄金时段逆光在头发周围形成光晕，面部采用柔和的补光。”
+“焦点”：“面部和眼睛的超近特写。”
+}
+},
+"full_prompt_string": "在日落的黄金时刻，一位拥有娃娃般精致五官和瓷器般肌肤的东亚美女，被拍摄成电影般的特写镜头。她身穿白色露肩针织衫，露出纤细的肩膀。她用手遮挡阳光，投下柔和的阴影。她的肌肤散发着光泽，细小的绒毛清晰可见。她的眼睛闪闪发光，嘴唇水润饱满。8K分辨率，浪漫的光线，细腻的虹膜，梦幻般的氛围。"
+"negative_prompt": "阴影遮住脸，表情难看，闭着眼睛，皱纹，皮肤干燥，男性，乌云密布，夜晚，人造光。"
+}
+```
 
+<a id="prompt-572"></a>
+## 案例 572：奶油水彩手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993885921599693092))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/572.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-奶油水彩手账">
+</div>
 
+**中文提示词：**
+```
+一张9:16竖屏的高级时尚插画情绪板，模拟平板扫描效果。背景是纯手绘的奶油色水彩晕染纸张，带有淡淡的粉色网格。视觉核心是数张具有明显白色模切宽边和柔和投影的亮面乙烯基贴纸。中央贴纸是用户穿着甜美约会装的照片，光线明亮。左侧是对这套穿搭的解构贴纸，整齐折叠的外套和精致的高跟鞋。右下角是关键的隐藏层贴纸：一套折叠整齐的高级白色蕾丝内衣，展现细腻纹理。一只穿着粉色系、与用户服装呼应的Labubu艺术公仔贴纸正趴在一个手绘对话框上。周围装饰着蜡笔质感的手绘爱心、闪光符号和潦草的中文书法标注OOTD。画面中绝无任何人手、笔或物理桌面背景，纯粹的平面艺术插画。
+```
+
+<a id="prompt-571"></a>
+## 案例 571：早朝了开个视频会议先 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993126993135902996))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/571.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-早朝了开个视频会议先">
+</div>
+
+**中文提示词：**
+```
+传统的清代宫廷画风格。画面描绘了皇帝庄严肃穆地端坐在太和殿的龙椅上。然而，他面对的不是跪拜的大臣，而是盯着放在御案上的一块巨大的笔记本电脑屏幕。屏幕上显示着与大臣们进行“腾讯会议”的网格视图，大臣们都在各自的府邸中，有的看起来很无聊，有一个在偷偷吃面条。皇帝在朝冠外面戴着一副头戴式耳机。一名太监站在后边举着环形补光灯，以确保皇帝在镜头前看起来气色很好。屏幕上的文字写着“早朝”。
+```
+
+<a id="prompt-570"></a>
+## 案例 570：游戏角色试图从电视屏幕爬到客厅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/570.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-游戏角色试图从电视屏幕爬到客厅">
+</div>
+
+**中文提示词：**
+```
+一个像素化的电子游戏角色试图从电视屏幕爬到客厅里。一个真实的人类玩家正手忙脚乱地用控制器把角色推回屏幕。
+```
+
+<a id="prompt-569"></a>
+## 案例 569：泛黄旧报纸手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993959563251593223))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/569.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-泛黄旧报纸手账">
+</div>
+
+**中文提示词：**
+```
+泛黄旧报纸手账
+复古怀旧风格的9:16时尚插画。背景模仿陈旧的泛黄信纸，边缘有烧焦效果的手绘纹理和咖啡渍印记。中央是用户复古穿搭的贴纸，处理成胶片颗粒感，但保留白色贴纸边框。Labubu公仔贴纸戴着复古墨镜和花衬衫，坐在旁边。衣物解构部分展示了复古皮夹克和牛津鞋的贴纸。隐藏层贴纸是一件复古丝绸吊带裙，质感丝滑。周围用钢笔墨水风格绘制了优雅的草写英文日期和复古相框涂鸦。贴纸边缘用半透明的纸胶带图案固定。画面平整，无任何书写工具或手部入镜，纯粹的复古平面设计。
+```
+
+<a id="prompt-568"></a>
+## 案例 568：金毛直播 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991796627062079575))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/568.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金毛直播">
+</div>
+
+**中文提示词：**
+```
+一只金毛犬戴着耳机坐在麦克风前，面前摆满了各种狗零食和骨头。它正对着镜头露出专业的笑容。直播界面的标题写着：“修勾的吃播：今天挑战十根大骨棒！榜一大哥刷个火箭吧！”。
+```
+
+<a id="prompt-567"></a>
+## 案例 567：你好地球人 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991800151204307071))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/567.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你好地球人">
+</div>
+
+**中文提示词：**
+```
+两名身穿笨重宇航服的宇航员在月球表面自拍。背景中，一个滑稽的小灰人正在抢镜，举着一个牌子写着“你好地球人！”。
+```
+
+<a id="prompt-566"></a>
+## 案例 566：李小龙与尤达大师以武会友 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/566.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-李小龙与尤达大师以武会友">
+</div>
+
+**中文提示词：**
+```
+穿着黄色连体服的李小龙与尤达大师进行友好的切磋。李小龙拿着双截棍，尤达拿着绿色小光剑。他们都在微笑。传统中国道场背景。后方横幅写着“以武会友”。
+```
+
+<a id="prompt-565"></a>
+## 案例 565：明星合照的幕后花絮 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992456465173692800))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/565.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-明星合照的幕后花絮">
+</div>
+
+**中文提示词：**
+```
+我想看看这张照片拍摄的幕后花絮，了解它是如何创作出来的
+```
+
+<a id="prompt-564"></a>
+## 案例 564：马里奥路易吉给碧奇公主修理厨房 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991807393538478513))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/564.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马里奥路易吉给碧奇公主修理厨房">
+</div>
+
+**中文提示词：**
+```
+马里奥满身污垢，看起来筋疲力尽，正在一个逼真的房子里修理厨房橱柜下漏水的水槽。路易吉递给他扳手。碧奇公主用金币支付他们报酬
+```
+
+<a id="prompt-563"></a>
+## 案例 563：西游记师徒四人组成了一个摇滚乐队 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993235709914915307))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/563.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-西游记师徒四人组成了一个摇滚乐队">
+</div>
+
+**提示词：**
+```
+A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a grand concert taking place on a giant, floating lotus leaf amidst a sea of clouds. At the center, Tang Sanzang wears cool aviator sunglasses and acts as a DJ, scratching on a turntable made of ancient millstones. Beside him, Sun Wukong is in mid-air performing a heavy metal jump, shredding on a flaming electric guitar styled like a Pipa. Zhu Bajie sits on a subwoofer drum set, enthusiastically banging the drums with two rake-shaped drumsticks, sweat flying. Sha Wujing stands calmly at the back, holding a microphone stand, crooning a jazz ballad with a saxophone hanging from his neck. Traditional Chinese calligraphy lyrics float in the air, accompanied by a classic red artist’s seal inscribed "魔音穿耳".
+```
+
+**中文提示词：**
+```
+这是一幅传统的工笔水墨画。画面生动地描绘了一场盛大的音乐会，地点设在一片巨大的漂浮荷叶之上，云海环绕。唐三藏戴着酷炫的飞行员墨镜，扮演着DJ的角色，用一块古老的磨盘打碟。在他身旁，孙悟空在空中表演着重金属跳跃，弹奏着一把形似琵琶的火焰电吉他。猪八戒坐在低音鼓上，挥舞着两根耙状鼓槌，汗流浃背地热情地敲击着鼓面。沙悟净则镇定地站在后方，手持麦克风架，脖子上挂着萨克斯，低吟着爵士情歌。传统的中国书法歌词在空中飘荡，旁边还钤着一枚经典的红色艺术家印章，上面写着“魔音穿耳”。
+```
+
+<a id="prompt-562"></a>
+## 案例 562：涂鸦记号笔手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993958314179482074))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/562.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-涂鸦记号笔手账">
+</div>
+
+**中文提示词：**
+```
+9:16全屏时尚情绪板插画。背景是带有混凝土纹理的哑光纸张，上面布满了鲜艳的霓虹色马克笔涂鸦和抽象的街头喷漆线条。所有元素均为具有厚实白色边缘的模切贴纸风格，带有立体阴影。主角贴纸是穿着潮流街头服饰的用户。配饰贴纸包括限量版球鞋特写和一个奢侈品潮牌包。Labubu公仔贴纸穿着同款卫衣，戴着棒球帽，正从贴纸边缘探出头来。特别展示的隐藏层贴纸是一件高科技面料的运动紧身衣，平铺展示。用黑色粗记号笔绘制的箭头指向各个单品，角落贴有数码胶带装饰。无实物拍摄感，完全的数字化手账拼贴艺术。
+```
+
+<a id="prompt-561"></a>
+## 案例 561：国家一级摆烂许可证 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991813589078778313))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/561.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-国家一级摆烂许可证">
+</div>
+
+**中文提示词：**
+```
+一张像驾照一样的证件卡片特写，证件照是一只睡着的考拉。证件名称写着：“国家一级摆烂许可证”。有效期写着：“永久有效”。
+```
+
+<a id="prompt-560"></a>
+## 案例 560：未经他人苦莫劝他人善 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991828940290224493))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/560.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-未经他人苦莫劝他人善">
+</div>
+
+**中文提示词：**
+```
+一张极其唯美的夕阳风景图，一个人坐在悬崖边看海。背影很孤独。天空中浮现一行由云朵组成的字：“未经他人苦，莫劝他人善”。
+```
+
+<a id="prompt-559"></a>
+## 案例 559：月亮不睡我不睡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991871219600400445))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/559.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-月亮不睡我不睡">
+</div>
+
+**中文提示词：**
+```
+一只熊猫戴着墨镜，手里拿着保温杯（里面泡着枸杞）。背景是深夜的霓虹灯城市。熊猫身边的霓虹灯牌写着：“月亮不睡我不睡，我是秃头小宝贝”。
+```
+
+<a id="prompt-558"></a>
+## 案例 558：宇航员坐在弯弯的月亮边钓星星 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991875496817070245))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/558.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宇航员坐在弯弯的月亮边钓星星">
+</div>
+
+**中文提示词：**
+```
+一个宇航员坐在弯弯的月亮边缘，手里拿着鱼竿。鱼钩垂在下方的云层中，钓起了一颗发光的星星。氛围孤独而宁静。Lofi Hip Hop 视觉美学。
+```
+
+<a id="prompt-557"></a>
+## 案例 557：职业生涯地图图片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992766727126704259))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/557.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业生涯地图图片">
+</div>
+
+**中文提示词：**
+```
+请为小米的雷军创建一个有趣的职业生涯地图图片，使用游戏王者荣耀的主题
+```
+
+<a id="prompt-556"></a>
+## 案例 556：女子一只手夸张地伸向镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993134542618566911))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/556.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子一只手夸张地伸向镜头">
+</div>
+
+**中文提示词：**
+```
+一个极端鱼眼镜头拍摄的照片。金发双马尾的年轻女子穿着灰色开衫和格子裙校服，在涩谷十字路口兴奋地跳起，一只手夸张地伸向镜头前景，手指甲清晰可见。背景中，扭曲的涩谷109大楼和其他建筑林立，街道上挤满行人和车辆。巨大的粉色和蓝色渐变卡通怪兽漂浮在城市上空，巨大的触手和角环绕着扭曲的城市景观。阳光明媚，光影对比强烈。圆形画幅。
+```
+
+<a id="prompt-555"></a>
+## 案例 555：在复仇者大厦跟死侍合个影 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993222622986092722))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/555.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-在复仇者大厦跟死侍合个影">
+</div>
+
+**提示词：**
+```
+Place Deadpool next to the man, making "bunny ears" with his fingers behind the man's head while looking mischievously at the camera. Use the Avengers Tower rooftop overlooking New York City as the background. Keep the selfie composition intact and integrate both characters naturally.
+```
+
+**中文提示词：**
+```
+让死侍站在男人旁边，用手指在男人脑后比划“兔耳朵”，同时对着镜头露出调皮的表情。以俯瞰纽约市的复仇者大厦楼顶为背景。保持自拍构图不变，让两个角色自然地融入画面。
+```
+
+<a id="prompt-554"></a>
+## 案例 554：粉红色的星之卡吐泡泡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991795708308189668))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/554.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-粉红色的星之卡吐泡泡">
+</div>
+
+**中文提示词：**
+```
+梦境日记。粉红色的星之卡比睡在一颗星星上，嘴里吐出彩虹色的气泡。柔和的马卡龙色系，云朵和糖果的贴纸，闪粉笔画的细节，梦幻且甜美。
+```
+
+<a id="prompt-553"></a>
+## 案例 553：马斯克教爱因斯坦拍照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991805840685453495))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/553.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马斯克教爱因斯坦拍照">
+</div>
+
+**中文提示词：**
+```
+头发蓬乱的爱因斯坦困惑地盯着智能手机，试图自拍。埃隆·马斯克站在他旁边，耐心地指着屏幕教他。手机屏幕上的字：“怎么拍照？”。
+```
 
 <a id="prompt-552"></a>
 ## 案例 552：超现实主义日式水墨画 (来源 [@Preda2005](https://x.com/Preda2005/status/1992472259127283888))
