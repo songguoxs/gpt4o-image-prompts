@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 580：鱼眼镜头下的日本女子比心 ](#prompt-580)
+*   [案例 579：年轻女子侧坐在街机凳上 ](#prompt-579)
+*   [案例 578：油泼面宫格漫画图 ](#prompt-578)
+*   [案例 577：皮克斯风格3D动画场景 ](#prompt-577)
+*   [案例 576：皮克斯风格3D动画场景 ](#prompt-576)
 *   [案例 575：极繁主义波普艺术图层 ](#prompt-575)
 *   [案例 574：掌上游戏机的精美3D渲染图 ](#prompt-574)
 *   [案例 573：身着白色针织上衣的阳光女孩 ](#prompt-573)
@@ -213,6 +218,210 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-580"></a>
+## 案例 580：鱼眼镜头下的日本女子比心 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994036974961705057))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/580.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-鱼眼镜头下的日本女子比心">
+</div>
+
+**提示词：**
+```
+{
+  "image_specifications": {
+    "format": "photograph",
+    "style": "highly detailed, Y2K-inspired, gritty",
+    "lens": "fisheye",
+    "angle": "low-angle",
+    "shot": "close-up",
+    "lighting": "harsh, high contrast",
+    "colors": "saturated",
+    "background": {
+      "setting": "urban, dark, street or subway in Tokyo",
+      "effects": "subtle bokeh"
+    }
+  },
+  "subject": {
+    "type": "model",
+    "style": "Japanese Ganguro or Gyaru",
+    "appearance": {
+      "hair": "platinum blonde with dark roots",
+      "makeup": {
+        "eyes": "heavy eye makeup",
+        "lips": "light lipstick"
+      },
+      "clothing": [
+        "faux fur vest",
+        "distressed black denim top"
+      ],
+      "accessories": [
+        "large gold cross pendant on a chain",
+        "leopard-print choker"
+      ],
+      "hands": {
+        "position": "foreground, forming a heart shape around face",
+        "nails": "long, heavily jeweled and decorated (deconails)"
+      }
+    },
+    "pose": "looking directly at the camera"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_specifications": {
+"格式": "照片",
+“风格”：“高度注重细节，受 Y2K 启发，粗犷”，
+“镜头”: “鱼眼镜头”，
+“角度”：“低角度”，
+“镜头”: “特写”
+“照明”：“刺眼、高对比度”，
+“颜色”：“饱和的”，
+“背景”： {
+“场景”: “东京的城市、昏暗的街道或地铁”，
+“效果”： “柔和散景”
+}
+},
+“主题”： {
+"type": "model",
+"style": "Japanese Ganguro or Gyaru",
+“外貌”： {
+“头发”: “铂金色，发根颜色较深”
+“化妆品”： {
+“眼睛”： “浓重的眼妆”，
+“嘴唇”: “浅色唇膏”
+},
+“衣服”： [
+“人造毛皮背心”，
+“做旧黑色牛仔上衣”
+],
+“配件”： [
+“链子上挂着一个大金十字架吊坠”
+豹纹项链
+],
+"手": {
+“位置”：“前景，在脸部周围形成心形”，
+“指甲”： “长长的、镶满珠宝和装饰的（教士指甲）”
+}
+},
+“姿势”：“直视镜头”
+}
+}
+```
+
+<a id="prompt-579"></a>
+## 案例 579：年轻女子侧坐在街机凳上 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1994104753966686476))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/579.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子侧坐在街机凳上">
+</div>
+
+**提示词：**
+```
+{ "subject": { "type": "young woman", "pose": "sitting sideways on an arcade stool, one knee up, hugging legs loosely, winking with exaggerated cuteness", "expression": "playful and lively" }, "clothing": { "top": "teal t-shirt with comic-outline shading", "bottom": "pink shorts", "socks": "purple crew socks", "shoes": "bright neon sneakers with translucent soles" }, "hair": { "color": "black", "style": "braided pigtails with neon hair ties" }, "environment": { "setting": "retro arcade interior", "details": "glowing cabinets, colorful reflections, cluttered neon lights" }, "lighting": { "type": "intense neon mixed lighting", "mood": "electric, colorful, kinetic" }, "camera": { "angle": "low-medium angle", "lens_effect": "wide lens, subtle distortion for dynamic feel", "framing": "tight arcade framing" }, "art_overlay": { "style": "overloaded sweets-monster pop-art", "description": "a hyper-busy explosion of candy-inspired monsters and neon shapes surrounding the subject while keeping skin photorealistic", "illustrated_elements": { "monsters": "goofy cute-ugly creatures made of donuts, chocolate chunks, banana ghosts, candy worms, gummy bears, soda bottles, strawberries, melting ice cream blobs", "graphic_shapes": "drips, splashes, stars, hearts, zigzags, spirals, speed lines, sparkles, comic bursts without text", "style": "flat graphic shapes with thick black outlines and bright neon hues" }, "placement_and_density": { "behavior": "extreme density filling almost all negative space", "behind_subject": "background jam-packed with overlapping layers of monsters", "around_subject": "creatures peeking behind shoulders, popping near head, sitting near feet", "over_clothing": "monsters overlapping shirt and shorts with subtle shading interaction", "avoid_skin": "no overlays touching the face, arms, or legs", "depth_layers": "front and back illustration layers creating chaotic dimensionality", "energy_effects": "white spark dots, glowing rims, dynamic speed lines around the figure" } }, "style": { "overall": "arcade portrait consumed by maximalist sweets-monster chaos", "aesthetic": "energetic, loud, neon-pop, surreal" } }
+```
+
+**中文提示词：**
+```
+{ "subject": { "type": "年轻女子", "pose": "侧坐在街机凳上，单膝抬起，双腿松松地抱在一起，夸张地眨着眼睛，表情可爱", "expression": "活泼俏皮" }, "clothing": { "top": "青色T恤，带有漫画轮廓阴影", "bottom": "粉色短裤", "socks": "紫色船袜", "shoes": "亮霓虹色运动鞋，鞋底半透明" }, "hair": { "color": "黑色", "style": "用霓虹色发圈扎的麻花辫" }, "virtation": { "setting": "复古街机厅内部", "details": "发光的机柜，五彩缤纷的倒影，杂乱的霓虹灯" }, "lighting": { "type": "强烈的霓虹混合照明", "mood": "电光、多彩、动感" }, "camera": { "angle": "低中光"角度", "镜头效果": "广角镜头，轻微畸变，营造动感", "构图": "紧凑的街机式构图" }, "艺术叠加"": { "风格"": "糖果怪兽波普艺术", "描述"": "围绕主体，糖果灵感怪兽和霓虹形状的超密集爆炸，同时保持皮肤的逼真度", "插画元素"": { "怪兽"": "由甜甜圈、巧克力块、香蕉幽灵、糖果蠕虫、软糖熊、汽水瓶、草莓、融化的冰淇淋球组成的滑稽可爱又丑陋的生物", "图形形状"": "滴落、飞溅、星星、心形、锯齿形、螺旋形、速度线、闪光、无文字的漫画爆发" "风格"": "带有粗黑轮廓和明亮霓虹色调的扁平图形形状" }, "位置和密度" { "行为"": "极高的密度，几乎填充所有负空间", "behind_subject": "背景密密麻麻地布满了层叠的怪物", "around_subject": "生物从肩膀后探出头来，在头部附近闪现，在脚边栖息", "over_clothing": "怪物与衬衫和短裤重叠，并有微妙的阴影互动", "avoid_skin": "没有叠加层接触到脸部、手臂或腿部", "depth_layers": "前后插图层营造出混乱的立体感", "energy_effects": "白色火花点、发光边缘、人物周围的动态速度线" } }, "style": { "overall": "被极繁主义的糖果怪物混乱所吞噬的街机肖像", "aesthetic": "充满活力、喧闹、霓虹流行、超现实" } }
+```
+
+<a id="prompt-578"></a>
+## 案例 578：油泼面宫格漫画图 (来源 [@hellokaton](https://x.com/hellokaton/status/1991668144080056423))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/578.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-油泼面宫格漫画图">
+</div>
+
+**中文提示词：**
+```
+编写一个 Nano Banana 提示词，用于生成「油泼面的做法」四宫格漫画图，有配图和文字排版。
+```
+
+<a id="prompt-577"></a>
+## 案例 577：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994139903513317767))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/577.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-皮克斯风格3D动画场景">
+</div>
+
+**提示词：**
+```
+A vibrant Pixar-style 3D animated scene depicting a joyful group selfie moment featuring <group of characters> in a <culturally representative environment>.
+At the center, <main character> confidently holds a selfie stick topped with an iPhone, wearing an expression that clearly reflects their <distinctive personality trait> and exudes <leadership or core presence>.
+To the left, <character A> adopts a pose or action reflective of their <distinct personality trait>, showcasing an expressive face that vividly captures their <personality description>.
+On the right side, <character B> strikes a playful/humorous/cute pose, holding a characteristic item (<character B’s representative object>), with an exaggerated, lively facial expression highlighting their <distinctive personality trait>.
+Additional characters (optional):
+
+Nearby, <character C> performs an action or posture aligned with their personality, bearing an expressive facial expression that encapsulates their unique personality traits.
+All characters wear bright, cheerful, and adorably rounded outfits styled in a contemporary fusion of traditional and modern attire representative of their cultural or historical backgrounds.
+The scene is warmly lit, colorful, and filled with dynamic expressions and lively poses.
+The background features a setting emblematic of the characters' cultural identities or personalities—such as cherry blossoms, lakes, mountains, historic architecture, or fantasy-like natural landscapes—rendered in the adorable, cinematic style characteristic of Pixar animations.
+The overall composition exudes energy, humor, and heartwarming joy, capturing the essence of each character through their selfie expressions and postures.
+
+—-
+
+Names: [Frodo, Sam, Aragorn, Gandalf, Legolas, Gimli]
+```
+
+**中文提示词：**
+```
+一段充满活力的皮克斯风格3D动画场景，描绘了欢乐的集体自拍时刻。<group of characters>在<culturally representative environment>。
+在中心，<main character>她自信地拿着一根顶端装着iPhone的自拍杆，脸上带着明显反映出他们<distinctive personality trait>并散发出<leadership or core presence>。
+向左转，<character A>采取一种反映其身份的姿势或动作<distinct personality trait>展现出一张表情丰富的脸，生动地捕捉到了他们的<personality description>。
+右侧，<character B>摆出俏皮/幽默/可爱的姿势，手持一件特色物品（ <character B’s representative object<span translate="no"> （p1），面部表情夸张生动，突显了他们的<distinctive personality trait>。
+其他字符（可选）：
+
+附近，<character C>做出符合其个性的动作或姿势，并带有能体现其独特个性特征的生动面部表情。
+所有角色都穿着色彩鲜艳、活泼可爱、圆润的服装，这些服装融合了传统和现代元素，体现了他们的文化或历史背景。
+画面光线温暖，色彩丰富，充满了生动的表情和活泼的姿态。
+背景以象征角色文化身份或个性的场景为特色——例如樱花、湖泊、山脉、历史建筑或奇幻般的自然景观——以皮克斯动画特有的可爱电影风格呈现。
+整体构图充满活力、幽默和温馨的喜悦，通过人物的自拍表情和姿势捕捉到了每个角色的精髓。
+
+——
+
+人物：[弗罗多、山姆、阿拉贡、甘道夫、莱戈拉斯、吉姆利]
+```
+
+<a id="prompt-576"></a>
+## 案例 576：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994142229695217837))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/576.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-皮克斯风格3D动画场景">
+</div>
+
+**中文提示词：**
+```
+皮克斯风格3D动画场景——<人物组合>在<场景环境>中欢乐自拍留念。
+
+<主视角人物>站在中央，手持自拍杆（上面连着一部 iPhone 手机），
+表情为<主视角人物性格特征>，呈现出<领导/核心人物气质>。
+
+在<主视角人物>左侧的<人物A>展现出<人物A性格相关的动作/姿势>，
+表情为<人物A表情特征>，体现出<人物A性格描述>。
+
+在右侧的<人物B>则摆出<搞怪/豪迈/可爱>的姿势，
+手持<人物B代表物品>，表情为<人物B表情特征>，
+风格活泼夸张，展现出<人物B性格特征>。
+
+若有更多人物，可继续添加：
+旁边的<人物C>则<动作/姿态>，脸上带着<表情>，
+展示出<性格>特点。
+
+所有人物穿着色彩鲜艳、圆润可爱的<时代风格+改良服饰>，
+整体光效柔和温暖、色调明亮，
+角色表情丰富、动作生动。
+
+背景为<环境描述：如桃花、湖泊、山林、古风建筑或仙境般的自然场景>，
+场景具有皮克斯动画电影般的可爱氛围与电影级构图感，
+整体画面充满活力、幽默、温馨的欢乐气息。
+
+---
+人物：刘备、张飞、关羽
+```
 
 <a id="prompt-575"></a>
 ## 案例 575：极繁主义波普艺术图层 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1993609750051766767))
