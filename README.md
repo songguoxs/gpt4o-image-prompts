@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 590：虚构的英语电影海报-回忆之味 ](#prompt-590)
+*   [案例 589：卡哇伊波普艺术 ](#prompt-589)
+*   [案例 588：金属霓虹手账 ](#prompt-588)
+*   [案例 587：iPhone 16 Pro Max拆解 ](#prompt-587)
+*   [案例 586：清新蓝色手账 ](#prompt-586)
+*   [案例 585：相机拆解 ](#prompt-585)
+*   [案例 584：复古动漫幻想 ](#prompt-584)
+*   [案例 583：东方武侠史诗海报-剑影红颜 ](#prompt-583)
+*   [案例 582：奇幻冒险喜剧海报-寻龙秘境 ](#prompt-582)
+*   [案例 581：职业西装风手账 ](#prompt-581)
 *   [案例 580：鱼眼镜头下的日本女子比心 ](#prompt-580)
 *   [案例 579：年轻女子侧坐在街机凳上 ](#prompt-579)
 *   [案例 578：油泼面宫格漫画图 ](#prompt-578)
@@ -218,6 +228,131 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-590"></a>
+## 案例 590：虚构的英语电影海报-回忆之味 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994276578084413877))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/590.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-虚构的英语电影海报-回忆之味">
+</div>
+
+**中文提示词：**
+```
+一张虚构的英语电影《回忆之味》（The Taste of Memory）的电影海报。场景设置在一个质朴的19世纪风格厨房里。画面中央，一位红棕色头发、留着小胡子的中年男子（演员 成龙 饰）站在一张木桌后，他身穿白色衬衫、黑色马甲和米色围裙，正看着镜头，手中拿着一大块生红肉，下方是一个木制切菜板。在他的右边，一位梳着高髻的黑发女子（演员 刘亦菲 饰）倚靠在桌子上，温柔地对他微笑。她穿着浅色衬衫和一条上白下蓝的长裙。桌上除了放有切碎的葱和卷心菜丝的切菜板外，还有一个白色陶瓷盘、新鲜香草，左侧一个木箱上放着一串深色葡萄。背景是一面粗糙的灰白色抹灰墙，墙上挂着一幅风景画。最右边的一个台面上放着一盏复古油灯。海报上有大量的文字信息。左上角是白色的无衬线字体"ARTISAN FILMS PRESENTS"，其下方是"ELEANOR VANCE"和"ACADEMY AWARD® WINNER"。右上角写着"ARTHUR PENHALIGON"和"GOLDEN GLOBE® AWARD WINNER"。顶部中央是圣丹斯电影节的桂冠标志，下方写着"SUNDANCE FILM FESTIVAL GRAND JURY PRIZE 2024"。主标题"THE TASTE OF MEMORY"以白色的大号衬线字体醒目地显示在下半部分。标题下方注明了"A FILM BY Tongyi Interaction Lab"。底部区域用白色小字列出了完整的演职员名单，包括"SCREENPLAY BY ANNA REID"、"CULINARY DIRECTION BY JAMES CARTER"以及Artisan Films、Riverstone Pictures和Heritage Media等众多出品公司标志。整体风格是写实主义，采用温暖柔和的灯光方案，营造出一种亲密的氛围。色调以棕色、米色和柔和的绿色等大地色系为主。两位演员的身体都在腰部被截断。
+```
+
+<a id="prompt-589"></a>
+## 案例 589：卡哇伊波普艺术 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994239610713678137))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/589.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡哇伊波普艺术">
+</div>
+
+**中文提示词：**
+```
+中低角度拍摄，一位可爱的年轻东亚女性，皮肤白里透红、滑嫩紧致。她扎着双马尾，戴着过多的彩色发夹，穿着色彩爆炸的原宿Decora风格服装，在东京繁忙的街头俏皮地比着“耶”的手势。照片风格被过量的卡哇伊波普艺术淹没：无数的塑料玩具、彩虹、独角兽、糖果、笑脸和巨大的蝴蝶结插画填满背景并延伸到前景，部分卡通元素像贴纸一样覆盖在她的衣服和配件上。光线是明亮的日光，充满活力的柔和色彩。
+```
+
+<a id="prompt-588"></a>
+## 案例 588：金属霓虹手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994226726692683849))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/588.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金属霓虹手账">
+</div>
+
+**中文提示词：**
+```
+Y2K美学风格的竖屏时尚情绪板。背景是数码故障艺术风格的网格纸，带有全息镭射的粉紫配色。所有元素呈现高光泽的乙烯基贴纸质感，白边清晰。主角穿着Y2K风格服饰。Labubu公仔贴纸佩戴银色大耳机和金属配饰，造型前卫。隐藏层贴纸是一件性感的镂空紧身连体衣。周围散落着像素风的手绘星星、蝴蝶图案和电子宠物涂鸦。字体采用气泡立体字风格。整体画面色彩高饱和度，充满未来复古感，不仅是照片，更是一幅完整的数字波普艺术画作。
+```
+
+<a id="prompt-587"></a>
+## 案例 587：iPhone 16 Pro Max拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994602402276938242))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/587.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-iPhone 16 Pro Max拆解">
+</div>
+
+**中文提示词：**
+```
+最新款iPhone 16 Pro Max的解构对比摄影，分割布局。画面左侧 1/3 是一部完美的、屏幕亮起的钛金属iPhone；画面右侧 2/3 是拆解后的内部组件，包括A18芯片、三摄模组、电池和排线，采用Knolling风格几何排列。干净的深灰色背景，高角度俯视，极简工业美学，锐利对焦，--ar 16:9
+```
+
+<a id="prompt-586"></a>
+## 案例 586：清新蓝色手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994227033141100662))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/586.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-清新蓝色手账">
+</div>
+
+**中文提示词：**
+```
+充满夏日气息的竖屏时尚插画。背景是手绘的蓝色海洋波浪纹理和沙滩色块，使用彩色铅笔质感。主角贴纸穿着度假长裙或泳装，阳光明媚。Labubu公仔贴纸穿着夏威夷衬衫，拿着冲浪板或游泳圈。配饰贴纸包括草编包和墨镜。隐藏层贴纸是一套精美的蕾丝比基尼或薄纱罩衫，平铺展示。周围绘制了棕榈树、太阳和鸡尾酒的可爱涂鸦。贴纸角落有“Was here”的手写旅行笔记。整体氛围轻松愉悦，就像一本旅行剪贴簿的内页扫描图。
+```
+
+<a id="prompt-585"></a>
+## 案例 585：相机拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994604456969998397))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/585.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-相机拆解">
+</div>
+
+**提示词：**
+```
+Knolling photography, disassembled parts of a vintage film camera neatly arranged on a flat surface, high angle shot, flat lay, technical aesthetic, sharp focus, clean background.
+```
+
+**中文提示词：**
+```
+扁平化摆拍摄影：将一台复古胶片相机的拆解部件整齐排列在平面上，采用俯拍角度，呈现扁平化构图风格，兼具技术美感，画面对焦清晰，背景简洁干净。
+```
+
+<a id="prompt-584"></a>
+## 案例 584：复古动漫幻想 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994240266866446621))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/584.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古动漫幻想">
+</div>
+
+**中文提示词：**
+```
+一位美丽的东亚女性，有着令人羡慕的白嫩光滑肌肤，留着蓬松的90年代风格卷发。她穿着复古的水手服风格连衣裙，坐在一家充满怀旧感的日式咖啡馆里，眼神梦幻。照片被密集的80-90年代少女漫画元素覆盖：闪烁的星星、魔法少女变身效果、粉彩色的机甲怪兽、玫瑰花框和巨大的漫画拟声词（如“DOKI DOKI”）。艺术风格是扁平的赛璐璐色彩和粗糙的线条，环绕着她写实的身体。柔和、梦幻的午后光线。
+```
+
+<a id="prompt-583"></a>
+## 案例 583：东方武侠史诗海报-剑影红颜 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994278346474311838))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/583.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-东方武侠史诗海报-剑影红颜">
+</div>
+
+**中文提示词：**
+```
+一张虚构的东方武侠史诗海报《剑影红颜》（Sword & Beauty）。场景设置在一个云雾缭绕的古老山巅亭阁中。画面中央，陈坤（Chen Kun）身着飘逸的墨色长袍，长发束起，眼神深邃，手中握着一把未出鞘的古剑，剑柄上镶嵌着玉石，他正凝视前方。在他的左侧，周迅（Zhou Xun）身穿刺绣精美的绯红色古装，高耸的发髻上插着金步摇，她侧身回眸，眼神中带着一丝哀愁和决绝，手中拿着一管玉箫。桌上放着一壶清酒、两个酒杯和一卷竹简。背景是连绵不绝的水墨山水和一轮巨大的红日。最右侧的石灯笼里燃着烛火。左上角"博纳影业 出品"，下方"徐克导演作品"。右上角"金马奖 最佳动作设计"。顶部中央是奥斯卡金像奖标志，下方"ACADEMY AWARD® NOMINEE BEST INTERNATIONAL FEATURE"。主标题"剑影红颜"以苍劲有力的书法字体显示。标题下方注明"江湖之远，不敌你眉间朱砂"。底部列出"武术指导 袁和平"、"服装设计 叶锦添"。整体风格是唯美主义的东方奇幻，采用柔和的自然光和云雾效果，营造出仙气、悲壮和浪漫的氛围。色调以青绿、墨色和朱红为主。
+```
+
+<a id="prompt-582"></a>
+## 案例 582：奇幻冒险喜剧海报-寻龙秘境 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994279390579183827))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/582.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-奇幻冒险喜剧海报-寻龙秘境">
+</div>
+
+**中文提示词：**
+```
+一张虚构的奇幻冒险喜剧海报《寻龙秘境》（The Dragon Realm Quest）。场景设置在一个充满奇异发光植物和古老遗迹的地下洞穴中。画面中央，演员黄渤留着滑稽的胡子，戴着探险帽，穿着多口袋马甲，表情夸张地瞪大眼睛看着手中的一个发光罗盘。在他的右侧，演员舒淇穿着异域风情的皮质探险服，背着一把弩箭，正无奈地扶着额头，嘴角上扬看着黄渤。两人周围散落着金币、古老的卷轴和一个巨大的恐龙蛋化石。背景是一个巨大的、沉睡的石龙雕像，其眼睛部位隐约发出红光。左上角"开心麻花影业 出品"，下方"闫非 彭大魔导演作品"。右上角"百花奖 观众最喜爱影片"。顶部中央是多伦多电影节标志，下方"TIFF PEOPLE'S CHOICE AWARD 2024"。主标题"寻龙秘境"以带有龙鳞纹理的金色立体字体显示。标题下方注明"不仅要命，还要钱！"。底部列出"视觉特效 工业光魔"、"动作指导 成家班"。整体风格是色彩斑斓的奇幻冒险，采用魔法光和生物发光的混合光源，营造出幽默、惊险和神秘的氛围。色调以宝石蓝、翠绿和金色为主，人物的旁边标记演员的名字。
+```
+
+<a id="prompt-581"></a>
+## 案例 581：职业西装风手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994309283488444523))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/581.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业西装风手账">
+</div>
+
+**中文提示词：**
+```
+9:16极简主义时尚插画。背景是干净的高级灰哑光纸张，仅有极细的工程制图线条。贴纸元素布局严谨，白边锐利。中央是用户穿着职业西装或极简风穿搭的贴纸。Labubu公仔贴纸戴着黑框眼镜，系着领带，一副精英模样。衣物解构贴纸包括折叠完美的西裤和名表。隐藏层贴纸是一件极简的高级黑色丝绸衬裙，展现低调奢华。所有的标注文字都是极细的黑色针管笔手写体。画面冷静、克制，无杂乱装饰，纯粹通过排版和材质对比展示高级感。
+```
 
 <a id="prompt-580"></a>
 ## 案例 580：鱼眼镜头下的日本女子比心 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994036974961705057))
