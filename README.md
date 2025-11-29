@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 600：和疯狂动物城中的角色自拍 ](#prompt-600)
+*   [案例 599：女生双手比出一个心形 ](#prompt-599)
+*   [案例 598：宝丽来照片讲述故事 ](#prompt-598)
+*   [案例 597：宝丽来照片讲述故事 ](#prompt-597)
+*   [案例 596：3X3女子肖像照拼贴画 ](#prompt-596)
+*   [案例 595：四幅女子时尚生活场景拼贴画 ](#prompt-595)
+*   [案例 594：模切线图转3D产品可视化 ](#prompt-594)
+*   [案例 593：模切线变为现实 ](#prompt-593)
+*   [案例 592：城市俯视等距3D卡通微缩场景 ](#prompt-592)
+*   [案例 591：真人转3D漫画 ](#prompt-591)
 *   [案例 590：虚构的英语电影海报-回忆之味 ](#prompt-590)
 *   [案例 589：卡哇伊波普艺术 ](#prompt-589)
 *   [案例 588：金属霓虹手账 ](#prompt-588)
@@ -228,6 +238,686 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-600"></a>
+## 案例 600：和疯狂动物城中的角色自拍 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994360357100368334))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/600.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和疯狂动物城中的角色自拍">
+<img src="./images/600-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和疯狂动物城中的角色自拍">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "characters": [
+      {
+        "name": "Miyeon",
+        "description": "beautiful young Korean woman, smiling, long black hair, wearing a white strapless top with black stars, silver necklace"
+      },
+      {
+        "name": "Judy Hopps",
+        "description": "Disney character from Zootopia, wearing police uniform, smiling"
+      }
+    ],
+    "scene": {
+      "location": "slightly dark, crowded movie theater/cinema hall",
+      "background": "large movie screen showing a scene with multiple male characters in action poses",
+      "lighting": "cinematic lighting"
+    },
+    "interaction": "Miyeon taking a selfie with Judy Hopps, standing side-by-side",
+    "style": "photorealistic, ultra-detailed, 8K"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+“人物”： [
+{
+"name": "Miyeon",
+描述：一位美丽的年轻韩国女子，面带微笑，留着黑色长发，身穿白色无肩带上衣，上面点缀着黑色星星，佩戴银色项链。
+},
+{
+姓名：朱迪·霍普斯
+描述：迪士尼动画电影《疯狂动物城》中的角色，身穿警服，面带微笑。
+}
+],
+“场景”： {
+“地点”：“略显昏暗、拥挤的电影院/影厅”，
+“背景”：“大电影屏幕上显示多个男性角色摆出动作姿势的场景”，
+“照明”: “电影照明”
+},
+“互动”：“美延和朱迪·霍普斯并肩站着自拍”
+风格：照片级写实、超高细节、8K
+}
+}
+```
+
+<a id="prompt-599"></a>
+## 案例 599：女生双手比出一个心形 (来源 [@SDT_side](https://x.com/SDT_side/status/1994133786632806832))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/599.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生双手比出一个心形">
+</div>
+
+**提示词：**
+```
+{
+  "image_info": {
+    "width": 768,
+    "height": 1365,
+    "aspect_ratio": "9:16",
+    "orientation": "vertical"
+  },
+
+  "subject": {
+    "type": "close-up portrait",
+    "description": "A young East Asian woman making a heart shape with her hands directly in front of the camera, with her head gently tilted"
+  },
+
+  "clothing": {
+    "visible": false,
+    "notes": "No clothing visible within the framing"
+  },
+
+  "hair": {
+    "color": "black",
+    "style": "straight",
+    "details": "Loose strands falling naturally across her face"
+  },
+
+  "face": {
+    "eyes": {
+      "shape": "almond-shaped",
+      "color": "dark brown",
+      "makeup": "subtle eyeliner, defined lashes, soft shimmer on lids",
+      "expression": "one eye winked, the other softly open"
+    },
+    "eyebrows": "natural, slightly arched",
+    "skin": "smooth, natural glow",
+    "lips": {
+      "shape": "full",
+      "color": "pink glossy tint",
+      "expression": "kiss face (puckered lips)"
+    },
+    "other_details": "small mole under the left eye"
+  },
+
+  "accessories": {
+    "visible": false
+  },
+
+  "environment": {
+    "background": "not visible; fully obscured by the extreme close-up framing"
+  },
+
+  "lighting": {
+    "type": "soft diffused light",
+    "effects": "even illumination, minimal shadows, natural skin highlights"
+  },
+
+  "camera": {
+    "framing": "extreme close-up (eyes, nose, and lips filling the frame)",
+    "angle": "straight-on",
+    "depth_of_field": "very shallow",
+    "focus": "sharp on eyes and lips",
+    "foreground_elements": "hands forming a heart shape in front of the face"
+  },
+
+  "style": {
+    "aesthetic": "soft, playful, intimate",
+    "texture": "high-resolution portrait with film-like softness",
+    "vibe": "cute, expressive, flirtatious"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_info": {
+宽度：768，
+“高度”：1365，
+"aspect_ratio": "9:16",
+“方向”: “垂直”
+},
+
+“主题”： {
+“类型”：“特写肖像”，
+描述：一位年轻的东亚女性在镜头前用双手比出一个心形，头部微微倾斜。
+},
+
+“衣服”： {
+“可见”：否，
+备注：画面中看不到任何衣物。
+},
+
+“头发”： {
+“颜色：黑色”，
+“风格”：“直筒”，
+“细节”：“几缕散落的发丝自然地垂落在她的脸上”
+},
+
+“脸”： {
+"眼睛": {
+“形状”： “杏仁形”
+“颜色”: “深棕色”
+“妆容”：“淡雅的眼线，精致的睫毛，眼睑上柔和的珠光”，
+“表情”：“一只眼睛眨了眨，另一只眼睛轻轻睁开”
+},
+“眉毛”：“自然，略微拱起”，
+“肌肤”：“光滑、自然的光泽”，
+"嘴唇": {
+"形状": "饱满",
+“颜色”： “粉红色光泽色调”，
+“表情”：“亲吻脸（撅起嘴唇）”
+},
+"other_details": "左眼下方有一颗小痣"
+},
+
+“配件”： {
+“可见”：否
+},
+
+“环境”： {
+“背景”：“不可见；完全被极近的特写镜头遮挡住”
+},
+
+“灯光”： {
+“类型”：“柔和漫射光”，
+“效果”：“均匀照明，阴影极少，肌肤自然高光”
+},
+
+“相机”： {
+“构图”：“极近特写（眼睛、鼻子和嘴唇充满画面）”，
+"角度": "正面",
+"景深": "非常浅",
+“焦点”: “聚焦于眼睛和嘴唇”，
+"前景元素": "双手在脸前摆成心形"
+},
+
+“风格”： {
+“美学”：“柔和、俏皮、亲密”，
+“纹理”：“具有胶片般柔和感的高分辨率肖像”，
+氛围：可爱、活泼、爱调情
+}
+}
+```
+
+<a id="prompt-598"></a>
+## 案例 598：宝丽来照片讲述故事 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993752534637531605))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/598.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宝丽来照片讲述故事">
+</div>
+
+**提示词：**
+```
+1080x1080 cork-board layout telling the story of [MOVIE]. At the very top of the board, include a pinned paper label with the movie title: [MOVIE] in large handwritten letters. Below it, arrange 5–6 Polaroid photos pinned across the board in a loose chronological path. Each Polaroid shows a key moment from the story with a short handwritten caption beneath it. Connect characters and events with colored strings (red, blue, yellow). Warm nostalgic lighting, soft shadows. Include realistic details: coffee cup rings, paper clips, torn notes, arrows, scribbled hints, and thumbtacks. Vintage, textured, cozy detective-board aesthetic. Highly readable, high contrast, everything framed clearly for 1080x1080
+```
+
+**中文提示词：**
+```
+1080x1080像素的软木板布局，讲述电影[MOVIE]的故事。在木板最上方，钉上一张纸质标签，上面用大号手写字体写着电影标题：[MOVIE]。标签下方，以大致的时间顺序排列5-6张宝丽来照片。每张照片都展现了故事中的一个关键时刻，并在下方附上简短的手写说明。用彩色细线（红、蓝、黄）连接人物和事件。营造温暖怀旧的灯光和柔和的阴影。添加一些逼真的细节：咖啡杯印、回形针、撕碎的纸条、箭头、潦草的提示和图钉。打造复古、质感十足、温馨舒适的侦探板风格。清晰易读，高对比度，所有内容都以1080x1080像素的分辨率清晰呈现。
+```
+
+<a id="prompt-597"></a>
+## 案例 597：宝丽来照片讲述故事 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1993247403995283687))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/597.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宝丽来照片讲述故事">
+</div>
+
+**提示词：**
+```
+Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid photos pinned to a cork board. Each photo captures a key moment, with simple captions below. Arrange the photos in a loosely chronological path across the board, using colored strings to connect events and characters. Light the scene warmly to evoke nostalgia. Include incidental details, coffee cup rings, paper clips, handwritten notes, for authenticity.
+```
+
+**中文提示词：**
+```
+创作一幅关于[电影/小说]的图像，用一系列宝丽来照片讲述故事，并将照片钉在软木板上。每张照片捕捉一个关键时刻，并在下方附上简单的文字说明。将照片大致按照时间顺序排列在软木板上，用彩色细线连接事件和人物。用温暖的光线营造怀旧氛围。添加一些细节，例如咖啡杯印、回形针、手写笔记等，以增强真实感。
+```
+
+<a id="prompt-596"></a>
+## 案例 596：3X3女子肖像照拼贴画 (来源 [@craftian_keskin](https://x.com/craftian_keskin/status/1994110561101979793))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/596.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3X3女子肖像照拼贴画">
+</div>
+
+**提示词：**
+```
+Create a full Instagram-style 3×3 grid feed composed of nine different portrait images, all featuring the person and the dog from the attached image. ensure that the middle photo is the same photo as the attached image, Ensure the person’s identity, facial structure, and style remain consistent across all nine posts. Each of the 9 images should present a unique concept, outfit, pose, and environment that fits a stylish, modern Instagram aesthetic.
+ Include a mix of:
+ – Lifestyle shots
+ – Cinematic portraits 
+– Fashion/streetwear scenes
+ – Close-up beauty shots
+ – Travel or outdoor vibes 
+– Cozy indoor moments 
+– Minimalist studio portraits 
+
+Make every image hyperrealistic and shot as if with a professional camera: 
+– Natural skin texture
+ – Accurate lighting
+ – Sharp details 
+– Professional depth of field
+ – High-quality color grading 
+– Authentic expressions and posing Ensure all 9 images feel coherent as a feed: 
+– Consistent character likeness 
+– Similar visual tone and color palette 
+– Aesthetic balance across the grid 
+– Cinematic and modern photography style
+
+ Final deliverable: a 3×3 Instagram grid layout of nine separate 3:4 ratio hyperrealistic portraits of the person from the attached photo.
+```
+
+**中文提示词：**
+```
+创建一个完整的 Instagram 风格的 3×3 网格信息流，包含九张不同的肖像照片，每张照片都需包含附图中的人物和狗狗。确保中间的照片与附图相同。确保所有九张照片中人物的身份、面部结构和风格保持一致。每张照片都应呈现独特的概念、服装、姿势和环境，以符合时尚现代的 Instagram 美学风格。
+包含以下几种元素：
+生活照
+电影般的肖像
+– 时尚/街头服饰场景
+——特写镜头下的美照
+旅行或户外氛围
+舒适的室内时光
+极简主义风格的影棚人像
+
+让每一张照片都呈现出超逼真的效果，并像用专业相机拍摄一样：
+自然肌肤纹理
+精准照明
+清晰的细节
+– 专业景深
+– 高质量的色彩分级
+– 表情和姿势真实自然，确保所有 9 张图片在整体风格上保持一致：
+– 角色形象始终如一
+– 相似的视觉基调和色彩搭配
+– 网格的美学平衡
+电影感十足的现代摄影风格
+
+最终交付成果：一个 3×3 的 Instagram 网格布局，包含九张独立的 3:4 比例的超写实肖像，肖像人物为附图中的人物。
+```
+
+<a id="prompt-595"></a>
+## 案例 595：四幅女子时尚生活场景拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166422251950451))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/595.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅女子时尚生活场景拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A cohesive 4-panel fashion lifestyle collage featuring the same young woman in a trendy streetwear outfit, showcasing different dynamic poses and angles.",
+  "subject": {
+    "type": "Young Woman (Consistent character)",
+    "age": "early 20s",
+    "features": {
+      "hair": "high ponytail or messy bun",
+      "makeup": "fresh urban look"
+    },
+    "attire": "oversized graphic hoodie, biker shorts, high socks, chunky sneakers",
+    "accessories": "cross-body bag, sunglasses on head"
+  },
+  "collage_layout": {
+    "structure": "2x2 Grid Layout (4 frames of equal size)",
+    "panel_1_top_left": "Front Full Body: Walking confidently towards the camera on a city crosswalk, hair moving in the wind, looking slightly to the side.",
+    "panel_2_top_right": "Side Profile Sitting: Sitting on concrete steps with knees pulled up, resting chin on knees, looking peacefully at the street view.",
+    "panel_3_bottom_left": "Back View Full Body: Standing and looking away at a city billboard or view, hands in hoodie pockets, highlighting the back graphic of the hoodie.",
+    "panel_4_bottom_right": "Mid-Shot Angle: Leaning casually against a brick wall, one leg up on the wall, looking directly at the camera with a cool expression."
+  },
+  "environment": {
+    "setting": "City Streets / Urban Alley",
+    "background_elements": [
+      "Brick textures",
+      "Street signs",
+      "City depth"
+    ]
+  },
+  "lighting": {
+    "style": "Overcast Soft Light",
+    "key_light": {
+      "type": "Natural Sky",
+      "color": "Cool White",
+      "effect": "Even lighting ideal for street fashion"
+    }
+  },
+  "style": {
+    "medium": "Digital Street Photography",
+    "aesthetic": "Hypebeast, Urban, Gen Z, Candid",
+    "quality": "8k resolution, sharp focus on subject"
+  },
+  "attire_customization": {
+    "current_clothing": "Hoodie and biker shorts",
+    "customizable_clothing": "User can swap for denim jacket and cargo pants"
+  },
+  "brand_product_customization": {
+    "current_brand_product": "Streetwear",
+    "customizable_brand": "User: Insert Brand Name",
+    "customizable_product": "User: Specific sneakers or bag",
+    "product_placement_area": "Hoodie chest or sneakers"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景描述”： “这是一幅由四幅时尚生活场景组成的拼贴画，画中同一位年轻女子身着时髦的街头服饰，展现了不同的动态姿势和角度。”
+“主题”： {
+“类型”：“年轻女子（性格始终如一）”
+“年龄”：“20岁出头”，
+“特征”： {
+“发型”：“高马尾或凌乱发髻”，
+妆容：清新都市妆容
+},
+“着装”：“超大号印花连帽衫、骑行短裤、高筒袜、厚底运动鞋”，
+“配饰”：“斜挎包，头戴太阳镜”
+},
+"collage_layout": {
+"结构": "2x2 网格布局（4 个大小相同的框架）",
+"panel_1_top_left": "正面全身照：自信地走在城市人行横道上，头发随风飘扬，目光略微侧向一边。"
+"panel_2_top_right": "侧脸坐姿：坐在水泥台阶上，双膝蜷起，下巴搁在膝盖上，平静地望着街景。"
+"panel_3_bottom_left": "背部全身像：站立，目光看向远处的城市广告牌或风景，双手插在连帽衫口袋里，突显连帽衫背面的图案。"
+"panel_4_bottom_right": "中景角度：随意地倚靠在砖墙上，一条腿搭在墙上，面带冷峻的表情直视镜头。"
+},
+“环境”： {
+“场景”：“城市街道/城市小巷”，
+“背景元素”：[
+“砖纹理”，
+“街道标志”，
+“城市深度”
+]
+},
+“灯光”： {
+“风格”：“阴天柔光”，
+"key_light": {
+"type": "自然天空",
+“颜色”：“冷白”，
+“效果”：“均匀的灯光，非常适合街头时尚”
+}
+},
+“风格”： {
+“媒介”：“数码街头摄影”，
+“美学”：“潮牌、都市、Z世代、坦率”
+“画质”：“8K分辨率，主体清晰对焦”
+},
+"attire_customization": {
+"current_clothing": "连帽衫和骑行短裤",
+"customizable_clothing": "用户可以更换牛仔夹克和工装裤"
+},
+"品牌产品定制": {
+"current_brand_product": "街头服饰",
+"customizable_brand": "用户：插入品牌名称",
+"customizable_product": "用户：特定运动鞋或包包",
+"product_place_area": "连帽衫、胸前或运动鞋"
+}
+}
+```
+
+<a id="prompt-594"></a>
+## 案例 594：模切线图转3D产品可视化 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994022879051014312))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/594.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-模切线图转3D产品可视化">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A photorealistic, high-end 3D product visualization of a perfectly assembled packaging box derived from a dieline, set in a pristine minimal studio.",
+  "subject": {
+    "type": "Assembled Packaging Box",
+    "material": "Premium matte paperboard",
+    "features": {
+      "structure": "Perfectly folded, accurate panel placement, sharp clean edges",
+      "surface": "Smooth matte texture with high-fidelity print rendering"
+    },
+    "position": "Upright, angled at a refined ¾ perspective view to show front and side panels",
+    "artwork_state": "Undistorted typography, preserving original design exactly"
+  },
+  "action": {
+    "primary": "Standing static on a surface",
+    "secondary": "Casting a gentle shadow",
+    "effect": "Demonstrates structural integrity and design elegance"
+  },
+  "environment": {
+    "setting": "Minimalist High-End Studio Void",
+    "foreground_elements": [
+      "Clean, smooth surface",
+      "Soft contact shadows"
+    ],
+    "background_elements": [
+      "Soft neutral seamless backdrop (light grey/cream)",
+      "Zero distractions",
+      "No extra props"
+    ]
+  },
+  "lighting": {
+    "style": "Soft Commercial Product Lighting (Global Illumination)",
+    "key_light": {
+      "type": "Large Diffused Softbox",
+      "color": "Neutral White (5500K)",
+      "illuminates": [
+        "The face of the box evenly",
+        "The matte texture of the paper"
+      ]
+    },
+    "fill_light": {
+      "type": "White Reflector",
+      "effect": "Softens shadows to ensure artwork visibility"
+    },
+    "shadows": "Subtle, soft gradient shadows anchoring the object"
+  },
+  "style": {
+    "medium": "3D Rendering / Product Photography",
+    "aesthetic": "Premium Editorial, Mockup Style, Minimalist Luxury",
+    "quality": "8k resolution, ray-traced optics, physically based rendering (PBR)",
+    "details": "Crisp folds, zero distortion, matte paper grain visibility"
+  },
+  "scene_composition": {
+    "subject_action": "Static presentation",
+    "camera_behavior": "Locked-off tripod shot",
+    "depth_layering": "Sharp Subject -> Infinite Soft Background"
+  },
+  "visual_description": {
+    "core_subject": "A flawless 3D box assembled from a flat dieline.",
+    "attire_physics": "N/A - Rigid Body physics.",
+    "surface_rendering": "Non-reflective matte finish that absorbs light softly, ensuring text is readable and colors are true."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Clean Studio",
+    "specifics": "Even light distribution, ambient occlusion in the creases.",
+    "color_grade": "Natural, color-calibrated, neutral tones."
+  },
+  "attire_customization": {
+    "current_clothing": "N/A",
+    "customizable_clothing": "N/A"
+  },
+  "brand_product_customization": {
+    "current_brand_product": "Packaging Design",
+    "customizable_brand": "User: Insert Brand Name/Logo for the box",
+    "customizable_product": "User: Describe the box type (e.g., cosmetic box, tuck-end box)",
+    "product_placement_area": "All visible panels (Front, Side, Top)"
+  },
+  "objects_and_props": {
+    "main_objects": [
+      "The 3D Box"
+    ],
+    "secondary_objects": []
+  },
+  "camera_and_lens": {
+    "focal_length_feel": "85mm or 100mm (Telephoto to eliminate perspective distortion)",
+    "aperture_effect": "f/16 (Deep depth of field for edge-to-edge sharpness)",
+    "camera_angle": "Isometric or ¾ perspective",
+    "lens_type": "Studio Macro Lens",
+    "bokeh_style": "None (Smooth gradient background)"
+  },
+  "technical_tags": "--v 6 --ar 4:5 --stylize 150 --no warping, distortion, messy background, props, glossy reflection, low poly"
+}
+```
+
+**中文提示词：**
+```
+{
+"scene_description": "一个逼真的高端3D产品可视化模型，展示了一个完美组装的包装盒，该包装盒由模切线图生成，场景设定在一个简洁干净的摄影棚内。"
+“主题”： {
+"type": "组装包装盒",
+“材质”： “优质哑光纸板”
+“特征”： {
+“结构”：“折叠完美，面板位置准确，边缘锋利干净”，
+“表面”： “光滑哑光质感，高保真印刷效果”
+},
+“位置”：“直立，以精细的四分之三透视角度倾斜，以显示正面和侧面面板”，
+"artwork_state": "未失真的字体，完全保留原始设计"
+},
+“行动”： {
+“primary”: “静止地立于表面上”
+“次要的”: “投下温柔的阴影”
+“效果”：“展现了结构完整性和设计优雅性”
+},
+“环境”： {
+“设置”：“极简高端工作室虚空”
+"前景元素": [
+“干净光滑的表面”，
+“柔和的隐形眼镜阴影”
+],
+“背景元素”：[
+“柔和的中性无缝背景（浅灰色/米色）”，
+“零干扰”，
+“无需额外道具”
+]
+},
+“灯光”： {
+“风格”：“柔和的商业产品照明（整体照明）”
+"key_light": {
+"type": "大型漫射柔光箱",
+“颜色”：“中性白（5500K）”，
+“照亮”：[
+“盒子表面平整”，
+纸张的哑光质感
+]
+},
+"fill_light": {
+“类型”：“白色反光器”，
+“效果”：“柔化阴影，确保作品清晰可见”
+},
+“阴影”：“柔和的渐变阴影，使物体更加突出”
+},
+“风格”： {
+“medium”: “3D渲染/产品摄影”
+“美学”：“高端编辑风格、模型风格、极​​简奢华”
+“质量”：“8k分辨率、光线追踪光学、基于物理的渲染（PBR）”
+细节：折痕清晰，零变形，哑光纸颗粒可见
+},
+"scene_composition": {
+"subject_action": "静态演示",
+"camera_behavior": "锁定三脚架拍摄",
+"depth_layering": "清晰主体->无限柔和背景"
+},
+"visual_description": {
+"core_subject": "一个由平面模切线组装而成的完美3D盒子。"
+"attire_physics": "不适用 - 刚体物理。",
+"surface_rendering": "非反射哑光表面，柔和吸收光线，确保文字清晰可读，色彩真实。"
+},
+"lighting_and_atmosphere": {
+"type": "Clean Studio",
+“具体细节”：“光线分布均匀，褶皱处有环境光遮挡。”
+"color_grade": "自然、色彩校准的中性色调。"
+},
+"attire_customization": {
+"current_clothing": "N/A",
+"customizable_clothing": "N/A"
+},
+"品牌产品定制": {
+"current_brand_product": "包装设计",
+"customizable_brand": "用户：输入包装盒的品牌名称/徽标",
+"customizable_product": "用户：描述盒子类型（例如，化妆品盒、折叠盒）",
+"product_placement_area": "所有可见面板（正面、侧面、顶部）"
+},
+"objects_and_props": {
+"main_objects": [
+“3D盒子”
+],
+"secondary_objects": []
+},
+"camera_and_lens": {
+"focal_length_feel": "85mm 或 100mm（长焦镜头可消除透视畸变）",
+"aperture_effect": "f/16（景深大，边缘到边缘清晰）",
+"camera_angle": "等距或四分之三视角",
+"lens_type": "影室微距镜头",
+"bokeh_style": "无（平滑渐变背景）"
+},
+"technical_tags": " --v 6 --ar 4:5 --stylize 150 --no warping, distortion, messy background, props, glossy reflection, low poly"
+}
+```
+
+<a id="prompt-593"></a>
+## 案例 593：模切线变为现实 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1994017531699278056))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/593.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-模切线变为现实">
+</div>
+
+**提示词：**
+```
+Assemble the dieline into a perfectly folded 3D box with accurate panel placement, clean edges, and undistorted typography. Preserve all artwork exactly as printed on the dieline. Render the box in a minimal, high-end studio setup on a soft neutral background with gentle diffused lighting, subtle shadows, and no extra props. Show the box upright in a refined ¾ angle. Ultra-realistic detail, true colors, matte paperboard texture, crisp folds, premium editorial aesthetic.
+```
+
+**中文提示词：**
+```
+根据模切线将盒子完美折叠成一个立体盒子，确保面板位置精准、边缘清晰、文字无变形。所有图案均需与模切线上的印刷完全一致。在简约的高端摄影棚环境中，以柔和的中性背景、漫射光和微妙的阴影渲染盒子，无需任何额外道具。以精致的四分之三角度展示盒子竖立状态。呈现超逼真的细节、真实的色彩、哑光纸板质感、清晰的折痕，以及高端的编辑美感。
+```
+
+<a id="prompt-592"></a>
+## 案例 592：城市俯视等距3D卡通微缩场景 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/592.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
+</div>
+
+**提示词：**
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+**中文提示词：**
+```
+呈现[城市]清晰的45°俯视等距3D卡通微缩场景，展现其最具标志性的地标和建筑元素。使用柔和细腻的纹理、逼真的PBR材质以及柔和自然的灯光和阴影。将当前天气状况直接融入城市环境，营造身临其境的氛围。”
+使用简洁的极简主义构图，搭配柔和的纯色背景。
+
+在顶部中心位置，用粗体大字显示标题“[城市]”，在其下方放置一个醒目的天气图标，然后是日期（小字）和温度（中字）。
+所有文字必须居中，间距一致，并且可以略微与建筑物顶部重叠。
+1080x1080 正方形。
+```
+
+<a id="prompt-591"></a>
+## 案例 591：真人转3D漫画 (来源 [@azed_ai](https://x.com/azed_ai/status/1994360708637794410))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/591.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人转3D漫画">
+<img src="./images/591-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人转3D漫画">
+</div>
+
+**提示词：**
+```
+A highly stylized 3D caricature of [celebrity], with an oversized head, expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Minimal background to emphasize the character’s charm and presence.
+```
+
+**中文提示词：**
+```
+这是一幅风格化的[名人]3D漫画肖像，头部硕大，面部表情丰富，风格夸张诙谐。画面采用流畅精致的渲染风格，材质干净利落，环境光柔和。极简的背景设计突显了人物的魅力和存在感。
+```
 
 <a id="prompt-590"></a>
 ## 案例 590：虚构的英语电影海报-回忆之味 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994276578084413877))
