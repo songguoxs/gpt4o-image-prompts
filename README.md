@@ -33,6 +33,21 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 615：人和机器人的温馨时刻 ](#prompt-615)
+*   [案例 614：一幅赛博武士的详细技术图解 ](#prompt-614)
+*   [案例 613：女子坐在地板上准备喝可乐 ](#prompt-613)
+*   [案例 612：一个 男人被相框套娃了 ](#prompt-612)
+*   [案例 611：一幅充满活力的混合媒介杰作 ](#prompt-611)
+*   [案例 610：一位自信优雅的年轻女子 ](#prompt-610)
+*   [案例 609：年轻女性的时尚自拍肖像 ](#prompt-609)
+*   [案例 608：一群活泼时尚的年轻人 ](#prompt-608)
+*   [案例 607：9种照片专业打光效果 ](#prompt-607)
+*   [案例 606：超逼真街景人像 ](#prompt-606)
+*   [案例 605：海滩写真拍摄 ](#prompt-605)
+*   [案例 604：夜间拖影快门曝光 ](#prompt-604)
+*   [案例 603：一张韩国流行明星的抓拍照片 ](#prompt-603)
+*   [案例 602：戴口罩的妹子比了个耶 ](#prompt-602)
+*   [案例 601：专业工作室摄影照片 ](#prompt-601)
 *   [案例 600：和疯狂动物城中的角色自拍 ](#prompt-600)
 *   [案例 599：女生双手比出一个心形 ](#prompt-599)
 *   [案例 598：宝丽来照片讲述故事 ](#prompt-598)
@@ -238,6 +253,1114 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-615"></a>
+## 案例 615：人和机器人的温馨时刻 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1994444395525832898))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/615.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人和机器人的温馨时刻">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "hyperrealistic ultra-detailed 8k photo of YOU (Upload Your Photo) standing in a bright cozy living room, same location as the reference: cream-colored sofa, large white curtains with soft daylight shining through, warm neutral walls, several green houseplants, minimal decor, natural sunlight and soft shadows. Use the uploaded photo as the main subject of the image, preserving the face, hairstyle, body type, clothing, and overall style exactly as in the uploaded photo. The subject is standing in front of the sofa, body slightly angled to the side, legs close together, one hip slightly popped, holding a smartphone in one hand at chest height, screen facing them, as if taking a mirror selfie, with a relaxed confident expression and slight smile, eyes toward the phone. Behind them, their partner is standing very close, a tall, attractive humanoid robot with a highly muscular, athletic build, entirely robotic with no human skin, detailed mechanical anatomy inspired by a futuristic cyborg: layered silver and gunmetal plates, visible bundles of flexible cables as muscles, complex joints, smooth armor around shoulders, chest, arms, and legs, elegant angular robotic face with a strong jawline, glowing blue eyes, subtle wear and micro-scratches on metal for realism. The robot’s torso is broad and V-shaped, narrow waist, perfect proportions, clearly fit and powerful but aesthetically beautiful. The robot stands just behind the subject with one sleek metallic arm wrapped gently and protectively around the front of their neck and shoulders, hand resting softly near the collarbone in an affectionate pose, the other arm relaxed at its side. Their bodies are close, giving a sense of intimacy and comfort. Extremely realistic skin texture on the subject, natural hair strands, detailed fabric texture and wrinkles on their clothing, realistic reflections and specular highlights on the robot’s metal surfaces, accurate global illumination and depth of field, sharp focus on both characters, slight background blur. Photoreal, cinematic lighting, no fantasy effects, looks like a real candid photo taken on a phone in this apartment.",
+  "negative_prompt": "cartoon, anime, illustration, painting, 3d render, CGI, low resolution, blurry, grainy, oversaturated, unrealistic proportions, extra limbs, deformed hands, distorted face, visible mirror edges, text, watermark, logo, armor covering the subject, human skin on the robot, grotesque, horror, gore"
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：拍摄一张超逼真、细节丰富的8K照片，照片中的人物（上传您的照片）站在明亮舒适的客厅中，地点与参考照片相同：米色沙发，白色大窗帘透进柔和的日光，暖色调的墙面，几盆绿色植物，简约的装饰，自然光和柔和的阴影。使用上传的照片作为图像的主体，保留照片中人物的面部、发型、体型、服装和整体风格。人物站在沙发前，身体略微侧倾，双腿并拢，一侧臀部微微翘起，一手拿着智能手机，屏幕朝向自己，仿佛在自拍，表情轻松自信，略带微笑，目光注视着手机。人物身后站着一位身材高挑、外形俊朗的人形机器人，肌肉线条流畅，体格健壮，完全由机械构成，没有人类皮肤，拥有未来主义赛博格风格的精细机械结构：层叠的银色和枪灰色金属板，以及清晰可见的柔性电缆束。肌肉线条分明，关节复杂，肩部、胸部、手臂和腿部的盔甲光滑流畅，优雅的棱角分明的机械面孔，下颚线条硬朗，湛蓝的双眼闪闪发光，金属表面细微的磨损和划痕更添真实感。机器人的躯干宽阔呈V字形，腰部纤细，比例完美，既健壮有力又不失美感。机器人站在拍摄对象身后，一只光滑的金属手臂温柔地环绕着拍摄对象的颈肩，一只手轻轻地放在锁骨附近，姿态亲昵，另一只手臂自然垂于身侧。两人身体靠近，营造出亲密舒适的氛围。拍摄对象的皮肤纹理极其逼真，头发自然垂落，衣物上的织物纹理和褶皱也十分细致，机器人金属表面的反射和高光效果逼真，整体光照和景深控制精准，两个人物都清晰对焦，背景略微虚化。照片级的真实感，电影级的灯光效果，没有任何奇幻特效，看起来就像是用手机在公寓里随手拍下的真实照片。
+"negative_prompt": "卡通、动画、插画、绘画、3D渲染、CGI、低分辨率、模糊、颗粒感强、过度饱和、比例失调、多余肢体、畸形手、扭曲面部、可见镜像边缘、文字、水印、标志、盔甲覆盖主体、机器人身上覆盖人类皮肤、怪诞、恐怖、血腥"
+}
+```
+
+<a id="prompt-614"></a>
+## 案例 614：一幅赛博武士的详细技术图解 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1994390935019360466))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/614.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅赛博武士的详细技术图解">
+</div>
+
+**提示词：**
+```
+Create a detailed technical illustration of a Cybernetic Samurai, exploded into components: katana with energy core, cybernetic limbs, neural processor, armor plating, and internal power systems. Each part is labeled with clean futuristic font. Use a graphite and crimson color scheme on a dark blueprint background. Add subtle particle glow and depth shadows. Studio render style.
+```
+
+**中文提示词：**
+```
+创作一幅赛博武士的详细技术图解，将其拆解为核心部件：带能量核心的武士刀、机械义肢、神经处理器、装甲板以及内部动力系统。每个部件均采用简洁的未来风格字体标注。整体采用石墨色与深红色配色方案，搭配深色蓝图背景。添加微弱的粒子光晕效果与层次感阴影，整体呈现工作室渲染风格。
+```
+
+<a id="prompt-613"></a>
+## 案例 613：女子坐在地板上准备喝可乐 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994446756978020701))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/613.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子坐在地板上准备喝可乐">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "subject": {
+      "demographics": "Young woman",
+      "pose": "Sitting on the floor, facing forward",
+      "expression": "Slightly serious or pensive, direct eye contact",
+      "appearance_constraints": "Maintain original facial features",
+      "hair": {
+        "color": "Dark",
+        "style": "Long, straight, middle part",
+        "accessory": "White bandana with red accents"
+      },
+      "makeup": {
+        "eyes": "Defined with eyeliner",
+        "lips": "Soft pink"
+      },
+      "apparel": {
+        "top": "Off-white or cream tank top with small dark cherry embroidery",
+        "bottom": "Distressed denim shorts",
+        "hosiery": "Knee-high white socks",
+        "footwear": "Black open-toed sandals or clogs"
+      }
+    },
+    "action": {
+      "right_hand": "Holding up a Coca-Cola can"
+    },
+    "environment": {
+      "main_fixture": "Open, retro-style refrigerator",
+      "fridge_contents": [
+        "Coca-Cola cans",
+        "Ramune bottles",
+        "Colorful beverages",
+        "Macaron themed book or magazine (top shelf)"
+      ],
+      "foreground_floor": "Two Ramune bottles containing pink liquid",
+      "setting_type": "Kitchen or studio with vintage aesthetic"
+    },
+    "style_and_mood": {
+      "lighting": "Warm, slightly muted",
+      "aesthetic": "Cool, casual, retro",
+      "theme": "Beverage focus"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“主题”： {
+“人口统计信息”：“年轻女性”，
+“姿势”：“坐在地板上，面向前方”，
+“表情”：“略显严肃或沉思，直视对方的眼睛”，
+"appearance_constraints": "保持原始面部特征",
+“头发”： {
+“颜色”: “深色”
+“发型”：“长直中分”，
+“配饰”：“带有红色点缀的白色头巾”
+},
+“化妆品”： {
+“眼睛”：“用眼线勾勒轮廓”，
+“嘴唇”： “柔和的粉红色”
+},
+"服装": {
+“上衣”： “米白色或奶油色背心，带有小颗深樱桃刺绣”，
+“下装”： “破洞牛仔短裤”
+“丝袜”: “及膝白袜”
+“鞋类”：黑色露趾凉鞋或木屐
+}
+},
+“行动”： {
+“右手”： “举起一罐可口可乐”
+},
+“环境”： {
+"main_fixture": "开放式复古风格冰箱",
+"fridge_contents": [
+“可口可乐罐”
+“拉姆内汽水瓶”，
+“色彩缤纷的饮料”，
+“马卡龙主题书籍或杂志（上层书架）”
+],
+"前景_楼层" "两瓶装有粉红色液体的弹珠汽水瓶",
+"setting_type": "具有复古美学的厨房或工作室"
+},
+"style_and_mood": {
+“灯光”：“温暖，略微柔和”，
+“美学”：“酷炫、休闲、复古”，
+主题： 聚焦饮品
+}
+}
+}
+```
+
+<a id="prompt-612"></a>
+## 案例 612：一个 男人被相框套娃了 (来源 [@maxescu](https://x.com/maxescu/status/1994420399497490915))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/612.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个 男人被相框套娃了">
+</div>
+
+**提示词：**
+```
+A man with wide, horrified eyes holds a large, ornate picture frame. Inside the frame is a perfect photograph of him holding the same frame with the same horrified expression. Inside that frame is a smaller version, spiraling inward. He is falling forward into the picture, tumbling endlessly into smaller and smaller iterations of his own trapped moment, shrinking into infinity with no bottom to hit.
+The Trap: He is caught in Visual Recursion. He has become a "strange loop" where he is simultaneously the container and the content, doomed to repeat the same moment at exponentially diminishing scales.
+```
+
+**中文提示词：**
+```
+一个男人双眼惊恐地睁大，手里拿着一个硕大的华丽相框。相框里是一张完美的照片，照片上他正拿着同样的相框，脸上带着同样的惊恐表情。在那张照片里，还有一个缩小版的他，呈螺旋状向内延伸。他正向前坠入照片中，无休止地翻滚，陷入越来越小的、重复的、他自己被困的瞬间，最终缩小到无穷无尽的境地，没有尽头。
+陷阱：他陷入了视觉递归的陷阱。他变成了一个“奇怪的循环”，既是容器又是内容，注定要以指数级递减的规模重复同一时刻。
+```
+
+<a id="prompt-611"></a>
+## 案例 611：一幅充满活力的混合媒介杰作 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1994126063656644727))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/611.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅充满活力的混合媒介杰作">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A vibrant, mixed-media masterpiece featuring a photorealistic version of the person from the reference photo eating at a diner, surrounded by a chaotic swarm of maximalist fast-food monsters.",
+
+  "subject": {
+    "type": "The person from the reference photo",
+    "attire": "Same clothing style as in the reference, adapted naturally to the diner setting",
+    "position": "Sitting in a red leather diner booth, holding a burger",
+    "expression": "Shocked but amused, looking at a floating doodle pizza",
+    "consistency_note": "Face, hairstyle and proportions must perfectly match the reference photo"
+  },
+
+  "action": {
+    "primary": "Eating lunch",
+    "effect": "Their food is coming to life in 2D form"
+  },
+
+  "illustration_layer": {
+    "style": "Thick-line Pop Art cartoons",
+    "creatures": [
+      "Pizza slices surfing on cheese waves",
+      "Burger beasts with lettuce tongues",
+      "Angry French fry box",
+      "Flying ketchup bottles."
+    ],
+    "graphics": "Mustard splashes, sesame seeds, heat lines, 'ÑAM' text bursts",
+    "colors": "Ketchup Red, Mustard Yellow, Lettuce Green"
+  },
+
+  "environment": {
+    "setting": "Retro American Diner",
+    "background_elements": ["Checkerboard floor", "Neon sign in window"]
+  },
+
+  "lighting": {
+    "style": "Warm Diner Glow",
+    "key_light": {
+      "type": "Window light",
+      "color": "Warm afternoon sun"
+    }
+  },
+
+  "style": {
+    "medium": "Mixed Media Photography",
+    "aesthetic": "Retro-pop, savory, chaotic",
+    "quality": "Ultra-detailed textures vs flat cartoons"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景描述”： “这是一幅充满活力的混合媒介杰作，画面中逼真地呈现了参考照片中的人物在餐馆用餐，周围环绕着一群造型夸张的快餐怪物。”
+
+“主题”： {
+“类型”：“参考照片中的人”，
+“着装”：“与参考图中相同的服装风格，自然地适应了餐厅环境”，
+“位置”：“坐在红色皮质餐厅卡座里，手里拿着一个汉堡”，
+“表情”：“震惊又好笑，看着漂浮的涂鸦披萨”
+"consistency_note": "脸型、发型和比例必须与参考照片完全一致"
+},
+
+“行动”： {
+“主要”： “吃午饭”，
+“效果”：“他们的食物以二维形式活了过来”
+},
+
+"illustration_layer": {
+“风格”：“粗线条波普艺术卡通”，
+“生物”：[
+“披萨片在奶酪浪潮上冲浪”
+“长着生菜舌头的汉堡怪兽”
+“愤怒的薯条盒”
+“飞舞的番茄酱瓶。”
+],
+“图形”：“芥末酱飞溅、芝麻、热线、‘ÑAM’文字爆发”，
+颜色：番茄酱红、芥末黄、生菜绿
+},
+
+“环境”： {
+“设置”: “复古美式餐馆”
+"background_elements": ["棋盘格地板", "窗户上的霓虹灯"]
+},
+
+“灯光”： {
+“风格”：“温馨的餐馆氛围”，
+"key_light": {
+类型： 窗灯，
+“颜色”：“温暖的午后阳光”
+}
+},
+
+“风格”： {
+“媒介”：“混合媒介摄影”，
+“美学”：“复古流行，美味，混乱”，
+“质量”： “超精细纹理 vs 平面卡通”
+}
+}
+```
+
+<a id="prompt-610"></a>
+## 案例 610：一位自信优雅的年轻女子 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994397944209142213))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/610.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位自信优雅的年轻女子">
+</div>
+
+**提示词：**
+```
+[Prompt]
+type = image_generation
+style = ultra-realistic
+
+[Setting]
+type = studio portrait
+background = minimalist studio background
+props = a single metal chair
+
+[Subject]
+description = A young woman
+mood = Confident, elegant, intimate
+
+[Hair]
+color = black
+style = long, wavy, tousled, tied in a high, messy ponytail
+
+[Appearance.Attire]
+dress = elegant black dress with thin straps and a low back
+footwear = thigh-high patent leather boots
+
+[PoseAndComposition]
+position = Sitting sideways in the metal chair
+legs = Legs crossed
+hands = Slightly raised
+gaze = Looking intimately at the camera
+framing = Full-body or three-quarter shot
+
+[Lighting]
+description = Professional studio lighting
+quality = Soft yet defined, creating subtle shadows that enhance her features and the texture of the dress and boots
+```
+
+**中文提示词：**
+```
+[提示]
+类型 = 图像生成
+风格 = 超写实
+
+[环境]
+类型 = 影棚肖像
+背景 = 极简主义工作室背景
+道具 = 一把金属椅子
+
+[主题]
+描述 = 一位年轻女子
+情绪 = 自信、优雅、亲密
+
+[发型]
+颜色 = 黑色
+发型：长卷发，蓬松凌乱，扎成高高的凌乱马尾辫
+
+[外观.服装]
+连衣裙 = 优雅的黑色连衣裙，细肩带，露背设计
+鞋履 = 过膝漆皮靴
+
+[姿势与构图]
+姿势 = 侧身坐在金属椅上
+双腿交叉
+双手微微抬起
+凝视 = 深情地看着镜头
+构图 = 全身像或四分之三身像
+
+[灯光]
+描述 = 专业影棚灯光
+质感 = 柔和而又不失立体感，营造出微妙的光影效果，突显了她的五官以及连衣裙和靴子的质感。
+```
+
+<a id="prompt-609"></a>
+## 案例 609：年轻女性的时尚自拍肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994521805076451818))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/609.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女性的时尚自拍肖像">
+</div>
+
+**提示词：**
+```
+"A full-body, high-fashion portrait of a stunning young woman. She is wearing a black satin mini slip dress with a draped cowl neckline and thin spaghetti straps, paired with black strappy stiletto high-heels. She has long, wavy dark hair with full bangs and subtle, elegant makeup. The mood is glamorous and luxurious.",   "pose": {     "description": "The subject is sitting sideways on a wide, light-wood stair step. Her left leg is crossed over her right knee, clearly showcasing the stiletto sandals. Her right hand (holding a dark smartphone) is lifted near her face, actively taking a high-angle selfie. She is looking directly at the phone camera.",     "keywords": ["sitting pose", "crossed legs", "selfie pose", "elegant posture", "hand holding phone"]   },   "setting": {     "environment": "Modern, minimalist luxury home interior. The background features a wide, symmetrical staircase made of light-colored wood (e.g., maple or oak) with treads that are individually backlit by warm linear LED lights. Clear glass railings secured by black metal posts frame the subject.",     "aesthetic": "Architectural, contemporary design, clean lines."   },   "camera": {     "shot_type": "Full-Body Portrait Shot",     "angle": "Slightly low angle (worm's-eye view) to emphasize her height and the structure of the staircase.",     "lens": "85mm prime lens",     "depth_of_field": "Shallow DoF, with the subject in crisp focus and the background elements (railings, far steps) slightly softened.",     "composition": "The subject is perfectly centered within the frame."   },   "lighting": {     "key_light": "Soft, diffused studio light (softbox) from the front-left, providing flattering, smooth illumination on her face and skin.",     "accent_light": "Dramatic, warm (3000K) linear under-lighting built directly into the wooden stair treads, creating horizontal lines of glow that define the background.",     "shadows": "Medium contrast, well-defined shadows that still preserve detail in the black dress.",     "exposure": "Perfectly exposed, emphasizing the sheen of the satin material."   },   "style_and_quality": {     "style": "Editorial Fashion Photography | Cinematic Realism | Intimate",     "details": ["High-fidelity satin texture", "Reflections on glass railings", "Manicured red fingernails", "Flawless skin texture"],     "quality": ["8K resolution", "masterpiece", "hyper-detailed", "photorealistic"]   }
+```
+
+**中文提示词：**
+```
+“一张惊艳年轻女性的全身时尚肖像。她身着黑色缎面迷你吊带裙，垂褶领口和细吊带设计，搭配黑色细带高跟鞋。她留着长长的波浪卷发，齐刘海，妆容精致优雅。整体氛围充满魅力，尽显奢华。”, “姿势”: { “描述”: “拍摄对象侧坐在宽阔的浅色木质台阶上。她的左腿搭在右膝上，清晰地展示了细高跟凉鞋。她的右手（拿着一部深色智能手机）举到脸旁，正积极地进行高角度自拍。她直视着手机摄像头。”, “关键词”: ["坐姿", "交叉双腿", "自拍姿势", "优雅姿态", "手持手机"] }, “场景”: { “环境”: “现代简约的豪华家居内饰。背景是宽阔对称的……”由浅色木材（例如枫木或橡木）制成的楼梯，踏板由暖色调的线性 LED 灯单独背光照明。透明玻璃栏杆由黑色金属柱固定，将拍摄对象框入其中。", "美学": "建筑风格，现代设计，线条简洁。" }, "相机": "拍摄类型": "全身肖像照", "角度": "略微低角度（仰视）以突出她的身高和楼梯的结构。", "镜头": "85mm 定焦镜头", "景深": "浅景深，拍摄对象清晰对焦，背景元素（栏杆、远处台阶）略微柔化。", "构图": "拍摄对象完美地位于画面中心。" }, "照明": { "主光": "来自左前方的柔和漫射影棚灯（柔光箱），为她的脸部和肌肤提供柔和的光线。", "辅助光": "戏剧性的暖色调（3000K）线性底光，直接嵌入木质楼梯踏板，营造出勾勒背景的水平光晕。", "阴影": "中等对比度，清晰的阴影，同时保留了黑色连衣裙的细节。", "曝光": "曝光完美，突出了缎面材质的光泽。" }, "style_and_quality": { "style": "时尚大片 | 电影写实 | 私密", "details": ["高保真缎面质感", "玻璃栏杆上的倒影", "精心修饰的红色指甲", "无瑕肌肤纹理"], "quality": ["8K分辨率", "杰作", "超细节", "照片级写实"] }
+```
+
+<a id="prompt-608"></a>
+## 案例 608：一群活泼时尚的年轻人 (来源 [@Just_sharon7](https://x.com/Just_sharon7/status/1994375017971564779))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/608.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一群活泼时尚的年轻人">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "scene": {
+      "angle": "[high-angle]",
+      "tilt": "[slightly off-kilter]",
+      "group": "[lively group of stylish young adults]",
+      "seating": "[seated closely around white dining table]",
+      "setting": "[dimly lit, upscale brasserie]"
+    },
+    "mood": "[energetic, fashionable, slightly rebellious]",
+    "subjects": [
+      {
+        "position": "left",
+        "hair": "[long, dark hair]",
+        "eyes": "[hidden behind chic black sunglasses]",
+        "outfit": "[black lace-trimmed camisole with hint of floral pattern]",
+        "expression": "[partially obscured by glasses]"
+      },
+      {
+        "position": "second from left",
+        "hair": "[dark, possibly mullet-style hair]",
+        "facial_hair": "[distinct mustache]",
+        "outfit": "[dark suit jacket over white shirt]",
+        "hands": "[clasped near chin]",
+        "expression": "[playful or mischievous]"
+      },
+      {
+        "position": "center",
+        "reference": "[woman resembling Kylie Jenner]",
+        "hair": "[very long, dark, wavy hair]",
+        "outfit": {
+          "blazer": "[dark blazer]",
+          "top": "[light blue, subtly patterned bralette]"
+        },
+        "gaze": "[looking right, slightly defiant, expressive]",
+        "gesture": "[left hand raised, middle finger prominently displayed]"
+      },
+      {
+        "position": "second from right",
+        "reference": "[woman resembling Rosalía]",
+        "hair": "[long dark hair in slicked-back style]",
+        "outfit": "[dark, possibly velvet or satin, strapless top]",
+        "accessory": "[small dark object, possibly cigarette or cigarillo between lips]",
+        "expression": "[relaxed, nonchalant]"
+      },
+      {
+        "position": "bottom right",
+        "hair": "[curly brown hair]",
+        "visible_part": "[top of head only, indicating more people at table]"
+      }
+    ],
+    "table": {
+      "items": [
+        "[multiple clear glasses with drinks]",
+        "[ice cubes in glasses]",
+        "[citrus slices in glasses]",
+        "[white bottle with dark label]",
+        "[small white dishes]"
+      ]
+    },
+    "background": {
+      "wall": "[dark wood paneling]",
+      "letters": "[ornate gold lettering partially readable as 'ALSACE']",
+      "mirrors": "[dark reflective mirrors]"
+    },
+    "lighting": {
+      "type": "[soft, warm, ambient]",
+      "effect": "[illuminates faces and table]",
+      "contrast": "[strong contrast against dark background]"
+    },
+    "additional_details": {
+      "decor": "[subtle floral arrangements hinted in distance]"
+    },
+    "photography_style": "[hyper-realistic, candid, sharp focus on central group]"
+  },
+  "styles": ["photorealistic"],
+  "aspect_ratio": "4:3"
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+“场景”： {
+“角度”：[高角度]，
+“倾斜”：[略微偏离]
+“团体”：[一群活泼时尚的年轻人]
+“座位安排”：[围坐在白色餐桌旁]
+“环境”：[灯光昏暗的高档小酒馆]
+},
+“情绪”：[充满活力，时尚，略带叛逆]
+“主题”：[
+{
+"位置": "左",
+“头发”：[长长的黑发]，
+“眼睛”：[藏在时髦的黑色太阳镜后面]
+“服装”：[黑色蕾丝边吊带背心，带有淡淡的花卉图案]
+“表情”：[部分被眼镜遮挡]
+},
+{
+“位置”: “从左边数第二个”，
+“头发”：[深色，可能是鲻鱼头]，
+"facial_hair": "[distinct mustache]",
+“服装”：[深色西装外套搭配白色衬衫]，
+“双手”：[交握于下巴附近]
+“表情”：[顽皮的或淘气的]
+},
+{
+"位置": "中心",
+“参考”：[长相酷似凯莉·詹娜的女性]
+“头发”：[非常长、深色、波浪状的头发]
+“全套服装”： {
+"blazer": "[深色西装外套]",
+上衣：[浅蓝色，带精致图案的无钢圈文胸]
+},
+“凝视”：[看向右侧，略带挑衅，富有表现力]
+“手势”：[左手举起，中指明显竖起]
+},
+{
+“位置”: “从右数第二个”，
+“参考”：[长相酷似罗莎莉亚的女人]
+“头发”：[长长的深色头发向后梳]
+“服装”：[深色，可能是天鹅绒或缎面，无肩带上衣]
+“配件”：[嘴唇间夹着的小黑物，可能是香烟或小雪茄]
+“表情”：[放松，漫不经心]
+},
+{
+位置：右下角，
+“头发”：[棕色卷发]，
+"visible_part": "[仅头部顶部，表示桌上还有其他人]"
+}
+],
+“桌子”： {
+“项目”： [
+“多个装有饮料的透明玻璃杯”
+“（玻璃杯中的冰块）”
+“（玻璃杯中的柑橘片）”
+（白色瓶子，深色标签）
+“小白碟”
+]
+},
+“背景”： {
+“墙”：[深色木镶板]，
+“字母”： （华丽的金色字母部分可辨认出为“ALSACE”）
+“镜子”：[深色反光镜]
+},
+“灯光”： {
+“类型”：[柔和、温暖、氛围]，
+“效果”：[照亮面部和桌面]
+“对比度”：[与深色背景形成强烈对比]
+},
+"additional_details": {
+“装饰”：[远处隐约可见的精致花卉摆设]
+},
+“摄影风格”：[超写实、抓拍、聚焦中心人物]
+},
+风格：["写实风格"]
+"aspect_ratio": "4:3"
+}
+```
+
+<a id="prompt-607"></a>
+## 案例 607：9种照片专业打光效果 (来源 [@MonetizeXWithAb](https://x.com/MonetizeXWithAb/status/1994419258789663115))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/607.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9种照片专业打光效果">
+</div>
+
+**提示词：**
+```
+Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteristics 100% same as uploaded image) wearing a charcoal sleeveless dress. Lighting: large overhead softbox, faint side bounce. Shots include: 1. tight cheek + neck close-up with blurred finger foreground (85mm, f/1.8); 2. eyes locked to lens, top-light reflection visible (85mm, f/2.0); 3. monochrome chin-on-hand portrait with strong frame fill (50mm, f/2.2); 4. half-obscured over-shoulder shot through blurred dress strap (85mm, f/2.0); 5. head-on close-up with intersecting shadows across face (50mm, f/2.5); 6. angled raw portrait with tousled hair (85mm, f/2.2); 7. tight detail of hands resting near collarbone (50mm, f/3.2); 8. seated half-body profile with blurred frame edges (35mm, f/4.5); 9. profile macro with single water droplet highlight (85mm, f/1.9). RAW, smooth contrast, editorial softness.
+```
+
+**中文提示词：**
+```
+编辑场景，3x3网格布局，冷灰色无缝背景。人物（面部特征与上传图片完全一致）身穿炭灰色无袖连衣裙。灯光：大型顶置柔光箱，轻微侧向反射光。照片包括：1. 脸颊和颈部特写，前景手指虚化（85mm，f/1. 8) ；2. 目光锁定镜头，可见顶部反光（85mm，f/2. 0) ；3. 单色下巴托手肖像，画面填充强烈（50mm，f/2.2）；4. 透过模糊的肩带拍摄的半遮肩照（85mm，f/2. 0) ；5. 正面特写，面部阴影交错（50mm，f/2.5）；6. 斜角拍摄的原始人像，头发蓬乱（85mm，f/2.2）；7. 双手置于锁骨附近的特写（50mm，f/3.2）；8. 坐姿半身侧面照，画面边缘虚化（35mm，f/4.5）；9. 侧面微距照，单颗水滴高光（85mm，f/1.9）。原始素材，平滑对比度，编辑柔化效果。
+```
+
+<a id="prompt-606"></a>
+## 案例 606：超逼真街景人像 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994351098509861265))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/606.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真街景人像">
+</div>
+
+**提示词：**
+```
+{
+  "meta": {
+    "title": "Hyper-realistic 8K Street Portrait",
+    "created_at": "2024-05-22T10:00:00Z",
+    "tags": ["portrait", "summer", "fashion", "fujifilm", "outdoor"]
+  },
+  "prompt_data": {
+    "full_string": "Hyper-realistic 8K street portrait, preserve the girl’s facial features from the reference. Stylish outdoor shot: girl leaning back against a textured beige stucco wall under bright sun, relaxed contrapposto stance, head tilted back, eyes half-closed, expression enjoying warmth. Wearing a trendy sage-mint set: twisted-knot long-sleeve crop top, exposed midriff, mini skirt with thong-strap detail on waist. Sunkissed makeup: bronzer, strong highlighter, nude matte lips, defined contoured cheekbones. Hair in messy bun with loose wavy face-framing strands. Background: rough stucco wall with sharp botanical shadows cast by leaves. Camera: Fujifilm X-T4, Kodak Gold 200 film emulation, high aperture f/8 for background sharpness. Lighting: harsh mid-day sun, high contrast light–shadow pattern, crisp plant shadows across skin and wall. Warm yellow-green tones, summer vibe, high clarity, magazine aesthetic. Medium shot composition, textured wall filling the frame. --ar 4:5 --style raw --v 6.0",
+    "components": {
+      "style": "Hyper-realistic 8K street portrait, magazine aesthetic, high clarity",
+      "subject": {
+        "reference_instruction": "preserve the girl’s facial features from the reference",
+        "pose": "leaning back against a textured beige stucco wall, relaxed contrapposto stance, head tilted back, eyes half-closed, expression enjoying warmth",
+        "clothing": "trendy sage-mint set: twisted-knot long-sleeve crop top, exposed midriff, mini skirt with thong-strap detail on waist",
+        "hair_makeup": "Sunkissed makeup: bronzer, strong highlighter, nude matte lips, defined contoured cheekbones. Hair in messy bun with loose wavy face-framing strands"
+      },
+      "environment": {
+        "setting": "rough stucco wall with sharp botanical shadows cast by leaves",
+        "lighting": "harsh mid-day sun, high contrast light–shadow pattern, crisp plant shadows across skin and wall",
+        "color_palette": "Warm yellow-green tones, summer vibe"
+      },
+      "technical": {
+        "camera": "Fujifilm X-T4",
+        "film_stock": "Kodak Gold 200 film emulation",
+        "settings": "high aperture f/8 for background sharpness",
+        "composition": "Medium shot composition, textured wall filling the frame"
+      }
+    },
+    "parameters": {
+      "aspect_ratio": "4:5",
+      "style_model": "raw",
+      "version": "6.0"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"meta": {
+标题：超逼真 8K 街景人像
+"created_at": "2024-05-22T10:00:00Z",
+标签：["人像", "夏季", "时尚", "富士胶片", "户外"]
+},
+"prompt_data": {
+"full_string": "超逼真8K街头人像，保留了参考照片中女孩的面部特征。时尚户外拍摄：女孩倚靠在阳光明媚的米色纹理灰泥墙上，采用放松的对立式站姿，头部后仰，双眼半闭，表情享受着温暖。身着时髦的鼠尾草绿套装：扭结长袖露脐上衣，露出纤细腰身，搭配腰​​部饰有丁字带的迷你裙。妆容阳光亲吻般自然：古铜色粉底，高光提亮，裸色哑光唇妆，轮廓分明的颧骨。头发随意挽成发髻，几缕波浪卷发自然垂落在脸颊两侧。背景：粗糙的灰泥墙，树叶投下清晰的植物阴影。相机：富士X-T4，柯达金200胶片模拟，大光圈f /8以获得背景锐利度。光线：正午强烈的阳光，高对比度的光影图案，清晰的植物阴影投射在肌肤上。和墙壁。温暖的黄绿色调，夏日气息，高清晰度，杂志美感。中景构图，纹理丰富的墙壁充满画面。--ar 4:5 --style raw --v 6.0”
+“成分”： {
+“风格”：“超逼真的 8K 街头人像，杂志美学，高清晰度”
+“主题”： {
+"reference_instruction": "保留参考图中女孩的面部特征",
+“姿势”：“背靠着米色纹理灰泥墙，采用放松的对立式站姿，头部后仰，双眼半闭，表情享受着温暖”，
+“服装”：“时尚鼠尾草薄荷色套装：扭结长袖露脐上衣，露脐设计，腰部饰有丁字带的迷你裙”，
+“发型_妆容”：阳光亲吻般的妆容：古铜色粉底、高光提亮、裸色哑光唇妆、轮廓分明的颧骨。头发随意挽成发髻，留出几缕波浪卷发修饰脸型。
+},
+“环境”： {
+“背景”：“粗糙的灰泥墙，树叶投下清晰的植物阴影”，
+“光线”：“正午刺眼的阳光，高对比度的光影图案，植物在皮肤和墙壁上投下的清晰阴影”，
+"color_palette": "温暖的黄绿色调，夏日氛围"
+},
+“技术的”： {
+“相机”: “富士X-T4”
+"film_stock": "柯达金200胶片模拟",
+“设置”：“高光圈 f /8以获得背景锐利度”，
+“构图”：“中景构图，纹理墙面占据画面”
+}
+},
+“参数”： {
+"aspect_ratio": "4:5",
+"style_model": "raw",
+版本：6.0
+}
+}
+}
+```
+
+<a id="prompt-605"></a>
+## 案例 605：海滩写真拍摄 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994478187133432308))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/605.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-海滩写真拍摄">
+</div>
+
+**提示词：**
+```
+{
+ "prompt_title": "Beachside Crochet Fashion Portrait at Sunset",
+  "model_type": "Hyper-Realistic Photo",
+  "style": [
+    "Ultra-detailed photo-realism",
+    "Golden hour beach photography",
+    "Soft, natural light",
+    "Vibrant yet natural color palette"
+  ],
+  "subject": {
+    "description": "A slender and elegant Asian woman, mid-20s, with a gentle, contemplative expression, gazing towards the right of the frame.",
+    "hair": "Dark brown hair styled in a high, messy bun, with soft wisps framing the face.",
+    "makeup": "Minimalist, natural 'no-makeup' makeup look, featuring soft pink lips and a light blush, enhancing natural features.",
+    "expression": "Serene, distant gaze, creating a sense of introspection or admiration of the view.",
+    "attire": {
+      "outerwear": "White, open-knit crochet cardigan with long, slightly flared sleeves, adorned with scattered small, pastel-colored floral appliques (yellow, blue, pink).",
+      "swimwear": "White string bikini top and matching bottom, peeking out from beneath the cardigan.",
+      "accessories": "Delicate, multi-strand beaded necklaces in pastel colors (pink, white, yellow), some extending as a body chain around her waist. Pink-tinted sunglasses perched on top of her bun. Small, understated stud earrings."
+    }
+  },
+  "setting": {
+    "location": "A tranquil, sandy beach at golden hour.",
+    "background_elements": [
+      "Calm ocean water with subtle waves meeting the shore in the mid-ground.",
+      "A light, sandy beach foreground with gentle ripples and scattered small shells.",
+      "A few distant boats visible on the horizon, adding depth and realism.",
+      "A soft, clear sky with warm, diffused light of late afternoon."
+    ]
+  },
+  "pose": {
+    "type": "Standing portrait, waist-up shot.",
+    "stance": "Body slightly angled to the left, head turned to look towards the right. Right hand gently rests on her hip.",
+    "gaze": "Looking off into the distance to the right, not directly at the camera."
+  },
+  "camera_and_technical": {
+    "camera": "Fujifilm GFX 100S or Sony A7R IV",
+    "lens": "50mm f/1.2 or 85mm f/1.4 (Fast Prime Lens for shallow depth of field)",
+    "shot_type": "Medium shot / Upper body portrait.",
+    "composition": "Rule of Thirds, with the subject positioned slightly to the left, allowing space for her gaze to lead the eye.",
+    "depth_of_field": "Shallow (soft bokeh on the ocean and distant background).",
+    "aperture": "f/2.0",
+    "shutter_speed": "1/250s",
+    "iso": "ISO 160",
+    "resolution": "8K, emphasizing intricate details of crochet knit and sand texture."
+  },
+  "lighting": {
+    "overall_mood": "Soft, warm, luminous, and natural.",
+    "key_light": {
+      "source": "Natural sunlight, low in the sky (golden hour).",
+      "position": "Coming from slightly behind and to the left of the subject, creating a subtle rim light effect and soft, elongated shadows.",
+      "color_temp": "Warm (4500K - 5500K), characteristic of late afternoon sun."
+    },
+    "fill_light": {
+      "source": "Natural ambient light reflecting off the sand and ocean.",
+      "position": "Filling in shadows on the front of the subject, ensuring soft transitions.",
+      "intensity": "Moderate, to maintain natural contrast."
+    },
+    "rim_light": {
+      "source": "Direct sunlight.",
+      "position": "Highlights the edges of her hair, shoulders, and arms, creating a glow that separates her from the background."
+    },
+    "shadows": "Soft, long, and diffused, typical of golden hour, contributing to a dreamy atmosphere."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_title": "日落时分的海边钩针时尚肖像",
+"model_type": "超写实照片",
+“风格”： [
+“超精细照片级写实主义”
+“黄金时段海滩摄影”
+“柔和的自然光”
+“充满活力又自然的色彩搭配”
+],
+“主题”： {
+“描述”：“一位身材苗条、气质优雅的亚洲女性，二十多岁，表情温柔沉思，目光看向画面右侧。”
+“头发”：“深棕色的头发梳成高高的凌乱发髻，几缕柔软的碎发垂在脸颊两侧。”
+“妆容”：“极简、自然的‘伪素颜’妆容，以柔和的粉色唇妆和淡淡的腮红为特色，凸显自然美。”
+“表情”：“宁静、疏离的目光，营造出一种内省或欣赏风景的氛围。”
+着装：{
+“外套”：“白色镂空钩针开衫，长袖略呈喇叭形，饰有零星的粉彩色小花朵贴花（黄色、蓝色、粉色）。”
+“泳装”：“白色细绳比基尼上衣和配套泳裤，从开衫下露出来。”
+“配饰”：“精致的多股串珠项链，颜色柔和（粉色、白色、黄色），有些项链延伸到腰间，形成一条身体链。粉色太阳镜架在她的发髻上。小巧简约的耳钉。”
+}
+},
+“环境”： {
+地点：日落时分，一片宁静的沙滩。
+“背景元素”：[
+“平静的海面，轻柔的波浪在中景处拍打着海岸。”
+“前景是浅色的沙滩，泛着轻柔的涟漪，散落着小贝壳。”
+“远处地平线上隐约可见几艘船只，增添了画面的景深和真实感。”
+“傍晚时分，天空晴朗柔和，阳光温暖而柔和。”
+]
+},
+"姿势": {
+“类型”：“站立式肖像，半身像。”
+“站姿”：“身体略微向左侧倾斜，头部转向右侧。右手轻轻放在臀部。”
+“凝视”：“看向右侧远处，而不是直接看向镜头。”
+},
+"camera_and_technical": {
+“相机”: “富士GFX 100S或索尼A7R IV”
+“镜头”：“50mm f/1.2 或 85mm f/1.4（用于浅景深的快速定焦镜头）”
+"shot_type": "中景/上半身肖像。"
+构图：采用三分法构图，主体略微偏左，留出空间引导视线。
+"depth_of_field": "浅景深（海洋和远处背景呈现柔和的散景效果）",
+光圈：f/2.0，
+"shutter_speed": "1/250"
+"iso": "ISO 160",
+“分辨率”：“8K，突出钩编针织物和沙子纹理的精细细节。”
+},
+“灯光”： {
+整体氛围：柔和、温暖、明亮、自然。
+"key_light": {
+“来源”：“自然阳光，低垂的天空（黄金时段）。”
+“位置”：“光线从拍摄对象略后方偏左的位置照射过来，营造出微妙的轮廓光效果和柔和拉长的阴影。”
+"color_temp": "暖色调（4500K - 5500K），具有午后阳光的特征。"
+},
+"fill_light": {
+“光源”：“沙滩和海洋反射的自然环境光。”
+“位置”：“填充主体前方的阴影，确保柔和的过渡。”
+“强度”：“适中，以保持自然对比度。”
+},
+"rim_light": {
+“来源”：“阳光直射。”
+“位置”：“突出她的头发、肩膀和手臂的边缘，营造出一种光晕，使她与背景分离。”
+},
+“阴影”：“柔和、绵长、弥散，是黄金时段的典型景象，营造出梦幻般的氛围。”
+}
+}
+```
+
+<a id="prompt-604"></a>
+## 案例 604：夜间拖影快门曝光 (来源 [@oggii_0](https://x.com/oggii_0/status/1994424983477715007))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/604.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-夜间拖影快门曝光">
+</div>
+
+**提示词：**
+```
+A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping movements, and a palpable "noir" atmosphere. Everything is planned, yet the results are always wild and raw.
+```
+
+**中文提示词：**
+```
+在车水马龙的街道中央，一场视觉风暴骤然爆发。凝固的面孔，凌厉的动作，以及弥漫的黑色电影氛围。一切都经过精心策划，但最终呈现的效果却总是狂野而原始。
+```
+
+<a id="prompt-603"></a>
+## 案例 603：一张韩国流行明星的抓拍照片 (来源 [@minchoi](https://x.com/minchoi/status/1994544802902503470))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/603.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张韩国流行明星的抓拍照片">
+</div>
+
+**提示词：**
+```
+A candid photograph of a KPOP star. format 3:4
+```
+
+**中文提示词：**
+```
+一张韩国流行明星的抓拍照片，3:4 比例
+```
+
+<a id="prompt-602"></a>
+## 案例 602：戴口罩的妹子比了个耶 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994544453655433705))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/602.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-戴口罩的妹子比了个耶">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_title": "Dynamic Low-Angle Portrait Under Clear Sky - Emphasized Curves & Confident Pose",
+  "model_type": "Hyper-Realistic Photo",
+  "style": [
+    "Ultra-detailed photo-realism",
+    "Bright, high-contrast natural outdoor lighting",
+    "Extreme low-angle, wide-perspective shot (heroic/empowering feel)",
+    "Vibrant, saturated colors (clean, modern aesthetic)"
+  ],
+  "subject": {
+    "description": "A youthful, radiant East Asian woman, late teens to early twenties, with a confident and engaging presence. Her skin exhibits a flawless yet natural texture, with subtle pores and a healthy, sunlit sheen across exposed areas like her shoulders and midriff. Hair strands are individually discernible.",
+    "physique": "Athletic and toned, with visibly sculpted abdominal muscles, subtly defined obliques, and strong, shapely thighs. The pose emphasizes the natural curve of her hips and the gentle arch of her lower back, creating an alluring yet powerful silhouette from the low angle.",
+    "hair": "Long, silky, straight dark brown hair, with a subtle natural wave at the ends. It flows freely around her shoulders and back, with a few strands gently lifted by a breeze (if applicable, or perfectly styled to look natural). A fringe or wispy bangs are subtly visible beneath the mask, framing her upper face.",
+    "makeup": "Minimal, natural 'no-makeup' makeup. Clear, dewy skin finish. The visible eye area shows defined but natural brows, a hint of mascara on long lashes, and a subtle shimmer on the inner corner of the eyes. The mask obscures the mouth and nose.",
+    "expression": "Her eyes are wide, bright, and directly engaging with the viewer, conveying a sense of playful confidence and warmth. The raised peace sign reinforces a cheerful, positive mood.",
+    "attire": {
+      "mask": "A pristine, well-fitted white disposable surgical mask, with clear pleats and elastic ear loops visible against her skin. It cleanly covers her nose and mouth.",
+      "top": "A figure-hugging, finely ribbed, light salmon-pink (or dusty rose) crop tank top. The ribbing texture is highly detailed, stretching smoothly over her chest and torso, emphasizing the curve of her bust and the tautness of her midriff.",
+      "outerwear": "An oversized, buttery soft, light pale yellow long-sleeved button-up shirt or lightweight jacket. It's worn open, casually draped off her shoulders, with the sleeves pushed up slightly, creating soft, natural folds in the fabric. The collar and cuffs are slightly relaxed.",
+      "bottom": "Form-fitting, short white denim shorts. The fabric texture is detailed, showing subtle denim weave. The shorts sit high on her hips, emphasizing the curve of her waist and thighs. Stitching details and a faint outline of pockets are visible.",
+      "accessories": "White wired earphones with clearly visible, delicate wires extending from her ears, subtly contrasting with her hair. The earbud tips are visible."
+    }
+  },
+  "setting": {
+    "location": "Outdoors on an exceptionally clear, bright summer day.",
+    "background_elements": [
+      "A vast, perfectly uniform, intensely vibrant cerulean blue sky, completely devoid of clouds, creating a stark, graphic backdrop that makes the subject pop.",
+      "No horizon line or ground visible, making the sky appear infinite and emphasizing the extreme low-angle perspective."
+    ],
+    "atmosphere": "Crisp, clean air; intense feeling of open space and boundless energy."
+  },
+  "pose": {
+    "type": "Extreme low-angle, dynamic full-body portrait (cropped at upper thigh/hip level, shot from below).",
+    "stance": "The woman is standing with her weight slightly shifted, her left leg subtly bent at the knee, and her right leg extended, creating a dynamic 'power stance' effect. Her torso is slightly twisted to her left, further accentuating the curve of her waist and hips, especially from the low vantage point. Her chest is slightly pushed out, enhancing the natural curve of her bust.",
+    "gaze": "Directly into the camera, with a confident, open, and friendly expression in her visible eyes. This strong eye contact creates an immediate connection with the viewer.",
+    "gesture": "Her left arm is bent at the elbow, and her left hand is raised close to her face, palm facing outwards, forming a clear and crisp 'peace' (V-sign) with her index and middle fingers. The other fingers are gently curled down. Her right arm is relaxed at her side, with the jacket draped over it. The natural tension in her arm muscles is visible."
+  },
+  "camera_and_technical": {
+    "camera": "Sony A1 with G Master Lenses or RED Komodo (for cinematic quality)",
+    "lens": "20mm f/1.8 (Ultra-wide-angle prime lens to exaggerate the low perspective and create an imposing, almost monumental feel for the subject)",
+    "shot_type": "Extreme Worm's-Eye View / Dynamic Low-Angle Medium Full Shot (from just below the subject's waist).",
+    "composition": "The subject dominates the central frame, with her head and raised hand reaching towards the top. The expansive blue sky provides a clean, impactful negative space. The extreme low angle distorts proportions intentionally, elongating the legs and making the subject appear powerful and larger-than-life.",
+    "depth_of_field": "Deep (f/11 to ensure absolute sharpness from her shorts to the distant sky, minimizing any softness).",
+    "aperture": "f/11",
+    "shutter_speed": "1/800s (to eliminate any possibility of motion blur and ensure tack-sharp details under intense sunlight)",
+    "iso": "ISO 64 (for maximum image fidelity and dynamic range)",
+    "resolution": "12K, cinematic wide aspect ratio (e.g., 1.85:1 or 16:9), emphasizing microscopic details of fabric weaves, skin pores, and the pristine blue sky. Post-processing for subtle vignetting and color grading for vibrant pop.",
+    "white_balance": "Daylight (5200K), precisely calibrated for natural colors under bright sun."
+  },
+  "lighting": {
+    "overall_mood": "High-key, crisp, and clean with stark yet appealing contrast.",
+    "key_light": {
+      "source": "Direct, unfiltered overhead sunlight, creating strong, well-defined form.",
+      "position": "High above and slightly in front-right of the subject, casting clear, defined shadows that contour her physique and attire, adding depth.",
+      "color_temp": "Cool (6500K-7000K), characteristic of a bright midday sun, ensuring a vibrant blue sky.",
+      "intensity": "Very high, creating bright highlights and deep, clean shadows."
+    },
+    "fill_light": {
+      "source": "Natural ambient light from the expansive sky.",
+      "intensity": "Low, allowing for noticeable shadows that give form without becoming harsh or black. The blue sky acts as a subtle cool fill.",
+      "direction": "Diffuse, minimizing contrast in shadow areas."
+    },
+    "rim_light": {
+      "source": "The intense direct sunlight.",
+      "intensity": "Subtle but crisp, creating a fine, bright outline on her hair, shoulders, and the edges of her clothing against the deep blue, enhancing separation and definition.",
+      "effect": "Very thin, bright edge highlights."
+    },
+    "shadows": "Sharp, well-defined, and relatively dark, lending strong three-dimensionality to the subject's form and attire. Shadows are cast downwards and slightly behind the subject from the low camera angle, emphasizing the curves and contours of her body and clothing."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_title": "晴空下的动态低角度人像 - 强调曲线与自信姿态",
+"model_type": "超写实照片",
+“风格”： [
+“超精细照片级写实主义”
+“明亮、高对比度的自然户外照明”，
+“极低角度、广角镜头（英雄/鼓舞人心的感觉）”，
+“鲜艳饱满的色彩（简洁现代的美学）”
+],
+“主题”： {
+描述：一位年轻、容光焕发的东亚女性，年龄在十几岁末到二十岁出头，自信迷人。她的肌肤呈现无瑕而自然的质感，毛孔细微，裸露部位（如肩膀和腰部）散发着健康的阳光光泽。发丝清晰可见。
+“体格”：“身材健美匀称，腹肌线条清晰可见，斜肌轮廓分明，大腿强健有力。这个姿势突出了她臀部的自然曲线和下背部的柔和弧度，从低角度拍摄，勾勒出既迷人又充满力量的身形。”
+“头发”：一头柔顺的深棕色长直发，发尾略带自然波浪。头发自然垂落在她的肩背，几缕发丝被微风轻轻拂起（如有风吹，或精心打理得自然垂顺）。面具下隐约可见刘海，勾勒出她脸部的轮廓。
+“妆容”：极简自然的“伪素颜”妆容。肌肤呈现清透水润的光泽。眼部可见部分，眉形清晰自然，纤长的睫毛上略施睫毛膏，眼角内侧带有微妙的珠光。口罩遮盖了口鼻。
+“表情”：“她的眼睛又大又亮，直视着观者，传递出一种俏皮自信和温暖的感觉。高举的和平手势进一步强化了这种快乐积极的情绪。”
+着装：{
+“口罩”：“一个洁白无瑕、贴合度极佳的一次性医用口罩，褶皱清晰可见，弹性耳带紧贴皮肤。它干净利落地遮住了她的口鼻。”
+上衣：一件贴身剪裁、带有细密罗纹的浅鲑鱼粉色（或灰玫瑰色）露脐背心。罗纹纹理细节丰富，流畅地贴合胸部和躯干，凸显胸部曲线和紧致腰腹。
+“外套”：一件宽松的、如黄油般柔软的浅黄色长袖衬衫或轻薄夹克。敞开穿着，随意地披在肩上，袖子略微向上卷起，在面料上形成柔软自然的褶皱。领口和袖口略微宽松。
+“下装”：“修身白色牛仔短裤。面料纹理细腻，隐约可见牛仔布的编织纹路。短裤高腰设计，凸显腰部和大腿的曲线。缝线细节和隐约可见的口袋轮廓。”
+“配饰”：“白色有线耳机，纤细的耳机线清晰可见地从她的耳朵延伸出来，与她的头发形成微妙的对比。耳塞套也清晰可见。”
+}
+},
+“环境”： {
+地点：户外，一个格外晴朗明媚的夏日。
+“背景元素”：[
+“一片广袤无垠、均匀透亮、色彩浓郁的蔚蓝色天空，万里无云，营造出鲜明的视觉背景，使主体更加突出。”
+“看不到地平线或地面，使天空显得无限延伸，并强调了极低角度的透视效果。”
+],
+“氛围”：“空气清新洁净；开阔的空间感和无限的活力。”
+},
+"姿势": {
+“类型”：“极低角度、动态全身肖像（裁剪至大腿/臀部上方，从下方拍摄）。”
+“站姿”：这位女士站立时重心略微偏移，左腿膝盖微屈，右腿伸直，营造出一种动感十足的“力量站姿”。她的躯干略微向左扭转，从低角度观察时，更突显了腰臀的曲线。她的胸部略微挺起，凸显了胸部的自然曲线。
+“凝视”：“她直视镜头，眼神自信、开朗、友善。这种强烈的眼神交流能立即与观众建立联系。”
+“手势”：“她的左臂肘部弯曲，左手举至脸前，掌心朝外，食指和中指形成清晰利落的‘和平’手势（V字手势）。其余手指微微弯曲down.她的右臂自然下垂，外套搭在上面。手臂肌肉的自然张力清晰可见。”
+},
+"camera_and_technical": {
+“相机”：“索尼 A1 配 G 大师镜头或 RED Komodo（用于电影级画质）”
+“镜头”：“20mm f/1. 8 (超广角定焦镜头，可夸大低视角，为拍摄对象营造出一种气势恢宏、近乎纪念碑式的感觉。”
+"shot_type": "极端仰视视角/动态低角度中景全景（从被摄对象腰部以下拍摄）",
+构图：“主体占据画面中心，头部和高举的手指向上方。广阔的蓝天提供了干净而有力的留白。极低的拍摄角度刻意扭曲了比例，拉长了腿部，使主体显得强大而富有气势。”
+"depth_of_field": "大光圈（f/11，以确保从她的短裤到远处的天空都绝对清晰，最大程度地减少任何柔化）。"
+光圈：f/11，
+"shutter_speed": "1/800s（以消除任何运动模糊的可能性，并确保在强烈的阳光下也能获得清晰锐利的细节）",
+“iso”: “ISO 64（可获得最大的图像保真度和动态范围）”
+“分辨率”：12K，电影级宽高比（例如 1.85:1 或 16:9），突出织物纹理、皮肤毛孔和纯净蓝天的微观细节。后期处理采用微妙的暗角和色彩分级，使画面更加鲜艳夺目。
+"white_balance": "日光 (5200K)，经过精确校准，可在明亮的阳光下呈现自然色彩。"
+},
+“灯光”： {
+整体氛围：明亮、清爽、干净，对比鲜明却又引人入胜。
+"key_light": {
+“光源”：“直射的、未经过滤的阳光，造就了强烈而清晰的轮廓。”
+“位置”：“位于拍摄对象上方偏右上方，投射出清晰、轮廓分明的阴影，勾勒出她的体态和衣着，增添了景深。”
+"color_temp": "冷色调（6500K-7000K），模拟正午明媚的阳光，确保天空呈现鲜艳的蓝色。"
+“强度”：“非常高，能营造出明亮的高光和深邃、干净的阴影。”
+},
+"fill_light": {
+“光源”：“来自广阔天空的自然环境光。”
+“强度”：“低，使阴影清晰可见，勾勒出轮廓，而不会显得生硬或漆黑。蓝天起到微妙的冷色调填充作用。”
+“方向”：“漫射，最大限度地减少阴影区域的对比度。”
+},
+"rim_light": {
+“来源”：“强烈的阳光直射。”
+“强度”：“微妙而清晰，在深蓝色的背景下，勾勒出她头发、肩膀和衣服边缘的精致明亮轮廓，增强了层次感和清晰度。”
+“效果”：“非常细腻、明亮的边缘高光。”
+},
+“阴影”：“清晰、轮廓分明且相对较暗，赋予人物的体态和服饰强烈的立体感。由于拍摄角度较低，阴影向下投射，略微偏后于人物，突显了她身体和服装的曲线和轮廓。”
+}
+}
+```
+
+<a id="prompt-601"></a>
+## 案例 601：专业工作室摄影照片 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994090956916969536))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/601.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-专业工作室摄影照片">
+</div>
+
+**提示词：**
+```
+{
+  "image_specification": {
+    "reference_id": "Figure 1",
+    "mode": "100% Virtual Reality",
+    "base_settings": {
+      "focus": "Face Reference, Ear, Nose, Mouth",
+      "proportion": "+++",
+      "consistency": "Keep face 100% unchanged"
+    },
+    "technical_specs": {
+      "medium": "Professional studio photography",
+      "resolution": "32k sharp, HD level",
+      "lighting": "Bright lights shining on model, realistic shadows, luster fascination",
+      "background": "Clean bright white background"
+    },
+    "subject": {
+      "model_attributes": {
+        "skin": "Healthy focus, succulent skin, luster",
+        "body_features": "Clear clavicle, beautiful shoulder, tapered neck",
+        "hair": {
+          "color": "Blond",
+          "style": "Tall boxing bun in middle of head, heart-shaped",
+          "details": "Two thin straight tresses, moisturizing texture",
+          "bangs": false
+        },
+        "expression": {
+          "gaze": "Looking straight at the camera",
+          "emotion": "Seductive and alluring glint",
+          "makeup": "Twinkle Petch Slash"
+        }
+      },
+      "pose": {
+        "type": "Sitting position",
+        "action": "One arm pushing the floor",
+        "style": "Professional model posing, presenting torso luster"
+      }
+    },
+    "attire_and_accessories": {
+      "dress_code": {
+        "top": "Caramel strapless top or corset, style reinforces shape",
+        "bottom": "Matching very short skirt or corset-dress style",
+        "details": [
+          "Cross-ties on front and sides",
+          "Large floral decoration made of hip-level brown cloth (adds volume and romantic feelings)"
+        ]
+      },
+      "jewelry": [
+        "Fancy diamond necklace",
+        "Tiny diamond earrings",
+        "Small ring"
+      ]
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_specification": {
+"reference_id": "图 1",
+“模式”：“100% 虚拟现实”，
+"base_settings": {
+“焦点”：“面部参考、耳朵、鼻子、嘴巴”，
+“比例”： “+++”，
+“一致性”：“面子100%不变”
+},
+"technical_specs": {
+“媒介”: “专业工作室摄影”
+分辨率：32k 清晰，高清级别
+“灯光”：“明亮的灯光照射在模特身上，逼真的阴影，光泽迷人”，
+“背景”： “干净明亮的白色背景”
+},
+“主题”： {
+"model_attributes": {
+“肌肤”： “健康专注，水润肌肤，光泽”
+"body_features": "清晰的锁骨，优美的肩膀，纤细的脖子",
+“头发”： {
+“颜色”： “金色”，
+“发型”：“头顶中央高高盘起的拳击发髻，呈心形”，
+“详情”：“两缕纤细笔直的头发，滋润质地”，
+"bangs": false
+},
+“表达”： {
+“凝视”：“直视镜头”，
+“情感”：“诱人而迷人的光芒”，
+“化妆”: “Twinkle Petch Slash”
+}
+},
+"姿势": {
+“类型”：“坐姿”，
+“动作”：“一只手臂推地板”，
+“风格”：“专业模特摆姿势，展现躯干光泽”
+}
+},
+"服装和配饰": {
+"dress_code": {
+上衣：焦糖色无肩带上衣或紧身胸衣，款式凸显身材。
+下装：搭配超短裙或束身连衣裙款式。
+“细节”： [
+“正面和侧面有交叉系绳”，
+“用齐腰高的棕色布料制成的大型花卉装饰（增添立体感和浪漫气息）”
+]
+},
+“珠宝”： [
+“精美钻石项链”
+“小巧的钻石耳环”
+“小戒指”
+]
+}
+}
+}
+```
 
 <a id="prompt-600"></a>
 ## 案例 600：和疯狂动物城中的角色自拍 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994360357100368334))
