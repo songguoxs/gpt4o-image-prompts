@@ -350,7 +350,7 @@ Quality and detail: 8K, highly realistic plush texture (individual fur fibers), 
 ```
 
 <a id="prompt-628"></a>
-## 案例 628：第一人称视角牵手照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994691557338013951)) 模型：Nano banana pro
+## 案例 628：第一人称视角牵手照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994691557338013951)) 模型：通义Z-Image-Turbo
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/628.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-第一人称视角牵手照片">
