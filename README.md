@@ -34,7 +34,7 @@
 <a id="prompt-toc"></a>
 ## 📖 案例目录
 *   [案例 629：一张图片生成9个不同景别的镜头 ](#prompt-629)
-*   [案例 628：黑白水墨画风格-孤舟蓑笠翁 ](#prompt-628)
+*   [案例 628：第一人称视角牵手照片 ](#prompt-628)
 *   [案例 627：MacBook Pro 笔记本电脑拆解 ](#prompt-627)
 *   [案例 626：黑白水墨画风格-孤舟蓑笠翁 ](#prompt-626)
 *   [案例 625：在人物周围添加糖果怪兽 ](#prompt-625)
@@ -305,15 +305,16 @@
 ```
 
 <a id="prompt-628"></a>
-## 案例 628：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418))
+## 案例 628：第一人称视角牵手照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994691557338013951))
 
 <div style="display: flex; justify-content: space-between;">
-<img src="./images/628.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白水墨画风格-孤舟蓑笠翁">
+<img src="./images/628.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-第一人称视角牵手照片">
 </div>
 
 **中文提示词：**
 ```
-黑白水墨画风格，留白意境，孤舟蓑笠翁，极简线条，宣纸纹理，红色印章点缀，东方哲学感。
+说明：知名名人可能会生成失败，可换图片模型试试
+一张超写实的第一人称男友视角照片，画面前景是男性的一只手正牵着长发造型的刘亦菲的手，她身穿红色吊带紧身胸衣短裙搭配红色薄透丝袜，佩戴金色项链，在后台化妆间内眼神迷人地注视着镜头，背景可见摆满化妆品的桌子及带灯泡的化妆镜（映出背影），采用直射闪光灯摄影风格，8K极致细节真实质感。
 ```
 
 <a id="prompt-627"></a>
