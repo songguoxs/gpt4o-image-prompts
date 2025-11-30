@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 629：一张图片生成9个不同景别的镜头 ](#prompt-629)
+*   [案例 628：黑白水墨画风格-孤舟蓑笠翁 ](#prompt-628)
+*   [案例 627：MacBook Pro 笔记本电脑拆解 ](#prompt-627)
 *   [案例 626：黑白水墨画风格-孤舟蓑笠翁 ](#prompt-626)
 *   [案例 625：在人物周围添加糖果怪兽 ](#prompt-625)
 *   [案例 624：手绘美颜科普图 ](#prompt-624)
@@ -264,6 +267,66 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-629"></a>
+## 案例 629：一张图片生成9个不同景别的镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994783047825473774))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/629.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张图片生成9个不同景别的镜头">
+<img src="./images/629-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张图片生成9个不同景别的镜头">
+</div>
+
+**中文提示词：**
+```
+<instruction> (指令)
+分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。
+生成一个连贯的 3x3 网格“电影印样（Contact Sheet）”，展示在同一环境中完全是这些主体的 9 个不同镜头。
+你必须调整标准的电影镜头类型以适应内容（例如，如果是群体，保持群体在一起；如果是物体，构图包含整个物体）：
+第 1 行（建立背景）：
+大远景 (ELS)： 主体在广阔的环境中显得很小。
+全景 (LS)： 完整的主体或群体从上到下可见（从头到脚 / 从车轮到车顶）。
+中远景 (美式镜头/四分之三)： 构图从膝盖以上（针对人物）或 3/4 视角（针对物体）。
+第 2 行（核心覆盖）：
+4. 中景 (MS)： 构图从腰部以上（或物体的中心核心）。聚焦于互动/动作。
+5. 中特写 (MCU)： 构图从胸部以上。主要主体的亲密构图。
+6. 特写 (CU)： 紧凑构图于脸部或物体的“正面”。
+第 3 行（细节与角度）：
+7. 大特写 (ECU)： 强烈聚焦于关键特征（眼睛、手、标志、纹理）的微距细节。
+8. 低角度镜头 (仰视/虫眼)： 从地面仰望主体（壮观/英雄感）。
+9. 高角度镜头 (俯视/鸟瞰)： 从上方俯瞰主体。
+确保严格的一致性：所有 9 个面板中是相同的人物/物体、相同的衣服和相同的光照。景深应逼真地变化（特写镜头中的背景虚化）。
+</instruction>
+一个包含 9 个面板的专业 3x3 电影故事板网格。
+该网格以全面的焦距范围展示输入图像中的特定主体/场景。
+顶行： 宽广环境镜头，全视图，3/4 剪辑（膝上景）。
+中间行： 腰部以上视图，胸部以上视图，脸部/正面特写。
+底行： 微距细节，低角度，高角度。
+所有帧均具有照片般逼真的纹理，一致的电影级调色，以及针对所分析的主体或物体特定数量的正确构图。
+```
+
+<a id="prompt-628"></a>
+## 案例 628：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/628.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白水墨画风格-孤舟蓑笠翁">
+</div>
+
+**中文提示词：**
+```
+黑白水墨画风格，留白意境，孤舟蓑笠翁，极简线条，宣纸纹理，红色印章点缀，东方哲学感。
+```
+
+<a id="prompt-627"></a>
+## 案例 627：MacBook Pro 笔记本电脑拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994671420480356417))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/627.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-MacBook Pro 笔记本电脑拆解">
+</div>
+
+**中文提示词：**
+```
+MacBook Pro 笔记本电脑的极致拆解，左右分屏构图。左侧 1/3 展示合盖或半开状态的完整银色MacBook；右侧 2/3 展示极其复杂的内部构造，M系列芯片主板、风扇、铝合金外壳和键盘组件，按Knolling网格整齐平铺。纯白背景，商业产品摄影，高透光感，--ar 16:9
+```
 
 <a id="prompt-626"></a>
 ## 案例 626：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418))
