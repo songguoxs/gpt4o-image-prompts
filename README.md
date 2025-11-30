@@ -142,7 +142,7 @@
 *   [案例 524：风格化的3D人物漫画 ](#prompt-524)
 *   [案例 523：一张年轻女性的逼真特写自拍照 ](#prompt-523)
 *   [案例 522：衣橱拆解与风格分析 ](#prompt-522)
-*   [案例 521：绘制[地标]的手绘等距示意图 ](#prompt-521)
+*   [案例 521：绘制地标的手绘等距示意图 ](#prompt-521)
 *   [案例 520：龙珠卡牌 ](#prompt-520)
 *   [案例 519：高端工作室照片 ](#prompt-519)
 *   [案例 518：极简主义鸡尾酒摄影 ](#prompt-518)
@@ -350,7 +350,7 @@ Quality and detail: 8K, highly realistic plush texture (individual fur fibers), 
 ```
 
 <a id="prompt-628"></a>
-## 案例 628：第一人称视角牵手照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994691557338013951))
+## 案例 628：第一人称视角牵手照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994691557338013951)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/628.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-第一人称视角牵手照片">
@@ -363,7 +363,7 @@ Quality and detail: 8K, highly realistic plush texture (individual fur fibers), 
 ```
 
 <a id="prompt-627"></a>
-## 案例 627：MacBook Pro 笔记本电脑拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994671420480356417))
+## 案例 627：MacBook Pro 笔记本电脑拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994671420480356417)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/627.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-MacBook Pro 笔记本电脑拆解">
@@ -375,7 +375,7 @@ MacBook Pro 笔记本电脑的极致拆解，左右分屏构图。左侧 1/3 展
 ```
 
 <a id="prompt-626"></a>
-## 案例 626：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418))
+## 案例 626：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/626.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白水墨画风格-孤舟蓑笠翁">
@@ -387,7 +387,7 @@ MacBook Pro 笔记本电脑的极致拆解，左右分屏构图。左侧 1/3 展
 ```
 
 <a id="prompt-625"></a>
-## 案例 625：在人物周围添加糖果怪兽 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1993243344932413597))
+## 案例 625：在人物周围添加糖果怪兽 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1993243344932413597)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/625.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-在人物周围添加糖果怪兽">
@@ -454,7 +454,7 @@ Create a highly decorated, maximalist pop-art scene where the real person stands
 ```
 
 <a id="prompt-624"></a>
-## 案例 624：手绘美颜科普图 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994954677579125124))
+## 案例 624：手绘美颜科普图 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994954677579125124)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/624.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘美颜科普图">
@@ -491,7 +491,7 @@ best quality, high-res, clean edges, masterpiece.
 ```
 
 <a id="prompt-623"></a>
-## 案例 623：对作品进行评价 (来源 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/1994613956007039007))
+## 案例 623：对作品进行评价 (来源 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/1994613956007039007)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/623.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-对作品进行评价">
@@ -509,7 +509,7 @@ Analyze this work in depth and critique it. In the image, mark the points that n
 ```
 
 <a id="prompt-622"></a>
-## 案例 622：自信成熟女性室内电影肖像 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1994586672504181025))
+## 案例 622：自信成熟女性室内电影肖像 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1994586672504181025)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/622.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自信成熟女性室内电影肖像">
@@ -654,7 +654,7 @@ Analyze this work in depth and critique it. In the image, mark the points that n
 ```
 
 <a id="prompt-621"></a>
-## 案例 621：一只手拿着上传图片中的产品 (来源 [@egeberkina](https://x.com/egeberkina/status/1994380091241922920))
+## 案例 621：一只手拿着上传图片中的产品 (来源 [@egeberkina](https://x.com/egeberkina/status/1994380091241922920)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/621.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一只手拿着上传图片中的产品">
@@ -671,7 +671,7 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 ```
 
 <a id="prompt-620"></a>
-## 案例 620：超写实性感大嘴人物肖像 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1994634660459024649))
+## 案例 620：超写实性感大嘴人物肖像 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1994634660459024649)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/620.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实性感大嘴人物肖像">
@@ -824,7 +824,7 @@ A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact
 ```
 
 <a id="prompt-619"></a>
-## 案例 619：90年代电影质感的逼真香港复古肖像照 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1994430035554603247))
+## 案例 619：90年代电影质感的逼真香港复古肖像照 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1994430035554603247)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/619.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代电影质感的逼真香港复古肖像照">
@@ -845,7 +845,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 ```
 
 <a id="prompt-618"></a>
-## 案例 618：四幅时尚生活场景组成的拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994168239442510308))
+## 案例 618：四幅时尚生活场景组成的拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994168239442510308)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/618.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅时尚生活场景组成的拼贴画">
@@ -962,7 +962,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 ```
 
 <a id="prompt-617"></a>
-## 案例 617：四幅时尚生活场景组成的连贯拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166992719299026))
+## 案例 617：四幅时尚生活场景组成的连贯拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166992719299026)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/617.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅时尚生活场景组成的连贯拼贴画">
@@ -1081,7 +1081,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 ```
 
 <a id="prompt-616"></a>
-## 案例 616：女生背对着观众坐在编织沙发上 (来源 [@chatgptpaglu](https://x.com/chatgptpaglu/status/1994689429487734995))
+## 案例 616：女生背对着观众坐在编织沙发上 (来源 [@chatgptpaglu](https://x.com/chatgptpaglu/status/1994689429487734995)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/616.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生背对着观众坐在编织沙发上">
@@ -1260,7 +1260,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 ```
 
 <a id="prompt-615"></a>
-## 案例 615：人和机器人的温馨时刻 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1994444395525832898))
+## 案例 615：人和机器人的温馨时刻 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1994444395525832898)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/615.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人和机器人的温馨时刻">
@@ -1283,7 +1283,7 @@ Use image [0] as face reference. Half-body. Subject leaning against newspaper-co
 ```
 
 <a id="prompt-614"></a>
-## 案例 614：一幅赛博武士的详细技术图解 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1994390935019360466))
+## 案例 614：一幅赛博武士的详细技术图解 (来源 [@LudovicCreator](https://x.com/LudovicCreator/status/1994390935019360466)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/614.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅赛博武士的详细技术图解">
@@ -1300,7 +1300,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 ```
 
 <a id="prompt-613"></a>
-## 案例 613：女子坐在地板上准备喝可乐 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994446756978020701))
+## 案例 613：女子坐在地板上准备喝可乐 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994446756978020701)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/613.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子坐在地板上准备喝可乐">
@@ -1403,7 +1403,7 @@ Create a detailed technical illustration of a Cybernetic Samurai, exploded into 
 ```
 
 <a id="prompt-612"></a>
-## 案例 612：一个 男人被相框套娃了 (来源 [@maxescu](https://x.com/maxescu/status/1994420399497490915))
+## 案例 612：一个 男人被相框套娃了 (来源 [@maxescu](https://x.com/maxescu/status/1994420399497490915)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/612.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个 男人被相框套娃了">
@@ -1422,7 +1422,7 @@ The Trap: He is caught in Visual Recursion. He has become a "strange loop" where
 ```
 
 <a id="prompt-611"></a>
-## 案例 611：一幅充满活力的混合媒介杰作 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1994126063656644727))
+## 案例 611：一幅充满活力的混合媒介杰作 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1994126063656644727)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/611.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅充满活力的混合媒介杰作">
@@ -1531,7 +1531,7 @@ The Trap: He is caught in Visual Recursion. He has become a "strange loop" where
 ```
 
 <a id="prompt-610"></a>
-## 案例 610：一位自信优雅的年轻女子 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994397944209142213))
+## 案例 610：一位自信优雅的年轻女子 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994397944209142213)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/610.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位自信优雅的年轻女子">
@@ -1608,7 +1608,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 ```
 
 <a id="prompt-609"></a>
-## 案例 609：年轻女性的时尚自拍肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994521805076451818))
+## 案例 609：年轻女性的时尚自拍肖像 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994521805076451818)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/609.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女性的时尚自拍肖像">
@@ -1625,7 +1625,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 ```
 
 <a id="prompt-608"></a>
-## 案例 608：一群活泼时尚的年轻人 (来源 [@Just_sharon7](https://x.com/Just_sharon7/status/1994375017971564779))
+## 案例 608：一群活泼时尚的年轻人 (来源 [@Just_sharon7](https://x.com/Just_sharon7/status/1994375017971564779)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/608.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一群活泼时尚的年轻人">
@@ -1796,7 +1796,7 @@ quality = Soft yet defined, creating subtle shadows that enhance her features an
 ```
 
 <a id="prompt-607"></a>
-## 案例 607：9种照片专业打光效果 (来源 [@MonetizeXWithAb](https://x.com/MonetizeXWithAb/status/1994419258789663115))
+## 案例 607：9种照片专业打光效果 (来源 [@MonetizeXWithAb](https://x.com/MonetizeXWithAb/status/1994419258789663115)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/607.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9种照片专业打光效果">
@@ -1813,7 +1813,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 ```
 
 <a id="prompt-606"></a>
-## 案例 606：超逼真街景人像 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994351098509861265))
+## 案例 606：超逼真街景人像 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994351098509861265)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/606.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真街景人像">
@@ -1898,7 +1898,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 ```
 
 <a id="prompt-605"></a>
-## 案例 605：海滩写真拍摄 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994478187133432308))
+## 案例 605：海滩写真拍摄 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994478187133432308)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/605.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-海滩写真拍摄">
@@ -2041,7 +2041,7 @@ Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteris
 ```
 
 <a id="prompt-604"></a>
-## 案例 604：夜间拖影快门曝光 (来源 [@oggii_0](https://x.com/oggii_0/status/1994424983477715007))
+## 案例 604：夜间拖影快门曝光 (来源 [@oggii_0](https://x.com/oggii_0/status/1994424983477715007)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/604.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-夜间拖影快门曝光">
@@ -2058,7 +2058,7 @@ A visual explosion in the middle of a fast-moving street. Frozen faces, sweeping
 ```
 
 <a id="prompt-603"></a>
-## 案例 603：一张韩国流行明星的抓拍照片 (来源 [@minchoi](https://x.com/minchoi/status/1994544802902503470))
+## 案例 603：一张韩国流行明星的抓拍照片 (来源 [@minchoi](https://x.com/minchoi/status/1994544802902503470)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/603.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张韩国流行明星的抓拍照片">
@@ -2075,7 +2075,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-602"></a>
-## 案例 602：戴口罩的妹子比了个耶 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994544453655433705))
+## 案例 602：戴口罩的妹子比了个耶 (来源 [@IqraSaifiii](https://x.com/IqraSaifiii/status/1994544453655433705)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/602.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-戴口罩的妹子比了个耶">
@@ -2230,7 +2230,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-601"></a>
-## 案例 601：专业工作室摄影照片 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994090956916969536))
+## 案例 601：专业工作室摄影照片 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1994090956916969536)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/601.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-专业工作室摄影照片">
@@ -2353,7 +2353,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-600"></a>
-## 案例 600：和疯狂动物城中的角色自拍 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994360357100368334))
+## 案例 600：和疯狂动物城中的角色自拍 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994360357100368334)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/600.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和疯狂动物城中的角色自拍">
@@ -2411,7 +2411,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-599"></a>
-## 案例 599：女生双手比出一个心形 (来源 [@SDT_side](https://x.com/SDT_side/status/1994133786632806832))
+## 案例 599：女生双手比出一个心形 (来源 [@SDT_side](https://x.com/SDT_side/status/1994133786632806832)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/599.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生双手比出一个心形">
@@ -2562,7 +2562,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-598"></a>
-## 案例 598：宝丽来照片讲述故事 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993752534637531605))
+## 案例 598：宝丽来照片讲述故事 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993752534637531605)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/598.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宝丽来照片讲述故事">
@@ -2579,7 +2579,7 @@ A candid photograph of a KPOP star. format 3:4
 ```
 
 <a id="prompt-597"></a>
-## 案例 597：宝丽来照片讲述故事 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1993247403995283687))
+## 案例 597：宝丽来照片讲述故事 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1993247403995283687)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/597.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宝丽来照片讲述故事">
@@ -2596,7 +2596,7 @@ Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid phot
 ```
 
 <a id="prompt-596"></a>
-## 案例 596：3X3女子肖像照拼贴画 (来源 [@craftian_keskin](https://x.com/craftian_keskin/status/1994110561101979793))
+## 案例 596：3X3女子肖像照拼贴画 (来源 [@craftian_keskin](https://x.com/craftian_keskin/status/1994110561101979793)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/596.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3X3女子肖像照拼贴画">
@@ -2657,7 +2657,7 @@ Make every image hyperrealistic and shot as if with a professional camera:
 ```
 
 <a id="prompt-595"></a>
-## 案例 595：四幅女子时尚生活场景拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166422251950451))
+## 案例 595：四幅女子时尚生活场景拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166422251950451)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/595.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅女子时尚生活场景拼贴画">
@@ -2774,7 +2774,7 @@ Make every image hyperrealistic and shot as if with a professional camera:
 ```
 
 <a id="prompt-594"></a>
-## 案例 594：模切线图转3D产品可视化 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994022879051014312))
+## 案例 594：模切线图转3D产品可视化 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994022879051014312)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/594.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-模切线图转3D产品可视化">
@@ -2971,7 +2971,7 @@ Make every image hyperrealistic and shot as if with a professional camera:
 ```
 
 <a id="prompt-593"></a>
-## 案例 593：模切线变为现实 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1994017531699278056))
+## 案例 593：模切线变为现实 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1994017531699278056)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/593.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-模切线变为现实">
@@ -2988,7 +2988,7 @@ Assemble the dieline into a perfectly folded 3D box with accurate panel placemen
 ```
 
 <a id="prompt-592"></a>
-## 案例 592：城市俯视等距3D卡通微缩场景 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598))
+## 案例 592：城市俯视等距3D卡通微缩场景 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993995980405100598)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/592.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
@@ -3015,7 +3015,7 @@ Square 1080x1080 dimension.
 ```
 
 <a id="prompt-591"></a>
-## 案例 591：真人转3D漫画 (来源 [@azed_ai](https://x.com/azed_ai/status/1994360708637794410))
+## 案例 591：真人转3D漫画 (来源 [@azed_ai](https://x.com/azed_ai/status/1994360708637794410)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/591.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人转3D漫画">
@@ -3033,7 +3033,7 @@ A highly stylized 3D caricature of [celebrity], with an oversized head, expressi
 ```
 
 <a id="prompt-590"></a>
-## 案例 590：虚构的英语电影海报-回忆之味 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994276578084413877))
+## 案例 590：虚构的英语电影海报-回忆之味 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994276578084413877)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/590.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-虚构的英语电影海报-回忆之味">
@@ -3045,7 +3045,7 @@ A highly stylized 3D caricature of [celebrity], with an oversized head, expressi
 ```
 
 <a id="prompt-589"></a>
-## 案例 589：卡哇伊波普艺术 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994239610713678137))
+## 案例 589：卡哇伊波普艺术 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994239610713678137)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/589.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡哇伊波普艺术">
@@ -3057,7 +3057,7 @@ A highly stylized 3D caricature of [celebrity], with an oversized head, expressi
 ```
 
 <a id="prompt-588"></a>
-## 案例 588：金属霓虹手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994226726692683849))
+## 案例 588：金属霓虹手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994226726692683849)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/588.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金属霓虹手账">
@@ -3069,7 +3069,7 @@ Y2K美学风格的竖屏时尚情绪板。背景是数码故障艺术风格的�
 ```
 
 <a id="prompt-587"></a>
-## 案例 587：iPhone 16 Pro Max拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994602402276938242))
+## 案例 587：iPhone 16 Pro Max拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994602402276938242)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/587.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-iPhone 16 Pro Max拆解">
@@ -3081,7 +3081,7 @@ Y2K美学风格的竖屏时尚情绪板。背景是数码故障艺术风格的�
 ```
 
 <a id="prompt-586"></a>
-## 案例 586：清新蓝色手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994227033141100662))
+## 案例 586：清新蓝色手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994227033141100662)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/586.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-清新蓝色手账">
@@ -3093,7 +3093,7 @@ Y2K美学风格的竖屏时尚情绪板。背景是数码故障艺术风格的�
 ```
 
 <a id="prompt-585"></a>
-## 案例 585：相机拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994604456969998397))
+## 案例 585：相机拆解 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994604456969998397)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/585.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-相机拆解">
@@ -3110,7 +3110,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-584"></a>
-## 案例 584：复古动漫幻想 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994240266866446621))
+## 案例 584：复古动漫幻想 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994240266866446621)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/584.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古动漫幻想">
@@ -3122,7 +3122,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-583"></a>
-## 案例 583：东方武侠史诗海报-剑影红颜 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994278346474311838))
+## 案例 583：东方武侠史诗海报-剑影红颜 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994278346474311838)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/583.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-东方武侠史诗海报-剑影红颜">
@@ -3134,7 +3134,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-582"></a>
-## 案例 582：奇幻冒险喜剧海报-寻龙秘境 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994279390579183827))
+## 案例 582：奇幻冒险喜剧海报-寻龙秘境 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994279390579183827)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/582.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-奇幻冒险喜剧海报-寻龙秘境">
@@ -3146,7 +3146,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-581"></a>
-## 案例 581：职业西装风手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994309283488444523))
+## 案例 581：职业西装风手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994309283488444523)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/581.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业西装风手账">
@@ -3158,7 +3158,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-580"></a>
-## 案例 580：鱼眼镜头下的日本女子比心 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994036974961705057))
+## 案例 580：鱼眼镜头下的日本女子比心 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1994036974961705057)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/580.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-鱼眼镜头下的日本女子比心">
@@ -3251,7 +3251,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-579"></a>
-## 案例 579：年轻女子侧坐在街机凳上 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1994104753966686476))
+## 案例 579：年轻女子侧坐在街机凳上 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1994104753966686476)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/579.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子侧坐在街机凳上">
@@ -3268,7 +3268,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-578"></a>
-## 案例 578：油泼面宫格漫画图 (来源 [@hellokaton](https://x.com/hellokaton/status/1991668144080056423))
+## 案例 578：油泼面宫格漫画图 (来源 [@hellokaton](https://x.com/hellokaton/status/1991668144080056423)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/578.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-油泼面宫格漫画图">
@@ -3280,7 +3280,7 @@ Knolling photography, disassembled parts of a vintage film camera neatly arrange
 ```
 
 <a id="prompt-577"></a>
-## 案例 577：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994139903513317767))
+## 案例 577：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994139903513317767)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/577.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-皮克斯风格3D动画场景">
@@ -3325,7 +3325,7 @@ Names: [Frodo, Sam, Aragorn, Gandalf, Legolas, Gimli]
 ```
 
 <a id="prompt-576"></a>
-## 案例 576：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994142229695217837))
+## 案例 576：皮克斯风格3D动画场景 (来源 [@dotey](https://x.com/dotey/status/1994142229695217837)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/576.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-皮克斯风格3D动画场景">
@@ -3362,7 +3362,7 @@ Names: [Frodo, Sam, Aragorn, Gandalf, Legolas, Gimli]
 ```
 
 <a id="prompt-575"></a>
-## 案例 575：极繁主义波普艺术图层 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1993609750051766767))
+## 案例 575：极繁主义波普艺术图层 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1993609750051766767)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/575.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image  Prompts-极繁主义波普艺术图层">
@@ -3379,7 +3379,7 @@ Names: [Frodo, Sam, Aragorn, Gandalf, Legolas, Gimli]
 ```
 
 <a id="prompt-574"></a>
-## 案例 574：掌上游戏机的精美3D渲染图 (来源 [@egeberkina](https://x.com/egeberkina/status/1993592049430650957))
+## 案例 574：掌上游戏机的精美3D渲染图 (来源 [@egeberkina](https://x.com/egeberkina/status/1993592049430650957)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/574.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-掌上游戏机的精美3D渲染图">
@@ -3396,7 +3396,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-573"></a>
-## 案例 573：身着白色针织上衣的阳光女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993870488955961747))
+## 案例 573：身着白色针织上衣的阳光女孩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993870488955961747)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/573.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身着白色针织上衣的阳光女孩">
@@ -3475,7 +3475,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-572"></a>
-## 案例 572：奶油水彩手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993885921599693092))
+## 案例 572：奶油水彩手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993885921599693092)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/572.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-奶油水彩手账">
@@ -3487,7 +3487,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-571"></a>
-## 案例 571：早朝了开个视频会议先 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993126993135902996))
+## 案例 571：早朝了开个视频会议先 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993126993135902996)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/571.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-早朝了开个视频会议先">
@@ -3499,7 +3499,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-570"></a>
-## 案例 570：游戏角色试图从电视屏幕爬到客厅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297))
+## 案例 570：游戏角色试图从电视屏幕爬到客厅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/570.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-游戏角色试图从电视屏幕爬到客厅">
@@ -3511,7 +3511,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-569"></a>
-## 案例 569：泛黄旧报纸手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993959563251593223))
+## 案例 569：泛黄旧报纸手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993959563251593223)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/569.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-泛黄旧报纸手账">
@@ -3524,7 +3524,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-568"></a>
-## 案例 568：金毛直播 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991796627062079575))
+## 案例 568：金毛直播 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991796627062079575)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/568.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金毛直播">
@@ -3536,7 +3536,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-567"></a>
-## 案例 567：你好地球人 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991800151204307071))
+## 案例 567：你好地球人 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991800151204307071)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/567.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你好地球人">
@@ -3548,7 +3548,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-566"></a>
-## 案例 566：李小龙与尤达大师以武会友 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297))
+## 案例 566：李小龙与尤达大师以武会友 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991801077092733297)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/566.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-李小龙与尤达大师以武会友">
@@ -3560,7 +3560,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-565"></a>
-## 案例 565：明星合照的幕后花絮 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992456465173692800))
+## 案例 565：明星合照的幕后花絮 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992456465173692800)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/565.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-明星合照的幕后花絮">
@@ -3572,7 +3572,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-564"></a>
-## 案例 564：马里奥路易吉给碧奇公主修理厨房 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991807393538478513))
+## 案例 564：马里奥路易吉给碧奇公主修理厨房 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991807393538478513)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/564.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马里奥路易吉给碧奇公主修理厨房">
@@ -3584,7 +3584,7 @@ A highly polished 3D render of a classic handheld game console split cleanly int
 ```
 
 <a id="prompt-563"></a>
-## 案例 563：西游记师徒四人组成了一个摇滚乐队 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993235709914915307))
+## 案例 563：西游记师徒四人组成了一个摇滚乐队 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993235709914915307)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/563.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-西游记师徒四人组成了一个摇滚乐队">
@@ -3601,7 +3601,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-562"></a>
-## 案例 562：涂鸦记号笔手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993958314179482074))
+## 案例 562：涂鸦记号笔手账 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993958314179482074)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/562.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-涂鸦记号笔手账">
@@ -3613,7 +3613,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-561"></a>
-## 案例 561：国家一级摆烂许可证 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991813589078778313))
+## 案例 561：国家一级摆烂许可证 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991813589078778313)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/561.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-国家一级摆烂许可证">
@@ -3625,7 +3625,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-560"></a>
-## 案例 560：未经他人苦莫劝他人善 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991828940290224493))
+## 案例 560：未经他人苦莫劝他人善 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991828940290224493)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/560.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-未经他人苦莫劝他人善">
@@ -3637,7 +3637,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-559"></a>
-## 案例 559：月亮不睡我不睡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991871219600400445))
+## 案例 559：月亮不睡我不睡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991871219600400445)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/559.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-月亮不睡我不睡">
@@ -3649,7 +3649,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-558"></a>
-## 案例 558：宇航员坐在弯弯的月亮边钓星星 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991875496817070245))
+## 案例 558：宇航员坐在弯弯的月亮边钓星星 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991875496817070245)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/558.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宇航员坐在弯弯的月亮边钓星星">
@@ -3661,7 +3661,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-557"></a>
-## 案例 557：职业生涯地图图片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992766727126704259))
+## 案例 557：职业生涯地图图片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1992766727126704259)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/557.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业生涯地图图片">
@@ -3673,7 +3673,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-556"></a>
-## 案例 556：女子一只手夸张地伸向镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993134542618566911))
+## 案例 556：女子一只手夸张地伸向镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993134542618566911)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/556.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子一只手夸张地伸向镜头">
@@ -3685,7 +3685,7 @@ A traditional Chinese Gongbi-style ink painting. The scene humorously depicts a 
 ```
 
 <a id="prompt-555"></a>
-## 案例 555：在复仇者大厦跟死侍合个影 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993222622986092722))
+## 案例 555：在复仇者大厦跟死侍合个影 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1993222622986092722)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/555.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-在复仇者大厦跟死侍合个影">
@@ -3702,7 +3702,7 @@ Place Deadpool next to the man, making "bunny ears" with his fingers behind the 
 ```
 
 <a id="prompt-554"></a>
-## 案例 554：粉红色的星之卡吐泡泡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991795708308189668))
+## 案例 554：粉红色的星之卡吐泡泡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991795708308189668)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/554.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-粉红色的星之卡吐泡泡">
@@ -3714,7 +3714,7 @@ Place Deadpool next to the man, making "bunny ears" with his fingers behind the 
 ```
 
 <a id="prompt-553"></a>
-## 案例 553：马斯克教爱因斯坦拍照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991805840685453495))
+## 案例 553：马斯克教爱因斯坦拍照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991805840685453495)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/553.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-马斯克教爱因斯坦拍照">
@@ -3726,7 +3726,7 @@ Place Deadpool next to the man, making "bunny ears" with his fingers behind the 
 ```
 
 <a id="prompt-552"></a>
-## 案例 552：超现实主义日式水墨画 (来源 [@Preda2005](https://x.com/Preda2005/status/1992472259127283888))
+## 案例 552：超现实主义日式水墨画 (来源 [@Preda2005](https://x.com/Preda2005/status/1992472259127283888)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/552.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实主义日式水墨画">
@@ -3755,7 +3755,7 @@ The entire piece is rendered in expressive sumi-e ink washes with chaotic splash
 ```
 
 <a id="prompt-551"></a>
-## 案例 551：现代芝加哥河滨清明上河图风格 (来源 [@dotey](https://x.com/dotey/status/1992469131438719122))
+## 案例 551：现代芝加哥河滨清明上河图风格 (来源 [@dotey](https://x.com/dotey/status/1992469131438719122)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/551.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代芝加哥河滨清明上河图风格">
@@ -3784,7 +3784,7 @@ Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of t
 ```
 
 <a id="prompt-550"></a>
-## 案例 550：手绘风格的时尚风格概念分解图 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1992877077570453712))
+## 案例 550：手绘风格的时尚风格概念分解图 (来源 [@cheerselflin](https://x.com/cheerselflin/status/1992877077570453712)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/550.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘风格的时尚风格概念分解图">
@@ -3825,7 +3825,7 @@ Language: labels in Chinese + English.
 ```
 
 <a id="prompt-549"></a>
-## 案例 549：LINE风格半身Q版表情包 (来源 [@dotey](https://x.com/dotey/status/1993042754008686712))
+## 案例 549：LINE风格半身Q版表情包 (来源 [@dotey](https://x.com/dotey/status/1993042754008686712)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/549.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-LINE风格半身Q版表情包">
@@ -3852,7 +3852,7 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 ```
 
 <a id="prompt-548"></a>
-## 案例 548：仿真绣苏绣表情包 (来源 [@TaXue2025](https://x.com/TaXue2025/status/1993542832930668942))
+## 案例 548：仿真绣苏绣表情包 (来源 [@TaXue2025](https://x.com/TaXue2025/status/1993542832930668942)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/548.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-仿真绣苏绣表情包">
@@ -3879,7 +3879,7 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 ```
 
 <a id="prompt-547"></a>
-## 案例 547：手绘日历插画 (来源 [@dotey](https://x.com/dotey/status/1993754650336428422))
+## 案例 547：手绘日历插画 (来源 [@dotey](https://x.com/dotey/status/1993754650336428422)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/547.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘日历插画">
@@ -3956,7 +3956,7 @@ General Guidelines:
 ```
 
 <a id="prompt-546"></a>
-## 案例 546：把文章变成卡通信息图 (来源 [@dotey](https://x.com/dotey/status/1993567848564686926))
+## 案例 546：把文章变成卡通信息图 (来源 [@dotey](https://x.com/dotey/status/1993567848564686926)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/546.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-把文章变成卡通信息图">
@@ -3995,7 +3995,7 @@ Please use nano banana pro to create the illustration based on the input provide
 ```
 
 <a id="prompt-545"></a>
-## 案例 545：将文章变成黑板报 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370))
+## 案例 545：将文章变成黑板报 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/545.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将文章变成黑板报">
@@ -4030,7 +4030,7 @@ Use "nano banana pro" for drawing based on the provided content.
 ```
 
 <a id="prompt-544"></a>
-## 案例 544：根据所提供的内容制作信息图 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370))
+## 案例 544：根据所提供的内容制作信息图 (来源 [@dotey](https://x.com/dotey/status/1993192263334183370)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/544.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据所提供的内容制作信息图">
@@ -4070,7 +4070,7 @@ Use "nano banana pro" for drawing based on the provided content.
 ```
 
 <a id="prompt-543"></a>
-## 案例 543：城市动态天气卡片 (来源 [@dotey](https://x.com/dotey/status/1993729800922341810))
+## 案例 543：城市动态天气卡片 (来源 [@dotey](https://x.com/dotey/status/1993729800922341810)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/543.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市动态天气卡片">
@@ -4110,7 +4110,7 @@ City name:【上海】
 ```
 
 <a id="prompt-542"></a>
-## 案例 542：服装设计手稿 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1993686622257442922))
+## 案例 542：服装设计手稿 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1993686622257442922)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/542.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-服装设计手稿">
@@ -4132,7 +4132,7 @@ City name:【上海】
 ```
 
 <a id="prompt-541"></a>
-## 案例 541：高细节的3D信息图海报 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013))
+## 案例 541：高细节的3D信息图海报 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994003408207139013)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/541.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高细节的3D信息图海报">
@@ -4200,7 +4200,7 @@ City name:【上海】
 ```
 
 <a id="prompt-540"></a>
-## 案例 540：物品拆解图 (来源 [@PandaTalk8](https://x.com/PandaTalk8/status/1993645881254658229))
+## 案例 540：物品拆解图 (来源 [@PandaTalk8](https://x.com/PandaTalk8/status/1993645881254658229)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/540.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-物品拆解图">
@@ -4217,7 +4217,7 @@ Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot o
 ```
 
 <a id="prompt-539"></a>
-## 案例 539：根据歌词生成电影般的图像 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992490800710578615))
+## 案例 539：根据歌词生成电影般的图像 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992490800710578615)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/539.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据歌词生成电影般的图像">
@@ -4234,7 +4234,7 @@ generate a cinematic sequence of images for a song based on the lyrics [quote ly
 ```
 
 <a id="prompt-538"></a>
-## 案例 538：创作一个电影分镜脚本 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992597408128045462))
+## 案例 538：创作一个电影分镜脚本 (来源 [@jamesyeung18](https://x.com/jamesyeung18/status/1992597408128045462)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/538.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-创作一个电影分镜脚本">
@@ -4251,7 +4251,7 @@ Create a cinematic storyboard of the first page of 1984, by using widescreen pan
 ```
 
 <a id="prompt-537"></a>
-## 案例 537：风格学习 (来源 [@sundyme](https://x.com/sundyme/status/1992753783731064990))
+## 案例 537：风格学习 (来源 [@sundyme](https://x.com/sundyme/status/1992753783731064990)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/537.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-风格学习">
@@ -4263,7 +4263,7 @@ Create a cinematic storyboard of the first page of 1984, by using widescreen pan
 ```
 
 <a id="prompt-536"></a>
-## 案例 536：食物制作成的超写实3D写实图 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1993044556242166220))
+## 案例 536：食物制作成的超写实3D写实图 (来源 [@Kerroudjm](https://x.com/Kerroudjm/status/1993044556242166220)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/536.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-食物制作成的超写实3D写实图">
@@ -4280,7 +4280,7 @@ Ultra-realistic 3D render of [MONUMENT] made entirely out of [FOOD], seamlessly 
 ```
 
 <a id="prompt-535"></a>
-## 案例 535：将paper转换成教授白板的图片 (来源 [@skirano](https://x.com/skirano/status/1991527921316773931))
+## 案例 535：将paper转换成教授白板的图片 (来源 [@skirano](https://x.com/skirano/status/1991527921316773931)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/535.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将paper转换成教授白板的图片">
@@ -4297,7 +4297,7 @@ Take this paper and transform in the image of a professor whiteboard image. diag
 ```
 
 <a id="prompt-534"></a>
-## 案例 534：四季变化信息图 (来源 [@jacalulu](https://x.com/jacalulu/status/1991547184731549946))
+## 案例 534：四季变化信息图 (来源 [@jacalulu](https://x.com/jacalulu/status/1991547184731549946)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/534.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四季变化信息图">
@@ -4314,7 +4314,7 @@ generate a detailed infographic that explains the 4 seasons as experienced in To
 ```
 
 <a id="prompt-533"></a>
-## 案例 533：烤面包流程图 (来源 [@emollick](https://x.com/emollick/status/1991549167773376978))
+## 案例 533：烤面包流程图 (来源 [@emollick](https://x.com/emollick/status/1991549167773376978)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/533.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-烤面包流程图">
@@ -4331,7 +4331,7 @@ i need a flowchart for how to toast bread, make it as wacky and over the top and
 ```
 
 <a id="prompt-532"></a>
-## 案例 532：Markdown转换为信息图 (来源 [@tobi](https://x.com/tobi/status/1991706720750694601))
+## 案例 532：Markdown转换为信息图 (来源 [@tobi](https://x.com/tobi/status/1991706720750694601)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/532.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Markdown转换为信息图">
@@ -4348,7 +4348,7 @@ Make this markdown transcript into a infographic
 ```
 
 <a id="prompt-531"></a>
-## 案例 531：让人做出Emoji的表情 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1992849169602818431))
+## 案例 531：让人做出Emoji的表情 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1992849169602818431)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/531.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-让人做出Emoji的表情">
@@ -4365,7 +4365,7 @@ Make this person do the expression of emoji [EMOJI]
 ```
 
 <a id="prompt-530"></a>
-## 案例 530：长平之战信息图 (来源 [@imxiaohu](https://x.com/imxiaohu/status/1993154201699160066))
+## 案例 530：长平之战信息图 (来源 [@imxiaohu](https://x.com/imxiaohu/status/1993154201699160066)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/530.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-长平之战信息图">
@@ -4377,7 +4377,7 @@ Make this person do the expression of emoji [EMOJI]
 ```
 
 <a id="prompt-529"></a>
-## 案例 529：识字小报元提示词 (来源 [@lxfater](https://x.com/lxfater/status/1993238777033105634))
+## 案例 529：识字小报元提示词 (来源 [@lxfater](https://x.com/lxfater/status/1993238777033105634)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/529.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-识字小报元提示词">
@@ -4389,7 +4389,7 @@ Make this person do the expression of emoji [EMOJI]
 ```
 
 <a id="prompt-528"></a>
-## 案例 528：大幅油画肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1993331098005520856))
+## 案例 528：大幅油画肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1993331098005520856)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/528.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大幅油画肖像">
@@ -4408,7 +4408,7 @@ Signature: Shreya Yadav
 ```
 
 <a id="prompt-527"></a>
-## 案例 527：我的世界神秘时代信息卡 (来源 [@manateelazycat](https://x.com/manateelazycat/status/1993248526479114602))
+## 案例 527：我的世界神秘时代信息卡 (来源 [@manateelazycat](https://x.com/manateelazycat/status/1993248526479114602)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/527.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-我的世界神秘时代信息卡">
@@ -4432,7 +4432,7 @@ Signature: Shreya Yadav
 ```
 
 <a id="prompt-526"></a>
-## 案例 526：流年运势图 (来源 [@MindfulReturn](https://x.com/MindfulReturn/status/1993101356857729434))
+## 案例 526：流年运势图 (来源 [@MindfulReturn](https://x.com/MindfulReturn/status/1993101356857729434)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/526.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-流年运势图">
@@ -4444,7 +4444,7 @@ Signature: Shreya Yadav
 ```
 
 <a id="prompt-525"></a>
-## 案例 525：Labubu和迪丽热巴高端时尚跨页大片 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1993449671445139756))
+## 案例 525：Labubu和迪丽热巴高端时尚跨页大片 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1993449671445139756)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/525.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Labubu和迪丽热巴高端时尚跨页大片">
@@ -4495,7 +4495,7 @@ LOCATION: XYZ Crossing, 17:45 PM
 ```
 
 <a id="prompt-524"></a>
-## 案例 524：风格化的3D人物漫画 (来源 [@rovvmut_](https://x.com/rovvmut_/status/1993255617855729818))
+## 案例 524：风格化的3D人物漫画 (来源 [@rovvmut_](https://x.com/rovvmut_/status/1993255617855729818)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/524.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-风格化的3D人物漫画">
@@ -4512,7 +4512,7 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 ```
 
 <a id="prompt-523"></a>
-## 案例 523：一张年轻女性的逼真特写自拍照 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1993206753236787443))
+## 案例 523：一张年轻女性的逼真特写自拍照 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1993206753236787443)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/523.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张年轻女性的逼真特写自拍照">
@@ -4619,7 +4619,7 @@ A highly stylized 3D caricature of the person in the uploaded image, with expres
 ```
 
 <a id="prompt-522"></a>
-## 案例 522：衣橱拆解与风格分析 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1993194975169781882))
+## 案例 522：衣橱拆解与风格分析 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1993194975169781882)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/522.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-衣橱拆解与风格分析">
@@ -4698,7 +4698,7 @@ Act as a professional fashion archivist and technical designer. Given an uploade
 ```
 
 <a id="prompt-521"></a>
-## 案例 521：绘制[地标]的手绘等距示意图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993026620274131247))
+## 案例 521：绘制地标的手绘等距示意图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1993026620274131247)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/521.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-绘制[地标]的手绘等距示意图">
@@ -4710,7 +4710,7 @@ Create a hand drawn isometric schematic diagram of [LANDMARK]. 1080x1080 dimensi
 ```
 
 <a id="prompt-520"></a>
-## 案例 520：龙珠卡牌 (来源 [@servasyy](https://x.com/servasyy/status/1993337294477218061))
+## 案例 520：龙珠卡牌 (来源 [@servasyy](https://x.com/servasyy/status/1993337294477218061)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/520.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-龙珠卡牌">
@@ -4776,7 +4776,7 @@ Technical Specs: Ultra detailed TCG card art collection, multiple dynamic action
 ```
 
 <a id="prompt-519"></a>
-## 案例 519：高端工作室照片 (来源 [@MayorKingAI](https://x.com/MayorKingAI/status/1993040352987824579))
+## 案例 519：高端工作室照片 (来源 [@MayorKingAI](https://x.com/MayorKingAI/status/1993040352987824579)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/519.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端工作室照片">
@@ -4793,7 +4793,7 @@ Create a high-end 8k studio photograph. The person from the reference is standin
 ```
 
 <a id="prompt-518"></a>
-## 案例 518：极简主义鸡尾酒摄影 (来源 [@egeberkina](https://x.com/egeberkina/status/1992950387616485874))
+## 案例 518：极简主义鸡尾酒摄影 (来源 [@egeberkina](https://x.com/egeberkina/status/1992950387616485874)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/518.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简主义鸡尾酒摄影">
@@ -4884,7 +4884,7 @@ Create a high-end 8k studio photograph. The person from the reference is standin
 ```
 
 <a id="prompt-517"></a>
-## 案例 517：动漫转真人 (来源 [@gizakdag](https://x.com/gizakdag/status/1993010965752037832))
+## 案例 517：动漫转真人 (来源 [@gizakdag](https://x.com/gizakdag/status/1993010965752037832)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/517.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫转真人">
@@ -4896,7 +4896,7 @@ Create a realistic photo of this character.
 ```
 
 <a id="prompt-516"></a>
-## 案例 516：配料合成食材 (来源 [@servasyy](https://x.com/servasyy/status/1992968777013850371))
+## 案例 516：配料合成食材 (来源 [@servasyy](https://x.com/servasyy/status/1992968777013850371)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/516.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-配料合成食材">
@@ -4926,7 +4926,7 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 ```
 
 <a id="prompt-515"></a>
-## 案例 515：担担面高级海报 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992989895850430908))
+## 案例 515：担担面高级海报 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992989895850430908)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/515.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-担担面高级海报">
@@ -4948,7 +4948,7 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 ```
 
 <a id="prompt-514"></a>
-## 案例 514：复刻图片提示词 (来源 [@Jackywine](https://x.com/Jackywine/status/1993110891404116143))
+## 案例 514：复刻图片提示词 (来源 [@Jackywine](https://x.com/Jackywine/status/1993110891404116143)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/514.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复刻图片提示词">
@@ -4960,7 +4960,7 @@ NO white pedestal, NO platform base. All layers float freely in space against pu
 ```
 
 <a id="prompt-513"></a>
-## 案例 513：labubu风格动态 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992980014841925773))
+## 案例 513：labubu风格动态 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992980014841925773)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/513.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-labubu风格动态">
@@ -5032,7 +5032,7 @@ Generate a high-end fashion magazine spread merging a **Real Human User** (with 
 ```
 
 <a id="prompt-512"></a>
-## 案例 512：高清杂志跨页 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1992985009540698359))
+## 案例 512：高清杂志跨页 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1992985009540698359)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/512.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高清杂志跨页">
@@ -5071,7 +5071,7 @@ STYLE: Retro Streetwear (复古街头)
 ```
 
 <a id="prompt-511"></a>
-## 案例 511：最后的晚餐 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1993065781362672074))
+## 案例 511：最后的晚餐 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1993065781362672074)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/511.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-最后的晚餐">
@@ -5088,7 +5088,7 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 ```
 
 <a id="prompt-510"></a>
-## 案例 510：宫崎骏的角色走进最后的晚餐 (来源 [@0xbisc](https://x.com/0xbisc/status/1993295676281913633))
+## 案例 510：宫崎骏的角色走进最后的晚餐 (来源 [@0xbisc](https://x.com/0xbisc/status/1993295676281913633)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/510.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宫崎骏的角色走进最后的晚餐">
@@ -5104,7 +5104,7 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 ```
 
 <a id="prompt-509"></a>
-## 案例 509：记忆宫殿学习英语 (来源 [@lxfater](https://x.com/lxfater/status/1992984573551276147))
+## 案例 509：记忆宫殿学习英语 (来源 [@lxfater](https://x.com/lxfater/status/1992984573551276147)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/509.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-记忆宫殿学习英语">
@@ -5122,7 +5122,7 @@ Recreate the composition of Leonardo da Vinci’s The Last Supper, but with icon
 ```
 
 <a id="prompt-508"></a>
-## 案例 508：女子海边电影风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992795956597628978))
+## 案例 508：女子海边电影风格肖像照 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992795956597628978)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/508.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子海边电影风格肖像照">
@@ -5151,7 +5151,7 @@ Close-up portrait, melancholic mood, natural lighting, realistic details, 8K.
 ```
 
 <a id="prompt-507"></a>
-## 案例 507：中国各朝代时间轴 (来源 [@bggg_ai](https://x.com/bggg_ai/status/1991674051727880549))
+## 案例 507：中国各朝代时间轴 (来源 [@bggg_ai](https://x.com/bggg_ai/status/1991674051727880549)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/507.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国各朝代时间轴">
@@ -5163,7 +5163,7 @@ Close-up portrait, melancholic mood, natural lighting, realistic details, 8K.
 ```
 
 <a id="prompt-506"></a>
-## 案例 506：一个全新的Instagram账号 (来源 [@shweta_ai](https://x.com/shweta_ai/status/1991536669682721223))
+## 案例 506：一个全新的Instagram账号 (来源 [@shweta_ai](https://x.com/shweta_ai/status/1991536669682721223)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/506.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个全新的Instagram账号">
@@ -5180,7 +5180,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-505"></a>
-## 案例 505：解数学题 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991768891966812273))
+## 案例 505：解数学题 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991768891966812273)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/505.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-解数学题">
@@ -5192,7 +5192,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-504"></a>
-## 案例 504：品牌联名海报 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349))
+## 案例 504：品牌联名海报 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991761772454224349)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/504.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌联名海报">
@@ -5204,7 +5204,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-503"></a>
-## 案例 503：平抛运动轨迹与速度位移分解图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991697151811023274))
+## 案例 503：平抛运动轨迹与速度位移分解图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991697151811023274)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/503.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-平抛运动轨迹与速度位移分解图">
@@ -5216,7 +5216,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-502"></a>
-## 案例 502：老北京航拍 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440))
+## 案例 502：老北京航拍 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684492474409440)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/502.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-老北京航拍">
@@ -5244,7 +5244,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-501"></a>
-## 案例 501：大唐长安插画 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684207513350329))
+## 案例 501：大唐长安插画 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684207513350329)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/501.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大唐长安插画">
@@ -5283,7 +5283,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-500"></a>
-## 案例 500：赛博黄历 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684059450253416))
+## 案例 500：赛博黄历 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991684059450253416)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/500.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-赛博黄历">
@@ -5303,7 +5303,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-499"></a>
-## 案例 499：成都旅游地图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723))
+## 案例 499：成都旅游地图 (来源 [@imaxichuhai](https://x.com/imaxichuhai/status/1991679696744976723)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/499.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-成都旅游地图">
@@ -5336,7 +5336,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-498"></a>
-## 案例 498：小世界也能成就大故事 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1992753152903495716))
+## 案例 498：小世界也能成就大故事 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1992753152903495716)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/498.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-小世界也能成就大故事">
@@ -5348,7 +5348,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-497"></a>
-## 案例 497：日本乡村公交车站雨夜的场景 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1992864343709663397))
+## 案例 497：日本乡村公交车站雨夜的场景 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1992864343709663397)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/497.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日本乡村公交车站雨夜的场景">
@@ -5447,7 +5447,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-496"></a>
-## 案例 496：身着一件惊艳的概念前卫礼服 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1992650501402542303))
+## 案例 496：身着一件惊艳的概念前卫礼服 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1992650501402542303)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/496.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身着一件惊艳的概念前卫礼服">
@@ -5464,7 +5464,7 @@ Generate a 9-image ‘photo dump’ grid of this person’s weekend: a mirror se
 ```
 
 <a id="prompt-495"></a>
-## 案例 495：微缩的温馨客厅 (来源 [@egeberkina](https://x.com/egeberkina/status/1992654337815007678))
+## 案例 495：微缩的温馨客厅 (来源 [@egeberkina](https://x.com/egeberkina/status/1992654337815007678)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/495.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩的温馨客厅">
@@ -5481,7 +5481,7 @@ A photorealistic ESC keycap scene shows a miniature cozy living room setup. Insi
 ```
 
 <a id="prompt-494"></a>
-## 案例 494：和路飞的一张超酷自拍 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992707230505009620))
+## 案例 494：和路飞的一张超酷自拍 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992707230505009620)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/494.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和路飞的一张超酷自拍">
@@ -5498,7 +5498,7 @@ Place Monkey D. Luffy next to the man, smiling widely with his straw hat tilted.
 ```
 
 <a id="prompt-493"></a>
-## 案例 493：PS5的技术蓝图 (来源 [@egeberkina](https://x.com/egeberkina/status/1992173777518813266))
+## 案例 493：PS5的技术蓝图 (来源 [@egeberkina](https://x.com/egeberkina/status/1992173777518813266)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/493.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-PS5的技术蓝图">
@@ -5515,7 +5515,7 @@ A two-panel technical blueprint diagram in clean monochrome line-art, matching t
 ```
 
 <a id="prompt-492"></a>
-## 案例 492：根据坐标生成图片 (来源 [@FinanceYF5](https://x.com/FinanceYF5/status/1992830924548104344))
+## 案例 492：根据坐标生成图片 (来源 [@FinanceYF5](https://x.com/FinanceYF5/status/1992830924548104344)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/492.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据坐标生成图片">
@@ -5527,7 +5527,7 @@ A two-panel technical blueprint diagram in clean monochrome line-art, matching t
 ```
 
 <a id="prompt-491"></a>
-## 案例 491：10种不同发型 (来源 [@MrDavids1](https://x.com/MrDavids1/status/1992695614023622734))
+## 案例 491：10种不同发型 (来源 [@MrDavids1](https://x.com/MrDavids1/status/1992695614023622734)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/491.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-10种不同发型">
@@ -5544,7 +5544,7 @@ Create a grid of 10 different hairstyles for this women. List the name of each h
 ```
 
 <a id="prompt-490"></a>
-## 案例 490：一张高分辨率的户外全身照 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992905971891597520))
+## 案例 490：一张高分辨率的户外全身照 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992905971891597520)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/490.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张高分辨率的户外全身照">
@@ -5561,7 +5561,7 @@ A high-resolution, full outdoor shot of a young East Asian woman with a radiant 
 ```
 
 <a id="prompt-489"></a>
-## 案例 489：艺术家正在绘制自己的微型人偶 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1992666519495410162))
+## 案例 489：艺术家正在绘制自己的微型人偶 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1992666519495410162)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/489.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-艺术家正在绘制自己的微型人偶">
@@ -5578,7 +5578,7 @@ Create an image of this person as an artist painting a tiny miniature figurine v
 ```
 
 <a id="prompt-488"></a>
-## 案例 488：极简儿童绘画风格 (来源 [@azed_ai](https://x.com/azed_ai/status/1992548740272623996))
+## 案例 488：极简儿童绘画风格 (来源 [@azed_ai](https://x.com/azed_ai/status/1992548740272623996)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/488.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简儿童绘画风格">
@@ -5595,7 +5595,7 @@ A [subject] in a minimalist children's drawing style, using thick white lines an
 ```
 
 <a id="prompt-487"></a>
-## 案例 487：图片的8种初始草图 (来源 [@gizakdag](https://x.com/gizakdag/status/1992620272177004855))
+## 案例 487：图片的8种初始草图 (来源 [@gizakdag](https://x.com/gizakdag/status/1992620272177004855)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/487.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-图片的8种初始草图">
@@ -5612,7 +5612,7 @@ Create 8 different initial sketches leading to this final character.
 ```
 
 <a id="prompt-486"></a>
-## 案例 486：超级赛亚人式变身过程 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992699713905140013))
+## 案例 486：超级赛亚人式变身过程 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1992699713905140013)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/486.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超级赛亚人式变身过程">
@@ -5629,7 +5629,7 @@ Create a detailed visual chart showing the full evolution of “Super Saiyan–s
 ```
 
 <a id="prompt-485"></a>
-## 案例 485：彩色手绘风格表情包 (来源 [@Gorden_Sun](https://x.com/Gorden_Sun/status/1992778144605212912))
+## 案例 485：彩色手绘风格表情包 (来源 [@Gorden_Sun](https://x.com/Gorden_Sun/status/1992778144605212912)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/485.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-彩色手绘风格表情包">
@@ -5644,7 +5644,7 @@ Create a detailed visual chart showing the full evolution of “Super Saiyan–s
 ```
 
 <a id="prompt-484"></a>
-## 案例 484：制作一个4×4的网格符合年代的风格 (来源 [@blizaine](https://x.com/blizaine/status/1992586719275954558))
+## 案例 484：制作一个4×4的网格符合年代的风格 (来源 [@blizaine](https://x.com/blizaine/status/1992586719275954558)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/484.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作一个4×4的网格符合年代的风格">
@@ -5661,7 +5661,7 @@ Make a 4×4 grid starting with the 1880s. In each section, I should appear style
 ```
 
 <a id="prompt-483"></a>
-## 案例 483：诸葛连弩的复古风格工程爆炸图 (来源 [@lxfater](https://x.com/lxfater/status/1992869294569324715))
+## 案例 483：诸葛连弩的复古风格工程爆炸图 (来源 [@lxfater](https://x.com/lxfater/status/1992869294569324715)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/483.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-诸葛连弩的复古风格工程爆炸图">
@@ -5673,7 +5673,7 @@ Make a 4×4 grid starting with the 1880s. In each section, I should appear style
 ```
 
 <a id="prompt-482"></a>
-## 案例 482：传统的中国工笔水墨画-仙女 (来源 [@dotey](https://x.com/dotey/status/1992450418291466517))
+## 案例 482：传统的中国工笔水墨画-仙女 (来源 [@dotey](https://x.com/dotey/status/1992450418291466517)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/482.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-传统的中国工笔水墨画-仙女">
@@ -5698,7 +5698,7 @@ In the top left corner, there is calligraphy and a red rectangular artist seal t
 ```
 
 <a id="prompt-481"></a>
-## 案例 481：传统的工笔风格水墨画 (来源 [@dotey](https://x.com/dotey/status/1992695763017830722))
+## 案例 481：传统的工笔风格水墨画 (来源 [@dotey](https://x.com/dotey/status/1992695763017830722)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/481.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-传统的工笔风格水墨画">
@@ -5721,7 +5721,7 @@ Traditional Chinese calligraphy adorns one side of the painting, accompanied by 
 ```
 
 <a id="prompt-480"></a>
-## 案例 480：分格漫画手稿图 (来源 [@lijigang_com](https://x.com/lijigang_com/status/1992900099484320208))
+## 案例 480：分格漫画手稿图 (来源 [@lijigang_com](https://x.com/lijigang_com/status/1992900099484320208)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/480.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-分格漫画手稿图">
@@ -5740,7 +5740,7 @@ Traditional Chinese calligraphy adorns one side of the painting, accompanied by 
 ```
 
 <a id="prompt-479"></a>
-## 案例 479：一键OOTD (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992884544278548721))
+## 案例 479：一键OOTD (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1992884544278548721)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/479.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一键OOTD">
@@ -5783,7 +5783,7 @@ Create an OOTD collage image.价格你随便填
 ```
 
 <a id="prompt-478"></a>
-## 案例 478：全景式角色深度概念分解图 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992621791588835494))
+## 案例 478：全景式角色深度概念分解图 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992621791588835494)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/478.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-全景式角色深度概念分解图">
@@ -5828,7 +5828,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-477"></a>
-## 案例 477：进击的巨人画风菜谱：红烧肉 (来源 [木马人AI](https://mp.weixin.qq.com/s/7ec6qvtnpPvL-KyBQruYIg))
+## 案例 477：进击的巨人画风菜谱：红烧肉 (来源 [木马人AI](https://mp.weixin.qq.com/s/7ec6qvtnpPvL-KyBQruYIg)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/477.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-进击的巨人画风菜谱：红烧肉">
@@ -5840,7 +5840,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-476"></a>
-## 案例 476：菜谱-番茄炒蛋 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1992570337977082030?s=46))
+## 案例 476：菜谱-番茄炒蛋 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1992570337977082030?s=46)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/476.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-菜谱-番茄炒蛋">
@@ -5934,7 +5934,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-475"></a>
-## 案例 475：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651))
+## 案例 475：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/475.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三英飙车战吕布">
@@ -5959,7 +5959,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-474"></a>
-## 案例 474：任天堂明星大乱斗游戏海报全家福 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1991541693708136662))
+## 案例 474：任天堂明星大乱斗游戏海报全家福 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1991541693708136662)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/474.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-任天堂明星大乱斗游戏海报全家福">
@@ -5971,7 +5971,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-473"></a>
-## 案例 473：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991027882605621629))
+## 案例 473：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991027882605621629)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/473.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻的亚洲女生蹲坐在水泥地的庭院中">
@@ -6014,7 +6014,7 @@ Workflow (执行逻辑)
 ```
 
 <a id="prompt-472"></a>
-## 案例 472：地球达人秀 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991745697708941739))
+## 案例 472：地球达人秀 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991745697708941739)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/472.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-地球达人秀">
@@ -6037,7 +6037,7 @@ Captured with a professional cinema camera (e.g., Arri Alexa LF) using a 35mm pr
 ```
 
 <a id="prompt-471"></a>
-## 案例 471：真人电影片场泄露照片 (来源 [@minchoi](https://x.com/minchoi/status/1991544444051755056))
+## 案例 471：真人电影片场泄露照片 (来源 [@minchoi](https://x.com/minchoi/status/1991544444051755056)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/471.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人电影片场泄露照片">
@@ -6054,7 +6054,7 @@ Generate leaked photo BTS from KPOP Demon Hunters live action movie set
 ```
 
 <a id="prompt-470"></a>
-## 案例 470：图片注解 (来源 [@nmatares](https://x.com/nmatares/status/1991696386031837424))
+## 案例 470：图片注解 (来源 [@nmatares](https://x.com/nmatares/status/1991696386031837424)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/470.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-图片注解">
@@ -6071,7 +6071,7 @@ add sketch annotations on top of this image explaining the camera movement. I wa
 ```
 
 <a id="prompt-469"></a>
-## 案例 469：动漫转真人 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1991573512713347181))
+## 案例 469：动漫转真人 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1991573512713347181)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/469.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫转真人">
@@ -6083,7 +6083,7 @@ add sketch annotations on top of this image explaining the camera movement. I wa
 ```
 
 <a id="prompt-468"></a>
-## 案例 468：伪造抖音截图 (来源 [@tuzi_ai](https://x.com/tuzi_ai/status/1991523528295014822))
+## 案例 468：伪造抖音截图 (来源 [@tuzi_ai](https://x.com/tuzi_ai/status/1991523528295014822)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/468.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-伪造抖音截图">
@@ -6095,7 +6095,7 @@ add sketch annotations on top of this image explaining the camera movement. I wa
 ```
 
 <a id="prompt-467"></a>
-## 案例 467：明星合拍 (来源 [@SebJefferies](https://x.com/SebJefferies/status/1991531687147360728))
+## 案例 467：明星合拍 (来源 [@SebJefferies](https://x.com/SebJefferies/status/1991531687147360728)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/467.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-明星合拍">
@@ -6127,7 +6127,7 @@ Polished marbl
 ```
 
 <a id="prompt-466"></a>
-## 案例 466：14个毛茸茸的小家伙并排挤沙发上 (来源 [@nickfloats](https://x.com/nickfloats/status/1991531506397741156))
+## 案例 466：14个毛茸茸的小家伙并排挤沙发上 (来源 [@nickfloats](https://x.com/nickfloats/status/1991531506397741156)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/466.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-14个毛茸茸的小家伙并排挤沙发上">
@@ -6144,7 +6144,7 @@ A medium shot of the 14 fluffy characters sitting squeezed together side-by-side
 ```
 
 <a id="prompt-465"></a>
-## 案例 465：出生到80岁各个年龄段的节日照片 (来源 [@minchoi](https://x.com/minchoi/status/1991526532536496353))
+## 案例 465：出生到80岁各个年龄段的节日照片 (来源 [@minchoi](https://x.com/minchoi/status/1991526532536496353)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/465.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-出生到80岁各个年龄段的节日照片">
@@ -6161,7 +6161,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-464"></a>
-## 案例 464：rick and morty画风卡片 (来源 [@oran_ge](https://x.com/oran_ge/status/1991677670778892600))
+## 案例 464：rick and morty画风卡片 (来源 [@oran_ge](https://x.com/oran_ge/status/1991677670778892600)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/464.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-rick and morty画风卡片">
@@ -6173,7 +6173,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-463"></a>
-## 案例 463：名人金句卡 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991718646570426763))
+## 案例 463：名人金句卡 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991718646570426763)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/463.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-名人金句卡">
@@ -6185,7 +6185,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-462"></a>
-## 案例 462：根据文字生成发布会现场图片 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991760674435780778))
+## 案例 462：根据文字生成发布会现场图片 (来源 [@stark_nico99](https://x.com/stark_nico99/status/1991760674435780778)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/462.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据文字生成发布会现场图片">
@@ -6197,7 +6197,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-461"></a>
-## 案例 461：茅屋秋风所破歌中文和拼音图 (来源 [@aiwarts](https://x.com/aiwarts/status/1992171447809187960))
+## 案例 461：茅屋秋风所破歌中文和拼音图 (来源 [@aiwarts](https://x.com/aiwarts/status/1992171447809187960)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/461.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-茅屋秋风所破歌中文和拼音图">
@@ -6216,7 +6216,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-460"></a>
-## 案例 460：固定参考图姿势生成图片 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991917912349909243))
+## 案例 460：固定参考图姿势生成图片 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1991917912349909243)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/460.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-固定参考图姿势生成图片">
@@ -6347,7 +6347,7 @@ Generate the holiday photo of this person through the ages up to 80 years old
 ```
 
 <a id="prompt-459"></a>
-## 案例 459：制作9种不同发型 (来源 [@1littlecoder](https://x.com/1littlecoder/status/1991890450589077816))
+## 案例 459：制作9种不同发型 (来源 [@1littlecoder](https://x.com/1littlecoder/status/1991890450589077816)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/459.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作9种不同发型">
@@ -6364,7 +6364,7 @@ make a 3x3 grid with different hairstyles
 ```
 
 <a id="prompt-458"></a>
-## 案例 458：文字生成精美的杂志文章的照片 (来源 [@fofrAI](https://x.com/fofrAI/status/1991530971800182929))
+## 案例 458：文字生成精美的杂志文章的照片 (来源 [@fofrAI](https://x.com/fofrAI/status/1991530971800182929)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/458.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-文字生成精美的杂志文章的照片">
@@ -6381,7 +6381,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-457"></a>
-## 案例 457：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@dotey](https://x.com/dotey/status/1991708960433344992))
+## 案例 457：年轻的亚洲女生蹲坐在水泥地的庭院中 (来源 [@dotey](https://x.com/dotey/status/1991708960433344992)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/457.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻的亚洲女生蹲坐在水泥地的庭院中">
@@ -6393,7 +6393,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-456"></a>
-## 案例 456：2077年背景的暖色调科幻漫画场景 (来源 [@dotey](https://x.com/dotey/status/1991920514818785333))
+## 案例 456：2077年背景的暖色调科幻漫画场景 (来源 [@dotey](https://x.com/dotey/status/1991920514818785333)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/456.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2077年背景的暖色调科幻漫画场景">
@@ -6415,7 +6415,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-455"></a>
-## 案例 455：天伦图趣味水墨画 (来源 [@dotey](https://x.com/dotey/status/1991928906291556681))
+## 案例 455：天伦图趣味水墨画 (来源 [@dotey](https://x.com/dotey/status/1991928906291556681)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/455.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-天伦图趣味水墨画">
@@ -6427,7 +6427,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-454"></a>
-## 案例 454：摄影质感极强的街头壁画 (来源 [@dotey](https://x.com/dotey/status/1991958132419919975))
+## 案例 454：摄影质感极强的街头壁画 (来源 [@dotey](https://x.com/dotey/status/1991958132419919975)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/454.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-摄影质感极强的街头壁画">
@@ -6443,7 +6443,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-453"></a>
-## 案例 453：手绘风格的信息图卡片 (来源 [@dotey](https://x.com/dotey/status/1991786129046044735))
+## 案例 453：手绘风格的信息图卡片 (来源 [@dotey](https://x.com/dotey/status/1991786129046044735)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/453.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘风格的信息图卡片">
@@ -6461,7 +6461,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-452"></a>
-## 案例 452：香港武侠3格漫画 (来源 [@dotey](https://x.com/dotey/status/1992433730972197305))
+## 案例 452：香港武侠3格漫画 (来源 [@dotey](https://x.com/dotey/status/1992433730972197305)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/452.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-香港武侠3格漫画">
@@ -6476,7 +6476,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 ```
 
 <a id="prompt-451"></a>
-## 案例 451：中国传统水墨彩画 (来源 [@dotey](https://x.com/dotey/status/1992366309288595681))
+## 案例 451：中国传统水墨彩画 (来源 [@dotey](https://x.com/dotey/status/1992366309288595681)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/451.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国传统水墨彩画">
@@ -6501,7 +6501,7 @@ Traditional Chinese calligraphy written in the top right corner, accompanied by 
 ```
 
 <a id="prompt-450"></a>
-## 案例 450：揭秘照片的幕后制作过程 (来源 [@icreatelife](https://x.com/icreatelife/status/1991945836914147524))
+## 案例 450：揭秘照片的幕后制作过程 (来源 [@icreatelife](https://x.com/icreatelife/status/1991945836914147524)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/450.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-揭秘照片的幕后制作过程">
@@ -6518,7 +6518,7 @@ I’d like to see a behind the scenes of a photoshoot how this photograph was cr
 ```
 
 <a id="prompt-449"></a>
-## 案例 449：你生气的时候其实也可以很可爱 (来源 [@gizakdag](https://x.com/gizakdag/status/1992241809691709598))
+## 案例 449：你生气的时候其实也可以很可爱 (来源 [@gizakdag](https://x.com/gizakdag/status/1992241809691709598)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/449.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-你生气的时候其实也可以很可爱">
@@ -6535,7 +6535,7 @@ Transform the subject into a glossy designer-toy character inspired by the refer
 ```
 
 <a id="prompt-448"></a>
-## 案例 448：将素描人物添加到您的真实照片中 (来源 [@egeberkina](https://x.com/egeberkina/status/1992151432422986028))
+## 案例 448：将素描人物添加到您的真实照片中 (来源 [@egeberkina](https://x.com/egeberkina/status/1992151432422986028)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/448.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将素描人物添加到您的真实照片中">
@@ -6552,7 +6552,7 @@ Add clean, minimal white line-drawing illustrations of people into this photo. M
 ```
 
 <a id="prompt-447"></a>
-## 案例 447：SPaceX工程原理图和蓝图线条 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992422194341957878))
+## 案例 447：SPaceX工程原理图和蓝图线条 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1992422194341957878)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/447.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-SPaceX工程原理图和蓝图线条">
@@ -6564,7 +6564,7 @@ Add clean, minimal white line-drawing illustrations of people into this photo. M
 ```
 
 <a id="prompt-446"></a>
-## 案例 446：伪造的历史 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263633464946805))
+## 案例 446：伪造的历史 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263633464946805)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/446.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-伪造的历史">
@@ -6581,7 +6581,7 @@ Leaked production footage from a secret soundstage, 1969. Neil Armstrong is walk
 ```
 
 <a id="prompt-445"></a>
-## 案例 445：将漫画人物融入你的真人照片 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263611428082031))
+## 案例 445：将漫画人物融入你的真人照片 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263611428082031)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/445.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将漫画人物融入你的真人照片">
@@ -6598,7 +6598,7 @@ A photograph of a crowded subway train in Tokyo, hyper-realistic style. Sitting 
 ```
 
 <a id="prompt-444"></a>
-## 案例 444：魔法窗口 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263588900409458))
+## 案例 444：魔法窗口 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263588900409458)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/444.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-魔法窗口">
@@ -6615,7 +6615,7 @@ Grainy 35mm film photo from 1975. A construction worker is installing a large gl
 ```
 
 <a id="prompt-443"></a>
-## 案例 443：火星监控录像 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263564896395420))
+## 案例 443：火星监控录像 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263564896395420)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/443.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-火星监控录像">
@@ -6632,7 +6632,7 @@ Grainy surveillance security camera footage from inside a Mars habitat airlock. 
 ```
 
 <a id="prompt-442"></a>
-## 案例 442：历史时代错误 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263520441000304))
+## 案例 442：历史时代错误 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263520441000304)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/442.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-历史时代错误">
@@ -6649,7 +6649,7 @@ A candid backstage polaroid photo from 1865. Abraham Lincoln is sitting in a can
 ```
 
 <a id="prompt-441"></a>
-## 案例 441：自由女神像建筑蓝图 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263499398205640))
+## 案例 441：自由女神像建筑蓝图 (来源 [@azed_ai](https://x.com/azed_ai/status/1992263499398205640)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/441.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自由女神像建筑蓝图">
@@ -6666,7 +6666,7 @@ A photorealistic wide-angle landscape shot of the Statue of Liberty with the New
 ```
 
 <a id="prompt-440"></a>
-## 案例 440：美妆检测器 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1992171138730885618))
+## 案例 440：美妆检测器 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1992171138730885618)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/440.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-美妆检测器">
@@ -6755,7 +6755,7 @@ Design style:
 ```
 
 <a id="prompt-439"></a>
-## 案例 439：从图像中创建图案或分解图 (来源 [@LinusEkenstam](https://x.com/LinusEkenstam/status/1992105428873056499))
+## 案例 439：从图像中创建图案或分解图 (来源 [@LinusEkenstam](https://x.com/LinusEkenstam/status/1992105428873056499)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/439.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-从图像中创建图案或分解图">
@@ -6772,7 +6772,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 ```
 
 <a id="prompt-438"></a>
-## 案例 438：疯狂的程序喵 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991529211392323991))
+## 案例 438：疯狂的程序喵 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991529211392323991)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/438.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂的程序喵">
@@ -6784,7 +6784,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 ```
 
 <a id="prompt-437"></a>
-## 案例 437：飞机立体剖面信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991542503850516544))
+## 案例 437：飞机立体剖面信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991542503850516544)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/437.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-飞机立体剖面信息图">
@@ -6796,7 +6796,7 @@ Create an image of the different patterns that makes up this shoe. lay them out 
 ```
 
 <a id="prompt-436"></a>
-## 案例 436：职业生涯历程可视化为地图 (来源 [@alisa_fortin](https://x.com/alisa_fortin/status/1992049339511030009))
+## 案例 436：职业生涯历程可视化为地图 (来源 [@alisa_fortin](https://x.com/alisa_fortin/status/1992049339511030009)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/436.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-职业生涯历程可视化为地图">
@@ -6814,7 +6814,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 ```
 
 <a id="prompt-435"></a>
-## 案例 435：穿着成名的衣服拍合照在上海江滩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991694806201037174))
+## 案例 435：穿着成名的衣服拍合照在上海江滩 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991694806201037174)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/435.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿着成名的衣服拍合照在上海江滩">
@@ -6848,7 +6848,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 ```
 
 <a id="prompt-434"></a>
-## 案例 434：西游记人物坐地铁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991681971529908358))
+## 案例 434：西游记人物坐地铁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991681971529908358)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/434.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-西游记人物坐地铁">
@@ -6860,7 +6860,7 @@ Download your LinkedIn profile is a PDF and give it to Nano Banana Pro with a si
 ```
 
 <a id="prompt-433"></a>
-## 案例 433：地标信息图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1991820056377078179))
+## 案例 433：地标信息图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1991820056377078179)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/433.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-地标信息图">
@@ -6877,7 +6877,7 @@ Create an infographic image of [LANDMARK], combining a real photograph of the la
 ```
 
 <a id="prompt-432"></a>
-## 案例 432：电视屏幕内容复制到油画中 (来源 [@goodside](https://x.com/goodside/status/1992038915881029641))
+## 案例 432：电视屏幕内容复制到油画中 (来源 [@goodside](https://x.com/goodside/status/1992038915881029641)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/432.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电视屏幕内容复制到油画中">
@@ -6894,7 +6894,7 @@ Amateur photograph from 1998 of a middle-aged artist copying an image by hand fr
 ```
 
 <a id="prompt-431"></a>
-## 案例 431：权游角色拿着护照 (来源 [@ProperPrompter](https://x.com/ProperPrompter/status/1992248716443402662))
+## 案例 431：权游角色拿着护照 (来源 [@ProperPrompter](https://x.com/ProperPrompter/status/1992248716443402662)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/431.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-权游角色拿着护照">
@@ -6911,7 +6911,7 @@ change it to [an unexpected, unlikely westeros character] in a different but rel
 ```
 
 <a id="prompt-430"></a>
-## 案例 430：动漫与现实分割肖像 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1992018970078065032))
+## 案例 430：动漫与现实分割肖像 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1992018970078065032)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/430.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫与现实分割肖像">
@@ -6928,7 +6928,7 @@ A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumak
 ```
 
 <a id="prompt-429"></a>
-## 案例 429：长文本古诗画画 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991474296221495538))
+## 案例 429：长文本古诗画画 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991474296221495538)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/429.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-长文本古诗画画">
@@ -6954,7 +6954,7 @@ A cinematic 16:9 wide shot featuring a single centered headshot of Naruto Uzumak
 ```
 
 <a id="prompt-428"></a>
-## 案例 428：幽默涂鸦风格 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992181199473938774))
+## 案例 428：幽默涂鸦风格 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1992181199473938774)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/428.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-幽默涂鸦风格">
@@ -6971,7 +6971,7 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 ```
 
 <a id="prompt-427"></a>
-## 案例 427：川剧变脸解密拆解图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991685064569266240))
+## 案例 427：川剧变脸解密拆解图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1991685064569266240)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/427.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-川剧变脸解密拆解图">
@@ -6983,7 +6983,7 @@ A doodle-style [subject], naive lines, humorous shape exaggeration
 ```
 
 <a id="prompt-426"></a>
-## 案例 426：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651))
+## 案例 426：三英飙车战吕布 (来源 [@dotey](https://x.com/dotey/status/1991790313799606651)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/426.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-三英飙车战吕布">
