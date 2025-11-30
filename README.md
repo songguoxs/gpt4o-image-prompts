@@ -33,6 +33,8 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 625：在人物周围添加糖果怪兽 ](#prompt-625)
+*   [案例 624：手绘美颜科普图 ](#prompt-624)
 *   [案例 623：对作品进行评价 ](#prompt-623)
 *   [案例 622：自信成熟女性室内电影肖像 ](#prompt-622)
 *   [案例 621：一只手拿着上传图片中的产品 ](#prompt-621)
@@ -261,6 +263,112 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+<a id="prompt-625"></a>
+## 案例 625：在人物周围添加糖果怪兽 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1993243344932413597))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/625.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-在人物周围添加糖果怪兽">
+</div>
+
+**提示词：**
+```
+Use the uploaded photo. 
+Do NOT alter the person’s real appearance — keep the person’s face, body, clothing, colors, and texture completely photorealistic. 
+Do NOT change the background perspective. 
+Do NOT turn the person into a drawing or illustration.
+
+Add a dense, overloaded layer of pop-style illustrated “sweets monsters” and graphic decorations ONLY around the person (and on top of their clothing if needed), but never on their skin or face.
+
+Illustrated elements:
+- many colorful cartoon monsters with thick black outlines, flat colors, and cute-but-ugly expressions
+- sweets-inspired monsters: bananas, cookies, strawberries, melting chocolate, lollipops, ice cream, oranges, cupcakes, donuts, candy pieces, soda bottles, etc.
+- additional graphic shapes: stars, hearts, arrows, drips, splashes, zigzag lines, exclamation marks, motion lines, sparkles, bubbles, comic-style text shapes (but no real text)
+
+Make the decoration very dense and “busy”:
+- fill the space behind the person with overlapping sweets monsters and shapes
+- add monsters peeking from behind the shoulders, around the bag, at the person’s feet, and near the head
+- allow some monsters and shapes to overlap the clothing and accessories (shirt, shorts, bag, shoes), but keep the skin of the face, arms, and legs photorealistic and visible
+- use multiple layers of illustrations in front of and behind the person to create depth
+- add glowing outlines, small white dots, and speed lines around the person to emphasize energy
+
+Color and style:
+- use a vivid, neon-like color palette (hot pink, yellow, cyan, lime, orange, purple, turquoise)
+- keep all illustrated elements flat and graphic with clean edges and bold outlines
+- ensure shadows and overlap suggest interaction with the real person (e.g., slight shadows on clothing where monsters touch)
+
+Overall goal:
+Create a highly decorated, maximalist pop-art scene where the real person stands in the middle, surrounded and wrapped by a chaotic crowd of playful sweets monsters and graphic doodles, while the person remains clearly photorealistic.
+```
+
+**中文提示词：**
+```
+请使用已上传的照片。
+不要改变人物的真实外貌——保持人物的脸部、身体、衣服、颜色和纹理完全逼真。
+请勿改变背景视角。
+请勿将人物形象转化为绘画或插图。
+
+在人物周围（必要时可以贴在衣服上）添加一层厚重的、过多的流行风格插画“糖果怪兽”和图形装饰，但绝不能贴在皮肤或脸上。
+
+图示元素：
+- 许多色彩鲜艳的卡通怪物，轮廓线粗黑，色彩扁平，表情可爱又丑陋。
+- 以甜食为灵感的怪物：香蕉、饼干、草莓、融化的巧克力、棒棒糖、冰淇淋、橙子、纸杯蛋糕、甜甜圈、糖果块、汽水瓶等等。
+- 其他图形形状：星星、心形、箭头、水滴、飞溅、锯齿线、感叹号、动态线条、闪光、气泡、漫画风格的文字形状（但不能包含实际文字）
+
+装饰要非常密集、繁复：
+- 用重叠的糖果怪兽和形状填满人身后的空间
+- 添加一些怪物，它们会从肩膀后面、包周围、人的脚边和头部附近探出头来。
+允许部分怪物和形状与服装及配饰（衬衫、短裤、包、鞋子）重叠，但保持面部、手臂和腿部的皮肤逼真可见。
+- 在人物前后使用多层插图来营造景深。
+- 在人物周围添加发光轮廓、小白点和速度线，以强调能量。
+
+颜色和款式：
+- 使用鲜艳的霓虹色系调色板（亮粉色、黄色、青色、酸橙色、橙色、紫色、蓝绿色）
+- 保持所有插图元素扁平化、图形化，边缘清晰，轮廓粗犷。
+- 确保阴影和重叠能够暗示与真人的互动（例如，怪物触碰衣服时在衣服上留下淡淡的阴影）
+
+总体目标：
+创作一幅装饰华丽、极繁主义的波普艺术场景，真人站在场景中央，被一群嬉戏玩闹的糖果怪兽和涂鸦图形包围，而真人则保持清晰的写实风格。
+```
+
+<a id="prompt-624"></a>
+## 案例 624：手绘美颜科普图 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1994954677579125124))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/624.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手绘美颜科普图">
+</div>
+
+**中文提示词：**
+```
+Hand-drawn watercolor infographic, warm soft watercolor texture, pink tone, cute and clean design, 4:5 ratio, 1080x1350.
+
+角色：一位专精医学保健的插画家兼医生，亲切微笑，手持水彩笔，风格卡通可爱。
+
+主标题（上方）：缺什么营养素会变丑？医生的维生素美颜配方！
+
+图表结构（下方开始）：
+六个可爱人物，呈现六种“变丑症状”，搭配对应的卡通营养素图标。
+
+示例内容（AI 可自由重绘，不要写实）：
+1. 皮肤暗沉 → 维生素C（Vitamin C 卡通形象）
+2. 眼睛干涩 → 维生素A（Vitamin A 卡通形象）
+3. 掉发 → 维生素B、维生素D（B群、D 卡通形象）
+4. （可继续根据文案自动生成更多症状与营养素）
+
+风格要求：
+手绘水彩感、粉色主调、柔和自然、轻松舒服的氛围。
+人物要可爱、圆润、友好。
+营养素图标为卡通拟人风格。
+文字为清晰易读的手写笔记感字体。
+整体排版简洁、资讯图表形式。
+
+Lighting: soft, diffuse watercolor lighting.
+Avoid: 照片感、真实皮肤纹理、过度写实、油画风、金属光泽。
+
+best quality, high-res, clean edges, masterpiece.
+```
 
 <a id="prompt-623"></a>
 ## 案例 623：对作品进行评价 (来源 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/1994613956007039007))
