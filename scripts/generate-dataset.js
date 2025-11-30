@@ -152,6 +152,7 @@ function parseMarkdownFile(filePath) {
         slug: `prompt-${id}`,
         title: '',
         source: null,
+        model: null,
         images: [],
         prompts: [],
         examples: [],
@@ -173,13 +174,16 @@ function parseMarkdownFile(filePath) {
 
     if (!inCodeBlock && /^##\s*案例/.test(trimmed)) {
       const headingMatch = trimmed.match(
-        /^##\s*案例\s+(\d+)[：:]\s*(.+?)(?:\s*\(来源\s*\[([^\]]+)\]\(([^)]+)\)\))?\s*$/
+        /^##\s*案例\s+(\d+)[：:]\s*(.+?)(?:\s*\(来源\s*\[([^\]]+)\]\(([^)]+)\)\))?(?:\s*模型[：:]\s*([^\s].*?))?\s*$/
       );
       if (headingMatch) {
-        const [, idStr, titlePart, sourceLabel, sourceLink] = headingMatch;
+        const [, idStr, titlePart, sourceLabel, sourceLink, modelText] = headingMatch;
         current.title = titlePart.trim();
         if (sourceLabel && sourceLink) {
           current.source = { name: sourceLabel.trim(), url: sourceLink.trim() };
+        }
+        if (modelText) {
+          current.model = modelText.trim();
         }
       } else {
         current.title = strippedHeading(trimmed);

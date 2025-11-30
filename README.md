@@ -271,7 +271,7 @@
 
 
 <a id="prompt-630"></a>
-## 案例 630：疯狂动物城的大型毛绒角色帽子 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1994745605621780533))
+## 案例 630：疯狂动物城的大型毛绒角色帽子 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1994745605621780533)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/630.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城的大型毛绒角色帽子">
@@ -314,7 +314,7 @@ Quality and detail: 8K, highly realistic plush texture (individual fur fibers), 
 ```
 
 <a id="prompt-629"></a>
-## 案例 629：一张图片生成9个不同景别的镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994783047825473774))
+## 案例 629：一张图片生成9个不同景别的镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994783047825473774)) 模型：Nano banana pro
 
 <div style="display: flex; justify-content: space-between;">
 <img src="./images/629.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张图片生成9个不同景别的镜头">

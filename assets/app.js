@@ -428,11 +428,17 @@ function updateResultStats() {
 
 function openModal(item) {
   dom.modalTitle.textContent = `案例 ${item.id}：${item.title}`;
+  // Build source + model inline meta
+  const metaParts = [];
   if (item.source && item.source.url) {
-    dom.modalSource.innerHTML = `来源：<a href="${item.source.url}" target="_blank" rel="noopener">${item.source.name}</a>`;
-  } else {
-    dom.modalSource.textContent = '';
+    metaParts.push(`来源：<a href="${item.source.url}" target="_blank" rel="noopener">${item.source.name}</a>`);
+  } else if (item.source && item.source.name) {
+    metaParts.push(`来源：${item.source.name}`);
   }
+  if (item.model) {
+    metaParts.push(`模型：${item.model}`);
+  }
+  dom.modalSource.innerHTML = metaParts.join(' , ');
 
   renderModalTags(item.tags || []);
   renderModalImages(item.images || []);

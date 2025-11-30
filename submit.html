@@ -10,7 +10,7 @@
     h1 { font-size: 20px; margin: 0 0 16px; }
     form { display: grid; grid-template-columns: 1fr; gap: 12px; }
     label { font-weight: 600; font-size: 14px; }
-    input[type="text"], input[type="number"], textarea { width: 100%; box-sizing: border-box; padding: 10px 12px; border-radius: 8px; border: 1px solid #c9c9c9; background: transparent; font-size: 14px; }
+    input[type="text"], input[type="number"], textarea, select { width: 100%; box-sizing: border-box; padding: 10px 12px; border-radius: 8px; border: 1px solid #c9c9c9; background: transparent; font-size: 14px; }
     textarea { min-height: 120px; resize: vertical; }
     .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
     .hint { color: #777; font-size: 12px; }
@@ -42,9 +42,10 @@
       const id = String(data.id || CURRENT_NEXT_ID || '').trim();
       const title = String(data.title || '').trim();
       const src = (data.source_name && data.source_url) ? ` (来源 [${data.source_name}](${data.source_url}))` : '';
+      const modelPart = data.model && String(data.model).trim() ? ` 模型：${String(data.model).trim()}` : '';
       const lines = [];
       lines.push(`<a id=\"prompt-${id}\"></a>`);
-      lines.push(`## 案例 ${id}：${title}${src}`);
+      lines.push(`## 案例 ${id}：${title}${src}${modelPart}`);
       lines.push('');
       lines.push('<div style="display: flex; justify-content: space-between;">');
       const imgs = CURRENT_IMAGES_LIST && CURRENT_IMAGES_LIST.length ? CURRENT_IMAGES_LIST : [`images/${id}.(自动匹配扩展名)`];
@@ -81,6 +82,7 @@
       const prompt_zh = $('textarea[name=prompt_zh]').value;
       const source_name = $('input[name=source_name]').value.trim();
       const source_url = $('input[name=source_url]').value.trim();
+      const model = $('select[name=model]').value;
 
       $('.msg').textContent = '';
       $('.msg').className = 'msg';
@@ -97,7 +99,7 @@
         return;
       }
 
-      const payload = { title, prompt_en, prompt_zh, source_name, source_url };
+      const payload = { title, prompt_en, prompt_zh, source_name, source_url, model };
       $('.preview').textContent = buildPreview(payload);
 
       try {
@@ -222,6 +224,18 @@
         <label>来源链接（可选）</label>
         <input type="text" name="source_url" placeholder="如：https://x.com/...">
       </div>
+    </div>
+
+    <div class="row">
+      <div>
+        <label>模型（可选）</label>
+        <select name="model">
+          <option value="Nano banana pro" selected>Nano banana pro</option>
+          <option value="Grok">Grok</option>
+          <option value="ChatGPT">ChatGPT</option>
+        </select>
+      </div>
+      <div></div>
     </div>
 
     <div>

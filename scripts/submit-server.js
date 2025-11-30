@@ -97,13 +97,14 @@ function collectImagesForId(id) {
   return results;
 }
 
-function buildEntry({ id, title, prompt_en, prompt_zh, source_name, source_url, images }) {
+function buildEntry({ id, title, prompt_en, prompt_zh, source_name, source_url, model, images }) {
   const lines = [];
   lines.push(`<a id="prompt-${id}"></a>`);
   const sourcePart = source_name && source_url
     ? ` (来源 [${source_name}](${source_url}))`
     : '';
-  lines.push(`## 案例 ${id}：${title}${sourcePart}`);
+  const modelPart = model && String(model).trim() ? ` 模型：${String(model).trim()}` : '';
+  lines.push(`## 案例 ${id}：${title}${sourcePart}${modelPart}`);
   lines.push('');
   lines.push('<div style="display: flex; justify-content: space-between;">');
   const alt = `Awesome GPT4o/GPT-4o Image Prompts-${title}`;
@@ -207,6 +208,7 @@ function handleSave(req, res) {
       const prompt_zh = (body.prompt_zh || '').trim();
       let source_name = (body.source_name || '').trim();
       const source_url = (body.source_url || '').trim();
+      const model = (body.model || 'Nano banana pro').trim();
 
       if (!title) {
         return sendJson(res, 400, { ok: false, error: '标题不能为空' });
@@ -225,7 +227,7 @@ function handleSave(req, res) {
         return sendJson(res, 400, { ok: false, error: `未找到图片：images/${id}.(jpeg|jpg|png|webp|gif) 或 images/${id}-2.* 等。请先将对应编号的图片放入 images/ 目录后再提交。` });
       }
 
-      const entry = buildEntry({ id, title, prompt_en, prompt_zh, source_name, source_url, images });
+      const entry = buildEntry({ id, title, prompt_en, prompt_zh, source_name, source_url, model, images });
 
       const readmePath = path.join(ROOT, 'README.md');
       let content = fs.readFileSync(readmePath, 'utf8');
