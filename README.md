@@ -33,6 +33,14 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 623：对作品进行评价 ](#prompt-623)
+*   [案例 622：自信成熟女性室内电影肖像 ](#prompt-622)
+*   [案例 621：一只手拿着上传图片中的产品 ](#prompt-621)
+*   [案例 620：超写实性感大嘴人物肖像 ](#prompt-620)
+*   [案例 619：90年代电影质感的逼真香港复古肖像照 ](#prompt-619)
+*   [案例 618：四幅时尚生活场景组成的拼贴画 ](#prompt-618)
+*   [案例 617：四幅时尚生活场景组成的连贯拼贴画 ](#prompt-617)
+*   [案例 616：女生背对着观众坐在编织沙发上 ](#prompt-616)
 *   [案例 615：人和机器人的温馨时刻 ](#prompt-615)
 *   [案例 614：一幅赛博武士的详细技术图解 ](#prompt-614)
 *   [案例 613：女子坐在地板上准备喝可乐 ](#prompt-613)
@@ -254,20 +262,774 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-623"></a>
+## 案例 623：对作品进行评价 (来源 [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/1994613956007039007))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/623.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-对作品进行评价">
+<img src="./images/623-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-对作品进行评价">
+</div>
 
+**提示词：**
+```
+Analyze this work in depth and critique it. In the image, mark the points that need correction and the points that are well done in red. Critique with unreserved opinions like a top art university lecturer.
+```
 
+**中文提示词：**
+```
+请深入分析并点评这部作品。在图像中用红色文字标注出需要修改的地方和做得好的地方。请像一流美术大学的讲师那样，毫无顾忌地发表意见进行点评。
+```
 
+<a id="prompt-622"></a>
+## 案例 622：自信成熟女性室内电影肖像 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1994586672504181025))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/622.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-自信成熟女性室内电影肖像">
+</div>
 
+**提示词：**
+```
+{
+  "image_description": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true,
+      "description": "Use the same facial features and identity from the uploaded image without altering any structure, proportions, or expression."
+    },
 
+    "photo_style": {
+      "type": "indoor cinematic portrait",
+      "camera_angle": "mid-shot, straight-on",
+      "lighting": "soft warm indoor lighting with gentle highlights on skin and satin fabric",
+      "mood": "elegant, confident, sophisticated",
+      "depth_of_field": "shallow with lightly blurred background"
+    },
 
+    "subject": {
+      "pose": "standing with relaxed posture, one hand resting on a wooden surface, body slightly turned forward",
+      "expression": "calm, confident, slightly serious with bold red lips",
+      "hair": {
+        "style": "messy elegant bun with loose face-framing strands",
+        "color": "dark brown"
+      },
+      "clothing": {
+        "type": "deep red satin button-up blouse",
+        "details": "luxurious sheen, slightly open neckline, sleeves loosely rolled"
+      },
+      "accessories": {
+        "necklaces": [
+          {
+            "type": "gold chain",
+            "pendant": "large emerald green stone"
+          },
+          {
+            "type": "gold chain",
+            "pendant": "black square pendant"
+          }
+        ],
+        "earrings": "crystal drop earrings",
+        "watch": "light-tone watch on left wrist"
+      }
+    },
 
+    "environment": {
+      "setting": "elegant indoor room",
+      "background": [
+        "decorative tapestry or framed wall art featuring pastoral scene",
+        "warm-toned walls",
+        "soft, classic interior elements"
+      ],
+      "atmosphere": "warm, refined, cinematic"
+    },
 
+    "aesthetic": {
+      "style": "luxury editorial portrait",
+      "features": [
+        "warm tones",
+        "rich textures",
+        "glowing satin reflections",
+        "elegant jewelry highlights",
+        "balanced cinematic composition"
+      ]
+    }
+  }
+}
+```
 
+**中文提示词：**
+```
+{
+"image_description": {
+“脸”： {
+"preserve_original": true,
+"reference_match": true,
+“描述”：“使用上传图像中相同的面部特征和身份，但不得改变任何结构、比例或表情。”
+},
 
+"photo_style": {
+“类型”：“室内电影肖像”，
+"camera_angle": "mid-shot, straight on",
+“照明”：“柔和温暖的室内照明，在皮肤和缎面织物上营造柔和的高光效果”，
+“情绪”：“优雅、自信、成熟”，
+"depth_of_field": "浅景深，背景略微模糊"
+},
 
+“主题”： {
+“姿势”：“站立姿势放松，一只手放在木质表面上，身体略微前倾”，
+“表情”：“冷静、自信、略带严肃，配以鲜艳的红唇”，
+“头发”： {
+“发型”：“凌乱优雅的发髻，垂落几缕碎发修饰脸型”，
+颜色：深棕色
+},
+“衣服”： {
+“类型”: “深红色缎面纽扣衬衫”
+细节：奢华光泽，略微敞开的领口，袖子随意卷起。
+},
+“配件”： {
+“项链”：[
+{
+“类型”：“金链”，
+“吊坠”： “大颗祖母绿宝石”
+},
+{
+“类型”：“金链”，
+“吊坠”： “黑色方形吊坠”
+}
+],
+“耳环”: “水晶吊坠耳环”
+“手表”： “左手腕上的浅色手表”
+}
+},
 
+“环境”： {
+“场景”：“优雅的室内房间”，
+“背景”： [
+“以田园风光为主题的装饰挂毯或装裱墙饰”
+“暖色调的墙壁”，
+“柔和、经典的室内元素”
+],
+“氛围”：“温暖、精致、电影感”
+},
+
+“审美的”： {
+“风格”: “奢华的编辑肖像”
+“特征”： [
+“暖色调”，
+“丰富的质感”，
+“闪亮的缎面反射”，
+“优雅的珠宝亮点”，
+“均衡的电影构图”
+]
+}
+}
+}
+```
+
+<a id="prompt-621"></a>
+## 案例 621：一只手拿着上传图片中的产品 (来源 [@egeberkina](https://x.com/egeberkina/status/1994380091241922920))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/621.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一只手拿着上传图片中的产品">
+</div>
+
+**提示词：**
+```
+A minimal sunlit wall. Sharp, elongated shadow of a human hand holding the exact product from the uploaded image. Recreate the product’s silhouette precisely in the shadow, accurate bottle shape, cap, edges, proportions. Project the product’s real label text (taken from the uploaded image) onto the shadow in clean, crisp white typography, perfectly matching placement, spacing, and size.Warm afternoon sunlight, soft grain, smooth beige wall texture. Ultra-minimal, high-end skincare aesthetic. No extra objects, no color except the natural wall tone. Artistic shadow-play composition, subtle dreamy atmosphere, natural imperfections on the wall, gently diffused light
+```
+
+**中文提示词：**
+```
+一面阳光照射的极简主义墙面。一只手拿着上传图片中的产品，投射出清晰而修长的影子。在阴影中精确地重现产品的轮廓，包括瓶身形状、瓶盖、边缘和比例。将产品标签上的真实文字（取自上传图片）以简洁清晰的白色字体投射到阴影上，确保位置、间距和大小完美匹配。温暖的午后阳光，柔和的米色墙面纹理。极简主义的高端护肤美学。除墙面自然色调外，不添加任何其他物品或颜色。艺术化的光影组合，营造出微妙梦幻的氛围，保留墙面的自然纹理，并柔和地漫射光线。
+```
+
+<a id="prompt-620"></a>
+## 案例 620：超写实性感大嘴人物肖像 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1994634660459024649))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/620.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实性感大嘴人物肖像">
+</div>
+
+**提示词：**
+```
+{
+  "project": "Ultra-Realistic Portrait",
+  "reference_settings": {
+    "use_reference_image": true,
+    "fidelity_strength": "100%",
+    "instruction": "Face and outfit must match reference photo 100% with absolutely no alterations."
+  },
+  "subject": {
+    "demographics": "Woman",
+    "focus_features": ["Eyes", "Nose", "Lips"],
+    "expression": "Smiling, cute, fresh, dreamy, slightly sensual",
+    "pose": "Sitting at a white table, resting chin on both hands, turning slightly",
+    "hair": {
+      "style": "Straight, large top bun",
+      "accessory": "Bow matching the outfit",
+      "texture": "Soft layered, loose strands falling naturally across face",
+      "movement": "Slightly blown by wind"
+    },
+    "makeup": {
+      "cheeks": "Natural blush on cheeks and nose",
+      "lips": "Full lips, soft pink-peach tone"
+    }
+  },
+  "fashion_and_accessories": {
+    "outfit": "Exact match to reference image",
+    "shoes": "High-heel shoes (matching reference)",
+    "bag": "Same bag as reference photo",
+    "jewelry": {
+      "necklace": "Thin gold with alternating charms (heart, crescent moon, Gucci pendant)",
+      "bracelet": "Delicate Gucci bracelet with charms",
+      "rings": "Gold rings",
+      "watch": "Steel-band Patek Philippe",
+      "earrings": "Small gold Gucci earrings"
+    }
+  },
+  "environment": {
+    "location": "Luxury hotel terrace / Seaside",
+    "time_of_day_options": [
+      "Option A: Deep blue evening sky, stars, shooting star, moonlight",
+      "Option B: Early sunrise, orange-yellow sky tones"
+    ],
+    "background_elements": [
+      "Warm reflections from luxury hotel",
+      "Calm seascape"
+    ]
+  },
+  "props": {
+    "table_setting": "White table",
+    "items": [
+      "Glass with a single white rose",
+      "Wine glass",
+      "Wine bottle",
+      "Plate set with knife and fork",
+      "Large T-bone steak in center",
+      "Candle glass (adding warm highlight)"
+    ]
+  },
+  "photography_style": {
+    "aesthetic": "2000s digital-camera flash style",
+    "lighting": "Realistic flash brightness, warm tone, slight shine on skin",
+    "mood": "Relaxing, warm, nostalgic, stylish, elegant, slightly sexy",
+    "shot_type": "Close-up portrait"
+  },
+  "technical_parameters": {
+    "aspect_ratio": "3:4",
+    "detail_level": "8k",
+    "style_tags": ["photo", "realistic", "flash photography"]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“项目”：“超写实肖像”，
+"reference_settings": {
+"use_reference_image": true,
+"fidelity_strength": "100%",
+“说明”：“面部和服装必须与参考照片100%一致，绝对不能做任何修改。”
+},
+“主题”： {
+“人口统计信息”：“女性”，
+"focus_features": ["眼睛", "鼻子", "嘴唇"],
+“表情”：“微笑、可爱、清新、梦幻、略带性感”
+“姿势”：“坐在白色桌子旁，双手托腮，微微侧身”，
+“头发”： {
+“发型”：“直发，大发髻”，
+“配饰”：“与服装相配的蝴蝶结”，
+“质感”：“柔软、层次分明、自然垂落在脸上的发丝”，
+“运动”：“微风吹拂”
+},
+“化妆品”： {
+“脸颊”： “脸颊和鼻子上的自然红晕”
+“嘴唇”：丰满的嘴唇，柔和的粉桃色调
+}
+},
+"fashions_and_accessories": {
+“服装”: “与参考图片完全匹配”，
+“鞋子”：“高跟鞋（配套参考）”
+“包”： “与参考照片相同的包”
+“珠宝”： {
+“项链”：“细金项链，饰有交替的吊坠（心形、新月形、Gucci吊坠）”
+“手镯”：“精致的 Gucci 手镯，带有吊坠”，
+“戒指”： “金戒指”，
+“手表”: “钢带百达翡丽”
+“耳环”： “古驰小金耳环”
+}
+},
+“环境”： {
+位置：豪华酒店露台/海滨
+"time_of_day_options": [
+“选项A：深蓝色的傍晚天空，繁星，流星，月光，”
+选项B：清晨日出，橙黄色的天空色调
+],
+“背景元素”：[
+“来自豪华酒店的温馨回响”
+“平静的海景”
+]
+},
+"props": {
+"table_setting": "白色桌子",
+“项目”： [
+“一杯插着一朵白玫瑰的酒”
+“酒杯”，
+“葡萄酒瓶”，
+“餐盘套装，含刀叉”
+“中间是一块大块的T骨牛排”，
+“烛台玻璃（增添暖色调高光）”
+]
+},
+"photography_style": {
+“美学”：“2000年代数码相机闪光灯风格”，
+“光照”：“逼真的闪光亮度，暖色调，皮肤略带光泽”，
+“氛围”：“轻松、温暖、怀旧、时尚、优雅、略带性感”
+"shot_type": "特写肖像"
+},
+"technical_parameters": {
+"aspect_ratio": "3:4",
+"detail_level": "8k",
+"style_tags": ["photo", "realistic", "flash photography"]
+}
+}
+```
+
+<a id="prompt-619"></a>
+## 案例 619：90年代电影质感的逼真香港复古肖像照 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1994430035554603247))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/619.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代电影质感的逼真香港复古肖像照">
+</div>
+
+**提示词：**
+```
+Photorealistic Hong Kong retro portrait with authentic 1990s film look.
+Use image [0] as face reference. Half-body. Subject leaning against newspaper-covered wall, gaze soft and melancholic. Cropped bralette top embroidered with pearls and sequins Loose high-waisted trousers with elastic waistband, typical 1990s street style. Hair messy, strands falling across face. Makeup glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers.
+```
+
+**中文提示词：**
+```
+具有90年代电影质感的逼真香港复古肖像照。
+以图[0]为面部参考。半身像。人物倚靠在贴满报纸的墙上，目光柔和而忧郁。身穿饰有珍珠和亮片的露脐抹胸上衣，搭配宽松的高腰松紧裤，典型的90年代街头风格。头发凌乱，几缕发丝垂落在脸颊。妆容精致，唇部光泽，肌肤水润。狭窄的香港房间，墙壁上贴满了泛黄的旧粤语报纸。
+
+签名：Shreya Yadav
+```
+
+<a id="prompt-618"></a>
+## 案例 618：四幅时尚生活场景组成的拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994168239442510308))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/618.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅时尚生活场景组成的拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A cohesive 4-panel fashion lifestyle collage featuring the same young woman in a cozy layered autumn outfit, showcasing relaxed poses in nature.",
+  "subject": {
+    "type": "Young Woman (Consistent character)",
+    "age": "early 20s",
+    "features": {
+      "hair": "loose natural hair with beanie",
+      "makeup": "rosy cheeks"
+    },
+    "attire": "chunky knit sweater, plaid scarf, long wool coat, jeans, boots",
+    "accessories": "takeaway coffee cup"
+  },
+  "collage_layout": {
+    "structure": "2x2 Grid Layout (4 frames of equal size)",
+    "panel_1_top_left": "Full Body Dynamic: Throwing autumn leaves in the air or twirling, coat flowing, smiling broadly.",
+    "panel_2_top_right": "Sitting Side View: Sitting on a park bench with legs crossed, reading a book or looking at the scenery, holding coffee.",
+    "panel_3_bottom_left": "Mid-Shot Walking: Walking towards the camera holding the lapels of the coat, looking down shyly or smiling.",
+    "panel_4_bottom_right": "Portrait with Prop: Peeking out from behind the oversized scarf, holding the coffee cup near face for warmth, eyes smiling."
+  },
+  "environment": {
+    "setting": "Autumn Park / Forest Path",
+    "background_elements": [
+      "Orange and yellow leaves",
+      "Trees",
+      "Park bench"
+    ]
+  },
+  "lighting": {
+    "style": "Golden Hour Soft",
+    "key_light": {
+      "type": "Low Autumn Sun",
+      "color": "Warm Golden",
+      "effect": "Backlight or soft front light, magical atmosphere"
+    }
+  },
+  "style": {
+    "medium": "Portrait Photography",
+    "aesthetic": "Cottagecore, Autumn Vibes, Cozy, Pinterest",
+    "quality": "8k resolution, warm tones"
+  },
+  "attire_customization": {
+    "current_clothing": "Wool coat and knitwear",
+    "customizable_clothing": "User can swap for puffer jacket or raincoat"
+  },
+  "brand_product_customization": {
+    "current_brand_product": "Winter Apparel",
+    "customizable_brand": "User: Insert Brand Name",
+    "customizable_product": "User: Specific coat or boots",
+    "product_placement_area": "Coat texture or boots"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景描述”： “这是一幅由四幅时尚生活场景组成的拼贴画，画面中同一位年轻女子身着舒适的秋季叠穿服装，在自然环境中摆出轻松的姿势。”
+“主题”： {
+“类型”：“年轻女子（性格始终如一）”
+“年龄”：“20岁出头”，
+“特征”： {
+“头发”：“披散的自然头发，戴着毛线帽”，
+“妆容”：“红润的脸颊”
+},
+着装：粗针织毛衣、格子围巾、长羊毛大衣、牛仔裤、靴子。
+配件：外带咖啡杯
+},
+"collage_layout": {
+"结构": "2x2 网格布局（4 个大小相同的框架）",
+"panel_1_top_left": "全身动态：抛洒秋叶或旋转，外套飘动，笑容灿烂。"
+"panel_2_top_right": "坐姿侧视图：坐在公园长椅上，双腿交叉，手拿咖啡，正在看书或欣赏风景。"
+"panel_3_bottom_left": "中景行走：走向镜头，抓住外套翻领，害羞地低头或微笑。"
+"panel_4_bottom_right": "带道具的肖像：从超大的围巾后面探出头来，手里拿着咖啡杯贴近脸庞取暖，眼神中带着微笑。"
+},
+“环境”： {
+“设置”: “秋季公园/森林小径”
+“背景元素”：[
+“橙色和黄色的叶子”，
+“树木”，
+“公园长椅”
+]
+},
+“灯光”： {
+“风格”：“金色时光柔和”
+"key_light": {
+“类型”：“低垂的秋日阳光”，
+颜色：暖金色，
+效果：背光或柔和的前光，营造出梦幻般的氛围
+}
+},
+“风格”： {
+“媒介”: “人像摄影”
+“美学”：“田园风、秋日氛围、舒适、Pinterest”
+“品质”：“8K分辨率，暖色调”
+},
+"attire_customization": {
+"current_clothing": "羊毛大衣和针织衫",
+"customizable_clothing": "用户可以换成羽绒服或雨衣"
+},
+"品牌产品定制": {
+"current_brand_product": "冬季服装",
+"customizable_brand": "用户：插入品牌名称",
+"customizable_product": "用户：特定外套或靴子",
+"product_placement_area": "外套纹理或靴子"
+}
+}
+```
+
+<a id="prompt-617"></a>
+## 案例 617：四幅时尚生活场景组成的连贯拼贴画 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994166992719299026))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/617.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-四幅时尚生活场景组成的连贯拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A cohesive 4-panel fashion lifestyle collage featuring the same young woman in a glamorous evening outfit, showcasing cinematic poses under city lights.",
+  "subject": {
+    "type": "Young Woman (Consistent character)",
+    "age": "early 20s",
+    "features": {
+      "hair": "glamorous waves",
+      "makeup": "evening look with red lip"
+    },
+    "attire": "black satin slip dress, leather jacket draped over shoulders, strappy heels",
+    "accessories": "sparkly clutch, earrings"
+  },
+  "collage_layout": {
+    "structure": "2x2 Grid Layout (4 frames of equal size)",
+    "panel_1_top_left": "Full Body Flash Shot: Standing against a metallic door or shutter, posing with one leg forward, looking fierce (flash photography style).",
+    "panel_2_top_right": "Over-the-Shoulder: Looking back at the camera while walking away towards neon city lights, showcasing the back of the dress/jacket.",
+    "panel_3_bottom_left": "Seated Profile: Sitting on a high bar stool or velvet booth, holding a mocktail, laughing candidly towards someone off-camera.",
+    "panel_4_bottom_right": "Artistic Portrait: Standing near a neon sign, face illuminated by pink/blue light, looking dreamily upwards."
+  },
+  "environment": {
+    "setting": "City at Night / Rooftop Bar",
+    "background_elements": [
+      "Neon signs",
+      "City bokeh",
+      "Dark shadows"
+    ]
+  },
+  "lighting": {
+    "style": "Flash & Neon Mixed",
+    "key_light": {
+      "type": "Camera Flash / Neon Sign",
+      "color": "Cool White / Vibrant Colors",
+      "effect": "High contrast, edgy vibe"
+    }
+  },
+  "style": {
+    "medium": "Flash Photography / Film Aesthetic",
+    "aesthetic": "Night Luxe, Party Vibe, Cinematic, Edgy",
+    "quality": "8k resolution, slight grain"
+  },
+  "attire_customization": {
+    "current_clothing": "Slip dress and leather jacket",
+    "customizable_clothing": "User can swap for sequin dress or jumpsuit"
+  },
+  "brand_product_customization": {
+    "current_brand_product": "Evening Wear",
+    "customizable_brand": "User: Insert Brand Name",
+    "customizable_product": "User: Specific dress or makeup",
+    "product_placement_area": "Dress silhouette"
+  },
+  "technical_tags": "--v 6 --ar 4:5 --stylize 400 --no daylight, office setting"
+}
+```
+
+**中文提示词：**
+```
+{
+“场景描述”： “这是一幅由四幅时尚生活场景组成的连贯拼贴画，画中同一位年轻女子身着华丽的晚礼服，在城市灯光下摆出极具电影感的姿势。”
+“主题”： {
+“类型”：“年轻女子（性格始终如一）”
+“年龄”：“20岁出头”，
+“特征”： {
+“头发”：“迷人的波浪卷发”，
+“妆容”：“晚宴妆容，搭配红唇”
+},
+“着装”：“黑色缎面吊带裙，肩上披着皮夹克，细带高跟鞋”，
+“配饰”：闪亮手拿包、耳环
+},
+"collage_layout": {
+"结构": "2x2 网格布局（4 个大小相同的框架）",
+"panel_1_top_left": "全身闪光照：倚靠在金属门或卷帘门上，一条腿向前迈出，摆出凶狠的姿势（闪光摄影风格）。"
+"panel_2_top_right": "过肩视角：边走边回头看向镜头，朝着霓虹闪烁的城市灯光走去，展示连衣裙/外套的背面。"
+"panel_3_bottom_left": "坐姿侧脸：坐在高脚吧台凳或天鹅绒卡座上，手持一杯无酒精鸡尾酒，对着镜头外的人开怀大笑。"
+"panel_4_bottom_right": "艺术肖像：站在霓虹灯招牌旁，脸部被粉色/蓝色灯光照亮，眼神梦幻般地向上凝视。"
+},
+“环境”： {
+“场景”：“夜幕下的城市/屋顶酒吧”，
+“背景元素”：[
+霓虹灯招牌
+“城市散景”
+“黑暗阴影”
+]
+},
+“灯光”： {
+“风格”：“闪光与霓虹混合”，
+"key_light": {
+"type": "相机闪光灯/霓虹灯标志",
+“颜色”：“冷白/鲜艳色彩”，
+“效果”：“高对比度，前卫氛围”
+}
+},
+“风格”： {
+“媒介”：“闪光摄影/胶片美学”，
+“美学”：“夜间奢华、派对氛围、电影感、前卫”
+“画质”：“8K分辨率，略带颗粒感”
+},
+"attire_customization": {
+"current_clothing": "吊带裙和皮夹克",
+"customizable_clothing": "用户可以换成亮片连衣裙或连体裤"
+},
+"品牌产品定制": {
+"current_brand_product": "晚礼服",
+"customizable_brand": "用户：插入品牌名称",
+"customizable_product": "用户：特定服装或妆容",
+"product_placement_area": "连衣裙轮廓"
+},
+"technical_tags": " --v 6 --ar 4:5 --stylize 400 --no daylight, office setting"
+}
+```
+
+<a id="prompt-616"></a>
+## 案例 616：女生背对着观众坐在编织沙发上 (来源 [@chatgptpaglu](https://x.com/chatgptpaglu/status/1994689429487734995))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/616.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生背对着观众坐在编织沙发上">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation": {
+    "identity": {
+      "preserve_original": true,
+      "reference_match": true,
+      "description": "Facial features must remain exactly identical to the provided reference photo."
+    },
+
+    "photo_style": {
+      "type": "hyperrealistic lifestyle photo",
+      "camera_vibe": "Olympus MJU II aesthetic",
+      "lighting": "warm dim indoor lighting OR 35mm film-style flash",
+      "tone": "warm vintage VSCO vibe",
+      "texture": "soft grain, subtle film rendering",
+      "framing": "wide shot showing interior room details"
+    },
+
+    "subject": {
+      "pose": {
+        "body": "sitting on a woven sofa with back turned to the viewer",
+        "legs": "folded comfortably",
+        "hands": "one hand resting on the sofa",
+        "head": "looking over shoulder at the camera",
+        "expression": "playful, soft, naturally charming"
+      },
+
+      "appearance": {
+        "hair": {
+          "length": "long",
+          "style": "loose with a side part",
+          "accessory": "simple small hair clip"
+        },
+        "makeup": {
+          "style": "light Korean glass-skin makeup",
+          "details": {
+            "skin": "glowy, dewy finish",
+            "lips": "soft pink",
+            "eyes": "minimal eyeshadow, natural lashes"
+          }
+        }
+      },
+
+      "clothing": {
+        "top": {
+          "type": "cream oversized vintage T-shirt",
+          "print": "bold graphic text 'FRISTO' on the back"
+        },
+        "bottom": {
+          "type": "light high-waisted denim shorts"
+        },
+        "shoes": {
+          "type": "white sneakers"
+        }
+      }
+    },
+
+    "environment": {
+      "setting": "cozy messy room",
+      "elements": [
+        "woven sofa",
+        "white pillows",
+        "scattered clothes in the foreground",
+        "soft indoor clutter for authentic lifestyle atmosphere"
+      ],
+      "lighting_effects": [
+        "warm dim glow",
+        "or direct compact film camera flash",
+        "soft warm shadows enhancing vintage mood"
+      ]
+    },
+
+    "aesthetic": {
+      "style": "vintage lifestyle editorial",
+      "vibe": "warm, nostalgic, candid",
+      "features": [
+        "rich room detail",
+        "natural textures of fabric and skin",
+        "soft grain and warm tones"
+      ]
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation": {
+“身份”： {
+"preserve_original": true,
+"reference_match": true,
+“描述”：“面部特征必须与提供的参考照片完全一致。”
+},
+
+"photo_style": {
+“类型”：“超写实生活方式照片”，
+"camera_vibe": "Olympus MJU II 美学"
+“照明”：“温暖昏暗的室内照明或 35 毫米胶片式闪光灯”，
+"色调": "温暖复古的VSCO氛围",
+“质感”：“柔和的颗粒感，细腻的胶片质感”，
+“构图”：“展现室内细节的广角镜头”
+},
+
+“主题”： {
+"姿势": {
+“身体”：“背对着观众坐在编织沙发上”，
+“腿”：“舒适地折叠起来”，
+“双手”：“一只手放在沙发上”，
+“头部”：“回头看向镜头”，
+“表情”：“活泼、温柔、自然迷人”
+},
+
+“外貌”： {
+“头发”： {
+"length": "长",
+“发型”：“侧分披肩”，
+“配饰”：“简单的小发夹”
+},
+“化妆品”： {
+“风格”：“清透韩式水光肌妆容”，
+“细节”： {
+“肌肤”：“光泽、水润妆效”，
+“嘴唇”：“柔和的粉红色”，
+“眼妆”：“淡眼影，自然睫毛”
+}
+}
+},
+
+“衣服”： {
+“顶部”： {
+“类型”：“奶油色超大复古T恤”，
+“印刷”：“背面印有粗体字‘FRISTO’”
+},
+“底部”： {
+类型：轻薄高腰牛仔短裤
+},
+“鞋”： {
+类型：白色运动鞋
+}
+}
+},
+
+“环境”： {
+“场景”: “温馨凌乱的房间”
+“元素”：[
+“编织沙发”，
+“白色枕头”，
+“前景中散落的衣物”，
+“营造真实生活氛围的柔和室内杂物”
+],
+"lighting_effects": [
+“温暖昏暗的光芒”，
+“或直接使用小型胶片相机闪光灯”，
+“柔和温暖的阴影增强了复古氛围”
+]
+},
+
+“审美的”： {
+“风格”：“复古生活方式专题报道”，
+“氛围”：“温暖、怀旧、坦诚”，
+“特征”： [
+“丰富的房间细节”，
+“织物和皮肤的自然纹理”，
+“柔和的纹理和温暖的色调”
+]
+}
+}
+}
+```
 
 <a id="prompt-615"></a>
 ## 案例 615：人和机器人的温馨时刻 (来源 [@Samann_ai](https://x.com/Samann_ai/status/1994444395525832898))
