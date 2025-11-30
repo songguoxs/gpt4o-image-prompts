@@ -33,6 +33,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 626：黑白水墨画风格-孤舟蓑笠翁 ](#prompt-626)
 *   [案例 625：在人物周围添加糖果怪兽 ](#prompt-625)
 *   [案例 624：手绘美颜科普图 ](#prompt-624)
 *   [案例 623：对作品进行评价 ](#prompt-623)
@@ -264,7 +265,17 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-626"></a>
+## 案例 626：黑白水墨画风格-孤舟蓑笠翁 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994949753524609418))
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/626.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白水墨画风格-孤舟蓑笠翁">
+</div>
+
+**中文提示词：**
+```
+黑白水墨画风格，留白意境，孤舟蓑笠翁，极简线条，宣纸纹理，红色印章点缀，东方哲学感
+```
 
 <a id="prompt-625"></a>
 ## 案例 625：在人物周围添加糖果怪兽 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1993243344932413597))
