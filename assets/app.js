@@ -427,6 +427,12 @@ function updateResultStats() {
 }
 
 function openModal(item) {
+  // Ensure modal content starts at top on each open
+  const modalContent = dom.modal.querySelector('.modal-content');
+  if (modalContent) {
+    modalContent.scrollTop = 0;
+  }
+
   dom.modalTitle.textContent = `案例 ${item.id}：${item.title}`;
   // Build source + model inline meta
   const metaParts = [];
@@ -449,11 +455,21 @@ function openModal(item) {
 
   dom.modal.classList.remove('hidden');
   document.body.classList.add('modal-open');
+
+  // Double-check after render in case layout changed
+  if (modalContent) {
+    modalContent.scrollTop = 0;
+  }
 }
 
 function closeModal() {
   dom.modal.classList.add('hidden');
   document.body.classList.remove('modal-open');
+  // Also reset scroll so next open always starts at top
+  const modalContent = dom.modal.querySelector('.modal-content');
+  if (modalContent) {
+    modalContent.scrollTop = 0;
+  }
 }
 
 function renderModalTags(tags) {
