@@ -208,7 +208,7 @@ function handleSave(req, res) {
       const prompt_zh = (body.prompt_zh || '').trim();
       let source_name = (body.source_name || '').trim();
       const source_url = (body.source_url || '').trim();
-      const model = (body.model || 'Nano banana pro').trim();
+      const model = (body.model || '').trim();
 
       if (!title) {
         return sendJson(res, 400, { ok: false, error: '标题不能为空' });
