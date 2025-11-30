@@ -33,6 +33,7 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 630：疯狂动物城的大型毛绒角色帽子 ](#prompt-630)
 *   [案例 629：一张图片生成9个不同景别的镜头 ](#prompt-629)
 *   [案例 628：第一人称视角牵手照片 ](#prompt-628)
 *   [案例 627：MacBook Pro 笔记本电脑拆解 ](#prompt-627)
@@ -267,6 +268,50 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+<a id="prompt-630"></a>
+## 案例 630：疯狂动物城的大型毛绒角色帽子 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1994745605621780533))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/630.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城的大型毛绒角色帽子">
+</div>
+
+**提示词：**
+```
+A highly realistic, highly detailed, photorealistic 8K mirror selfie taken with an iPhone 15 Pro Max. Zootropolis fandom aesthetic.
+Scene: A guy and a girl pose together in front of an oval mirror in a Disney toy store.
+The guy on the left has a playful expression, matching the reference photo. The girl on the right  winks playfully, holding a bright yellow phone. Metallic nail polish.
+Clothing and accessories:
+• Both are wearing large plush Disney Zootropolis character hats.
+The guy on the left in Photo 1—Nick Wilde's orange hat with large fox ears embroidered with sly eyes.
+ Girl in photo 2 on the right—gray Judy Hopps hat with long pink bunny ears, large purple eyes.
+• Photo 1 on the left—clothes and hair match the attached photo.
+• Photo 2 on the right—wearing a hot pink halter top. Long, straight hair.
+A pearl necklace fits snugly around her neck.
+She has rings on several fingers.
+Girl in photo 2's makeup: Korean K-beauty; glass skin; subtle blush; black eyeliner; colored contacts (blue/gray); pink and rosy ombre lipstick.
+Background: Disney gift shop interior; frosted shelves filled with toys; holiday mall lighting; decorative ceiling chandelier.
+Quality and detail: 8K, highly realistic plush texture (individual fur fibers), vibrant, saturated colors, soft commercial mall lighting, no noise, perfectly sharp focus on face and hat, mirror selfie in frame.
+```
+
+**中文提示词：**
+```
+一张用 iPhone 15 Pro Max 拍摄的超逼真、超精细、照片级 8K 镜面自拍。充满《疯狂动物城》的粉丝美学风格。
+场景：一男一女在迪士尼玩具店的椭圆形镜子前合影。
+左边那位男士表情顽皮，与参考照片相符。右边那位女士俏皮地眨着眼，手里拿着一部亮黄色的手机。她涂着金属质感的指甲油。
+服装和配饰：
+•两人都戴着迪士尼《疯狂动物城》的大型毛绒角色帽子。
+照片 1 中左边的人——尼克·王尔德的橙色帽子，上面绣着一对大狐狸耳朵和狡黠的眼睛。
+照片 2 右侧的女孩——戴着灰色的朱迪·霍普斯帽子，帽子上有长长的粉色兔子耳朵和大大的紫色眼睛。
+• 左侧照片 1——衣服和发型与附图相符。
+• 右侧照片2——身穿亮粉色露背上衣，留着长长的直发。
+一条珍珠项链紧紧地贴合在她的脖子上。
+她好几个手指上都戴着戒指。
+照片 2 中女孩的妆容：韩式 K-beauty；水光肌；淡淡的腮红；黑色眼线；彩色隐形眼镜（蓝灰色）；粉色和玫瑰色渐变唇膏。
+背景：迪士尼礼品店内部；摆满玩具的磨砂货架；节日商场灯光；装饰性天花板吊灯。
+质量和细节：8K，高度逼真的毛绒质感（单根毛纤维），鲜艳饱和的色彩，柔和的商业商场灯光，无噪点，面部和帽子完美清晰对焦，画面中有镜子自拍。
+```
 
 <a id="prompt-629"></a>
 ## 案例 629：一张图片生成9个不同景别的镜头 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1994783047825473774))
