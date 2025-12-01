@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 670：年轻女子对着镜子自拍旁边是朱迪 ](#prompt-670)
+*   [案例 669：女子在迪士尼商店里对着镜子自拍 ](#prompt-669)
+*   [案例 668：城市俯视等距3D卡通微缩场景 ](#prompt-668)
+*   [案例 667：超写实风格真实和卡通分离效果 ](#prompt-667)
+*   [案例 666：极近距离的自拍照 ](#prompt-666)
 *   [案例 665：外卖员的写真照 ](#prompt-665)
 *   [案例 664：多图风格参考 ](#prompt-664)
 *   [案例 663：哆啦A梦讲课 ](#prompt-663)
@@ -204,6 +209,538 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-670"></a>
+## 案例 670：年轻女子对着镜子自拍旁边是朱迪 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1995071645002747918)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/670.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子对着镜子自拍旁边是朱迪">
+</div>
+
+**提示词：**
+```
+{ "subject": "beautiful young woman mirror selfie in Disney store", "outfit": "strapless white ruched mini dress, pearl necklace", "headwear": "fluffy orange Nick Wilde fox-ear hat with green eyes", "phone": "yellow iPhone", "reflection_companion": "life-size Judy Hopps police plush in uniform standing next to her", "setting": "bright Zootopia section, shelves packed with plushies, festive lights", "style": "playful wink, cute and flirty Disney selfie" }
+```
+
+**中文提示词：**
+```
+{ "subject": "迪士尼商店里一位美丽的年轻女子对着镜子自拍", "outfit": "白色无肩带褶皱迷你连衣裙，珍珠项链", "headwear": "毛茸茸的橙色尼克·王尔德狐狸耳朵帽，绿色眼睛", "phone": "黄色iPhone", "reflection_companion": "她旁边站着一个真人大小的朱迪·霍普斯警官毛绒玩具，身穿制服", "setting": "明亮的疯狂动物城专区，货架上摆满了毛绒玩具，节日彩灯闪烁", "style": "俏皮的眨眼，可爱又略带挑逗的迪士尼自拍" }
+```
+
+<a id="prompt-669"></a>
+## 案例 669：女子在迪士尼商店里对着镜子自拍 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1995230929158320332)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/669.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子在迪士尼商店里对着镜子自拍">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A soft, kawaii aesthetic mirror selfie of a cute young woman in a Disney store, embracing a fluffy pink Aristocats theme.",
+  "image_reference": {
+    "path": "[UPLOADED_IMAGE]",
+    "weight": "high",
+    "influence": "face_and_body_structure"
+  },
+  "subject": {
+    "type": "The woman from the uploaded image",
+    "age": "match input image",
+    "features": {
+      "hair": "soft curls or twin tails with ribbons",
+      "expression": "sweet smile, head tilted, eyes wide and innocent",
+      "makeup": "heavy blush (igari style), pink glossy lips, soft lashes"
+    },
+    "attire": "a fluffy white off-shoulder sweater dress (angora texture) with pink satin ribbons tied on the sleeves, white knee-high knitted socks",
+    "accessories": "white cat ears headband with pink bows (Marie style), holding a pink strawberry milkshake prop, pearl bracelet",
+    "position": "standing with knees slightly bent together (cute pose), holding phone with both hands."
+  },
+  "action": {
+    "primary": "taking a cute selfie",
+    "secondary": "holding a drink",
+    "effect": "radiating softness and charm"
+  },
+  "environment": {
+    "setting": "Pastel plushie section of Disney store",
+    "foreground_elements": [
+      "pink phone case with charms",
+      "fluffy texture of dress close to lens"
+    ],
+    "background_elements": [
+      "stacks of pink and white plushies",
+      "pastel floral decor",
+      "soft retail lighting"
+    ]
+  },
+  "lighting": {
+    "style": "Soft diffused beauty light",
+    "key_light": {
+      "type": "Ring light effect",
+      "color": "Soft pink/peach undertone",
+      "illuminates": "rosy cheeks and fluffy textures."
+    },
+    "background_light": {
+      "color": "Pastel pink glow"
+    },
+    "shadows": "very soft, almost non-existent shadows"
+  },
+  "style": {
+    "medium": "Smartphone photography",
+    "aesthetic": "Coquette, Kawaii, Soft Girl, Pastel Goth light",
+    "quality": "Dreamy, soft focus edges",
+    "details": "visible fluff on sweater"
+  },
+  "visual_description": {
+    "core_subject": "An embodiment of cuteness and comfort.",
+    "attire_physics": "The sweater looks incredibly soft and touchable; ribbons drape naturally.",
+    "skin_rendering": "Soft-focus, airbrushed look (beauty filter simulation)."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Dreamy Interior",
+    "specifics": "Bloom effect on highlights.",
+    "color_grade": "Pastel palette, low contrast, rosy tint"
+  },
+  "attire_customization": {
+    "current_clothing": "Fluffy white sweater dress, pink ribbons, knee socks",
+    "customizable_clothing": "Can swap for a pink gingham sundress."
+  },
+  "camera_and_lens": {
+    "focal_length_feel": "35mm",
+    "aperture_effect": "f/2.0",
+    "camera_angle": "Slightly high angle (selfie standard)",
+    "lens_type": "Smartphone front camera simulation",
+    "bokeh_style": "Creamy pastel bokeh"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"scene_description": "一位可爱年轻女子在迪士尼商店里对着镜子自拍，照片风格柔和可爱，以蓬松的粉色《猫儿历险记》主题为特色。"
+"image_reference": {
+"路径": "[上传的图像]",
+"重量": "高",
+“影响”： “面部和身体结构”
+},
+“主题”： {
+"type": "上传图片中的女子",
+“年龄”： “匹配输入图像”，
+“特征”： {
+“头发”：“柔软的卷发或用丝带扎成的双马尾辫”，
+“表情”：“甜美的微笑，歪着头，睁大眼睛，显得天真无邪”，
+妆容：浓重的腮红（伊加里风格），粉嫩亮泽的嘴唇，柔软的睫毛
+},
+“服装”：“一件蓬松的白色露肩毛衣连衣裙（安哥拉羊毛质地），袖子上系着粉色缎带，白色及膝针织袜”，
+“配饰”：“白色猫耳朵发箍，配粉色蝴蝶结（玛丽风格），手持粉色草莓奶昔道具，珍珠手链”
+“姿势”：“双膝微屈并拢站立（可爱姿势），双手拿着手机。”
+},
+“行动”： {
+“主要”: “拍一张可爱的自拍”，
+“次要的”: “拿着饮料”，
+“效果”：“散发柔和与魅力”
+},
+“环境”： {
+“场景”：“迪士尼商店的粉彩毛绒玩具区”，
+"前景元素": [
+“粉色带挂饰的手机壳”
+“镜头前裙子的蓬松质感”
+],
+“背景元素”：[
+“一堆堆粉色和白色的毛绒玩具”，
+“粉彩花卉装饰”，
+“柔和的零售照明”
+]
+},
+“灯光”： {
+“风格”：“柔和漫射的美光”，
+"key_light": {
+“类型”：“环形灯效果”，
+“颜色”： “柔和的粉色/桃色底调”，
+“照亮”：“红润的脸颊和蓬松的质地。”
+},
+"background_light": {
+“颜色”： “柔和的粉红色光芒”
+},
+“阴影”： “非常柔和，几乎不存在的阴影”
+},
+“风格”： {
+“媒介”：“智能手机摄影”，
+“美学”：“娇媚、可爱、柔美少女、柔和哥特风”
+“品质”：“梦幻般的柔焦边缘”，
+“细节”：“毛衣上有明显的绒毛”
+},
+"visual_description": {
+核心主题：可爱与舒适的化身。
+“attire_physics”：“这件毛衣看起来非常柔软，触感极佳；丝带垂坠感也很自然。”
+"skin_rendering": "柔焦、喷枪效果（美颜滤镜模拟）"
+},
+"lighting_and_atmosphere": {
+"type": "梦幻内饰",
+“具体细节”：“高光部分的绽放效果。”
+"color_grade": "柔和色调，低对比度，玫瑰色"
+},
+"attire_customization": {
+"current_clothing": "蓬松的白色毛衣连衣裙，粉色丝带，及膝袜"
+"customizable_clothing": "可以换成粉色格子连衣裙。"
+},
+"camera_and_lens": {
+"focal_length_feel": "35mm",
+"aperture_effect": "f/2.0",
+"camera_angle": "略高角度（自拍标准）",
+"lens_type": "智能手机前置摄像头模拟",
+"bokeh_style": "奶油粉彩散景"
+}
+}
+```
+
+<a id="prompt-668"></a>
+## 案例 668：城市俯视等距3D卡通微缩场景 (来源 [@PavolRusnak](https://x.com/PavolRusnak/status/1995165498774802607)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/668.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
+<img src="./images/668-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
+</div>
+
+**提示词：**
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+**中文提示词：**
+```
+呈现[城市]的清晰45°俯视等距3D卡通微缩场景，展现其最具标志性的地标和建筑元素。使用柔和细腻的纹理、逼真的PBR材质以及柔和自然的灯光和阴影。将当前天气状况直接融入城市环境，营造身临其境的氛围。
+使用简洁的极简主义构图，搭配柔和的纯色背景。
+
+在顶部中心位置，用粗体大字显示标题“[城市]”，在其下方放置一个醒目的天气图标，然后是日期（小字）和温度（中字）。
+所有文字必须居中，间距一致，并且可以略微与建筑物顶部重叠。
+正方形，尺寸为 1080x1080。
+```
+
+<a id="prompt-667"></a>
+## 案例 667：超写实风格真实和卡通分离效果 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1995304550610407807)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/667.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实风格真实和卡通分离效果">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation": {
+    "requirements": {
+      "face_preservation": {
+        "preserve_original": true,
+        "accuracy_level": "100% identical to reference",
+        "details": [
+          "real facial proportions",
+          "exact skin texture",
+          "true eye shape and color",
+          "natural soft makeup",
+          "subtle upward eyeliner",
+          "soft pink eyeshadow",
+          "natural rosy lips"
+        ]
+      },
+      "pose": {
+        "match_reference_pose": true,
+        "description": "Chest-up portrait, face facing forward but gently tilted to the right from the viewer’s perspective."
+      },
+      "lighting": {
+        "match_reference_lighting": true,
+        "type": "soft diffused indoor lighting",
+        "direction": "from the front and slightly from the left",
+        "shadows": "gentle soft shadows on the sides of the face and neck",
+        "background_tone": "soft neutral with slight bluish tint"
+      }
+    },
+
+    "subject": {
+      "gender": "female",
+      "hairstyle": {
+        "match_reference": true,
+        "description": "same exact hairstyle as in reference image"
+      },
+      "expression": "neutral, slightly thoughtful",
+      "clothing": {
+        "top": "simple black T-shirt",
+        "necklace": "thin silver necklace with a small minimal pendant"
+      }
+    },
+
+    "composition": {
+      "frame": "chest-up portrait",
+      "orientation": "frontal with slight rightward tilt",
+      "style": "hyper-realistic with split real/cartoon effect"
+    },
+
+    "special_effects": {
+      "split_effect": {
+        "type": "irregular centered tear",
+        "edges": "white angled torn-paper look",
+        "description": "image appears ripped down the middle"
+      },
+
+      "realistic_side": {
+        "background": "soft, neutral, slightly bluish environment",
+        "filters": [
+          "soft analog grain",
+          "lightly aged texture",
+          "reduced saturation",
+          "subtle film imperfections"
+        ],
+        "overlays": [
+          "blue stylized teardrop stickers below the left eye",
+          "small 'Zzz' sleep symbols near forehead",
+          "yellow crescent moon in upper-left corner",
+          "light blue hand-drawn cloud"
+        ]
+      },
+
+      "illustrated_side": {
+        "art_style": "bold cartoon, digital illustration",
+        "color_palette": "bright, vibrant, saturated",
+        "hair": "same tone as realistic side but stylized",
+        "eyes": "exaggerated eyeliner, dramatic expression",
+        "background": "vibrant light pink pop-art style",
+        "decorations": {
+          "kawaii_elements": [
+            "Hello Kitty holding a microphone",
+            "pixel-art pink mascot character",
+            "yellow stars",
+            "pink hearts",
+            "colorful planets",
+            "bold pink Japanese characters"
+          ]
+        }
+      }
+    },
+
+    "aesthetic": {
+      "overall_tone": "soft, dreamy, lightly vintage",
+      "lighting_consistency": "must match reference perfectly",
+      "skin_texture_realism": "high",
+      "blending_quality": "smooth, natural transition between real and illustrated halves with crisp tear edge"
+    },
+
+    "output": {
+      "style": "hyper-realistic + digital cartoon fusion",
+      "quality": "ultra-high-resolution",
+      "filters": [
+        "subtle analog vintage film filter",
+        "soft grain"
+      ]
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation": {
+“要求”： {
+"面保存": {
+"preserve_original": true,
+"accuracy_level": "与参考值100%相同"
+“细节”： [
+“真实的脸部比例”，
+“精准的肌肤纹理”，
+“真实的眼睛形状和颜色”，
+“自然柔和的妆容”，
+“淡淡的上扬眼线”，
+“柔和的粉色眼影”，
+“自然红润的嘴唇”
+]
+},
+"姿势": {
+"match_reference_pose": true,
+“描述”：“胸部以上的肖像，脸部朝前，但从观看者的角度来看略微向右倾斜。”
+},
+“灯光”： {
+"match_reference_lighting": true,
+“类型”：“柔和漫射室内照明”，
+“方向”：“从前方略偏左”，
+“阴影”：“脸颊和颈部两侧柔和的阴影”，
+"background_tone": "柔和的中性色，略带蓝色调"
+}
+},
+
+“主题”： {
+"性别": "女性",
+"发型": {
+"match_reference": true,
+描述：与参考图中完全相同的发型
+},
+“表情”：“中性，略带沉思”
+“衣服”： {
+上衣：一件简单的黑色T恤，
+“项链”： “带有小巧简约吊坠的细银项链”
+}
+},
+
+“作品”： {
+“画框”：“胸部以上肖像”，
+“方向”: “正面略微向右倾斜”
+“风格”：“超写实风格，带有真实/卡通分离效果”
+},
+
+"特效": {
+"split_effect": {
+“类型”：“不规则中心撕裂”，
+“边缘”：“白色斜角撕纸效果”，
+描述：图像似乎从中间撕裂开来
+},
+
+"realistic_side": {
+“背景”：“柔和、中性、略带蓝色的环境”，
+“过滤器”：[
+“柔和的模拟颗粒”，
+“略带陈旧的质感”，
+“饱和度降低”，
+“细微的胶片瑕疵”
+],
+“叠加层”：[
+“左眼下方贴有蓝色水滴形贴纸”，
+“额头附近有小小的‘Zzz’睡眠符号”，
+“左上角的黄色新月”
+“浅蓝色手绘云朵”
+]
+},
+
+"illustrated_side": {
+"art_style": "大胆的卡通，数字插画",
+"color_palette": "明亮、鲜艳、饱和"
+“头发”：“与写实风格相同，但风格化”，
+“眼睛”：“夸张的眼线，戏剧性的表情”，
+“背景”：“充满活力的浅粉色波普艺术风格”，
+“装饰”： {
+"kawaii_elements": [
+“Hello Kitty 拿着麦克风”
+“像素艺术粉色吉祥物角色”，
+“黄色星星”，
+“粉红色的心”，
+“色彩斑斓的行星”，
+“粗体粉色日文字符”
+]
+}
+}
+},
+
+“审美的”： {
+整体色调：柔和、梦幻、略带复古感
+"lighting_consistency": "必须与参考完全一致",
+"skin_texture_realism": "高",
+"blending_quality": "真实部分与插图部分之间过渡平滑自然，撕裂边缘清晰"
+},
+
+“输出”： {
+“风格”：“超写实+数字卡通融合”，
+“质量”：“超高分辨率”，
+“过滤器”：[
+“微妙的模拟复古胶片滤镜”，
+“软粒”
+]
+}
+}
+}
+```
+
+<a id="prompt-666"></a>
+## 案例 666：极近距离的自拍照 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1995065474749730989)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/666.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极近距离的自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "intent": "Generate a hyper-idealized, 'Douyin-aesthetic' portrait of a young woman at night, utilizing direct flash photography to create a high-contrast, ethereal look with clear weather conditions.",
+  "frame": {
+    "aspect_ratio": "9:16",
+    "composition": "Extreme close-up selfie framing (tighter than standard portrait), cutting off the top of the forehead to focus intensely on the eyes and lips. The subject is centered with a direct, confronting gaze.",
+    "style_mode": "Flash photography, digital influencer aesthetic, soft-focus realism."
+  },
+  "subject": {
+    "identity": "A young Asian woman, approximately 20 years old, with hyper-symmetrical, doll-like features characterized by the 'bunny tongue' and 'puppy eye' aesthetic.",
+    "skin": "Pale, cool-toned porcelain complexion with zero texture. The skin reflects the flash, creating a 'mochi' or 'glass skin' effect that appears soft and translucent. High-key brightness on the T-zone.",
+    "eyes": "Large, round eyes with a slight downward tint at the outer corners (puppy dog eyes). Prominent 'aegyosal' (under-eye fat bands) are highlighted to enhance youthfulness. The irises are soft brown with a large diameter. Eyelashes are styled in the 'manhwa' or 'idol' style: distinct, vertical clumps of mascara-coated lashes separated by space, rather than a dense fan.",
+    "nose": "Petite, low-bridge nose with a small, rounded tip. The lighting minimizes the nostril definition, making the nose appear delicate and unobtrusive.",
+    "mouth": "Heart-shaped lips featuring a 'gradient lip' technique. The center of the lips is a saturated, glossy strawberry pink, fading outward to a blurred, pale nude at the vermilion border. The texture is soft and hydrated.",
+    "hair": "Long, silky jet-black hair with a straight texture. Without the snow, the hair is dry, sleek, and tucked slightly behind the ears or framing the face smoothly, catching the flash with a white sheen.",
+    "wardrobe": "Minimal visibility, suggesting a stylish but casual top appropriate for a pleasant evening."
+  },
+  "environment": {
+    "location": "Urban night setting.",
+    "weather": "Clear, calm, and beautiful night weather. The atmosphere is clean and free of precipitation or fog.",
+    "background": "A backdrop of deep black shadows punctuated by creamy, circular bokeh from distant city lights (streetlamps, neon signs). The background is significantly darker than the subject, ensuring the face is the sole focus."
+  },
+  "lighting": {
+    "type": "Direct, frontal camera flash or high-intensity screen light.",
+    "quality": "Hard but flattering light that flattens facial topography, eliminating shadows under the eyes and nose. This creates a 2D, illustrative quality common in high-end social media selfies.",
+    "contrast": "High contrast between the brightly illuminated face and the pitch-black environment.",
+    "catchlight": "Sharp, tiny pinpoint reflection in the center of the pupils from the flash."
+  },
+  "camera": {
+    "sensor_format": "Smartphone main sensor simulation.",
+    "lens": "24mm wide-angle lens. This focal length slightly exaggerates the size of the eyes and diminishes the size of the nose and face width, contributing to the 'baby face' proportion.",
+    "aperture_depth_of_field": "f/1.8 to f/2.2, keeping the eyes and lips razor sharp while instantly blurring the ears and background.",
+    "focus": "Critical focus on the eyelashes and iris texture."
+  },
+  "negative": {
+    "content": "No snow, no rain, no wet hair, no masculine jawline, no skin texture, no pores, no heavy contouring, no western makeup style, no sunglasses, no hand near face.",
+    "style": "No cinematic dramatic shadows (must be flat lit), no warm vintage tones, no painting, no illustration."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“意图”：“在晴朗的天气条件下，利用直接闪光灯摄影，在夜晚创作一张极具理想化、‘抖音美学’风格的年轻女性肖像，以营造高对比度、空灵的视觉效果。”
+“框架”： {
+"aspect_ratio": "9:16",
+“构图”：“极近距离的自拍取景（比标准肖像照更近），裁掉额头顶部，将焦点集中在眼睛和嘴唇上。拍摄对象位于画面中心，目光直视前方。”
+"style_mode": "闪光灯摄影、数码网红美学、柔焦写实主义。"
+},
+“主题”： {
+“身份描述”：“一位大约20岁的年轻亚裔女性，拥有高度对称、娃娃般的五官，其特征是‘兔舌’和‘小狗眼’。”
+“肌肤”：苍白、冷调的瓷白肤色，几乎没有纹理。肌肤反射闪光灯，呈现出“麻糬”或“玻璃肌”的效果，看起来柔和通透。T区高光突出。
+“眼睛”：大而圆的眼睛，外眼角略微下垂（小狗眼）。突出的眼下脂肪纹（眼袋）增添了青春气息。虹膜呈柔和的棕色，直径较大。睫毛采用“漫画”或“偶像”风格：睫毛根根分明，呈垂直的簇状，涂抹睫毛膏，彼此之间留有空隙，而不是浓密的扇形。
+“鼻子”：“小巧的鼻子，鼻梁较低，鼻尖小而圆润。光线柔和地弱化了鼻孔的轮廓，使鼻子看起来精致而不突兀。”
+“唇部”：心形唇妆，采用渐变唇妆技术。唇部中央是饱满亮泽的草莓粉色，向外晕染至唇线边缘的浅裸色。质地柔软水润。
+“头发”： “长长的、丝滑的乌黑直发。没有雪的时候，头发干燥顺滑，微微别在耳后或柔顺地垂在脸颊两侧，在闪光灯下泛着白色的光泽。”
+“衣橱”：“低调的款式，暗示着一件时尚休闲的上衣，适合愉快的夜晚穿着。”
+},
+“环境”： {
+“地点”：“都市夜景。”
+天气：晴朗、平静、美丽的夜晚。大气洁净，无降水或雾。
+“背景”：“深黑色的阴影背景中点缀着远处城市灯光（路灯、霓虹灯）投射出的柔和圆形散景。背景明显比主体暗，从而确保面部成为唯一的焦点。”
+},
+“灯光”： {
+“类型”：“直接闪光灯、前置摄像头闪光灯或高强度屏幕闪光灯。”
+“品质”：“硬朗但柔和的光线，使面部轮廓更加平滑，消除眼下和鼻下的阴影。这营造出一种二维的、插画般的质感，常见于高端社交媒体自拍中。”
+“对比度”：“明亮的脸部与漆黑的环境形成鲜明对比。”
+“眼神光”：“闪光灯照射到瞳孔中心时，形成的一个清晰、细小的点状反射光。”
+},
+“相机”： {
+"sensor_format": "智能手机主传感器模拟。",
+“镜头”：“24mm广角镜头。这种焦距会略微放大眼睛，缩小鼻子和脸部宽度，从而营造出‘娃娃脸’的比例。”
+"aperture_depth_of_field": "f/1.8 至 f/2.2，保持眼睛和嘴唇清晰锐利，同时立即虚化耳朵和背景。"
+“焦点”：“重点关注睫毛和虹膜的纹理。”
+},
+“消极的”： {
+“内容”：“没有雪，没有雨，没有湿头发，没有男性化的下巴线条，没有皮肤纹理，没有毛孔，没有浓重的修容，没有西式妆容，没有太阳镜，没有手靠近脸部。”
+“风格”：“禁止使用电影般的戏剧性阴影（必须采用平光），禁止使用温暖的复古色调，禁止使用绘画风格，禁止使用插画风格。”
+}
+}
+```
 
 <a id="prompt-665"></a>
 ## 案例 665：外卖员的写真照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995385148792263095)) 模型：Nano banana pro
