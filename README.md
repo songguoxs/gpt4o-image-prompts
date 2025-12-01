@@ -33,6 +33,15 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 665：外卖员的写真照 ](#prompt-665)
+*   [案例 664：多图风格参考 ](#prompt-664)
+*   [案例 663：哆啦A梦讲课 ](#prompt-663)
+*   [案例 662：城市地标做成的蛋糕 ](#prompt-662)
+*   [案例 661：根据经纬度生成的航拍图像 ](#prompt-661)
+*   [案例 660：现代前卫的女生特写 ](#prompt-660)
+*   [案例 659：年轻女性的超近特写肖像 ](#prompt-659)
+*   [案例 658：3x3大头贴风格拼贴画 ](#prompt-658)
+*   [案例 657：身着西装的女子摆出嫌犯照姿势 ](#prompt-657)
 *   [案例 656：女人的自拍照 ](#prompt-656)
 *   [案例 655：Google DeepMind进行一次物品整齐排列展示 ](#prompt-655)
 *   [案例 654：人手拿着一颗巨大的竖式药丸的特写镜头 ](#prompt-654)
@@ -195,6 +204,467 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-665"></a>
+## 案例 665：外卖员的写真照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995385148792263095)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/665.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-外卖员的写真照">
+</div>
+
+**中文提示词：**
+```
+在明亮的摄影棚内拍摄的半身写真。美丽的东亚女孩，有着如瓷娃娃般无瑕的肌肤和闪烁的大眼睛，正俏皮地歪着头，用手轻轻触碰头盔上的黄色兔耳朵。她穿着整套带有美团Logo的黄色外卖制服。采用柔和、均匀的商业摄影棚打光，营造出清新、活力的氛围，背景深暗，突出主体。在图片最右面搭配上一列文字“我的人生可以用另外一种方式打开”，字体与照片风格相近。
+```
+
+<a id="prompt-664"></a>
+## 案例 664：多图风格参考 (来源 [@op7418](https://x.com/op7418/status/1995337868181717248)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/664.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-多图风格参考">
+</div>
+
+**中文提示词：**
+```
+请帮我参考这三张图片的风格，绘制一张地中海饮食示意图
+```
+
+<a id="prompt-663"></a>
+## 案例 663：哆啦A梦讲课 (来源 [@oran_ge](https://x.com/oran_ge/status/1995075703084339500)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/663.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-哆啦A梦讲课">
+</div>
+
+**中文提示词：**
+```
+我想要一张超真实的照片，但内容又有点超现实。感觉就像一个孩子放学后，偷偷从教室门缝里看到一个神奇的景象：哆啦A梦竟然真的在空无一人的教室里，像个小老师一样，认真地准备着化学课。 整个画面要非常写实，但又充满了童话般的温馨和惊奇。
+
+画面内容
+
+主体： 哆啦A梦本人，活生生地站在教室的讲台前面，而不是画在黑板上。他看起来是立体的，有光滑的质感，就像动画里走出来的一样，但又完美地融入了这个真实的环境里。
+人物细节：哆啦A梦站在讲台旁，身体微微侧着，表情认真又亲切，仿佛在思考怎么给大雄他们讲课。
+他的一只手拿着一根小小的教鞭，指向他身后的黑板。
+他的黄色铃铛在教室的光线下有微微的反光，肚子上的四维口袋看起来鼓鼓的。
+
+背景细节（黑板）：他身后的黑板上，画着一幅用各色粉笔手写的化学元素周期表。这个周期表看起来就像是哆啦A梦刚刚亲手画上去的，色彩丰富，带有一点可爱的风格。
+可以用不同颜色的粉笔（比如黄色、蓝色、粉色）来区分不同的元素区域，让整个画面色彩更丰富。
+
+文字： 在黑板的顶上或者角落，用可爱的粉笔字体写上标题：“哆啦A梦的科学教室”。
+环境与构图
+场景： 一间普通的日本教室，桌椅摆放整齐，夕阳的余晖从窗户照进来，营造出一种安静、温暖的氛围。
+构图： 画面比例是4:3。从学生的座位视角看过去，哆啦A梦和讲台在画面的中心位置。
+前景： 画面最前面可以带到一两张学生的课桌椅，让视角更具代入感。讲台上可以放着一盒彩色粉笔和一个黑板擦。
+风格和技术要求
+风格： 照片写实主义。关键在于真实的环境和光影，与哆啦A梦这个动漫角色的奇妙结合。
+
+光线： 温暖的午后自然光从窗户斜射进来，光线要自然地打在哆啦A梦身上，在他圆滚滚的身体上形成柔和的光影和高光，让他看起来有体积感，并且在他的脚边投下淡淡的影子，这能让他看起来更真实。
+焦点： 焦点要清晰地对准哆啦A梦，黑板上的内容也很清楚，但前景的课桌可以稍微有点模糊。
+千万不要出现！
+不要让哆啦A梦看起来像个塑料玩具或模型，他得是活的。
+
+不要有其他任何人物，特别是大雄、静香他们。
+不要把画风变成动画截图或纯CG，一定要是照片的感觉。
+构图要稳，不要用奇怪的低角度或鱼眼镜头。
+颜色别太鲜艳，要符合真实光线下的色彩。
+```
+
+<a id="prompt-662"></a>
+## 案例 662：城市地标做成的蛋糕 (来源 [@lxfater](https://x.com/lxfater/status/1995341321343815694)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/662.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市地标做成的蛋糕">
+</div>
+
+**中文提示词：**
+```
+在一个精致的圆形奶油蛋糕顶部，以清晰的 45° 俯视等距视角呈现 [城市名] 的微缩 3D 卡通城市场景，好像这座城市是放在蛋糕上的立体装饰。蛋糕完整可见，包括蛋糕顶部、边缘和部分侧面，底部有金色圆形蛋糕托盘。
+将 [核心地标名] 放在画面正中央，体量明显大于其他建筑，成为整个画面的视觉焦点，其余城市地标围绕它环形排布，高度略低，形成从中心向外的层级感。
+必须包含 [城市其他代表建筑列表，写 3–5 个即可]，以可爱但细节清晰易辨认的微缩风格绘制。蛋糕表面作为城市地面，周围点缀水果（草莓、蓝莓、橙片等）、巧克力碎和坚果碎。可以在蛋糕一侧切掉一块，露出内部分层结构，强化“好吃感”。
+整个场景处于 [天气类型，例如：飘雪的冬日、雨夜、炎热晴天、海边微风天气]。天空和光线清晰表现这种天气，同时让天气以甜品的形式作用在蛋糕上：
+[天气效果 1：例如“雪像糖霜覆盖在屋顶和蛋糕表面”]
+[天气效果 2：例如“雨像糖浆和糖珠，形成光亮流动的质感”]
+[天气效果 3：例如“阳光让奶油微微融化并产生柔和高光”]
+使用柔和而精致的纹理、逼真的 PBR 材质，以及柔和、真实的光影效果，3D isometric，细节丰富。
+在画面顶部中央，用大号加粗英文标题 “[CityName]”，其下方放置一个清晰的天气图标，再下面是日期（小号文字）和气温（中号文字）。所有文字须居中排列，间距统一，可以轻微与中央地标顶部产生叠加但不遮挡主要轮廓。整体构图干净、极简，背景为柔和纯色或轻微渐变。方图 1080x1080，高分辨率，超细节，soft lighting, global illumination, cinematic.
+```
+
+<a id="prompt-661"></a>
+## 案例 661：根据经纬度生成的航拍图像 (来源 [@KusoPhoto](https://x.com/KusoPhoto/status/1995251500973785166)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/661.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-根据经纬度生成的航拍图像">
+</div>
+
+**中文提示词：**
+```
+创建一张与纬度 35.658807120369914, 139.74540071108495 所在位置上空天空融为一体的航拍图像。使指定的人物看起来像是从该位置落下一样融入图像中。一个面带微笑、看起来很快乐的人。一张用低分辨率一次性相机拍摄的普通日常照片。一张由日本高中生拍摄的粗糙照片。
+```
+
+<a id="prompt-660"></a>
+## 案例 660：现代前卫的女生特写 (来源 [@rovvmut_](https://x.com/rovvmut_/status/1995146612885410093)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/660.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代前卫的女生特写">
+</div>
+
+**提示词：**
+```
+{
+  "objective": "Generate an image based on a detailed character portrait description.",
+  "image_generation_prompt": {
+    "subject": {
+      "gender": "female",
+      "portrait_type": "close-up",
+      "angle": "side angle",
+      "aesthetic": "edgy, modern, mysterious, confident, slightly provocative"
+    },
+    "appearance": {
+      "hair": {
+        "color": "light gray",
+        "length": "short",
+        "texture": "wavy",
+        "style": "modern, slightly messy, partially covering forehead"
+      },
+      "face": {
+        "skin_tone": "fair",
+        "features": "sharp",
+        "eyebrows": "straight, neat, dark",
+        "lips": "naturally pink with a slight sheen"
+      },
+      "expression": "calm but intense"
+    },
+    "clothing_and_accessories": {
+      "headwear": "black bandana with white swirl patterns",
+      "outfit": {
+        "jacket": "black zip-up jacket, left open",
+        "inner_shirt": "black T-shirt with green and red graphic art on the chest"
+      },
+      "jewelry": {
+        "neck": "thin silver chain",
+        "ear": "small silver earring"
+      }
+    },
+    "lighting_and_background": {
+      "lighting": "front light highlighting facial features and outfit",
+      "background": "bright blue sky"
+    },
+    "style": {
+      "vibe": "striking and stylish",
+      "focus": "expression and trendy fashion details",
+      "mood": "modern and edgy"
+    },
+    "aspect_ratio": "3:4"
+  },
+  "response_format": "Use this JSON object as the structure for an image generation model prompt."
+}
+```
+
+**中文提示词：**
+```
+{
+“目标”：“根据详细的人物肖像描述生成图像。”
+"image_generation_prompt": {
+“主题”： {
+"性别": "女性",
+"portrait_type": "特写",
+"角度": "侧角",
+“美学”：前卫、现代、神秘、自信、略带挑衅性
+},
+“外貌”： {
+“头发”： {
+颜色：浅灰色，
+"长度": "短",
+“纹理”：“波浪状”，
+“风格”：“现代，略显凌乱，部分遮住额头”
+},
+“脸”： {
+"skin_tone": "fair",
+“特点”：“锐利”，
+“眉毛”：“笔直、整齐、浓密”，
+“嘴唇”：“自然粉嫩，略带光泽”
+},
+“表情”：“平静而专注”
+},
+"服装和配饰": {
+“头饰”：“带有白色漩涡图案的黑色头巾”，
+“全套服装”： {
+“外套”：“黑色拉链外套，敞开着”，
+"inner_shirt": "胸前印有绿色和红色图案的黑色T恤"
+},
+“珠宝”： {
+“脖子”： “细银链”，
+“耳朵”: “小银耳环”
+}
+},
+"lighting_and_background": {
+“照明”：“正面灯光突出面部特征和服装”，
+“背景”：“湛蓝的天空”
+},
+“风格”： {
+“氛围”：“引人注目且时尚”，
+“重点”：“表达和潮流时尚细节”，
+“氛围”：“现代前卫”
+},
+"aspect_ratio": "3:4"
+},
+"response_format": "使用此 JSON 对象作为图像生成模型提示的结构。"
+}
+```
+
+<a id="prompt-659"></a>
+## 案例 659：年轻女性的超近特写肖像 (来源 [@Just_sharon7](https://x.com/Just_sharon7/status/1995108671026803004)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/659.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女性的超近特写肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "Ultra-close-up portrait of a stunning young East Asian woman with flawless porcelain skin, large sparkling dark brown eyes with long lashes, subtle pink blush, glossy red-tinted lips, long straight silky dark brown hair with subtle highlights, making a playful finger-frame gesture around one eye with both hands, extremely detailed long almond-shaped nails with glossy purple-marble and silver chrome galaxy nail art with tiny rhinestones, wearing black-and-white horizontal striped oversized knit sweater with ribbed cuffs, layered delicate silver necklaces with crystal pendants and small pink gems, soft studio lighting with bright white seamless background, high-fashion beauty editorial style, razor-sharp details, perfect skin texture with natural glow, shallow depth of field, shot on 85mm lens f/1.4, ultra-realistic photorealism, 8k, masterpiece, best quality",
+  "negative_prompt": "blurry, low resolution, deformed hands, extra fingers, missing fingers, bad anatomy, ugly nails, cheap makeup, overexposed, underexposed, text, watermark, logo, cartoon, 3d render, plastic skin, doll face, cross-eyed, distorted proportions, old, child",
+  "steps": 60,
+  "cfg_scale": 7.5,
+  "sampler": "DPM++ 2M Karras",
+  "width": 832,
+  "height": 1216,
+  "seed": -1
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：一位令人惊艳的年轻东亚女性的超近特写肖像，她拥有完美无瑕的瓷白肌肤、闪亮的大眼睛（深棕色）、纤长的睫毛、淡淡的粉色腮红、光泽红润的嘴唇、柔顺的深棕色长直发（带有微妙的挑染），双手俏皮地用手指勾勒着一只眼睛，修长的杏仁形指甲上点缀着闪亮的紫色大理石纹和银色铬星空图案，并镶嵌着细小的水钻，细节极其精致。她身穿黑白横条纹宽松针织衫，袖口饰有罗纹，佩戴着层叠的精致银项链，项链上缀有水晶吊坠和粉色小宝石。柔和的影棚灯光，搭配明亮的白色背景，呈现出高级时尚美妆大片的风格，细节清晰锐利，肌肤纹理完美，散发着自然光泽，浅景深效果，使用85mm f/1.4镜头拍摄，超逼真的照片级写实效果，8K分辨率，杰作，最佳品质。
+"negative_prompt": "模糊、低分辨率、手部畸形、多余手指、缺指、解剖结构错误、指甲难看、妆容廉价、曝光过度、曝光不足、文字、水印、标志、卡通、3D渲染、塑料皮肤、娃娃脸、斗鸡眼、比例失调、老旧、儿童",
+“步骤”：60，
+"cfg_scale": 7.5，
+"采样器": "DPM++ 2M Karras",
+宽度：832，
+“高度”：1216，
+“种子”：-1
+}
+```
+
+<a id="prompt-658"></a>
+## 案例 658：3x3大头贴风格拼贴画 (来源 [@KusoPhoto](https://x.com/KusoPhoto/status/1995336530286797271)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/658.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3大头贴风格拼贴画">
+</div>
+
+**中文提示词：**
+```
+主题和形式：两位年轻女性朋友创作的高分辨率现代日本大头贴风格拼贴画。
+布局：由 3x3 网格组成的单个图像（共 9 帧）。
+主题：圣诞节 风格：生动、全彩、明亮、动感地再现现代日本大头贴灯光效果。
+背景：简单的纯色或主题色背景（带有小爱心等精致装饰）。
+摄影特点：每幅画面都有一条细细的白色或装饰性边框。景深浅（虚化）。
+
+主题和姿势：
+两位年轻的女性朋友，穿着符合主题的搭配服装。
+生动、活泼、明快的表达。
+这九张图清晰地描绘了以下列表中九种不同的流行大头贴姿势。
+
+9 种不同的姿势（3x3 网格）：
+第一行：
+“抓头发爱心”姿势：一人俏皮地抓着头发，另一人用双手比出一个小爱心。两人都面带笑容。
+“双手心形”姿势：两位伴侣用双手在中心形成一个大大的心形。脸上洋溢着灿烂快乐的笑容。
+“捏手臂”姿势：两人双臂交叉，其中一人或两人都轻轻捏着对方的脸颊或手臂。表情生动活泼，充满喜悦。特写镜头展现对方的脸部。
+
+第二排：4.“双臂交叉大爱心”姿势：两人双臂交叉，用空着的那只手比出一个大大的爱心。笑容灿烂而充满活力。5.“承诺之心”姿势：一人做出“手指发誓”的手势，另一人用手比出一个小爱心。笑容俏皮而温暖。6.“手牵手爱心”姿势：两人手牵手，各自用空着的那只手比出半个爱心，组成一个完整的爱心。笑容温柔甜美。
+
+第三排：7.“双臂交叉撅嘴”姿势：两人双臂交叉，略带夸张的撅嘴或“得意”（或严肃）的表情，似乎在强忍着笑意。8.“双手合十，脸颊贴心”姿势：两人手牵着手，双手分别放在脸颊上，在脸颊周围画出一个心形。笑容可爱迷人。9.“双臂交叉，手心相印”姿势：两人双臂交叉，每人用一只手分别画出一个小的心形。笑容自信而时尚。特写镜头展现了他们的脸部。
+
+其他装饰：
+多个发光的霓虹心形图案叠加。
+每一帧画面上，都以霓虹灯风格，沿着脸部的外轮廓写着与主题相关的字母。
+在每个面板上添加多个符合主题的不同霓虹线条艺术涂鸦（例如星星、箭头、饱和线条、花朵、动物耳朵等）。
+主要限制：所有9张照片必须保持主体、服装、背景风格和光线的严格一致性。浅景深，这是大头贴的典型特征。
+请勿：添加任何文字、徽标、标签、水印、符号、数字或其他任何类型的文本元素（上述指定的文本元素和霓虹线条艺术涂鸦除外）。
+```
+
+<a id="prompt-657"></a>
+## 案例 657：身着西装的女子摆出嫌犯照姿势 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1995344587750072496)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/657.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身着西装的女子摆出嫌犯照姿势">
+</div>
+
+**提示词：**
+```
+{
+  "title": "Hyper-Realistic Portrait: Suited Woman in Mugshot Pose",
+  "description": "A high-resolution hyper-realistic 8K HD portrait photograph captured with a professional DSLR camera using a 50mm lens for natural depth of field and razor-sharp focus. Full-body composition mimicking an old-fashioned mugshot/police booking photo.",
+  "subject": {
+    "type": "woman",
+    "features": {
+      "likeness_reference": "attached image",
+      "height": "tall",
+      "build": "elegant",
+      "facial_features": {
+        "jawline": "sharp",
+        "eyes": "intense",
+        "expression": "confident, slightly smug smirk"
+      },
+      "pose": "leaning against wall, one knee bent"
+    },
+    "hair": {
+      "style": "neat, straight, wavy or elegant updo",
+      "appearance": "natural and well-groomed"
+    },
+    "clothing": {
+      "jacket": "vintage-style tailored dark pinstripe suit jacket",
+      "inner_garment": "none",
+      "tie": "slightly loosened, dark shade matching jacket",
+      "accessories": [
+        {
+          "type": "mugshot board",
+          "text": {
+            "name": "MIRA",
+            "date": "17/5/62"
+          }
+        },
+        {
+          "type": "shoe",
+          "description": "single shiny dark-colored high-heeled shoe in right hand",
+          "material": "patent leather"
+        }
+      ]
+    }
+  },
+  "background": {
+    "style": "naturally blurred bokeh",
+    "texture": "slightly gritty studio wall",
+    "details": {
+      "height_chart": "vertical lines with numerical markings 2'0\" to 6'6\"",
+      "color_tone": "desaturated, slightly sepia-toned archival photograph aesthetic"
+    }
+  },
+  "lighting": {
+    "type": "clean, soft, balanced",
+    "shadow": "accurate shadows and highlights",
+    "direction": "strong overhead or frontal lighting emphasizing dramatic shadows and height chart lines"
+  },
+  "framing": {
+    "resolution": "1080x1350px (4:5)",
+    "focus": "sharp subject focus",
+    "composition": "full figure and mugshot details",
+    "color_accuracy": "professional, natural tones"
+  },
+  "style": "Hyper-realistic photography, 8K clarity, DSLR quality, accurate color grading, natural lens blur, vintage photo aesthetic, true-to-life detail",
+  "watermark": "© xmiiru",
+  "negative_prompt": [
+    "No anime",
+    "No cartoon",
+    "No digital painting",
+    "No illustration",
+    "No 3D render",
+    "No CGI",
+    "No stylized features",
+    "No plastic/doll-like skin",
+    "No fantasy glow",
+    "No cinematic effects",
+    "No airbrushed smoothing",
+    "No overexposure",
+    "No unnatural blur",
+    "No video-game/Unreal Engine style",
+    "No sketch",
+    "No artificial lighting effects",
+    "No unrealistic proportions/textures",
+    "No multiple shoes",
+    "No modern background elements"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+标题：超写实肖像：身着西装的女子摆出嫌犯照姿势
+“描述”：“这是一张高分辨率、超逼真的 8K 高清人像照片，使用专业数码单反相机和 50mm 镜头拍摄，以获得自然的景深和极其清晰的焦点。全身构图模仿了老式的嫌犯照/警局登记照。”
+“主题”： {
+类型： 女，
+“特征”： {
+"likeness_reference": "附加图像",
+“身高”：“高”，
+“建造”：“优雅”，
+"facial_features": {
+下颌线：尖锐，
+“眼睛”：“专注”，
+“表情”：“自信、略带自负的微笑”
+},
+姿势：倚靠在墙上，单膝弯曲
+},
+“头发”： {
+“发型”：“整齐、笔直、波浪或优雅的盘发”，
+“外表”：“自然且仪容整洁”
+},
+“衣服”： {
+“外套”： “复古风格的深色细条纹修身西装外套”，
+"内衣": "无",
+领带：略微松开，深色，与外套相配。
+“配件”： [
+{
+类型： '嫌犯照片板'，
+“文本”： {
+"name": "MIRA",
+日期： 17/5/62
+}
+},
+{
+类型：鞋子，
+描述：右手拿着一只闪亮的深色高跟鞋。
+材质：漆皮
+}
+]
+}
+},
+“背景”： {
+“风格”：“自然模糊散景”，
+“纹理”：“略带颗粒感的摄影棚墙面”，
+“细节”： {
+"身高图": "带有数字标记的垂直线，从 2'0\" 到 6'6\"",
+"color_tone": "褪色、略带棕褐色调的档案照片美学"
+}
+},
+“灯光”： {
+“类型”：“干净、柔和、平衡”，
+“阴影”：“精确的阴影和高光”，
+“方向”：“强烈的顶光或正面照明，强调戏剧性的阴影和高度图线条”
+},
+"框架": {
+“分辨率”：“1080x1350像素（4:5）”
+“焦点”: “清晰的主体焦点”，
+“构图”：“全身像和嫌犯照细节”，
+"color_accuracy": "专业、自然的色调"
+},
+“风格”：“超逼真的摄影，8K 清晰度，单反画质，精准的色彩分级，自然的镜头虚化，复古照片美学，逼真的细节”，
+“水印”： “ © xmiiru”，
+"negative_prompt": [
+“没有动漫”，
+“没有卡通片”，
+“没有数码绘画”，
+“无插图”
+“没有3D渲染图”，
+“无电脑特效”
+“没有风格化的特征”，
+“没有塑料/娃娃般的皮肤”，
+“没有梦幻般的光芒”，
+“没有电影特效”，
+“没有使用喷枪进行平滑处理”，
+“没有过度曝光”，
+“没有不自然的模糊效果”，
+“没有电子游戏/虚幻引擎风格”，
+“没有草图”，
+“无人工照明效果”，
+“没有不切实际的比例/纹理”，
+“禁止穿多双鞋”
+“无现代背景元素”
+]
+}
+```
 
 <a id="prompt-656"></a>
 ## 案例 656：女人的自拍照 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1994815950856552898)) 模型：Nano banana pro
