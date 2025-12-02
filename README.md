@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 680：OOTD手绘涂鸦分解 ](#prompt-680)
+*   [案例 679：紫禁城建筑照片展示和设计图纸 ](#prompt-679)
+*   [案例 678：疯狂动物城朱迪和尼克讲小故事-守株待兔 ](#prompt-678)
+*   [案例 677：现代少年奇幻漫画 ](#prompt-677)
+*   [案例 676：夜晚吐舌头女生的自拍照 ](#prompt-676)
+*   [案例 675：同一张脸的柔和模糊的侧面特写 ](#prompt-675)
+*   [案例 674：武当山山腰的一栋双层住宅 ](#prompt-674)
+*   [案例 673：3×3的美妆电商广告制作 ](#prompt-673)
+*   [案例 672：疯狂动物城朱迪和尼克 ](#prompt-672)
+*   [案例 671：星座运势卡 ](#prompt-671)
 *   [案例 670：年轻女子对着镜子自拍旁边是朱迪 ](#prompt-670)
 *   [案例 669：女子在迪士尼商店里对着镜子自拍 ](#prompt-669)
 *   [案例 668：城市俯视等距3D卡通微缩场景 ](#prompt-668)
@@ -209,6 +219,593 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+
+
+
+
+
+<a id="prompt-680"></a>
+## 案例 680：OOTD手绘涂鸦分解 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995482012124434547)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/680.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-OOTD手绘涂鸦分解">
+</div>
+
+**提示词：**
+```
+Breakdown the look into a fun OOTD Fashion Collage, 9:16. Paper scribble aesthetic with hand-drawn arrows, doodles, and handwritten labels pointing to each outfit piece. Notebook paper texture background with ink sketch style.
+```
+
+**中文提示词：**
+```
+将这身造型拆解成一个有趣的每日穿搭拼贴画，9:16。纸张涂鸦风格，手绘箭头、涂鸦和手写标签指向每件单品。笔记本纸张纹理背景，墨水素描风格。
+```
+
+<a id="prompt-679"></a>
+## 案例 679：紫禁城建筑照片展示和设计图纸 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995676568161845603)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/679.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-紫禁城建筑照片展示和设计图纸">
+</div>
+
+**中文提示词：**
+```
+一张分割为两部分的建筑展示图，最左侧三分之一是建成后的实景照片展示，右侧三分之二是详细的建筑设计图纸。
+
+最左侧三分之一（成品展示）： 一张宏伟的、以中国北京紫禁城为风格的两层大型院落的实景照片。画面展示了一个阳光照耀下的主庭院，有重檐歇山顶的红墙黄瓦主殿和配殿，屋顶覆盖着金色的琉璃瓦，屋檐下有复杂的斗拱和精美的彩绘（如龙凤图案）。建筑坐落在汉白玉基座上，前方有雕刻的御道和石狮子。庭院内有古老的松柏和精心修剪的盆景。照片风格写实，展现出皇家园林的庄严与辉煌。
+
+右侧三分之二（建筑设计图）： 一套详细的、带有传统蓝图风格或墨线风格的两层建筑设计图纸，图纸背景为米色宣纸纹理。
+
+上方是总平面图和立面图，清晰标示出多进院落的布局，包括大门、前朝、后寝区域，以及围墙和角楼。立面图展示了建筑的层次和屋顶曲线。
+
+下方是一层和二层平面图，用中文详细标注了各个功能区，例如：“一层平面图：主殿（会客厅）、东配殿（主卧室）、西配殿（次卧室1）、书房、御膳房、回廊”、“二层平面图：藏书楼、观景台、次卧室2、休息厅”。
+
+图纸的显著位置用中文标注：“项目：北京紫禁城风格私家宅邸”、“建筑面积：约20000平方英尺”、“层数：两层”、“地点：中国北京”。图纸还包含比例尺、指北针和图例说明，线条精确，展现出复杂的木结构梁柱体系。
+
+整张图片通过一条明确的分界线将左侧的实景与右侧的图纸隔开，但两者在主题和风格上保持高度一致，共同呈现这一宏大建筑项目。
+```
+
+<a id="prompt-678"></a>
+## 案例 678：疯狂动物城朱迪和尼克讲小故事-守株待兔 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995700840187765046)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/678.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城朱迪和尼克讲小故事-守株待兔">
+</div>
+
+**中文提示词：**
+```
+第一格： 迪士尼《疯狂动物城》3D动画风格。朱迪警官穿着警服，在田野边看到一只绵羊农夫坐在一个大树桩旁边发呆。朱迪头上有一个对话气泡，里面写着中文字：“朱迪看见一个农夫坐在树桩旁发呆。”
+第二格： 迪士尼《疯狂动物城》3D动画风格。朱迪走近询问，绵羊农夫指着树桩兴奋地解释。绵羊的对话气泡写着中文字：“农夫说：'昨天有只兔子撞死在这，我在等下一只。'”
+第三格： 迪士尼《疯狂动物城》3D动画风格。朱迪听后大惊失色，耳朵竖得笔直，一脸不可置信的表情。朱迪的对话气泡写着中文字：“朱迪大惊失色：'什么？竟然指望这种偶然？'”
+第四格： 迪士尼《疯狂动物城》3D动画风格。尼克慢悠悠地走过来，戴着墨镜，手里拿着一根爪爪冰棍，一脸坏笑。尼克的对话气泡写着中文字：“尼克慢悠悠地走过来，一脸坏笑。”
+第五格： 迪士尼《疯狂动物城》3D动画风格。尼克摘下墨镜，指着绵羊农夫对朱迪解释，表情滑稽。尼克的对话气泡写着中文字：“尼克说：'萝卜头，这叫守株待兔，他在做白日梦呢。'”
+第六格： 迪士尼《疯狂动物城》3D动画风格。朱迪无奈地拉着绵羊农夫去劳动，尼克在后面摊手耸肩。朱迪的对话气泡写着中文字：“朱迪拉走农夫去干活，尼克无奈地摊手。”
+```
+
+<a id="prompt-677"></a>
+## 案例 677：现代少年奇幻漫画 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1995429494493167779)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/677.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代少年奇幻漫画">
+</div>
+
+**提示词：**
+```
+{
+  "intent": "A dramatic, high-energy battle scene featuring a determined young mage making a defiant declaration, in the style of modern Shonen fantasy manga.",
+  "manga_genre": "Shonen Fantasy/Action",
+  "art_style": {
+    "primary_influence": "Modern Shonen Jump style (reminiscent of Black Clover, Fairy Tail), with dynamic action and expressive character work",
+    "line_art_style": "Bold, clean lines with strong variable weight. Thick, confident outlines for characters, thin lines for magical effects and background detail. Energetic, flowing linework.",
+    "screentone_style": "Minimal screentone use to maintain high contrast and readability. Light 20% dot screentones for subtle shading on skin. Heavy use of pure white and pure black for dramatic impact."
+  },
+  "panel_design": {
+    "primary_panel_type": "FBP (Full-Body Panel): Entire character from head to feet with visible ground plane.",
+    "composition_description": "Dynamic low-angle view, looking up at the character from ground level to emphasize heroic determination and power. The character stands in a defiant pose on a cracked, debris-strewn battlefield. The ground is clearly visible beneath and around the character's feet, with rubble, broken stones, and impact cracks radiating outward. Include 15% negative space above the head and 12% below the feet to prevent cropping. The composition creates a sense of the character rising up against adversity.",
+    "aspect_ratio": "2:3",
+    "key_symbolic_effects": ["Intense speed lines radiating outward from the character's body, creating explosive energy", "Focus lines converging on the character's face and raised fist, emphasizing determination", "Magical energy aura swirling around the character, rendered with flowing, organic lines", "Small impact cracks and debris particles floating around the feet to show power and grounding"]
+  },
+  "dialogue_and_text": {
+    "speech_bubbles": [
+      {
+        "speaker": "Protagonist",
+        "bubble_type": "shout",
+        "text_content": "I won't back down! This is my fight!",
+        "placement": "Upper right area of the panel, positioned above and slightly to the right of the character's head, with the bubble tail pointing toward the character's mouth",
+        "emphasis": "bold"
+      },
+      {
+        "speaker": "Protagonist",
+        "bubble_type": "shout",
+        "text_content": "I'll protect everyone... no matter what!!",
+        "placement": "Mid-left area, positioned near the character's raised fist, with the bubble tail pointing back toward the character's face. This creates a dynamic flow of dialogue across the panel.",
+        "emphasis": "bold with triple exclamation marks for maximum intensity"
+      }
+    ],
+    "sound_effects": [
+      {
+        "sfx_text": "ゴゴゴ (GOGOGO - menacing rumble)",
+        "placement": "Integrated into the background, positioned in the upper left and lower right corners, creating a sense of ominous power building",
+        "style": "Bold, angular katakana characters rendered in a heavy, imposing font"
+      },
+      {
+        "sfx_text": "CRACKLE",
+        "placement": "Near the magical energy aura around the character's hands, integrated into the swirling energy effects",
+        "style": "Jagged, electric-style lettering that follows the flow of the magical energy"
+      }
+    ]
+  },
+  "character": {
+    "archetype": "Hot-blooded Shonen Protagonist: Determined, courageous, fiercely protective of friends, refuses to give up even when outmatched.",
+    "design_focus": "A young male mage in his mid-teens. Wild, spiky hair (classic Shonen style) with strands flying upward from the energy aura. Large, intense eyes with prominent highlights showing unwavering determination and a hint of desperation. Wearing a battle-worn fantasy adventurer outfit: a tattered cloak flowing dramatically behind him, a fitted tunic with visible fabric tension showing a lean, athletic build, armored gauntlets on his forearms, and sturdy leather boots with visible buckles and worn soles. The boots are firmly planted on the cracked ground, with detailed lacing and scuff marks. Barefoot would be inappropriate for a battlefield, so the boots are essential and clearly visible from toe to heel.",
+    "facial_expression": "Intense and defiant. Mouth open in a shout, showing gritted teeth. Brows furrowed with determination. Eyes blazing with resolve and a slight glow suggesting magical power.",
+    "pose_and_body_language": "Dynamic heroic stance: feet shoulder-width apart and fully visible, planted firmly on the cracked ground with slight forward lean suggesting readiness to charge. One fist raised to chest level, clenched tightly and glowing with magical energy. The other arm extended slightly outward for balance. Body coiled with tension and power. The pose conveys both defensive readiness and offensive intent.",
+    "symbolic_emotional_markers": ["Determination aura: jagged, flame-like lines surrounding the character's body", "Small sweat drops on the forehead indicating intense exertion and stakes", "Glowing eyes with white highlights suggesting inner power awakening", "Clenched fist with visible tension lines in the hand and forearm"]
+  },
+  "setting": {
+    "location": "A devastated battlefield. Cracked and broken stone ground with large fissures and impact craters. Rubble and debris scattered around the character's feet, with some pieces floating slightly due to magical energy. The ground texture is rough stone and dirt, clearly visible beneath the character's boots. In the blurred background, suggestions of ruined structures and a stormy sky, but kept minimal to maintain focus on the character.",
+    "time_of_day": "Dusk or stormy midday (dramatic, low-contrast lighting typical of climactic battle scenes)",
+    "atmospheric_elements": "Dust and small debris particles floating in the air. Magical energy wisps swirling around the character. Dark, ominous clouds in the background suggesting the severity of the battle. A few small embers or sparks of magical energy drifting upward from the ground."
+  },
+  "inking_and_tones": {
+    "line_weight_variation": "Strong variation. Very thick, bold outlines (2-3pt) for the character's silhouette and major forms to make them pop against the background. Medium weight (1-2pt) for clothing details, facial features, and magical effects. Thin lines (0.5-1pt) for hair strands, background rubble detail, and fine texture on the boots and gauntlets.",
+    "primary_shading_method": "Combination of crisp black fills for deep shadows (under the chin, in the hair, cast shadows on the ground) and light 20% dot screentones for mid-tone shadows on the face and clothing. Minimal screentone use overall to maintain high contrast and energy. Cross-hatching used sparingly for texture on the tattered cloak.",
+    "black_space_usage": "Strategic and balanced. Solid black used for hair shadows, the interior of the tattered cloak, and deep shadows cast by the character on the ground. Mostly white space and clean lines to maintain the bright, energetic feel of Shonen action.",
+    "screentone_density": "Sparse. Screentones used only for subtle form definition on the character's face and body. The background is kept mostly white with black linework for rubble and cracks, maintaining focus on the character."
+  },
+  "symbolism_and_effects": {
+    "motion_lines": "Intense speed lines radiating outward from the character's torso and limbs in all directions, creating a sense of explosive power and energy bursting forth. The lines are thicker near the character and taper as they extend outward.",
+    "emotional_symbols": ["Determination aura: jagged, flame-like energy lines surrounding the body", "Sweat drops on forehead for intense focus and exertion", "Glowing magical energy around the raised fist, rendered with swirling, organic lines", "Small impact lines around the feet showing firm grounding and power transfer to the earth"],
+    "onomatopoeia": ["ゴゴゴ (GOGOGO) - menacing/powerful rumble effect in the background", "CRACKLE - magical energy sound effect near the hands"]
+  },
+  "negative_directives": {
+    "style": "No photorealistic rendering, no watercolor or painterly style, no full color, no soft digital gradients, no Western comic book style, no 3D rendering, no overly detailed backgrounds that distract from the character.",
+    "content": "No weapons in hand (magic is the focus), no other characters in the frame, no overly busy background, cropped feet, missing feet, floating figure, cut-off ankles, feet out of frame, hands obscuring the face, hair completely covering the eyes, closed or neutral expression (must be intense and emotional).",
+    "artifact_suppression": "No blurred lines, no digital painting artifacts, no color bleeding, no anti-aliasing softness, cropped feet, missing toes, deformed feet, extra limbs, anatomically impossible poses, inconsistent line weight, muddy or unclear linework."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“意图”：“一场充满戏剧性和爆发力的战斗场景，一位意志坚定的年轻魔法师发表了充满反抗精神的宣言，风格类似于现代少年奇幻漫画。”
+"manga_genre": "少年奇幻/动作",
+"art_style": {
+“主要影响因素”： “现代少年Jump风格（让人想起《黑色五叶草》、《妖精的尾巴》），具有动感的动作和富有表现力的人物刻画”，
+"line_art_style": "线条粗犷有力，线条粗细变化丰富。人物轮廓粗犷自信，魔法效果和背景细节则采用纤细线条。充满活力，线条流畅。"
+"screentone_style": "尽量减少网点的使用，以保持高对比度和可读性。使用 20% 网点的浅色网点来表现皮肤上的微妙阴影。大量使用纯白和纯黑，以达到戏剧性的效果。"
+},
+"panel_design": {
+"primary_panel_type": "FBP（全身面板）：从头到脚的整个角色，地面清晰可见。"
+"composition_description": "动态的低角度视角，从地面仰视人物，强调英雄的决心和力量。人物以不屈的姿态站在满目疮痍、瓦砾遍地的战场上。人物脚下和周围的地面清晰可见，瓦砾、碎石和冲击裂缝向外辐射。头部上方留出 15% 的空白，脚下留出 12% 的空白，以避免画面裁剪。这种构图营造出人物奋起反抗逆境的气势。"
+"aspect_ratio": "2:3",
+"key_symbolic_effects": ["从角色身体向外辐射的强烈速度线，营造出爆发性的能量", "聚焦线汇聚于角色的面部和高举的拳头，强调其决心", "魔法能量光环环绕角色，以流畅的有机线条渲染", "脚部周围漂浮的细小冲击裂纹和碎片，展现力量与稳固性"]
+},
+"对话和文本": {
+"speech_bubbles": [
+{
+“说话者”：“主角”，
+"bubble_type": "喊叫",
+"text_content": "我绝不退缩！这是我的战斗！"
+“位置”：“位于面板的右上角，在角色头部上方略偏右的位置，气泡尾部指向角色的嘴部”，
+强调：粗体
+},
+{
+“说话者”：“主角”，
+"bubble_type": "喊叫",
+"text_content": "无论如何，我都会保护所有人！！"
+“位置”：“位于画面左侧中间区域，靠近角色举起的拳头，气泡尾部指向角色的脸部。这样可以在画面中营造出对话的动态流动感。”
+“强调”：“加粗并加上三个感叹号，以示最大程度的强调”
+}
+],
+"sound_effects": [
+{
+"sfx_text": "ゴゴゴ（GOGOGO - 威胁性的隆隆声）",
+“位置”：“融入背景，位于左上角和右下角，营造出一种不祥的力量积聚感”，
+"style": "粗体、棱角分明的片假名字符，采用厚重、醒目的字体呈现"
+},
+{
+"sfx_text": "噼啪声",
+“放置位置”：“靠近角色双手周围的魔法能量光环，融入到旋转的能量效果中”，
+“风格”：“锯齿状、电光质感的字体，跟随魔法能量的流动”
+}
+]
+},
+“特点”： {
+“原型”：“热血少年漫主角：意志坚定、勇敢无畏、极力保护朋友、即使实力悬殊也绝不放弃。”
+“设计重点”：一位十几岁的年轻男性魔法师。他有着狂野的刺猬头（经典少年漫画风格），几缕发丝在能量光环的映衬下向上飞舞。他那双炯炯有神的眼睛里闪烁着坚定的光芒，闪烁着一丝绝望。他身着一套饱经战火洗礼的奇幻冒险者装束：一件破旧的斗篷在他身后飘扬，一件紧身束腰外衣勾勒出他精瘦健壮的身材，前臂上戴着护手，脚上穿着结实的皮靴，靴扣清晰可见，鞋底磨损严重。皮靴牢牢地踩在龟裂的地面上，鞋带和磨损痕迹清晰可见。赤脚在战场上是不合适的，所以皮靴必不可少，从鞋头到鞋跟都清晰可见。
+“面部表情”： “表情强烈而桀骜不驯。嘴巴张开，仿佛要怒吼，露出紧咬的牙齿。眉头紧锁，充满决心。双眼燃烧着坚定的火焰，闪烁着一丝光芒，暗示着某种魔法力量。”
+“姿势与肢体语言”： “充满活力的英雄姿态：双脚与肩同宽，完全可见，稳稳地踩在龟裂的地面上，身体略微前倾，暗示着随时准备冲锋。一只拳头高举至胸前，紧紧握住，闪耀着魔法能量。另一只手臂略微向外伸展以保持平衡。身体充满张力和力量。此姿势既传达了防御的准备，也传达了进攻的意图。”
+"symbolic_emotional_markers": ["决心光环：角色身体周围环绕着锯齿状的火焰线条", "额头上的细小汗珠表明正在承受巨大的压力", "闪烁着白光的眼睛暗示着内在力量的觉醒", "紧握的拳头，手掌和前臂上可见明显的肌肉线条"]
+},
+“环境”： {
+地点：一片满目疮痍的战场。龟裂破碎的石质地面布满巨大的裂缝和撞击坑。瓦砾和碎片散落在角色脚下，部分碎片因魔法能量的作用而微微漂浮。地面纹理粗糙，由石头和泥土构成，在角色的靴子下清晰可见。模糊的背景中隐约可见残垣断壁和暴风雨的天空，但为了突出角色，这些元素被刻意弱化。
+"time_of_day": "黄昏或暴风雨的正午（戏剧性的、低对比度的光线，典型的高潮战斗场景）",
+“大气元素”：空气中漂浮着尘埃和细小的碎片。魔法能量的丝缕在角色周围盘旋。背景中阴沉的乌云暗示着战斗的严峻性。几小簇魔法能量的余烬或火花从地面向上飘散。
+},
+"inking_and_tones": {
+"line_weight_variation": "线条粗细变化丰富。人物轮廓和主要形体采用非常粗的线条（2-3pt），使其在背景中脱颖而出。服装细节、面部特征和魔法效果采用中等粗细（1-2pt）。头发、背景碎石细节以及靴子和护手上的精细纹理采用细线（0.5-1pt）。"
+“primary_shading_method”： “结合使用清晰的黑色填充来表现深阴影（下巴下方、头发中、地面上的投影），并使用20%网点的浅色网点来表现面部和衣物上的中间色调阴影。整体上尽量减少网点的使用，以保持高对比度和活力。在破烂的斗篷上少量使用交叉阴影线来表现纹理。”
+“黑位运用”：策略性且平衡。头发阴影、破烂斗篷的内衬以及角色在地面上投射的深阴影均采用纯黑色。大量留白和简洁的线条，以保持少年漫画动作戏的明亮、活力感。
+“screentone_density”：稀疏。网点仅用于勾勒人物面部和身体的细微轮廓。背景以白色为主，用黑色线条勾勒瓦砾和裂缝，使画面焦点集中在人物身上。
+},
+"symbolism_and_effects": {
+“运动线”：从角色躯干和四肢向四面八方辐射出强烈的速度线，营造出爆发力和能量迸发的感觉。线条在靠近角色处较粗，向外延伸逐渐变细。
+"emotional_symbols": ["决心光环：锯齿状的火焰状能量线环绕身体", "额头上的汗珠象征着高度集中和努力", "高举的拳头周围闪耀着魔法能量，以旋转的有机线条描绘", "脚部周围的细小冲击线象征着稳固的接地和力量传递到大地"]
+拟声词：[“ゴゴゴ (GOGOGO) - 背景中令人不安/强大的隆隆声效果”“噼啪声 - 手附近魔法能量的声音效果”]
+},
+"negative_directives": {
+“风格”：“不使用照片级写实渲染，不使用水彩或油画风格，不使用全彩，不使用柔和的数字渐变，不使用西方漫画风格，不使用3D渲染，不使用会分散观众对角色注意力的过于细致的背景。”
+“内容”：“手中不持武器（重点是魔法），画面中没有其他角色，背景不要过于杂乱，脚部被裁剪，脚部缺失，人物漂浮，脚踝被切断，脚部超出画面，手遮住脸部，头发完全遮住眼睛，表情闭合或中性（必须强烈而富有情感）。”
+"artifact_suppression": "无模糊线条、无数码绘画瑕疵、无颜色溢出、无抗锯齿柔化、无裁剪脚部、无缺失脚趾、无畸形脚部、无额外肢体、无解剖学上不可能的姿势、无不一致的线条粗细、无模糊或不清晰的线条。"
+}
+}
+```
+
+<a id="prompt-676"></a>
+## 案例 676：夜晚吐舌头女生的自拍照 (来源 [@xmliisu](https://x.com/xmliisu/status/1995499182207996193)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/676.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-夜晚吐舌头女生的自拍照">
+</div>
+
+**提示词：**
+```
+[Image_Specifications]
+Type = Realistic Portrait
+Style = Douyin Aesthetic
+Resolution = High Quality
+
+[Subject_Details]
+Demographics = Young Asian woman
+Facial_Structure = 100% original face (no editing)
+Hair_Texture = Straight, shiny
+Hair_Color = Black
+Hair_Length = Long
+
+[Makeup_&_Styling]
+Style = Douyin-style
+Eye_Makeup = Highlights large eyes, long eyelashes
+Cheeks = Rosy
+Nails = Long, painted beautiful dark black
+
+[Apparel_&_Accessories]
+Eyewear = Thin silver-framed eyeglasses
+Top = Black strapless top with a single strap
+Waist_Accessory = Brown and gold striped fabric belt (tied in a bow)
+Necklace = Small silver Vivienne Westwood Orb pendant
+
+[Pose_&_Expression]
+Action = Taking a selfie
+Angle = From above
+Right_Arm = Raised, holding the phone
+Left_Hand = Holding a round black lollipop
+Expression = Confident gaze, tongue slightly sticking out
+
+[Environment_&_Background]
+Location = Outdoor parking lot
+Time_of_Day = Night
+Ground_Surface = Gray concrete with white parking lines
+Featured_Vehicle = Black Bugatti (visible grille and bumper)
+Lighting_Conditions = Dimly lit by street lamps and distant city lights
+```
+
+**中文提示词：**
+```
+[图像规格]
+类型 = 写实肖像
+风格 = 抖音美学
+分辨率 = 高质量
+
+[主题详情]
+人口统计 = 年轻亚裔女性
+面部结构 = 100% 原始面部（未经编辑）
+发质：直发，有光泽
+发色 = 黑色
+头发长度 = 长
+
+[化妆造型]
+风格 = 抖音风格
+眼妆 = 突出大眼睛和长睫毛
+脸颊 = 红润
+指甲 = 长长的，涂着漂亮的深黑色指甲油
+
+[服装及配饰]
+眼镜 = 细银框眼镜
+上衣 = 黑色单肩无肩带上衣
+腰部配饰 = 棕色和金色条纹布料腰带（系成蝴蝶结）
+项链 = 小型银色 Vivienne Westwood 球形吊坠
+
+[姿势与表情]
+行动 = 自拍
+角度 = 从上方
+右臂举起，拿着手机
+左手 = 拿着一个圆形的黑色棒棒糖
+表情 = 自信的眼神，舌头微微伸出
+
+[环境与背景]
+地点 = 室外停车场
+时间 = 夜晚
+地面 = 灰色混凝土，带有白色停车线
+特色车辆 = 黑色布加迪（可见格栅和保险杠）
+照明条件 = 由路灯和远处城市灯光昏暗照亮
+```
+
+<a id="prompt-675"></a>
+## 案例 675：同一张脸的柔和模糊的侧面特写 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995540914954272826)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/675.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-同一张脸的柔和模糊的侧面特写">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "A full-body artistic portrait of the woman from the reference image, keeping the exact same face. She is elegantly seated on the floor wearing a modern black top, soft loose gray jeans, and chunky gray-and-white sneakers. Her long, waist-length wavy milky-brown hair flows naturally, with half of it beautifully braided. She is laughing while looking upwards, capturing a confident candid smile. The background is an artistic monochrome (black and white) composition featuring a soft, blurred close-up side profile of the same face, creating a stylish dual-layer aesthetic. High-quality soft lighting, realistic textures, cinematic realism, and an artistic portrait vibe.",
+  
+  "style": {
+    "lighting": "soft, high-quality, realistic",
+    "color_palette": "monochrome background, natural skin tones",
+    "mood": "confident, candid, artistic",
+    "quality": "ultra detailed, high-resolution"
+  },
+  
+  "camera": {
+    "shot": "full-body portrait",
+    "angle": "slightly low angle, upward gaze feel",
+    "focus": "sharp on subject, blurred artistic background"
+  },
+  
+  "character": {
+    "face": "same as reference image",
+    "expression": "laughing, confident smile",
+    "hair": "long wavy milky-brown, half braided",
+    "outfit": {
+      "top": "modern black top",
+      "bottom": "soft loose gray jeans",
+      "shoes": "chunky gray-and-white sneakers"
+    }
+  },
+  
+  "background": {
+    "type": "artistic monochrome",
+    "layers": "soft blurred close-up side profile of same face",
+    "effect": "stylish dual-layer aesthetic"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：“根据参考图片，绘制一位女士的全身艺术肖像，保留其面部特征。她优雅地坐在地板上，身着现代感十足的黑色上衣、宽松的灰色牛仔裤和厚底灰白运动鞋。她及腰的乳棕色长发自然垂落，一半编成精美的辫子。她仰望天空，笑容灿烂，展现出自信而真挚的神态。背景采用艺术化的黑白构图，柔和模糊的侧脸特写营造出时尚的双层美感。画面运用了高质量的柔光、逼真的纹理、电影般的写实感以及艺术肖像的氛围。”
+
+“风格”： {
+“照明”：“柔和、高质量、逼真”，
+"color_palette": "单色背景，自然肤色",
+“情绪”：“自信、坦率、有艺术气息”
+“质量”：“超精细，高分辨率”
+},
+
+“相机”： {
+“拍摄”: “全身肖像”
+“角度”：“略低的角度，向上凝视的感觉”，
+“焦点”： “主体清晰，背景虚化，富有艺术感”
+},
+
+“特点”： {
+“脸部”：“与参考图像相同”，
+“表情”：“笑着，自信的笑容”，
+“头发”：“长长的波浪状乳棕色头发，一半编成辫子”，
+“全套服装”： {
+“上衣”： “现代黑色上衣”，
+下装：柔软宽松的灰色牛仔裤，
+“鞋子”： “厚底灰白运动鞋”
+}
+},
+
+“背景”： {
+"type": "艺术单色",
+“图层”: “同一张脸的柔和模糊的侧面特写”，
+“效果”：“时尚的双层美感”
+}
+}
+```
+
+<a id="prompt-674"></a>
+## 案例 674：武当山山腰的一栋双层住宅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995668237787267575)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/674.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-武当山山腰的一栋双层住宅">
+</div>
+
+**中文提示词：**
+```
+一套详细的建筑设计蓝图，位于中国武当山山腰的一栋双层住宅。总建筑面积1600平方英尺（约148平方米）。包含一层平面图、二层平面图和前后立面图。布局设计为三间卧室。建筑风格为新中式，结合了传统武当山道教建筑元素与现代山地住宅特色：坡屋顶，青瓦，深色木构架梁柱，以及当地石材基座。图纸上带有尺寸标注线和建筑符号，专业建筑绘图风格，蓝底白线图。
+```
+
+<a id="prompt-673"></a>
+## 案例 673：3×3的美妆电商广告制作 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1995473175233069217)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/673.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3×3的美妆电商广告制作">
+</div>
+
+**提示词：**
+```
+Create an editorial photoreal 3×3 storyboard contact sheet for a high end beauty e commerce ad featuring only the following products: {{product_main}} and {{product_secondary}}
+
+Background {{background}}.  
+Lighting  {{lighting}}.  
+
+generate as one evenly spaced 3×3 grid.  
+
+{{panels}}
+```
+
+**中文提示词：**
+```
+为高端美妆电商广告制作一张 3×3 的写实风格故事板联系表，广告中仅包含以下产品： {{主产品}}和{{辅助产品}}
+
+背景{{背景}} 。
+照明{{照明}} 。
+
+生成一个等间距的 3×3 网格。
+
+{{面板}}
+```
+
+<a id="prompt-672"></a>
+## 案例 672：疯狂动物城朱迪和尼克 (来源 [@LiEvanna85716](https://x.com/LiEvanna85716/status/1995414338493108500)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/672.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城朱迪和尼克">
+</div>
+
+**提示词：**
+```
+# Nano Banana Pro Configuration - Zootopia Cyber Fan Concept
+# Generated by AI Writing Assistant
+
+project_name: "Zootopia_Cyber_Fashion_Wink"
+model_base: "SDXL_Realistic_v4" # 假设的基础模型，可根据实际情况调整
+output_resolution: [896, 1152]  # 3:4 Ratio, optimized for Twitter feed
+
+character:
+  id: "cyber_judy_fan_01"
+  gender: "female"
+  age: "20s"
+  features:
+    - "delicate facial features"
+    - "playful expression"
+    - "winking one eye"
+    - "holding smartphone for selfie"
+
+scene:
+  location: "Zootopia official merchandise store"
+  lighting: "interior shop lighting, soft neon accents, volumetric bloom"
+  atmosphere: "lively, colorful, detailed background"
+
+prompts:
+  positive: |
+    (Masterpiece, 8k resolution, photorealistic, ultra-detailed),
+    POV selfie shot, beautiful young woman winking at camera,
+    wearing a futuristic metallic silver corset dress (iridescent texture:1.2),
+    wearing fluffy Judy Hopps rabbit ear hat (purple and grey),
+    holding a high-tech smartphone, selfie gesture,
+    background is a cluttered Zootopia souvenir shop,
+    shelves filled with Nick Wilde and Judy Hopps plush toys (fuzzy texture:1.3),
+    ZPD badges, carrots merchandise,
+    depth of field, ray tracing reflections on the metallic dress,
+    cinematic lighting, sharp focus on eyes and phone.
+
+  negative: |
+    (worst quality, low quality:1.4), monochrome, zombie,
+    deformed anatomy, disfigured, extra fingers, bad hands, 
+    missing fingers, floating limbs, disconnected limbs,
+    blur, out of focus, cropped head, watermark, text, signature,
+    distorted plushies, scary faces on toys.
+
+views:
+  - view_id: "main_selfie"
+    camera_angle: "high angle selfie"
+    focus: "face and upper body"
+    description: "The main engagement shot showing the wink and the outfit details."
+
+  - view_id: "outfit_detail"
+    camera_angle: "medium shot"
+    focus: "waist and background"
+    description: "Showcasing the metallic texture of the corset and the Zootopia merch in the back."
+
+# Advanced Settings for Nano Banana Pro
+sampling:
+  steps: 35
+  cfg_scale: 7.5
+  sampler: "DPM++ 2M Karras"
+  seed: -1 # Random
+```
+
+**中文提示词：**
+```
+# Nano Banana Pro 配置 - 疯狂动物城赛博粉丝概念
+# 由 AI 写作助手生成
+
+project_name: "疯狂动物城_赛博_时尚_眨眼"
+model_base: "SDXL_Realistic_v4" # 假设的基础模型，可根据实际情况调整
+output_resolution: [896, 1152]  # 3:4 比例，针对 Twitter 信息流优化
+
+character:
+  id: "赛博_朱迪_粉丝_01"
+  gender: "女性"
+  age: "20多岁"
+  features:
+    - "精致的五官"
+    - "顽皮/俏皮的表情"
+    - "眨一只眼"
+    - "手持智能手机自拍"
+
+scene:
+  location: "疯狂动物城官方周边商店"
+  lighting: "室内商店照明，柔和的霓虹点缀，体积光（光晕）"
+  atmosphere: "生动活泼，色彩丰富，背景细节详实"
+
+prompts:
+  positive: |
+    (杰作, 8k分辨率, 照片级真实, 超精细),
+    第一人称视角（POV）自拍镜头, 美丽的年轻女性对着镜头眨眼,
+    身穿未来感金属银色紧身胸衣连衣裙 (彩虹色纹理:1.2),
+    戴着毛茸茸的朱迪警官（Judy Hopps）兔耳帽 (紫色和灰色),
+    手持高科技智能手机, 自拍姿势,
+    背景是琳琅满目的疯狂动物城纪念品商店,
+    货架上摆满了尼克（Nick Wilde）和朱迪（Judy Hopps）的毛绒玩具 (毛绒纹理:1.3),
+    ZPD（动物城警局）警徽, 胡萝卜周边商品,
+    景深效果, 金属裙上的光线追踪反射,
+    电影级布光, 焦点清晰对准眼睛和手机。
+
+  negative: |
+    (最差质量, 低质量:1.4), 单色, 僵尸,
+    解剖结构变形, 毁容, 多余的手指, 坏手, 
+    缺失手指, 悬浮肢体, 断肢,
+    模糊, 失焦, 截断的头部, 水印, 文字, 签名,
+    扭曲的毛绒玩具, 玩具有可怕的脸。
+
+views:
+  - view_id: "main_selfie"
+    camera_angle: "高角度/俯拍自拍"
+    focus: "脸部和上半身"
+    description: "展示眨眼表情和服装细节的主要互动镜头。"
+
+  - view_id: "outfit_detail"
+    camera_angle: "中景镜头"
+    focus: "腰部和背景"
+    description: "展示紧身胸衣的金属质感以及后方的疯狂动物城周边商品。"
+
+# Nano Banana Pro 高级设置
+sampling:
+  steps: 35
+  cfg_scale: 7.5
+  sampler: "DPM++ 2M Karras"
+  seed: -1 # 随机
+```
+
+<a id="prompt-671"></a>
+## 案例 671：星座运势卡 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1995423285060976700)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/671.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-星座运势卡">
+</div>
+
+**中文提示词：**
+```
+请先帮我搜索「星座名」今天的最新运势，重点包含：整体运势、爱情运、事业运、财运，以及今天的幸运色与幸运数字。接着，请根据今天的运势内容，使用 Nano Banana Pro 绘制一张 文青手绘平面插画风格的星座运程故事卡片，需要 精美排版与丰富元素设计、简体中文、2K、2:3 比例。
+```
 
 <a id="prompt-670"></a>
 ## 案例 670：年轻女子对着镜子自拍旁边是朱迪 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1995071645002747918)) 模型：Nano banana pro
