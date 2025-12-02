@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 690：双语认知大发现-海底世界 ](#prompt-690)
+*   [案例 689：双语认知大发现-交通工具 ](#prompt-689)
+*   [案例 688：一位魅力四射的女性超逼真8K肖像 ](#prompt-688)
+*   [案例 687：生成一张指定时间地点的逼真照片 ](#prompt-687)
+*   [案例 686：中国每个城市标志性美食 ](#prompt-686)
+*   [案例 685：3x3的网格特写照片 ](#prompt-685)
+*   [案例 684：哥特式电影风格的肖像画 ](#prompt-684)
+*   [案例 683：花园里的婚纱照 ](#prompt-683)
+*   [案例 682：微缩3D卡通视图展城市最高的三座建筑 ](#prompt-682)
+*   [案例 681：反推图片json提示词 ](#prompt-681)
 *   [案例 680：OOTD手绘涂鸦分解 ](#prompt-680)
 *   [案例 679：紫禁城建筑照片展示和设计图纸 ](#prompt-679)
 *   [案例 678：疯狂动物城朱迪和尼克讲小故事-守株待兔 ](#prompt-678)
@@ -219,6 +229,558 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-690"></a>
+## 案例 690：双语认知大发现-海底世界 (来源 [@nuannuan_share](https://x.com/nuannuan_share/status/1995761102295384483)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/690.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双语认知大发现-海底世界">
+</div>
+
+**中文提示词：**
+```
+[SCENE_THEME] = 海底世界
+[TARGET_AGE] = 2–5 岁
+
+生成一张可出版级的儿童认知「扁平 Q 版卡通」海底世界全景长图（Vertical A4 Panoramic Flat Cute Cartoon）。整体画风：粗线条、圆润造型、亮丽但柔和的色彩、无尖角安全风格、大块形状、高对比度、适合幼儿认知的简化卡通图形。画面要求干净、清晰、有逻辑，物体边界明显。分辨率为超清 8K。
+
+# 一、标题区（Top Banner）
+顶部加入大标题：《海底世界 双语认知大发现》。
+字体为：超大号圆润卡通字体（饱满、彩色、柔影）。
+两侧加入可爱的卡通海洋小图标（迷你海星、小贝壳、小水泡）。
+
+# 二、主体场景（Main Panorama）
+构图：超宽扁平卡通海底场景。前景与中景尽量清晰，不使用复杂景深；保持简单、干净的儿童友好式分区。整体像一幅“海底乐园地图”。
+
+元素要求：
+- 所有海洋生物为大头 Q 版卡通
+- 线条粗、边缘柔和
+- 色彩鲜明、对比明确
+- 结构简单，便于儿童识别形状
+
+加入 1–2 位引导角色（Q版潜水宝宝 / 小海豚伙伴），用夸张动作引导视线。
+
+# 三、认知物体清单（Core Objects）
+所有物体要求：圆润、扁平、卡通、大块面、易识别。
+
+【核心大件（5–8 个）】
+章鱼  
+海龟  
+鲨鱼  
+海豚  
+小丑鱼  
+鲸鱼  
+海马  
+螃蟹
+
+【中小件物体（8–12 个）】
+海星  
+贝壳  
+水母  
+珊瑚  
+小泡泡群  
+小鱼（多色）  
+海草  
+沙滩球  
+宝箱  
+海底指路牌
+
+【环境元素（不限量）】
+简化海浪、扁平珊瑚群、浅色海底沙土、贝壳碎片、水泡轨迹、Q版岩石。
+
+# 四、双语标签系统（Bilingual Labeling System）
+为所有主要认知对象添加三行标签牌（扁平圆角矩形、软色背景、简洁卡通风）。
+
+格式固定：
+第一行：中文（超粗圆体）
+第二行：带声调拼音
+第三行：英文（圆润无衬线）
+
+示例：
+[ 章 鱼 ]
+[ zhāng yú ]
+[ Octopus ]
+
+标签颜色：浅奶黄或浅蓝  
+字体：清晰、粗、易读  
+标签放置在物体附近空白区。
+
+# 五、指示箭头（Flat Cute Arrow）
+使用扁平卡通风格箭头：
+- 粗线条、圆头  
+- 颜色醒目（橙 / 蓝）  
+- 一端连接标签，一端贴近物体边界  
+- 禁止箭头交叉，保持整体整洁有序。
+
+# 六、风格收束（统一输出）
+Flat Cute Cartoon Style；
+Bright & Soft Color Palette；
+Round Shapes & Child-safe Edges；
+Clean Separation of Elements；
+Bilingual Labels + Clear Arrows；
+8K Ultra HD；
+Simple, Fun, Easy-to-read Composition。
+```
+
+<a id="prompt-689"></a>
+## 案例 689：双语认知大发现-交通工具 (来源 [@nuannuan_share](https://x.com/nuannuan_share/status/1995761102295384483)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/689.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双语认知大发现-交通工具">
+</div>
+
+**中文提示词：**
+```
+[SCENE_THEME] = 交通工具
+[TARGET_AGE] = 2–5 岁
+
+生成一张可出版级的儿童认知「黏土沙盘全景长图」（Vertical A4 Panoramic Claymation Diorama）。画面风格：软萌黏土 3D、圆润、安全、马卡龙+莫兰迪色、大量柔光与体积光、统一材质、8K Ultra HD、Cinema 4D 可爱渲染。
+
+# 一、标题区（Top Banner）
+在最顶部加入大标题：《交通工具 双语认知大发现》。
+使用超大号圆滚滚黏土气球字（彩色+高光）。两侧放置可爱的小型交通工具黏土浮雕（迷你飞机、迷你汽车、迷你船锚等）。
+
+# 二、主体场景（Main Diorama）
+构图：Wide-angle 微缩沙盘视角。前景与中景保持全焦清晰；背景轻度虚化；按“分组布局 + 留白呼吸感”摆放。
+
+场景风格：像一个大型“交通工具乐园玩具沙盘”，地面有道路、滑轨、机场跑道、小型港口等。
+
+加入 1–2 位引导角色（探险宝宝 / 黏土小狗 / 迷你机器人），做出指路和兴奋的动作，引导孩子探索车辆。
+
+# 三、认知物体清单（Core Objects）
+所有物体必须圆润、无尖角、黏土质感。
+
+【核心大件（5–8 个）】
+请放在主要区域：
+小汽车  
+救护车  
+校车  
+消防车  
+飞机  
+高铁  
+公交车  
+轮船
+
+【中小件物体（8–12 个）】
+散点式围绕大件摆放：
+红绿灯  
+交通锥  
+方向牌  
+道路栏杆  
+油桶  
+小轮胎  
+小螺丝工具  
+交通岗亭  
+风向标  
+小停机坪标志
+
+【环境元素（不限量）】
+柔软黏土道路  
+圆滚滚路灯柱  
+棉花糖云朵  
+黏土树丛  
+小湖泊  
+小桥  
+迷你机场跑道条纹
+
+# 四、双语标签系统（Bilingual Labeling System）
+为所有需要认知的交通工具加入三行软胶标签牌（圆角、厚边、轻浮雕），背景奶白或浅黄。
+
+格式固定：
+第一行：中文（超粗圆体）
+第二行：带声调拼音
+第三行：英文（圆润无衬线）
+
+示例：
+[ 汽 车 ]
+[ qì chē ]
+[ Car ]
+
+# 五、精准箭头（3D Clay Arrow）
+使用粗壮圆润的 3D 黏土箭头（橙黄或粉蓝）。一端贴标签牌，一端精准指向对应车辆。禁止箭头交叉。标签牌放在物体最近的空白区，确保画面清晰有序。
+
+# 六、风格收束（统一模型输出）
+Wide Panoramic Claymation Diorama；
+Soft Pastel Colors；
+Round & Child-safe Edges；
+Rich but Organized Composition；
+Precise Clay Arrows + Bilingual Labels；
+8K Ultra HD；
+Soft Volumetric Lighting；
+Cinema 4D cute render style
+```
+
+<a id="prompt-688"></a>
+## 案例 688：一位魅力四射的女性超逼真8K肖像 (来源 [@xmliisu](https://x.com/xmliisu/status/1995762747527626900)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/688.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位魅力四射的女性超逼真8K肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_structure": {
+    "subject": {
+      "archetype": "Glamorous woman",
+      "facial_reference": "Use uploaded image features",
+      "pose": "Three-quarter profile, body angled toward camera, arm lifted elegantly near face",
+      "action": "Holding a cigarette between fingers, holding a small metallic lighter in the other hand",
+      "expression_and_mood": "Sultry, confident, seductive, intimate"
+    },
+    "styling": {
+      "hair": "Voluminous golden-blonde retro waves, sculpted 1950s pin-up bangs, soft curls framing face",
+      "wardrobe": "Black satin backless dress, ultra-thin side straps, dramatic open silhouette revealing waist and hips",
+      "accessories": "Large stacked silver rhinestone bracelets, small metallic lighter",
+      "texture_notes": "Silky satin texture, sparkling rhinestones, glossy lips"
+    },
+    "composition": {
+      "setting": "Old Hollywood nightlife, smoky vintage-noir atmosphere",
+      "lighting": "Warm, dramatic, low-key, deep shadows, golden highlights on cheekbones",
+      "framing": "Tight portrait framing"
+    },
+    "technical_specs": {
+      "resolution": "8k ultra-high-resolution",
+      "visual_style": "Hyper-realistic, cinematic, polished",
+      "camera_effects": "Shallow depth of field, soft film-grain texture"
+    }
+  },
+  "final_prompt_string": "Hyper-realistic 8k portrait of a glamorous woman with [uploaded facial features], vintage-noir style. She stands in three-quarter profile, sultry and confident, wearing a black satin backless dress with ultra-thin side straps revealing her waist. Hair styled in voluminous golden-blonde 1950s retro waves and pin-up bangs. She holds a cigarette elegantly near her face, wearing stacked silver rhinestone bracelets. Warm, dramatic low-key lighting with deep shadows and golden highlights. Smoky, intimate old Hollywood nightlife atmosphere. Shot on ultra-high-resolution camera, shallow depth of field, soft film-grain texture."
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_structure": {
+“主题”： {
+“原型”：“魅力女性”，
+"facial_reference": "使用上传的图像特征",
+“姿势”：“四分之三侧面像，身体朝向镜头，手臂优雅地抬起靠近脸部”，
+“动作”：“手指间夹着一支香烟，另一只手拿着一个小型金属打火机”，
+"expression_and_mood": "性感、自信、诱人、亲密"
+},
+"样式": {
+“头发”：“蓬松的金色复古波浪卷发，精心修剪的 1950 年代复古刘海，柔和的卷发修饰脸型”，
+“衣橱”： “黑色缎面露背连衣裙，超细侧带，夸张的露背设计，展现腰臀曲线”
+“配饰”：“大型叠戴银色水钻手镯，小型金属打火机”，
+"texture_notes": "丝滑缎面质感，闪亮水钻，亮泽双唇"
+},
+“作品”： {
+“场景”：“老好莱坞的夜生活，烟雾缭绕的复古黑色氛围”，
+“灯光”：“温暖、戏剧化、低调，深邃的阴影，颧骨上的金色高光”，
+“构图”： “紧凑型人像构图”
+},
+"technical_specs": {
+“分辨率”: “8K 超高分辨率”
+"视觉风格": "超写实、电影化、精致"
+“相机效果”： “浅景深，柔和的胶片颗粒纹理”
+}
+},
+"final_prompt_string": "一张超逼真的8K肖像，展现了一位魅力四射的女性，拥有[上传的面部特征]，风格复古而神秘。她以四分之三侧面示人，性感而自信，身着黑色缎面露背礼服，纤细的侧边绑带勾勒出纤细的腰身。头发蓬松，呈20世纪50年代复古的金色波浪卷发，并配以复古的刘海。她优雅地将香烟夹在脸旁，手腕上戴着层叠的银色水钻手镯。温暖而富有戏剧性的低调光线，深邃的阴影和金色的高光交相辉映，营造出烟雾缭绕、私密而迷人的老好莱坞夜生活氛围。采用超高分辨率相机拍摄，浅景深，呈现柔和的胶片颗粒质感。"
+}
+```
+
+<a id="prompt-687"></a>
+## 案例 687：生成一张指定时间地点的逼真照片 (来源 [@minchoi](https://x.com/minchoi/status/1995707916649640404)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/687.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成一张指定时间地点的逼真照片">
+</div>
+
+**提示词：**
+```
+Generate a photorealistic image of a cafe terrace in the Marais district of Paris on a Wednesday morning in March 2025. It is a crisp, cool spring morning with clear skies. Locals are drinking coffee. In sharp focus should be a young woman with a pixie cut wearing a scarf, stirring a cappuccino and looking thoughtfully to the side; the waiter and street traffic behind her are blurred. The photo should have the candid, natural morning light feel of an iPhone image.
+```
+
+**中文提示词：**
+```
+请生成一张逼真的照片，展现2025年3月某个星期三早晨巴黎玛莱区一家咖啡馆的露台。这是一个清爽凉爽的春日早晨，天空晴朗。当地人正在喝咖啡。照片中应清晰地呈现一位留着精灵短发、围着围巾的年轻女子，她正在搅拌一杯卡布奇诺，若有所思地看向一旁；她身后的服务员和街上的车辆则应虚化。照片应呈现出类似iPhone拍摄的自然晨光感。
+```
+
+<a id="prompt-686"></a>
+## 案例 686：中国每个城市标志性美食 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995863480570970582)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/686.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国每个城市标志性美食">
+</div>
+
+**中文提示词：**
+```
+制作一张包含台湾的中国地图，每个省市都用该省市最著名的食物来构成（各省市看起来应该像是由食物组成的，而不是食物的图片）。仔细检查，确保每个省市都正确无误。
+```
+
+<a id="prompt-685"></a>
+## 案例 685：3x3的网格特写照片 (来源 [@so_ainsight](https://x.com/so_ainsight/status/1995494784803426326)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/685.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3的网格特写照片">
+</div>
+
+**中文提示词：**
+```
+使用这张女性照片，生成共 9 张图像，排列成 3x3 的网格。生成的图像数量不得超过 9 张。
+
+所有照片必须为半身像或更近的特写（半身像、特写、肖像构图）。请勿拍摄广角照片、全身照、远景照片或广角照片。
+
+请确保所有九张照片中女性的外貌、五官、发型和整体氛围保持一致。但是，只要不超出半身像构图的范畴，您可以更改拍摄地点、光线、角度和构图。
+
+请仅输出3x3网格所需的9张图片。不要生成任何其他图片、预览图或差异化版本。
+```
+
+<a id="prompt-684"></a>
+## 案例 684：哥特式电影风格的肖像画 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1995536194327777287)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/684.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-哥特式电影风格的肖像画">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "goal": "Create a cinematic portrait based on the provided reference photo, preserving the subject’s face exactly as it appears in the reference (no alterations to facial structure, proportions, features, or expression).",
+    "subject": {
+      "identity_preservation": {
+        "description": "The face must remain completely unchanged from the reference photo — 1000% identical in all visible facial details, proportions, contours, expression, and micro-features.",
+        "notes": "No stylization, morphing, or reinterpretation of the facial structure. Only the scene, pose, and atmosphere change."
+      },
+      "pose": {
+        "body_position": "The woman is standing with her back to the camera.",
+        "head_turn": "She turns her head over her shoulder, looking toward the viewer.",
+        "gaze": "Soft, melancholic, and intense."
+      },
+      "appearance": {
+        "skin": "Smooth, pale skin with gentle cinematic texture.",
+        "hair": {
+          "style": "Long, straight hair.",
+          "movement": "Slightly tousled by the wind."
+        },
+        "clothing": {
+          "top": "Black backless top with delicate thin straps draping down the back."
+        },
+        "props": {
+          "bouquet": "A bouquet of black roses held close to her face."
+        }
+      }
+    },
+    "environment": {
+      "setting": "A moody lakeside or riverside.",
+      "weather": "Overcast grey skies.",
+      "atmosphere": "Soft, misty, melancholic, and subtly gothic."
+    },
+    "lighting": {
+      "type": "soft diffuse lighting",
+      "source": "natural overcast daylight",
+      "tone": "desaturated, muted highlights",
+      "mood": "gothic, melancholic, cinematic",
+      "shadow_quality": "soft, low-contrast shadows"
+    },
+    "color_grading": {
+      "palette": "desaturated neutrals, soft greys, washed-out cool tones",
+      "mood": "cinematic and atmospheric"
+    },
+    "composition": {
+      "framing": "Cinematic shoulder-turned portrait with focus on the face and roses.",
+      "depth": "Shallow depth of field; background slightly blurred.",
+      "emphasis": "Emotional intensity in the eyes; contrast between pale skin and black roses/top."
+    },
+    "style": {
+      "visual_style": "cinematic realism",
+      "tone": "moody, atmospheric",
+      "genre_influence": "dark romantic, gothic melancholy"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_request": {
+“目标”：“根据提供的参考照片创作一幅电影风格的肖像画，完全保留照片中人物的面部特征（不得改变面部结构、比例、五官或表情）。”
+“主题”： {
+"identity_preservation": {
+“描述”：“面部必须与参考照片完全一致——所有可见的面部细节、比例、轮廓、表情和微特征都必须1000%相同。”
+备注：“面部结构未进行任何风格化、变形或重新诠释。仅场景、姿势和氛围有所改变。”
+},
+"姿势": {
+“body_position”: “该女子背对着镜头站立。”
+“head_turn”：她转过头，看向观众。
+“凝视”：“柔和、忧郁而强烈。”
+},
+“外貌”： {
+“肌肤”：“光滑、白皙的肌肤，具有柔和的电影质感。”
+“头发”： {
+“发型”：“长直发。”
+“动感”：“被风轻轻吹乱。”
+},
+“衣服”： {
+“上衣”：“黑色露背上衣，背部有纤细的吊带垂下。”
+},
+"props": {
+“花束”：“她将一束黑玫瑰捧在脸旁。”
+}
+}
+},
+“环境”： {
+“场景”：“一个阴郁的湖边或河边。”
+天气：阴天，天空灰蒙蒙的。
+“氛围”：“柔和、朦胧、忧郁，略带哥特式风格。”
+},
+“灯光”： {
+“类型”：“柔和漫射光”，
+“来源”：“自然阴天日光”，
+“色调”：“去饱和、柔和的高光”，
+“氛围”：“哥特式、忧郁、电影感”，
+"shadow_quality": "柔和、低对比度的阴影"
+},
+"color_grading": {
+“调色板”：“低饱和度的中性色、柔和的灰色、褪色的冷色调”，
+“氛围”：“电影感十足，富有氛围感”
+},
+“作品”： {
+“构图”：“电影般的侧脸肖像，焦点集中在脸部和玫瑰花上。”
+“景深”：“浅景深；背景略微模糊。”
+“强调”：“眼神中流露出的情感强度；苍白的皮肤与黑色玫瑰/上衣形成对比。”
+},
+“风格”： {
+"视觉风格": "电影写实主义",
+“基调”：“忧郁的，有氛围的”，
+"genre_influence": "黑暗浪漫主义，哥特式忧郁"
+}
+}
+}
+```
+
+<a id="prompt-683"></a>
+## 案例 683：花园里的婚纱照 (来源 [@miilesus](https://x.com/miilesus/status/1995536025859354724)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/683.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-花园里的婚纱照">
+</div>
+
+**提示词：**
+```
+{
+ "Use [man_face] and [woman_fac]. Ultra-realistic high-end luxury wedding photography of a bride and groom standing closely together in an elegant outdoor ceremony setting. Golden hour sunlight casting warm soft highlights, natural rim light around their silhouettes, cinematic dynamic range. The bride wearing a premium handcrafted lace wedding gown with intricate embroidery details, soft flowing veil illuminated by backlight, subtle pearl accessories, refined natural bridal makeup with luminous skin texture, finely detailed eyelashes and catchlights in eyes. The groom wearing a tailored black tuxedo with satin lapels, crisp white shirt, luxury bow tie, polished boutonniere. Both posing in a candid yet editorial fashion – gentle eye contact, soft romantic smile, hands touching gracefully. Background featuring a softly blurred bokeh garden with roses, organic greenery, warm tones, shallow depth of field created by an 85mm f/1.4 full-frame lens. High-definition textures, ultra sharp facial details, realistic pores, true-to-life skin tones, natural hair strands, perfect color grading inspired by premium wedding photographers. Soft pastel color palette, creamy highlights, subtle film grain, magazine cover aesthetic. Cinematic global illumination, perfect exposure balance, no distortion, no artifacts. Award-winning photography style with fine-art wedding composition, dramatic yet soft lighting, museum-quality detail clarity.",
+  
+  "negative_prompt": "cartoon, illustration, painting, CGI, artificial look, uncanny valley, distorted facial features, extra limbs, deformed body parts, mismatched eyes, unnatural skin texture, plastic skin, blur, noise, pixelation, low resolution, oversaturated colors, washed out colors, hard flash, harsh shadows, blown highlights, low contrast, lens distortion, fisheye, bad anatomy, extra fingers, incorrect hand shapes, watermark, text, logo, border, frame, compression artifacts, glitch, unrealistic proportions, double face, duplicate subjects, warped background",
+
+  "camera_settings": {
+    "lens": "85mm f/1.4 prime",
+    "iso": 100,
+    "shutter_speed": "1/400",
+    "aperture": "f/1.4",
+    "white_balance": "5200K daylight"
+  },
+
+  "style": {
+    "lighting": "soft natural golden hour, cinematic rim light, high dynamic range",
+    "color_grade": "premium wedding film look, pastel tones, creamy highlights, warm undertones",
+    "atmosphere": "romantic, elegant, fine-art editorial"
+  },
+
+  "composition": {
+    "framing": "mid-shot portrait, slight angle, bride and groom centered",
+    "focus": "sharp eyes, smooth bokeh background",
+    "depth_of_field": "shallow, subject separation emphasized"
+  },
+
+  "width": 1024,
+  "height": 1536,
+  "num_inference_steps": 36,
+  "guidance_scale": 8.0,
+  "seed": 12345
+}
+```
+
+**中文提示词：**
+```
+{
+使用[man_face]和[woman_fac]。超逼真的高端奢华婚礼摄影，展现新郎新娘在优雅的户外仪式场地中亲密依偎的画面。金色的阳光洒下温暖柔和的高光，自然的轮廓光勾勒出他们的身影，营造出电影般的动态范围。新娘身着高级手工蕾丝婚纱，精致的刺绣细节令人叹为观止，飘逸的头纱在逆光下熠熠生辉，搭配低调的珍珠配饰，精致自然的妆容展现出肌肤的光泽感，纤长的睫毛和闪亮的眼神光更添动人。新郎身着剪裁合身的黑色礼服，缎面翻领，搭配挺括的白色衬衫、奢华的领结和精致的胸花。两人以一种自然而又不失时尚感的姿态摆出姿势——温柔的眼神交流，浪漫的微笑，双手优雅地相触。背景是一片柔和虚化的花园，点缀着玫瑰、绿植和温暖的色调，85mm f/1.4全画幅镜头营造出浅景深效果。高清的纹理，极其清晰的面部细节，逼真的画面。毛孔清晰可见，肤色自然逼真，发丝纹理自然，色彩分级完美，灵感源自顶级婚礼摄影师。柔和的粉彩色调，奶油般的亮部，细腻的胶片颗粒，杂志封面般的质感。电影级的整体光照，完美的曝光平衡，无畸变，无瑕疵。屡获殊荣的摄影风格，融合艺术婚礼构图、戏剧性却又柔和的光线，以及博物馆级别的细节清晰度。
+
+"negative_prompt": "卡通、插画、绘画、CGI、人工质感、恐怖谷效应、面部特征扭曲、多余肢体、身体部位畸形、眼睛不对称、皮肤纹理不自然、塑料皮肤、模糊、噪点、像素化、低分辨率、色彩过饱和、色彩褪色、强光、阴影过重、高光过曝、低对比度、镜头畸变、鱼眼效果、人体解剖结构错误、多余手指、手型错误、水印、文字、标志、边框、画框、压缩伪影、故障、比例失调、双面人、重复人物、背景扭曲",
+
+"camera_settings": {
+镜头：85mm f/1.4 定焦镜头
+“iso”：100，
+"shutter_speed": "1/400",
+光圈：f/1.4，
+“white_balance”: “5200K 日光”
+},
+
+“风格”： {
+“照明”：“柔和的自然黄金时段、电影般的轮廓光、高动态范围”，
+"color_grade": "高级婚礼影片风格，柔和的色调，奶油色的高光，温暖的底色",
+“氛围”： “浪漫、优雅、艺术感十足的编辑风格”
+},
+
+“作品”： {
+“构图”：“中景肖像，略微倾斜，新郎新娘居中”，
+“焦点”：“锐利的眼睛，柔和的散景背景”，
+"depth_of_field": "浅景深，强调主体分离"
+},
+
+宽度：1024，
+“高度”：1536，
+"num_inference_steps": 36,
+"guidance_scale": 8.0,
+种子：12345
+}
+```
+
+<a id="prompt-682"></a>
+## 案例 682：微缩3D卡通视图展城市最高的三座建筑 (来源 [@michalmalewicz](https://x.com/michalmalewicz/status/1995532450861080956)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/682.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩3D卡通视图展城市最高的三座建筑">
+</div>
+
+**提示词：**
+```
+Present a clear, side miniature 3D cartoon view of [YOUR CITY] tallest buildings. Use minimal textures with realistic materials and soft, lifelike lighting and shadows. Use a clean, minimalistic composition showing exactly the three tallest buildings in Sopot, arranged from LEFT to RIGHT in STRICT descending height order. The tallest must appear visibly tallest, the second must be clearly shorter than the first, and the third must be clearly shorter than the second.
+All buildings must follow accurate relative proportions: if a building is taller in real life, it MUST be taller in the image by the same approximate ratio. No building may be visually stretched or compressed.
+Each building should stand separately on a thin, simple ceramic base. Below each base, centered text should display:
+Height in meters — semibold sans-serif, medium size
+Year built — lighter-weight sans-serif, smaller size, directly beneath the height text
+Provide consistent padding, spacing, leading, and kerning. Write “YOUR CITY NAME” centered above the buildings, using a medium-sized sans-serif font.
+ No building top should overlap or touch the text above.Use accurate architectural proportions based on real-world references.Maintain consistent camera angle and identical scale for each building model.
+No forced perspective. Use straight-on orthographic-style rendering. Do not exaggerate or stylize size differences beyond proportional accuracy.
+
+Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
+```
+
+**中文提示词：**
+```
+以清晰的侧面微缩3D卡通视图展示[您的城市]最高的三座建筑。使用极简的纹理，采用逼真的材质，并运用柔和自然的灯光和阴影。构图简洁明了，清晰地展现索波特最高的三座建筑，并严格按照从左到右的高度递减顺序排列。最高的建筑必须明显高于第一座，第二座必须明显低于第一座，第三座必须明显低于第二座。
+所有建筑物必须遵循准确的相对比例：如果建筑物在现实生活中更高，那么在图像中也必须按大致相同的比例更高。任何建筑物都不得在视觉上被拉伸或压缩。
+每栋建筑模型都应单独放置在一个纤薄简洁的陶瓷底座上。每个底座下方居中显示文字：
+身高（米）— 半粗体无衬线字体，中等字号
+建造年份——较轻的无衬线字体，较小的字号，位于高度文本的正下方
+保持字间距、行距和字距一致。使用中等大小的无衬线字体，在建筑物上方居中书写“您的城市名称”。
+建筑物顶部不得与上方文字重叠或接触。请使用基于真实世界参考资料的精确建筑比例。保持每个建筑模型拍摄角度一致，并采用相同的比例尺。
+避免使用透视错觉。采用正面正投影式渲染。不要夸大或过度修饰尺寸差异，使其超出比例的精确范围。
+
+使用 1080×1080 的正方形构图。使用干净、中性的背景。确保画面中没有多余的物体。
+```
+
+<a id="prompt-681"></a>
+## 案例 681：反推图片json提示词 (来源 [@TugserOkur](https://x.com/TugserOkur/status/1995565865727664507)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/681.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-反推图片json提示词">
+</div>
+
+**提示词：**
+```
+Convert images to JSON requests, including dimensions and detailed information.
+```
+
+**中文提示词：**
+```
+将图片转换为 JSON 请求，包括尺寸和详细信息。
+```
 
 <a id="prompt-680"></a>
 ## 案例 680：OOTD手绘涂鸦分解 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995482012124434547)) 模型：Nano banana pro
