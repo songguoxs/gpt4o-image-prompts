@@ -220,16 +220,6 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
-
-
-
-
-
-
-
-
-
-
 <a id="prompt-680"></a>
 ## 案例 680：OOTD手绘涂鸦分解 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995482012124434547)) 模型：Nano banana pro
 
