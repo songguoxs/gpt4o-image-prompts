@@ -33,6 +33,12 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 726：将一张参考图片转化为一段连贯的电影短片 ](#prompt-726)
+*   [案例 725：朱迪和松果的联名杂志 ](#prompt-725)
+*   [案例 724：年轻女子在浴室镜子前自拍 ](#prompt-724)
+*   [案例 723：手轻轻托着一个城市3D收藏级立体模型 ](#prompt-723)
+*   [案例 722：品牌披萨摄影棚照片 ](#prompt-722)
+*   [案例 721：一幅某某角色的素描 ](#prompt-721)
 *   [案例 720：朱迪Cos春丽尼克Cos小红 ](#prompt-720)
 *   [案例 719：多彩剪贴簿海报风格 ](#prompt-719)
 *   [案例 718：制作一张由省市美食组成的中国地图 ](#prompt-718)
@@ -260,20 +266,445 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-726"></a>
+## 案例 726：将一张参考图片转化为一段连贯的电影短片 (来源 [@firatbilal](https://x.com/firatbilal/status/1996027417215815991)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/726.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将一张参考图片转化为一段连贯的电影短片">
+</div>
 
+**提示词：**
+```
+<role>
+You are an award-winning trailer director + cinematographer + storyboard artist. Your job: turn ONE reference image into a cohesive cinematic short sequence, then output AI-video-ready keyframes.
+</role>
 
+<input>
+User provides: one reference image (image).
+</input>
 
+<non-negotiable rules - continuity & truthfulness>
+1) First, analyze the full composition: identify ALL key subjects (person/group/vehicle/object/animal/props/environment elements) and describe spatial relationships and interactions (left/right/foreground/background, facing direction, what each is doing).
+2) Do NOT guess real identities, exact real-world locations, or brand ownership. Stick to visible facts. Mood/atmosphere inference is allowed, but never present it as real-world truth.
+3) Strict continuity across ALL shots: same subjects, same wardrobe/appearance, same environment, same time-of-day and lighting style. Only action, expression, blocking, framing, angle, and camera movement may change.
+4) Depth of field must be realistic: deeper in wides, shallower in close-ups with natural bokeh. Keep ONE consistent cinematic color grade across the entire sequence.
+5) Do NOT introduce new characters/objects not present in the reference image. If you need tension/conflict, imply it off-screen (shadow, sound, reflection, occlusion, gaze).
+</non-negotiable rules - continuity & truthfulness>
 
+<goal>
+Expand the image into a 10–20 second cinematic clip with a clear theme and emotional progression (setup → build → turn → payoff).
+The user will generate video clips from your keyframes and stitch them into a final sequence.
+</goal>
 
+<step 1 - scene breakdown>
+Output (with clear subheadings):
+- Subjects: list each key subject (A/B/C…), describe visible traits (wardrobe/material/form), relative positions, facing direction, action/state, and any interaction.
+- Environment & Lighting: interior/exterior, spatial layout, background elements, ground/walls/materials, light direction & quality (hard/soft; key/fill/rim), implied time-of-day, 3–8 vibe keywords.
+- Visual Anchors: list 3–6 visual traits that must stay constant across all shots (palette, signature prop, key light source, weather/fog/rain, grain/texture, background markers).
+</step 1 - scene breakdown>
 
+<step 2 - theme & story>
+From the image, propose:
+- Theme: one sentence.
+- Logline: one restrained trailer-style sentence grounded in what the image can support.
+- Emotional Arc: 4 beats (setup/build/turn/payoff), one line each.
+</step 2 - theme & story>
 
+<step 3 - cinematic approach>
+Choose and explain your filmmaking approach (must include):
+- Shot progression strategy: how you move from wide to close (or reverse) to serve the beats
+- Camera movement plan: push/pull/pan/dolly/track/orbit/handheld micro-shake/gimbal—and WHY
+- Lens & exposure suggestions: focal length range (18/24/35/50/85mm etc.), DoF tendency (shallow/medium/deep), shutter “feel” (cinematic vs documentary)
+- Light & color: contrast, key tones, material rendering priorities, optional grain (must match the reference style)
+</step 3 - cinematic approach>
 
+<step 4 - keyframes for AI video (primary deliverable)>
+Output a Keyframe List: default 9–12 frames (later assembled into ONE master grid). These frames must stitch into a coherent 10–20s sequence with a clear 4-beat arc.
+Each frame must be a plausible continuation within the SAME environment.
 
+Use this exact format per frame:
 
+[KF# | suggested duration (sec) | shot type (ELS/LS/MLS/MS/MCU/CU/ECU/Low/Worm’s-eye/High/Bird’s-eye/Insert)]
+- Composition: subject placement, foreground/mid/background, leading lines, gaze direction
+- Action/beat: what visibly happens (simple, executable)
+- Camera: height, angle, movement (e.g., slow 5% push-in / 1m lateral move / subtle handheld)
+- Lens/DoF: focal length (mm), DoF (shallow/medium/deep), focus target
+- Lighting & grade: keep consistent; call out highlight/shadow emphasis
+- Sound/atmos (optional): one line (wind, city hum, footsteps, metal creak) to support editing rhythm
 
+Hard requirements:
+- Must include: 1 environment-establishing wide, 1 intimate close-up, 1 extreme detail ECU, and 1 power-angle shot (low or high).
+- Ensure edit-motivated continuity between shots (eyeline match, action continuation, consistent screen direction / axis).
+</step 4 - keyframes for AI video>
 
+<step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>
+You MUST additionally output ONE single master image: a Cinematic Contact Sheet / Storyboard Grid containing ALL keyframes in one large image.
+- Default grid: 3x3. If more than 9 keyframes, use 4x3 or 5x3 so every keyframe fits into ONE image.
+Requirements:
+1) The single master image must include every keyframe as a separate panel (one shot per cell) for easy selection.
+2) Each panel must be clearly labeled: KF number + shot type + suggested duration (labels placed in safe margins, never covering the subject).
+3) Strict continuity across ALL panels: same subjects, same wardrobe/appearance, same environment, same lighting & same cinematic color grade; only action/expression/blocking/framing/movement changes.
+4) DoF shifts realistically: shallow in close-ups, deeper in wides; photoreal textures and consistent grading.
+5) After the master grid image, output the full text breakdown for each KF in order so the user can regenerate any single frame at higher quality.
+</step 5 - contact sheet output>
 
+<final output format>
+Output in this order:
+A) Scene Breakdown
+B) Theme & Story
+C) Cinematic Approach
+D) Keyframes (KF# list)
+E) ONE Master Contact Sheet Image (All KFs in one grid)
+</final output format>
+```
+
+**中文提示词：**
+```
+<role>
+你是一位屡获殊荣的预告片导演、摄影师和故事板艺术家。你的任务是：将一张参考图片转化为一段连贯的电影短片，然后输出可用于人工智能视频的关键帧。
+</role>
+
+<input>
+用户提供：一张参考图片（图片）。
+</输入>
+
+<non-negotiable rules - continuity & truthfulness>
+1）首先，分析整个构图：识别所有关键主题（人物/群体/车辆/物体/动物/道具/环境元素），并描述空间关系和互动（左/右/前景/背景、朝向、每个人在做什么）。
+2) 请勿猜测真实身份、确切地点或品牌归属。请以显而易见的事实为依据。可以推断氛围/情绪，但绝不能将其作为真实情况呈现。
+3）所有镜头必须严格保持一致：相同的拍摄对象、相同的服装/造型、相同的环境、相同的拍摄时间和光线风格。只有动作、表情、走位、构图、角度和镜头运动可以改变。
+4）景深必须真实：广角镜头景深要深，特写镜头景深要浅，并带有自然的散景效果。整个序列要保持一致的电影级色彩。
+5）不要引入参考图中不存在的新角色/物体。如果需要制造紧张/冲突，请通过画面外的方式暗示（阴影、声音、反射、遮挡、目光）。
+</non-negotiable rules - continuity & truthfulness>
+
+<goal>
+将图像扩展成 10-20 秒的电影片段，具有清晰的主题和情感发展（铺垫→发展→转折→高潮）。
+用户将根据你的关键帧生成视频片段，并将它们拼接成最终序列。
+</goal>
+
+<step 1 - scene breakdown>
+输出结果（含清晰的小标题）：
+- 主题：列出每个主要主题（A/B/C…），描述可见特征（服装/材料/形式）、相对位置、朝向、动作/状态以及任何互动。
+- 环境与照明：室内/室外、空间布局、背景元素、地面/墙壁/材质、光线方向和质量（硬光/柔光；主光/补光/边缘光）、暗示的时间、3-8 个氛围关键词。
+- 视觉锚点：列出 3-6 个在所有镜头中必须保持不变的视觉特征（调色板、标志性道具、主要光源、天气/雾/雨、颗粒/纹理、背景标记）。
+</step 1 - scene breakdown>
+
+<step 2 - theme & story>
+根据图片，提出以下建议：
+主题：一句话。
+- 剧情简介：一句简洁的预告片式句子，内容基于画面所能表达的信息。
+- 情感弧：4 个节拍（铺垫/发展/转折/高潮），每个节拍一行。
+</step 2 - theme & story>
+
+<step 3 - cinematic approach>
+选择并解释你的电影制作方法（必须包含）：
+- 投篮进位策略：如何从远距离到近距离（或反向）移动以把握投篮节奏
+- 摄像机运动方案：推/拉/摇摄/轨道/跟踪/环绕/手持微抖/云台——以及原因
+- 镜头和曝光建议：焦距范围（18/24/35/50/85mm 等）、景深倾向（浅/中/深）、快门“感觉”（电影感 vs 纪录片感）
+- 光线和色彩：对比度、主色调、材质渲染优先级、可选颗粒（必须与参考风格匹配） 
+</step 3 - cinematic approach>
+
+<step 4 - keyframes for AI video (primary deliverable)>
+输出关键帧列表：默认 9-12 帧（稍后组装成一个主网格）。这些帧必须拼接成一个连贯的 10-20 秒序列，并具有清晰的 4 拍弧线。
+每一帧都必须是同一环境下的合理延续。
+
+每帧必须使用以下精确格式：
+
+[KF# | 建议时长（秒） | 镜头类型（ELS/LS/MLS/MS/MCU/CU/ECU/低角度/仰视/高角度/鸟瞰/插入）]
+- 构图：主体位置、前景/中景/背景、引导线、视线方向
+- 动作/节拍：肉眼可见的事件（简单、可执行）
+- 摄像机：高度、角度、移动（例如，缓慢推进 5% / 横向移动 1 米 / 轻微手持）
+- 镜头/景深：焦距（毫米），景深（浅/中/深），对焦目标
+- 灯光和调色：保持一致；突出高光/阴影
+- 音效/氛围（可选）：一条音轨（风声、城市嗡鸣、脚步声、金属嘎吱声），用于辅助节奏编辑。
+
+硬性要求：
+- 必须包含：1 张环境全景照片、1 张亲密特写照片、1 张极致细节特写照片和 1 张力量角度照片（低角度或高角度）。
+- 确保镜头之间剪辑驱动的连续性（视线匹配、动作延续、一致的屏幕方向/轴线）。 
+</step 4 - keyframes for AI video>
+
+<step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>
+您还必须输出一张主图像：一张包含所有关键帧的电影联系表/故事板网格图。
+- 默认网格：3x3。如果关键帧超过 9 个，请使用 4x3 或 5x3，以便每个关键帧都能适应一张图像。
+要求：
+1) 单个主图像必须包含每个关键帧作为单独的面板（每个单元格一个镜头），以便于选择。
+2) 每个面板必须清楚地标明：KF 编号 + 拍摄类型 + 建议持续时间（标签放置在安全边距内，绝不能遮挡主体）。
+3）所有面板之间严格保持连续性：相同的主题、相同的服装/外观、相同的环境、相同的灯光和相同的电影色彩分级；只有动作/表情/场景调度/构图/运动方面的变化。
+4) 景深变化真实：特写镜头景深较浅，广角镜头景深较深；逼真的纹理和一致的调色。
+5) 在主网格图像之后，按顺序输出每个 KF 的完整文本分解，以便用户可以以更高的质量重新生成任何单个帧。
+</step 5 - contact sheet output>
+
+<final output format>
+按以下顺序输出：
+A) 场景分解
+B)主题与故事
+C) 电影化手法
+D)关键帧（KF# 列表）
+E) 一张主联系表图片（所有关键指标在一个网格中）
+</final output format>
+```
+
+<a id="prompt-725"></a>
+## 案例 725：朱迪和松果的联名杂志 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1996384672402870774)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/725.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-朱迪和松果的联名杂志">
+</div>
+
+**中文提示词：**
+```
+一张宽高比为9:16的垂直肖像照片，展示了一张干净、独立的高级光面时尚杂志封面。杂志顶部是巨大的黑色粗衬线字体标题“SONGGUO”，散发着奢华品牌的氛围。主视觉是《疯狂动物城》朱迪·霍普斯（Judy Hopps）的超写实高级时尚大片。她摆出自信、充满张力的超模姿势，手中精致地拿着一颗天然松果。朱迪穿着一套极其显眼、夺目且昂贵的高级定制时装（例如带有金色刺绣结构的鲜艳祖母绿丝绸外套），服装设计华丽奢华，与松果的视觉元素完全无关。主标题下方是非常简短的副标题：“JUDY x SONGGUO”。封面底部角落包含期号“ISSUE 2025”、今天的日期、一个逼真的条形码和价格“$25.00”。背景是干净、中性的高级摄影棚渐变背景。电影级影棚布光，极高清晰度，8k分辨率，质感丰富。
+```
+
+<a id="prompt-724"></a>
+## 案例 724：年轻女子在浴室镜子前自拍 (来源 [@gaucheai](https://x.com/gaucheai/status/1996184483343520186)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/724.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子在浴室镜子前自拍">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "description": "Young woman taking bathroom mirror selfie, innocent doe eyes but the outfit tells another story",
+    "mirror_rules": "facing mirror, hips slightly angled, close to mirror filling frame",
+    "age": "early 20s",
+    
+    "expression": {
+      "eyes": "big innocent doe eyes looking up through lashes, 'who me?' energy",
+      "mouth": "soft pout, lips slightly parted, maybe tiny tongue touching corner",
+      "brows": "soft, slightly raised, faux innocent",
+      "overall": "angel face but devil body, the contrast is the whole point"
+    },
+    
+    "hair": {
+      "color": "platinum blonde",
+      "style": "messy bun or claw clip, loose strands framing face, effortless"
+    },
+    
+    "body": {
+      "waist": "tiny",
+      "ass": "round, full, fabric of shorts riding up and clinging between cheeks, every curve visible through thin athletic material",
+      "thighs": "thick, soft, shorts barely containing"
+    },
+    
+    "clothing": {
+      "top": {
+        "type": "ULTRA mini crop tee",
+        "color": "yellow",
+        "graphic": "single BANANA logo/graphic",
+        "fit": "barely containing chest, fabric stretched tight, ends just below, shows full stomach"
+      },
+      "bottom": {
+        "type": "tight tennis skort or athletic booty shorts",
+        "color": "white",
+        "material": "thin stretchy athletic fabric",
+        "fit": "vacuum tight, riding up, clinging between cheeks, fabric creases visible, leaving nothing to imagination"
+      }
+    },
+    
+    "face": {
+      "features": "pretty - big eyes, small nose, full lips",
+      "makeup": "minimal, natural, lip gloss, no-makeup makeup"
+    }
+  },
+
+  "accessories": {
+    "headwear": {
+      "type": "Goorin Bros cap",
+      "details": "black with animal patch, worn backwards or tilted"
+    },
+    "headphones": {
+      "type": "over-ear white headphones",
+      "position": "around neck"
+    },
+    "device": {
+      "type": "iPhone",
+      "details": "visible in mirror, held at chest level"
+    }
+  },
+
+  "photography": {
+    "camera_style": "casual iPhone mirror selfie, NOT professional",
+    "quality": "iPhone camera - good but not studio, realistic social media quality",
+    "angle": "eye-level, straight on mirror",
+    "shot_type": "3/4 body, close to mirror",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "natural, slightly grainy iPhone look, not over-processed"
+  },
+
+  "background": {
+    "setting": "regular apartment bathroom",
+    "style": "normal NYC apartment bathroom, not luxury",
+    "elements": [
+      "white subway tile walls",
+      "basic bathroom mirror with good lighting above",
+      "simple white sink vanity",
+      "toiletries visible - skincare bottles, toothbrush holder",
+      "towel hanging on hook",
+      "maybe shower curtain edge visible",
+      "small plant on counter"
+    ],
+    "atmosphere": "real bathroom, lived-in, normal home",
+    "lighting": "good vanity lighting above mirror - bright, even, flattering but not studio"
+  },
+
+  "vibe": {
+    "energy": "innocent face + sinful body = the whole game",
+    "mood": "just got ready for tennis but making content first, 'what?' expression while wearing basically nothing",
+    "contrast": "doe eyes + ass eating the shorts = lethal",
+    "caption_energy": "'tennis anyone? 🍌' or 'running late oops'"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+描述：年轻女子在浴室镜子前自拍，眼神清澈无辜，但她的穿着却透露出截然不同的故事。
+“miror_rules”: “面对镜子，臀部略微倾斜，靠近镜子，充满画面”，
+“年龄”：“20岁出头”，
+
+“表达”： {
+“眼睛”：“一双天真无邪的大眼睛透过睫毛向上望去，带着‘是我吗？’的神情”，
+“嘴唇”： “微微嘟起，嘴唇微张，也许有一条小舌头触碰到嘴角”，
+“眉毛”：“柔和的，微微上扬的，装出一副天真无邪的样子”，
+“总体而言”：“天使般的面孔，魔鬼般的身躯，这种反差正是关键所在”。
+},
+
+“头发”： {
+“颜色”： “铂金色”
+“发型”：“凌乱的发髻或发夹，几缕碎发垂在脸颊两侧，轻松随意”
+},
+
+“身体”： {
+“腰部”: “纤细”，
+“屁股”：“圆润饱满，短裤的布料向上滑，紧贴着两瓣臀肉，透过薄薄的运动面料，每一处曲线都清晰可见。”
+“大腿”：“丰满、柔软、短裤几乎遮不住”
+},
+
+“衣服”： {
+“顶部”： {
+"type": "ULTRA mini crop tee",
+“颜色”: “黄色”
+"图形": "单个香蕉标志/图形",
+“紧身”：“勉强遮住胸部，布料紧紧绷着，下摆刚好在胸部下方，露出丰满的腹部”
+},
+“底部”： {
+“类型”：“紧身网球裙裤或运动短裤”，
+颜色：白色，
+材质：轻薄弹力运动面料
+“贴身”：“紧贴皮肤，向上滑，夹在两颊之间，布料褶皱清晰可见，一览无余”
+}
+},
+
+“脸”： {
+“五官”：“漂亮——大眼睛，小鼻子，丰满的嘴唇”，
+“妆容”：“极简、自然、唇彩、伪素颜”
+}
+},
+
+“配件”： {
+"头饰": {
+"type": "Goorin Bros cap",
+“细节”：“黑色，带动物图案贴片，反穿或倾斜穿着”
+},
+“耳机”： {
+“类型”：“白色头戴式耳机”，
+位置：颈部周围
+},
+“设备”： {
+"type": "iPhone",
+“细节”：“在镜子中可见，举到胸前”
+}
+},
+
+“摄影”： {
+“camera_style”：“随意的 iPhone 镜子自拍，非专业拍摄”
+“质量”：“iPhone 相机——不错，但达不到影棚拍摄效果，适合社交媒体使用。”
+“角度”: “与眼睛齐平，正对着镜子”，
+"shot_type": "3/4 身像，靠近镜子",
+"aspect_ratio": "9:16 垂直",
+“质感”：“自然、略带颗粒感的 iPhone 风格，未经过度处理”
+},
+
+“背景”： {
+“设置”: “普通公寓浴室”
+“风格”：“普通的纽约公寓浴室，不是豪华的”，
+“元素”：[
+“白色地铁瓷砖墙”，
+“带良好上方照明的普通浴室镜”
+“简约白色洗手盆盥洗台”，
+“洗漱用品一览无余——护肤品瓶、牙刷架”，
+“挂在钩子上的毛巾”
+“或许能看到浴帘边缘”，
+“柜台上的小植物”
+],
+“氛围”：“真实的浴室，有人居住的，普通的家”，
+“照明”：“镜子上方有合适的梳妆灯——明亮、均匀、讨人喜欢，但不是影棚灯”。
+},
+
+"氛围": {
+“能量”：“纯洁的脸庞+罪恶的身体=整个游戏”，
+“心情”：“刚准备好打网球，但先拍了些内容，一副‘什么？’的表情，几乎没穿衣服。”
+“对比”：“小鹿般的眼睛 + 屁股吃短裤 = 致命的”，
+"caption_energy": "'有人想打网球吗？ 🍌 ' 或 '迟到了，哎呀'"
+}
+}
+```
+
+<a id="prompt-723"></a>
+## 案例 723：手轻轻托着一个城市3D收藏级立体模型 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1996175652140323162)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/723.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手轻轻托着一个城市3D收藏级立体模型">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic 1080x1080 square render of a human hand gently holding a rounded, beveled miniature display platform showcasing a 3D collectible diorama of [CITY]. Feature its most iconic landmarks, small-scale modern and historical architecture, and lush miniature greenery and trees. A bold 3D “[CITY]” sign is cleanly built into the front edge of the platform. Use a refined, desaturated color scheme with matte textures to enhance the realistic scale-model look. Light the scene with soft studio illumination, warm highlights, and subtle depth shadows. Place the composition against a neutral gray gradient backdrop, keeping the same viewing angle and perspective for consistency. Add atmospheric depth, photorealistic textures, and ultra-precise detailing for an 8K quality high-end collectible aesthetic
+```
+
+**中文提示词：**
+```
+创作一幅超逼真的 1080x1080 像素正方形渲染图，描绘一只人手轻轻托着一个圆润的斜面微缩展示台，台上展示着[城市名称]的 3D 收藏级立体模型。模型应包含该城市最具标志性的地标、微缩的现代和历史建筑，以及郁郁葱葱的微缩绿植和树木。醒目的 3D “[城市名称]” 标志清晰地嵌入展示台的前缘。使用精致的低饱和度配色方案和哑光纹理，增强模型的逼真效果。场景采用柔和的摄影棚照明，辅以温暖的高光和微妙的阴影。将画面置于中性灰色渐变背景前，保持相同的视角和透视，以保持一致性。添加大气深度、照片级纹理和超精细的细节处理，打造 8K 高清品质的高端收藏级美感。
+```
+
+<a id="prompt-722"></a>
+## 案例 722：品牌披萨摄影棚照片 (来源 [@AmirMushich](https://x.com/AmirMushich/status/1995905545476128805)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/722.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌披萨摄影棚照片">
+</div>
+
+**提示词：**
+```
+A surreal studio photograph of a slice of pizza with its cheese topping transformed into a thick, melted, flowing substance resembling molten porcelain or ceramic. This flowing mass is covered in a repeating [BRAND COLORS] and white Delftware-style pattern of the [BRAND NAME] logo and motifs. It drips in long strands from the pizza slice and pools onto the surface below, retaining the blue and white logo pattern even in the puddle. The crust is visible but overwhelmed by the patterned flow. The background is a solid, plain [COLOR COLOR]. Studio lighting, soft shadows.
+```
+
+**中文提示词：**
+```
+一张超现实主义的摄影棚照片，展现了一片披萨，其上的芝士融化成浓稠的、流动的物质，宛如熔化的瓷器或陶瓷。这团流动的物质上覆盖着重复的[品牌颜色]和白色代尔夫特陶器风格的[品牌名称]标志和图案。它从披萨片上滴落，汇聚到下方的表面上，即使在积聚的液体中，蓝白相间的品牌标志图案依然清晰可见。披萨饼皮清晰可见，但已被流动的图案所掩盖。背景是纯色的[颜色]。摄影棚灯光，柔和的阴影。
+```
+
+<a id="prompt-721"></a>
+## 案例 721：一幅某某角色的素描 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1996270726026784792)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/721.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅某某角色的素描">
+<img src="./images/721-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅某某角色的素描">
+</div>
+
+**提示词：**
+```
+a drawing of [Character], crayon on white paper, in the style of a children's book illustration – simple, cute, and full-color, with [two glitter accent colors] glitter accents and high detail.
+```
+
+**中文提示词：**
+```
+一幅[角色]的素描，用蜡笔画在白纸上，风格类似儿童绘本插图——简单、可爱、色彩丰富，带有[两种闪光点缀色]闪光点缀和高细节。
+```
 
 <a id="prompt-720"></a>
 ## 案例 720：朱迪Cos春丽尼克Cos小红 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1996214786355560844)) 模型：Nano banana pro
