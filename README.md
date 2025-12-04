@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 736：MacBook自拍（情侣款） ](#prompt-736)
+*   [案例 735：超现实的数字艺术吊死鬼 ](#prompt-735)
+*   [案例 734：将漫画人物转化为超逼真的人类 ](#prompt-734)
+*   [案例 733：一张甜美写实的女生肖像照 ](#prompt-733)
+*   [案例 732：厨师服极其精细的微缩场景 ](#prompt-732)
+*   [案例 731：女生站在黑板旁手里拿着粉笔 ](#prompt-731)
+*   [案例 730：倚靠在柜台上的女生 ](#prompt-730)
+*   [案例 729：一幅12张独立照片的秋季时尚拼贴画 ](#prompt-729)
+*   [案例 728：一张黑白影棚肖像照 ](#prompt-728)
+*   [案例 727：采用垂直切片失真的高级时尚人像 ](#prompt-727)
 *   [案例 726：将一张参考图片转化为一段连贯的电影短片 ](#prompt-726)
 *   [案例 725：朱迪和松果的联名杂志 ](#prompt-725)
 *   [案例 724：年轻女子在浴室镜子前自拍 ](#prompt-724)
@@ -265,6 +275,630 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-736"></a>
+## 案例 736：MacBook自拍（情侣款） (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1996186805398364512)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/736.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-MacBook自拍（情侣款）">
+</div>
+
+**提示词：**
+```
+{
+  "task_configuration": {
+    "task_type": "screen_simulation_photorealism",
+    "target_model": "SDXL_1.0_Refiner",
+    "aspect_ratio": "3:4",
+    "resolution": {
+      "width": 1152,
+      "height": 1536
+    }
+  },
+  "visual_hierarchy": {
+    "layer_1_physical_macro": {
+      "camera_angle": "Downward-angled, high-angle",
+      "framing": "MacBook screen filling 95% of frame",
+      "surface_imperfections": [
+        "subtle pixel-grid texture (moire)",
+        "tiny dust particles on glass",
+        "faint ambient light reflection on glossy screen",
+        "fingerprint smudges"
+      ],
+      "foreground_anchor": "Thin strip of physical keyboard visible at lower edge"
+    },
+    "layer_2_digital_interface": {
+      "theme": "Dark Mode (macOS)",
+      "window_layout": {
+        "left_panel": "Spotify 'Liked Songs' playlist (dimmed)",
+        "right_panel": "Photo Booth live-preview window (dominant focus)"
+      }
+    },
+    "layer_3_nested_subject_content": {
+      "context": "Inside the Photo Booth window",
+      "environment": "Dim bedroom, off-white wall, rumpled bedding",
+      "lighting_simulation": "Cool screen glow mixed with warm skin tones, deep nocturnal shadows",
+      "subjects": {
+        "shared_attributes": [
+          "Oversized black hoodies",
+          "Hoods pushed back (faces fully visible)",
+          "Reclining pose",
+          "Looking at screen"
+        ],
+        "subject_a_guy": {
+          "identity_target": "reference_image_male.jpg",
+          "action": "Holding phone in right hand with clear reflective case",
+          "position": "Right/Center"
+        },
+        "subject_b_girl": {
+          "identity_target": "reference_image_female.jpg",
+          "action": "Resting closely beside Subject A",
+          "position": "Left/Center"
+        }
+      }
+    }
+  },
+  "prompt_assembly": {
+    "positive_prompt": "Hyper-realistic downward shot of a MacBook screen. The screen surface has visible dust, pixel grid, and reflection. The screen displays a Photo Booth window showing a couple in a dark room. [Subject Descriptions]. They are wearing black hoodies. The lighting is low-key, candid, nocturnal, blue-ish screen glow. High fidelity, raw photo, unedited.",
+    "negative_prompt": "vector art, screenshot, flat digital image, clean glass, perfect screen, daylight, bright studio lights, cartoon, 3d render, painting, watermark"
+  },
+  "identity_preservation_settings": {
+    "strictness_level": "CRITICAL",
+    "methodology": {
+      "face_restoration": false,
+      "note": "Disable generic face restorers (CodeFormer) to avoid 'plastic' look. Use IP-Adapter.",
+      "control_net_stack": [
+        {
+          "unit": "ControlNet_Tile",
+          "weight": 0.4,
+          "purpose": "To maintain the text/interface sharpness"
+        },
+        {
+          "unit": "IP-Adapter_FaceID_Plus",
+          "weight": 0.95,
+          "region_mask": "Photo Booth Window Area Only",
+          "purpose": "To force exact facial identity match for both subjects"
+        }
+      ]
+    }
+  },
+  "rendering_parameters": {
+    "sampler": "DPM++ 3M SDE Exponential",
+    "steps": 40,
+    "cfg_scale": 5.5,
+    "denoising_strength": 0.35
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"task_configuration": {
+"task_type": "screen_simulation_photorealism",
+"target_model": "SDXL_1. 0_精炼器",
+"aspect_ratio": "3:4",
+“解决”： {
+宽度：1152，
+“高度”：1536
+}
+},
+"visual_hierarchy": {
+"layer_1_physical_macro": {
+"camera_angle": "向下倾斜，高角度",
+“画面构图”：“MacBook 屏幕占据画面 95% 的面积”，
+"surface_imperfections": [
+“微妙的像素网格纹理（莫尔纹）”，
+“玻璃上的微小灰尘颗粒”，
+“光滑屏幕上的微弱环境光反射”
+“指纹污迹”
+],
+"foreground_anchor": "键盘下边缘可见的细长物理键盘条"
+},
+"layer_2_digital_interface": {
+“主题”：“深色模式（macOS）”，
+"window_layout": {
+"left_panel": "Spotify“喜欢的歌曲”播放列表（暗淡）",
+"right_panel": "Photo Booth 实时预览窗口（主要焦点）"
+}
+},
+"layer_3_nested_subject_content": {
+“上下文”：“照相亭窗口内”，
+“环境”：“昏暗的卧室，米白色的墙壁，凌乱的床铺”，
+"lighting_simulation": "冷色调的屏幕光晕与暖色调的肤色混合，深邃的夜色阴影",
+“主题”：{
+"shared_attributes": [
+“超大号黑色连帽衫”，
+“兜帽向后推（脸完全露出来）”
+“斜倚姿势”，
+“看着屏幕”
+],
+"subject_a_guy": {
+"identity_target": "reference_image_male.jpg",
+“动作”：“右手持手机，手机壳为透明反光材质”，
+“位置”: “右/中”
+},
+"subject_b_girl": {
+"identity_target": "reference_image_female.jpg",
+“动作”：“紧挨着受试者 A 休息”，
+位置：左/中
+}
+}
+}
+},
+"prompt_assembly": {
+"positive_prompt": "一张超逼真的MacBook屏幕俯拍照片。屏幕表面可见灰尘、像素网格和反光。屏幕上显示着一个Photo Booth窗口，里面是一对情侣在黑暗的房间里。[人物描述]。他们穿着黑色连帽衫。光线昏暗，自然，夜色，屏幕泛着淡淡的蓝色光晕。高保真，原始照片，未经编辑。"
+"negative_prompt": "矢量图、屏幕截图、平面数字图像、干净的玻璃、完美的屏幕、日光、明亮的摄影棚灯光、卡通、3D渲染、绘画、水印"
+},
+"identity_preservation_settings": {
+"严格级别": "严重",
+“方法论”：{
+“face_restoration”：false，
+注意：禁用通用面部恢复器（CodeFormer）以避免出现“塑料感”。使用 IP 适配器。
+"control_net_stack": [
+{
+"单元": "ControlNet_Tile",
+“权重”：0.4，
+“目的”： “保持文本/界面清晰度”
+},
+{
+"unit": "IP-Adapter_FaceID_Plus",
+“权重”：0.95，
+"region_mask": "仅限照相亭窗口区域",
+目的：强制两个受试者的面部身份完全匹配
+}
+]
+}
+},
+"渲染参数": {
+"采样器": "DPM++ 3M SDE 指数",
+“步骤”：40，
+"cfg_scale": 5.5,
+去噪强度：0.35
+}
+}
+```
+
+<a id="prompt-735"></a>
+## 案例 735：超现实的数字艺术吊死鬼 (来源 [@servasyy](https://x.com/servasyy/status/1996469072037298657)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/735.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超现实的数字艺术吊死鬼">
+</div>
+
+**提示词：**
+```
+A surreal digital art composition showing a young woman with dark short hair wearing a black strapless top and long flowing black skirt, viewed from a front-facing angle. The white arrow-shaped computer mouse cursor grips a small portion of fabric at the back of her strapless top, between her shoulder blades, suspending her from behind. Her body displays clear physics of being hung from the back: her torso leans slightly forward, shoulders pulled back and upward from the suspension point behind her, creating visible tension in her posture. Her chest and upper body are pushed forward slightly due to the back suspension. Her bare arms hang completely limp and loose at her sides, dangling naturally downward. Her head tilts to her left shoulder with a contemplative, resigned expression. The black skirt flows down naturally. The overall posture clearly shows she is being lifted and suspended by a grip point on her back, with her body weight pulling downward while being held from behind.
+
+She is seamlessly integrated into a photorealistic Windows 11 desktop screenshot. The scene shows a Google Chrome browser window occupying the right two-thirds of the screen, partially overlapping desktop icons on the left. The mouse cursor is positioned in the Chrome address bar, with the woman's suspended body hanging downward into the Google search results area below.
+
+Desktop left side shows multiple icons including: Recycle Bin, PDF files, This PC, Desktop Shortcuts, desktop pet, Microsoft Edge, File Explorer, Google Chrome shortcuts, and various other application icons against a vibrant blue and purple flowing abstract background.
+
+Chrome browser displays: tab labeled "desktop pet | Google Search", address bar with "http://google.com/search?q=%in.desktoppet?=artlatalld=160372%2067cfD-1558631928%225)...", search bar with "desktop pet" text, navigation options (All, Image, News, Videos, More, Tools). Search results show fragmented text about desktop pets with URLs and dates. Right sidebar shows "desktop pet" heading with descriptive text and related information.
+
+Windows 11 taskbar at bottom features: Search, Task View, File Explorer, Microsoft Edge, Store, Photos, Google Chrome, Calendar icons, plus Wi-Fi, Speaker, Battery system tray icons, and time showing "5:25 AM 11/29/2025".
+
+Flat perspective as if viewing screen directly, even diffused lighting from screen casting subtle shadow of woman and cursor onto search results. Emphasis on the hanging, suspended posture from back grip point. Clean, bright, neutral color grading with modern OS aesthetic. Photorealistic digital elements with surreal human integration.
+```
+
+**中文提示词：**
+```
+这是一幅超现实的数字艺术作品，画面中一位年轻女子，留着深色短发，身穿黑色抹胸上衣和飘逸的黑色长裙，视角为正面。白色的箭头形鼠标光标抓住她抹胸上衣后背肩胛骨之间的一小块布料，将她从背后悬吊起来。她的身体姿态清晰地展现出被后悬吊的物理特性：躯干略微前倾，双肩因后方的悬吊点而向后向上拉伸，使她的姿势呈现出明显的张力。由于背部的悬吊，她的胸部和上半身略微向前突出。她裸露的双臂完全无力地垂在身体两侧，自然下垂。她的头微微偏向左肩，神情沉思而无奈。黑色长裙自然垂落。整体姿态清晰地表明，她被背部的某个抓点提起并悬吊起来，身体的重量在后方支撑的同时向下牵拉。
+
+她完美地融入了一张逼真的Windows 11桌面截图中。画面右侧三分之二的区域被一个谷歌Chrome浏览器窗口占据，与左侧的桌面图标部分重叠。鼠标光标位于Chrome的地址栏中，而女子悬空的身体则垂落到下方的谷歌搜索结果区域。
+
+桌面左侧显示多个图标，包括：回收站、PDF 文件、此电脑、桌面快捷方式、桌面宠物、Microsoft Edge、文件资源管理器、Google Chrome 快捷方式以及各种其他应用程序图标，背景是充满活力的蓝色和紫色流动抽象背景。
+
+Chrome浏览器显示：标签页标题为“桌面宠物 | Google 搜索”，地址栏显示“ http://google.com/search?q=%in.desktoppet?=artlatalld=160372%2067cfD-1558631928%225 ) ..." ，搜索栏显示“桌面宠物”字样，导航选项包括“全部”、“图片”、“新闻”、“视频”、“更多”、“工具”。搜索结果显示关于桌面宠物的零散文本，包含网址和日期。右侧边栏显示“桌面宠物”标题，以及描述性文字和相关信息。
+
+Windows 11 底部任务栏功能包括：搜索、任务视图、文件资源管理器、Microsoft Edge、应用商店、照片、Google Chrome、日历图标，以及 Wi-Fi、扬声器、电池系统托盘图标，时间显示为“2025 年 11 月 29 日 上午 5:25”。
+
+平面视角，如同直接观看屏幕，屏幕漫射光甚至在搜索结果上投射出女性和光标的微妙阴影。着重表现从背部握点处悬挂的姿态。干净、明亮、中性的色彩分级，符合现代操作系统美学。逼真的数字元素与超现实的人体融合。
+```
+
+<a id="prompt-734"></a>
+## 案例 734：将漫画人物转化为超逼真的人类 (来源 [@dotey](https://x.com/dotey/status/1996281855503372510)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/734.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将漫画人物转化为超逼真的人类">
+<img src="./images/734-2.png" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将漫画人物转化为超逼真的人类">
+</div>
+
+**提示词：**
+```
+Transform this comic character into an ultra-realistic human while preserving the original hairstyle, outfit, facial expression, and overall character identity.
+The entire scene should use deep depth of field, keeping both the model and the environment extremely sharp, creating an immersive, cinematic smartphone photography look.
+
+STYLE:
+- Cinematic ultra-realistic fashion photography
+- High-resolution smartphone camera aesthetic with crisp, sharp details
+- Dramatic lighting contrast between warm work lights and cool twilight tones
+- the model is the main subject while retaining rich environmental details
+
+TECHNICAL SPECS:
+- Camera: flagship smartphone camera
+- Lens: standard built-in phone lens
+- Aperture: f/8–f/11 for deep depth of field
+- Resolution: 4K or higher
+
+NEGATIVE PROMPT:
+- blurry background, shallow depth of field, bokeh
+- out of focus, distorted face
+- cartoon, anime, CGI character, illustration, painting look
+- low quality, pixelation, noise
+- harsh direct sunlight or overexposed lighting
+```
+
+**中文提示词：**
+```
+将漫画人物转化为超逼真的人类
+
+----提示----
+将这个漫画人物变成一个超逼真的人类，同时保留原有的发型、服装、面部表情和整体人物特征。
+整个场景应使用大景深，使模特和环境都非常清晰，从而营造出沉浸式、电影般的智能手机摄影效果。
+
+风格：
+- 电影级超写实时尚摄影
+- 高分辨率智能手机相机美学，呈现清晰锐利的细节
+- 暖色调工作灯与冷色调黄昏灯光之间形成鲜明的明暗对比
+模型是主要对象，同时保留了丰富的环境细节。
+
+技术规格：
+- 摄像头：旗舰智能手机摄像头
+- 镜头：标准内置手机镜头
+- 光圈：f/8–f/11，以获得较大的景深
+分辨率：4K 或更高
+
+否定提示：
+- 背景虚化、浅景深、散景
+模糊不清、扭曲的脸
+卡通、动画、CGI角色、插画、绘画风格
+画质差、像素化、噪点
+- 强烈的阳光直射或过度曝光的灯光
+```
+
+<a id="prompt-733"></a>
+## 案例 733：一张甜美写实的女生肖像照 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1996180407633768944)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/733.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张甜美写实的女生肖像照">
+</div>
+
+**提示词：**
+```
+Realistic portrait of a sweet-faced woman in her mid-20s, with her face, eyes, ears, nose, and mouth completely unedited, preserving 100% facial accuracy. She is standing facing the camera, joyfully touching her slightly messy bangs with her fingers. Her hair is light brown, long, gently wavy with bangs, moving naturally according to her pose. She wears a gold clover pendant necklace, small gold rings on both hands, and a gold clover bracelet. Her nails are coffin-shaped with a red-to-sky blue gradient and glitter. Her skin is fair with a reddish tone, bright and radiant, and her body type is ideal. Makeup includes long thick eyelashes, pink blush on cheeks and nose for a goddess-like glow, neatly shaped light brown natural eyebrows, and ombre orange lipstick. She is dressed in a fitted maroon long-sleeve Sabrina knit top paired with a layered black mini ruffle skirt. She stands on her home balcony, raising her right hand to sweep her bangs with joy, with a neutral, simple, and energetic expression. The background shows a starry night sky as seen from the balcony. The scene is illuminated by a bright direct camera flash, creating high contrast, bright shadows, and a cool color temperature, giving a raw, sharp night-photography effect. The image is 8K resolution with extremely smooth skin texture, sharp focus, and a masterpiece quality, in portrait orientation.
+```
+
+**中文提示词：**
+```
+这是一张写实的肖像照，照片中的女子面容甜美，二十五六岁。她的脸部、眼睛、耳朵、鼻子和嘴巴都未经任何修饰，百分百还原了真人。她面向镜头站立，手指轻抚着略显凌乱的刘海，显得神采奕奕。她一头浅棕色的长发，微微卷曲，刘海随着她的姿态自然飘动。她佩戴着一条金色的四叶草吊坠项链，双手各戴一枚小巧的金戒指，手上还戴着一条金色的四叶草手链。她的指甲是棺材形，由红渐变至天蓝色，并点缀着闪粉。她的肤色白皙透亮，略带红润光泽，身材匀称完美。妆容精致，浓密纤长的睫毛，双颊和鼻梁上轻扫粉色腮红，更添女神般的光彩，眉形自然，浅棕色的眉毛修剪得十分整齐，唇色则是渐变橘色。她身着一件修身的酒红色长袖Sabrina针织上衣，搭配一条黑色层叠荷叶边迷你裙。她站在自家阳台上，抬起右手，喜悦地拂去额前的碎发，神情自然、清新而充满活力。背景是透过阳台看到的繁星点点的夜空。明亮的相机闪光灯直射画面，营造出高对比度、明亮的阴影和冷色调，呈现出一种原始而锐利的夜景摄影效果。这幅8K分辨率的竖幅照片，拥有极其细腻的肌肤纹理、清晰的焦点和精湛的画质，堪称艺术杰作。
+```
+
+<a id="prompt-732"></a>
+## 案例 732：厨师服极其精细的微缩场景 (来源 [@AleRVG](https://x.com/AleRVG/status/1995770114222801011)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/732.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-厨师服极其精细的微缩场景">
+</div>
+
+**提示词：**
+```
+Extreme detailed miniature diorama: A tiny chef's jacket held between two human fingers, suspended by a wooden hanger. Inside the jacket interior, a complex wooden scaffolding structure. Tiny chef figures (microscopic scale) - one cooking and preparing dishes within tiny pocket kitchens, one plating and presenting food, one organizing tiny kitchen equipment and ingredients. The chef's jacket shows intricate fabric texture with visible chef's buttons and pocket details. Realistic miniature photography, soft diffused lighting. Scale: human fingers → tiny chef jacket → microscopic chef figures. Background: warm wood tones, soft shadows. Whimsical mood - a miniature cooking station contained within physical chef's jacket.
+```
+
+**中文提示词：**
+```
+极其精细的微缩场景：一件迷你厨师服被两根手指夹住，悬挂在木制衣架上。厨师服内部是一个复杂的木制脚手架结构。几个微型厨师人偶（微观比例）——一个在微型厨房里烹饪和准备菜肴，一个摆盘展示美食，一个整理微型厨房用具和食材。厨师服展现出精细的织物纹理，连厨师纽扣和口袋的细节都清晰可见。逼真的微缩摄影，柔和的漫射光。比例：手指→迷你厨师服→微型厨师人偶。背景：温暖的木色调，柔和的阴影。营造出一种奇幻的氛围——一个微型烹饪台被巧妙地隐藏在一件真实的厨师服之中。
+```
+
+<a id="prompt-731"></a>
+## 案例 731：女生站在黑板旁手里拿着粉笔 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1996416718873444749)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/731.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生站在黑板旁手里拿着粉笔">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true,
+       "photo_style": {
+      "type": "indoor classroom portrait",
+      "camera_angle": "three-quarter body shot at eye-level",
+      "lighting": "soft indoor fluorescent lighting with natural classroom ambience",
+      "mood": "friendly, confident, academic",
+      "texture": "clean tones, soft shadows, natural skin texture",
+      "focus": "sharp focus on subject, slightly blurred classroom background"
+    },
+
+    "subject": {
+      "pose": "standing beside a chalkboard while holding chalk, looking toward the camera with a calm expression",
+      "expression": "soft smile, confident and composed",
+      "hair": {
+        "style": "long, loose waves",
+        "color": "light brown"
+      },
+      "clothing": {
+        "type": "professional, modest classroom outfit",
+        "details": "light blue collared blouse paired with a knee-length black skirt or tailored trousers"
+      },
+      "accessories": {
+        "jewelry": "minimal bracelet or small earrings"
+      }
+    },
+
+    "environment": {
+      "setting": "school classroom",
+      "background": "chalkboard with handwritten text, bulletin boards, desks, and educational posters",
+      "atmosphere": "clean, academic, organized"
+    },
+
+    "aesthetic": {
+      "style": "modern classroom portrait",
+      "features": [
+        "natural classroom lighting",
+        "realistic academic environment",
+        "professional and modest outfit",
+        "clean and bright color palette",
+        "engaging educational setting"
+      ]
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation": {
+“脸”： {
+"preserve_original": true,
+"reference_match": true,
+"photo_style": {
+类型：室内教室肖像，
+"camera_angle": "四分之三身像，视线齐平",
+“照明”：“柔和的室内荧光照明，营造自然的教室氛围”，
+“情绪”：“友好、自信、学术”，
+“质感”：“干净的色调，柔和的阴影，自然的肌肤纹理”，
+“焦点”： “主体清晰对焦，教室背景略微模糊”
+},
+
+“主题”： {
+“姿势”：“站在黑板旁，手里拿着粉笔，面带平静的表情看向镜头”，
+“表情”：“柔和的微笑，自信沉稳”，
+“头发”： {
+“风格”：“长长的、蓬松的波浪卷发”，
+颜色：浅棕色
+},
+“衣服”： {
+“类型”：“专业、朴素的课堂服装”，
+“细节”：浅蓝色翻领衬衫搭配黑色及膝裙或修身长裤
+},
+“配件”： {
+“首饰”：“简约手镯或小耳环”
+}
+},
+
+“环境”： {
+“场景”: “学校教室”
+“背景”：“黑板上有手写文字，公告板，课桌和教育海报”，
+氛围：干净、学术、有条理
+},
+
+“审美的”： {
+“风格”：“现代教室肖像”，
+“特征”： [
+“自然教室照明”，
+“真实的学术环境”，
+“专业而朴素的着装”，
+“干净明亮的色彩搭配”，
+“引人入胜的教育环境”
+]
+}
+}
+}
+```
+
+<a id="prompt-730"></a>
+## 案例 730：倚靠在柜台上的女生 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1996516114822471901)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/730.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-倚靠在柜台上的女生">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "scene": "white kitchen countertop",
+    "pose": {
+      "head": "resting on counter",
+      "upper_body": "leaning against counter",
+      "arm": "dangling downward",
+      "legs": "raised and resting against wall"
+    },
+    "outfit": {
+      "dress": "short white dress with red patterns and ribbon details",
+      "cardigan": "red cardigan slipping off one shoulder"
+    },
+    "style": "casual yet stylized look",
+    "subject": "user lying sideways across countertop"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“提示词”： {
+“场景”：“白色厨房台面”，
+"姿势": {
+“头部”：“靠在柜台上”，
+"upper_body": "倚靠在柜台上",
+“手臂”： “向下垂落”，
+“双腿”：“抬起并靠在墙上”
+},
+“全套服装”： {
+“连衣裙”：“带有红色图案和丝带装饰的白色短连衣裙”，
+“开襟羊毛衫”： “红色开襟羊毛衫从一侧肩膀滑落”
+},
+“风格”：“休闲又不失格调的造型”，
+“主题”：“用户侧卧在柜台上”
+}
+}
+```
+
+<a id="prompt-729"></a>
+## 案例 729：一幅12张独立照片的秋季时尚拼贴画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996250545884155933)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/729.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅12张独立照片的秋季时尚拼贴画">
+</div>
+
+**提示词：**
+```
+Create a high‑resolution autumn fashion collage composed of 12 separate photos arranged in a neat grid, each featuring a stylish young woman with different random faces and hairstyles, not resembling any real or famous person. Show her in a variety of cozy outdoor poses: sitting by an old glass greenhouse with a takeaway coffee cup, walking along a tree‑lined path covered in orange leaves,sitting alone on a wooden bench deep in the forest, leaning against a park fence, resting on stone steps with a leather tote bag, lounging on a green park bench in a short dress and knee‑high boots, sitting sideways on a bench, standing near a calm lake lined with orange trees, and standing on a foggy path framed by tall trees. Outfits should mix long wool coats, oversized sweaters, scarves, wide‑brim hat, neutral trousers, knit dresses, and boots in earthy toneslike beige, brown, cream, gray, and black; lighting is warm golden hour with soft, cinematic color grading, shallow depth of field and creamy bokeh, giving the entire collage a cohesive, high‑end editorial influencer aesthetic
+Signature: Shreya Yadav
+```
+
+**中文提示词：**
+```
+创作一幅高分辨率的秋季时尚拼贴画，由12张独立照片组成，排列成整齐的网格状。每张照片都展现一位时尚的年轻女性，她们的脸型和发型各不相同，随机选择，且不能与任何真实人物或名人相似。照片中，她可以摆出各种舒适的户外姿势：坐在古老的玻璃温室旁，手捧一杯外带咖啡；沿着铺满橙叶的林荫小道漫步；独自坐在森林深处的木椅上；倚靠在公园的围栏上；手提皮质手提包，倚靠在石阶上；身着短裙和过膝长靴，慵懒地躺在绿色的公园长椅上；侧身坐在长椅上；站在宁静的湖边，湖畔环绕着橙树；以及站在雾气弥漫、高大树木环绕的小路上。服装搭配应包括长款羊毛大衣、宽松毛衣、围巾、宽檐帽、中性色长裤、针织连衣裙和靴子，颜色以米色、棕色、奶油色、灰色和黑色等大地色系为主。温暖的黄金时段光线，柔和的电影级色彩调校，浅景深和奶油般的散景，赋予整幅拼贴画一种和谐统一、高端时尚的网红美学风格。
+签名：Shreya Yadav
+```
+
+<a id="prompt-728"></a>
+## 案例 728：一张黑白影棚肖像照 (来源 [@_imfaizan18](https://x.com/_imfaizan18/status/1996220956201881878)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/728.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张黑白影棚肖像照">
+</div>
+
+**提示词：**
+```
+Black and white studio portrait of the young woman in the uploaded image, looking directly into the camera with a calm, neutral expression. She is wearing a plain black crew-neck sweater. Deep black background with hard-edged studio lighting from the left, crisp facial shadows, sharp highlights on cheekbones, ultra-detailed skin texture, photorealistic, captured with an 85mm lens. 3:4 aspect ratio.
+```
+
+**中文提示词：**
+```
+上传的图片是一张黑白影棚肖像照，照片中的年轻女子面无表情地直视镜头。她身穿一件纯黑色圆领毛衣。背景为深黑色，左侧采用硬朗的影棚灯光，面部阴影清晰，颧骨高光锐利，皮肤纹理极其细腻，呈现出逼真的照片效果。照片使用85mm镜头拍摄，宽高比为3:4。
+```
+
+<a id="prompt-727"></a>
+## 案例 727：采用垂直切片失真的高级时尚人像 (来源 [@gizakdag](https://x.com/gizakdag/status/1996288172624634336)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/727.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-采用垂直切片失真的高级时尚人像">
+</div>
+
+**提示词：**
+```
+{
+  "style": {
+    "name": "vertical_slice_glitch",
+    "description": "High-fashion portrait with vertical slice distortion, glitch splitting, and analog-style grain.",
+    "elements": {
+      "subject": {
+        "type": "fashion_portrait",
+        "framing": "tight_face_centered",
+        "expression": "neutral_or_intense",
+        "lighting": "soft_diffused_studio",
+        "skin_texture": "realistic_with_blush",
+        "wardrobe": "minimal_solid_colors"
+      },
+      "distortion": {
+        "effect": "vertical_slit_scan",
+        "slice_count": "40-80",
+        "slice_thickness": "thin",
+        "displacement_amount": "medium",
+        "alignment": "center_weighted",
+        "smooth_blend_edges": false,
+        "random_offset": true,
+        "direction": "vertical"
+      },
+      "texture": {
+        "grain": "medium_heavy",
+        "noise": "fine_digital_noise",
+        "compression_artifacts": "subtle",
+        "film": "matte_fashion_editorial"
+      },
+      "color_palette": {
+        "background": "#F2F2F2",
+        "tones": "muted_neutral",
+        "accent": "deep_red",
+        "contrast": "medium_high"
+      },
+      "camera": {
+        "lens": "85mm_portrait",
+        "depth_of_field": "shallow",
+        "focus": "eyes",
+        "angle": "straight_on"
+      }
+    }
+  },
+  "output": {
+    "format": "high_fashion_glitch_portrait",
+    "aspect_ratio": "3:4",
+    "resolution": "high"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“风格”： {
+"name": "vertical_slice_glitch",
+“描述”：“采用垂直切片失真、故障分裂和模拟风格颗粒的高级时尚人像。”
+“元素”：{
+“主题”： {
+"type": "fashion_portrait",
+"framing": "tight_face_centered",
+"表达方式": "中性或强烈",
+"照明": "柔和漫射工作室",
+"skin_texture": "realistic_with_blush",
+"衣橱": "极简纯色"
+},
+“失真”： {
+“效果”: “垂直狭缝扫描”
+"slice_count": "40-80",
+"slice_thickness": "薄",
+"displacement_amount": "medium",
+"对齐方式": "中心加权",
+"smooth_blend_edges": false,
+"random_offset": true,
+“方向”: “垂直”
+},
+“质地”： {
+"grain": "medium_heavy",
+"噪声": "精细数字噪声",
+"compression_artifacts": "细微的",
+"film": "matte_fashion_editorial"
+},
+"color_palette": {
+“背景”: “ #F2F2F2 “,
+"色调": "muted_neutral",
+"重音": "深红色",
+"对比度": "中高"
+},
+“相机”： {
+"镜头": "85mm_人像",
+"景深": "浅",
+“焦点”：“眼睛”，
+"角度": "直视"
+}
+}
+},
+“输出”： {
+"格式": "high_fashion_glitch_portrait",
+"aspect_ratio": "3:4",
+分辨率：高
+}
+}
+```
 
 <a id="prompt-726"></a>
 ## 案例 726：将一张参考图片转化为一段连贯的电影短片 (来源 [@firatbilal](https://x.com/firatbilal/status/1996027417215815991)) 模型：Nano banana pro
