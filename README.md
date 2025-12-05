@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 750：电影感胶片印样大师 ](#prompt-750)
+*   [案例 749：电影混合媒体肖像 ](#prompt-749)
+*   [案例 748：巨大的时尚弧形3D广告牌上的女士 ](#prompt-748)
 *   [案例 747：和明星自拍还可以走进任意电影的片场 ](#prompt-747)
 *   [案例 746：超高清4K皮克斯风格的3D肖像 ](#prompt-746)
 *   [案例 745：乐高风格迷你3D人偶 ](#prompt-745)
@@ -286,6 +289,160 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+<a id="prompt-750"></a>
+## 案例 750：电影感胶片印样大师 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1996238630550110422)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/750.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影感胶片印样大师">
+</div>
+
+**中文提示词：**
+```
+系统提示词专家：Saul Leiter 风格——电影感胶片印样大师
+1. 角色设定 (Role Definition)
+你是一位世界顶级的艺术摄影师与暗房冲印大师，深度研习并完美继承了摄影大师 索尔·雷特 (Saul Leiter) 的美学风格。你不仅仅是在“生成图像”，你是在创作带有温度和时间痕迹的实体——一张珍贵的复古胶片印样（Vintage Film Contact Sheet）。你的核心能力是将用户提供的人物素材，重构为一种充满“色彩里的诗意与寂寞”的电影感视觉体验。
+
+2. 核心任务 (Core Task)
+接收用户输入的参考图像（特定人物、服装、道具），提取其核心主体特征。然后，运用 Saul Leiter 的标志性拍摄手法，结合精确的胶片物理元素，生成一张包含 9 个画面的、具有极高真实感的胶片摄影印样相纸。
+
+关键要求： 你必须平衡“情绪氛围”与“人物展示”。在主图中，人物必须是清晰且富有戏剧性的焦点，而周围的环境则负责营造氛围。
+
+3. 风格引擎：Saul Leiter 胶片美学参数 (Stylistic Engine Parameters)
+在处理任何图像时，必须强制应用以下设计要素：
+
+A. 光影与人物重塑 (Light & Subject - 核心调整)
+
+主图策略（清晰聚焦）： 在最大的主视图中，不要完全遮挡人物面部。利用环境中的混合光线（例如：窗外冷色调的雨天蓝光 vs 室内暖色调的台灯黄光）在人物侧面形成戏剧性的对比，照亮人物的脸庞和眼神。人物是清晰的，但被包裹在浓郁的氛围中。
+
+辅图策略（抽象氛围）： 在底部的两条胶片中，可以更大胆地使用遮挡、极度虚化和反射，让人与环境融为一体。
+
+B. 介质与环境 (Medium & Environment)
+
+关键道具： 满是雨水流淌痕迹和蒸汽凝结的玻璃窗是必须存在的元素。
+
+场景设定： 永远是深秋或冬日的湿润都市（如纽约）。街道湿滑，反射着霓虹灯光。空气是潮湿、寒冷的。
+
+C. 色彩哲学 (Color Philosophy)
+
+基调： 柔和、压抑、像油画般的低饱和度色调（灰、褐、深蓝、墨绿）。
+
+视觉刺点 (Punctum)： 必须利用画面中的元素制造高饱和度的色彩爆发。经典的“Leiter式”色彩包括：鲜红色的伞、明黄色的出租车或雨衣、翠绿色的信号灯、宝蓝色的霓虹牌。
+
+D. 物理胶片质感 (Physical Film Texture)
+
+颗粒与瑕疵： 画面必须有明显的、粗糙的彩色胶片颗粒感（模拟 Kodak Portra 400 或 Ektachrome）。加入暗房冲印的真实瑕疵：轻微划痕、灰尘点、水渍干涸的痕迹，以及相纸边缘的磨损和泛黄感。
+
+4. 输出版式要求：电影感胶片印样 (Layout Specification)
+你输出的最终图像是一张完整的摄影印样相纸实体。版式必须严格遵循“电影感横幅式”结构，并包含所有真实的物理元素：
+
+整体载体： 一张旧的、有纹理的厚重摄影相纸。
+
+【顶部区域：电影感横幅主图】(The Cinematic Hero Shot)
+
+内容： 1张巨大的横幅照片。这是整张作品的核心。基于用户输入的人物，将其置于一个精心布光的雨天窗边场景中。人物主体必须是中近景肖像（Medium Close-up），清晰锐利，眼神有光。
+
+胶片标识： 图像两侧必须有完整的胶片齿孔。边缘印有模拟的胶卷信息，例如："KODAK PORTRA 400 SAFETY FILM" 以及帧号（如 "→ 10 A"）。
+
+手写笔记： 在相纸空白处，必须有摄影师用铅笔或记号笔留下的手写笔记，例如地点、时间和天气（例："NYC, Nov '58, Rain - Library Study"）。
+
+【底部区域：连续胶片条】(The Film Strips)
+
+布局： 主图下方平行的两条胶片底片条，每条 4 张小图，共 8 张。
+
+胶片标识： 上下两侧都有连续的齿孔，边缘有连续的帧号（上排 1A-4A，下排 5A-8A）。
+
+内容规划：
+
+上排胶片条（细节与呼应）： 4张小图，侧重于主图的补充。例如：人物手部拿着书的特写（强调道具）、人物望向窗外的侧脸剪影、窗外某个清晰的道具（如红伞）。
+
+下排胶片条（纯粹氛围）： 4张高度抽象的小图。完全失焦的城市霓虹光斑（Bokeh）、雨水在玻璃上流淌的微距特写、湿漉漉地面的反射。这些图负责提供极致的质感和色彩。
+```
+
+<a id="prompt-749"></a>
+## 案例 749：电影混合媒体肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996457038910836841)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/749.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影混合媒体肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_type": "Cinematic Mixed Media Portrait",
+  "subject_details": {
+    "main_subject": "Young woman with long wavy brown hair",
+    "clothing": "Loose rust-red t-shirt, high-waisted black pants with white sketch-style outlines, chunky beige sneakers",
+    "pose": "Relaxing on a modern grey sofa, holding a tall iced coffee, smiling softly and looking to the left",
+    "companion_character": "Large cartoon character Oggie with glasses, bright colors, exaggerated expressions, holding a red cup with a straw"
+  },
+  "environment": {
+    "setting": "Cozy coffee shop interior",
+    "furniture": "Modern grey sofa, warm wooden shelves with small decorative items",
+    "atmosphere": "Minimalist, modern, warm"
+  },
+  "lighting_and_composition": {
+    "lighting": "Soft natural lighting streaming in from the right",
+    "blending": "Cartoon character seamlessly blended with soft shadows",
+    "effects": "Subtle doodle-style white line highlights around the woman and cartoon character"
+  },
+  "technical_specs": {
+    "resolution": "High-resolution, vibrant, clean composition",
+    "aspect_ratio": "3:4"
+  },
+  "signature": "Shreya Yadav"
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_type": "电影混合媒体肖像",
+"subject_details": {
+"main_subject": "留着棕色长波浪卷发的年轻女子",
+“服装”：“宽松的锈红色T恤，高腰黑色裤子，带有白色素描风格轮廓，厚底米色运动鞋”，
+“姿势”：“放松地躺在现代灰色沙发上，手里拿着一杯高高的冰咖啡，面带微笑，看向左侧”。
+"companion_character": "戴着眼镜、色彩鲜艳、表情夸张的大型卡通人物奥吉，手里拿着一个插着吸管的红色杯子"
+},
+“环境”： {
+“场景”: “舒适的咖啡店内部”，
+“家具”：“现代灰色沙发，温暖的木质搁架上摆放着小型装饰品”，
+氛围：简约、现代、温馨
+},
+"lighting_and_composition": {
+“照明”：“柔和的自然光从右侧照射进来”，
+“融合”：“卡通人物与柔和的阴影完美融合”，
+“效果”：“在女性和卡通人物周围添加微妙的涂鸦风格白色线条高光”
+},
+"technical_specs": {
+“分辨率”：“高分辨率、鲜艳、清晰的构图”
+"aspect_ratio": "3:4"
+},
+签名：Shreya Yadav
+}
+```
+
+<a id="prompt-748"></a>
+## 案例 748：巨大的时尚弧形3D广告牌上的女士 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996402159555149838)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/748.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-巨大的时尚弧形3D广告牌上的女士">
+</div>
+
+**提示词：**
+```
+A giant fashion curve edge 3D anamorphic billboard on the side of a modern building in a busy crossroad. On the 3D billboard is a woman (from attached image) styled in an office outfit. He's playing with a car toys inside billboard but his hand come out off the billboard and holding the actual size  car on the street. Next to him, bold text styled like a luxury fashion slogan reads: “Shreya Yadav Ai Queen” with tagline "JUST MAKE IT FUN" inside 3D billboard. The 3D billboard mixes high-fashion elegance with humorous anamorphic style image. Put on bottom corner inside billboard a signature style text "@ ShreyaYadav___". Photorealistic, stylish, culturally modern, and meme-inspired. 3:4 framing.
+Signature: Shreya Yadav
+```
+
+**中文提示词：**
+```
+在繁忙的十字路口，一座现代建筑的侧面矗立着一块巨大的时尚弧形3D变形广告牌。广告牌上是一位身着职业装的女士（见附图）。她正在广告牌内玩玩具车，但她的手却从广告牌中伸出，握着一辆与实物大小相同的玩具车。在她旁边，醒目的文字以奢华时尚标语的形式呈现：“Shreya Yadav Ai Queen”，并配有标语“JUST MAKE IT FUN”。这块3D广告牌融合了高级时尚的优雅和幽默的变形风格。广告牌底部角落印有标志性的文字"@ “ShreyaYadav ___ ”。画面逼真、时尚、充满现代文化气息，并融入了网络迷因元素。采用3:4的画面比例。
+签名：Shreya Yadav
+```
 
 <a id="prompt-747"></a>
 ## 案例 747：和明星自拍还可以走进任意电影的片场 (来源 [@canghecode](https://x.com/canghecode/status/1996593241421181403)) 模型：Nano banana pro
