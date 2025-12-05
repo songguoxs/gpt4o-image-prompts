@@ -33,6 +33,17 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 747：和明星自拍还可以走进任意电影的片场 ](#prompt-747)
+*   [案例 746：超高清4K皮克斯风格的3D肖像 ](#prompt-746)
+*   [案例 745：乐高风格迷你3D人偶 ](#prompt-745)
+*   [案例 744：女子身穿白色露肩蕾丝婚纱 ](#prompt-744)
+*   [案例 743：人物在透明的玻璃球被捏住 ](#prompt-743)
+*   [案例 742：一幅电影海报模版 ](#prompt-742)
+*   [案例 741：超逼真的爆炸式技术视图 ](#prompt-741)
+*   [案例 740：大尺寸的iPhone 17 Pro Max场景 ](#prompt-740)
+*   [案例 739：女子公寓电梯内自拍 ](#prompt-739)
+*   [案例 738：人物转换为韩式风格的专业形象照 ](#prompt-738)
+*   [案例 737：人物转风格化的3D人物漫画 ](#prompt-737)
 *   [案例 736：MacBook自拍（情侣款） ](#prompt-736)
 *   [案例 735：超现实的数字艺术吊死鬼 ](#prompt-735)
 *   [案例 734：将漫画人物转化为超逼真的人类 ](#prompt-734)
@@ -275,6 +286,504 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-747"></a>
+## 案例 747：和明星自拍还可以走进任意电影的片场 (来源 [@canghecode](https://x.com/canghecode/status/1996593241421181403)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/747.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-和明星自拍还可以走进任意电影的片场">
+</div>
+
+**中文提示词：**
+```
+我在[疯狂动物城]的片场和[Judy Hopps]、[Nick Wilde]自拍。
+
+保持人物与参考图像完全一致，面部特征、骨骼结构、肤色、表情、姿势和外貌 100%相同。1:1 宽高比，4K 细节。
+```
+
+<a id="prompt-746"></a>
+## 案例 746：超高清4K皮克斯风格的3D肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996645791092629998)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/746.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超高清4K皮克斯风格的3D肖像">
+</div>
+
+**提示词：**
+```
+Ultra HD 4K Pixar-style 3D portrait of a young couple attempting a selfie on a city rooftop at golden hour. The boy accidentally sneezes mid-shot, eyes half-closed and cheeks puffed out, while the girl bursts out laughing, leaning away from him with her phone tilted and out of frame. They wear casual evening clothes—he in a graphic tee and joggers,she in a hoodie and denim shorts. The warm sunset paints the sky in orange and pink hues, with pigeons flying past and laundry fluttering in the background. Camera angle slightly low and tilted to enhance the chaotic moment, emphasizing their exaggerated cartoon-like expressions.
+```
+
+**中文提示词：**
+```
+一段超高清4K皮克斯风格的3D肖像，描绘了一对年轻情侣在日落时分于城市屋顶自拍的场景。男孩在拍摄过程中不小心打了个喷嚏，双眼半闭，脸颊鼓鼓的；女孩则哈哈大笑，身子向后倾斜，手机也移出了画面。两人身着休闲晚装——男孩穿着印花T恤和运动裤，女孩穿着连帽衫和牛仔短裤。温暖的夕阳将天空染成橙粉相间的色彩，鸽子在空中飞翔，背景中飘动着衣物。镜头角度略低并倾斜，突出了这一略显混乱的瞬间，强调了他们夸张的卡通式表情。
+```
+
+<a id="prompt-745"></a>
+## 案例 745：乐高风格迷你3D人偶 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1996597453475246429)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/745.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-乐高风格迷你3D人偶">
+</div>
+
+**提示词：**
+```
+Create a highly detailed, miniature LEGO-style 3D figure of [NAME], preserving their iconic colors and features. Use soft diffused lighting and realistic materials. Set the figure against a neutral light gray background. Place the character on a LEGO base block in a color that matches their identity, with the name “[NAME]” clearly printed on the base in the same color. Ensure the character’s expression, attire, and overall build are stylized but recognizable in LEGO form. Centered composition. 1080x1080 resolution
+```
+
+**中文提示词：**
+```
+创作一个高度精细的乐高风格[姓名]迷你3D人偶，保留其标志性的颜色和特征。使用柔和的漫射光和逼真的材质。将人偶置于中性浅灰色背景前。将人物放置在与其身份相符颜色的乐高底座上，并在底座上用相同颜色清晰地印上“[姓名]”字样。确保人物的表情、服装和整体造型风格化，但又能在乐高积木中清晰可辨。构图居中。分辨率为1080x1080。
+```
+
+<a id="prompt-744"></a>
+## 案例 744：女子身穿白色露肩蕾丝婚纱 (来源 [@real_novax](https://x.com/real_novax/status/1996598193321054683)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/744.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子身穿白色露肩蕾丝婚纱">
+</div>
+
+**提示词：**
+```
+Create a portrait of a woman in a white off-the-shoulder wedding dress with lace details, wearing gloves, necklace, and earrings, in a dimly lit hallway with warm lighting.
+```
+
+**中文提示词：**
+```
+创作一幅肖像画，画中一位女子身穿白色露肩蕾丝婚纱，戴着手套、项链和耳环，站在灯光昏暗、带有暖色调的走廊里。
+```
+
+<a id="prompt-743"></a>
+## 案例 743：人物在透明的玻璃球被捏住 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1996537753434243181)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/743.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物在透明的玻璃球被捏住">
+</div>
+
+**提示词：**
+```
+Generate a portrait image of a detailed, transparent glass sphere/capsule held between two fingers against a neutral background. Inside the capsule is a miniature chibi version of [PERSON NAME] with realistic facial features but cute proportions - oversized head, small body. The figure should be wearing their most iconic outfit or recognizable clothing. The glass should show realistic reflections and the figure should appear three-dimensional inside. Photorealistic style with perfect lighting. 1080x1080 dimension
+```
+
+**中文提示词：**
+```
+请创作一幅肖像画，画面中一个透明的玻璃球/胶囊被两根手指捏住，置于中性背景上。胶囊内是[人物姓名]的Q版迷你人偶，面部特征写实，但比例可爱——头部较大，身体较小。人偶应穿着其最具代表性的服装或易于辨认的服饰。玻璃应呈现逼真的反射效果，人偶在胶囊内应呈现三维立体感。采用照片级写实风格，并配以完美的光照。尺寸为1080x1080。
+```
+
+<a id="prompt-742"></a>
+## 案例 742：一幅电影海报模版 (来源 [@sundyme](https://x.com/sundyme/status/1996572954931437867)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/742.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅电影海报模版">
+</div>
+
+**中文提示词：**
+```
+请用这种风格设计一幅电影《》的海报。基于生成的提示词再生成图片
+风格描述模板：
+{
+  "style_template_en_v2": {
+    "style_name": "3D Q-Version Healing Toy Movie Poster (Optimized)",
+    "style_description": "A highly tactile 3D digital rendering style mimicking macro product photography of premium designer toy collectibles. It transforms movie characters and scenes into cute, Q-version miniature dioramas. The core aesthetic relies on the contrast between matte resin/vinyl surfaces and soft, flocked plush textures, bathed in warm, diffused light to create a calm, healing atmosphere with clean poster typography.",
+
+    "style_prompt": {
+      "positive": "A tactile 3D digital render mimicking high-end product photography of collectible designer toys presented as a movie poster. Cute Q-version proportions. The defining feature is mixed materials: smooth matte resin or vinyl for bodies/hard objects contrasting with soft, fuzzy flocked plush textures (like felt or velvet) on clothing, hair, moss, or animals. The setting is a miniature natural diorama. Lighting is soft, warm, and diffused with gentle dappled shadows (komorebi effect), creating a calm, healing (治愈系) atmosphere. Shallow depth of field, macro lens effect, bokeh background. Clean bilingual typography.",
+      "negative": "2D illustration, painting, pixel art, low poly, rough sketch, realistic human proportions, harsh direct lighting, hard dark shadows, glossy plastic shine, metallic reflections, noisy grain, blurry textures, distressed or grungy look, aggressive mood, dark themes, excessive ornamental decoration on text elements."
+    },
+
+    "composition_guidelines": {
+      "top_element": {
+        "content_goal": "Stylized Bilingual Movie Title",
+        "visual_directive": {
+          "position": "Top center, prominent placement.",
+          "font_style": "Cute, decorative serif or rounded font that echoes the movie's theme (e.g., integrating tiny leaves, clouds, or icons relevant to the film).",
+          "structure": "Large Chinese title above smaller English subtitle."
+        }
+      },
+      "center_element": {
+        "content_goal": "Main Character(s) in Miniature Diorama",
+        "visual_directive": {
+          "subject_style": "Cute, proportional Q-version toy figurines.",
+          "material_focus": "Emphasize the contrast between matte skin/armor versus flocked clothing/hair.",
+          "environment": "A self-contained, soft-focus miniature environment diorama (e.g., on a floating island, a windowsill, inside a glass cloche) that tells the movie's story gently."
+        }
+      },
+      "bottom_element": {
+        "content_goal": "Healing Interpretation Quote",
+        "visual_directive": {
+          "position": "Bottom center, grounding the composition.",
+          "font_style": "Refined, clean serif or elegant handwritten style. Small and subtle.",
+          "decoration_style": "Minimalist. Clean text only. Avoid excessive scrolls, banners, ornate lines, or complex decorative borders surrounding the text (as per recent optimization)."
+        }
+      }
+    },
+
+    "rendering_and_atmosphere": {
+      "lighting_style": "Soft, warm, diffused natural light. Golden hour feel. Gentle, non-harsh shadows. Dappled light effects are highly encouraged.",
+      "camera_lens": "Macro photography aesthetic. Very shallow depth of field, focusing sharply on the toy textures while blurring the foreground and background into soft bokeh.",
+      "emotional_mood": "Warm, calm, cozy, safe, nostalgic, and healing."
+    },
+
+    "usage_notes": {
+      "best_suited_for": "Transforming emotionally resonant or even slightly dark movies into comforting, collectible merchandise forms.",
+      "key_success_factor": "The success of this style hinges on the convincing rendering of the 'flocked/fuzzy' texture against the 'smooth matte' texture. The lighting must be gentle to sell the 'healing' vibe."
+    }
+  }
+}
+```
+
+<a id="prompt-741"></a>
+## 案例 741：超逼真的爆炸式技术视图 (来源 [@GeminiApp](https://x.com/GeminiApp/status/1996617890506981743)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/741.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的爆炸式技术视图">
+</div>
+
+**提示词：**
+```
+Generate an ultra-detailed, hyperrealistic exploded technical view of ___________.
+```
+
+**中文提示词：**
+```
+生成___________的超详细、超逼真的爆炸式技术视图
+```
+
+<a id="prompt-740"></a>
+## 案例 740：大尺寸的iPhone 17 Pro Max场景 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1996559154240967144)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/740.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大尺寸的iPhone 17 Pro Max场景">
+</div>
+
+**提示词：**
+```
+{
+  "meta": {
+    "type": "Creative Brief",
+    "genre": "Hyper-realistic Surrealism",
+    "composition_style": "Composite Portrait",
+    "aspect_ratio": "Portrait (implied by 'portrait' description)"
+  },
+  "scene_architecture": {
+    "viewpoint": {
+      "type": "Photographic",
+      "angle": "High-angle / Looking down",
+      "framing": "Tight on central subject"
+    },
+    "dimensional_hierarchy": {
+      "rule": "Scale disparity for surreal effect",
+      "dominant_element": "iPhone 17 Pro Max (Super-scaled)",
+      "subordinate_elements": ["Blue Book (Miniature)", "Pen (Miniature)"]
+    }
+  },
+  "realm_physical": {
+    "description": "The real-world environment surrounding the device.",
+    "environment": {
+      "surface": "Wooden table",
+      "texture_attributes": ["rich grain", "tactile", "worn"]
+    },
+    "lighting_global": {
+      "source": "Natural light",
+      "temperature": "Warm",
+      "shadow_quality": "Soft, diffused, volumetric"
+    },
+    "active_agent": {
+      "identity": "Human Hand (Real)",
+      "action": "Pouring",
+      "position": "Entering frame laterally"
+    },
+    "held_object": {
+      "item": "Bottle",
+      "state": "Chilled (visible condensation)",
+      "branding": {
+        "logo_text": "Decamin",
+        "placement": "Visible on label"
+      },
+      "contents": {
+        "substance": "Water",
+        "color": "Light Green",
+        "state": "Liquid flow"
+      }
+    },
+    "static_props": [
+      {
+        "item": "Book",
+        "color": "Blue",
+        "scale_notes": "Significantly smaller than phone"
+      },
+      {
+        "item": "Pen",
+        "type": "Ballpoint/Ink",
+        "scale_notes": "Significantly smaller than phone"
+      }
+    ]
+  },
+  "realm_digital": {
+    "description": "The content displayed on the screen.",
+    "container_device": {
+      "model": "iPhone 17 Pro Max",
+      "state": "Screen ON",
+      "orientation": "Flat on physical surface"
+    },
+    "screen_content": {
+      "subject_identity": "mqn (Reference ID)",
+      "subject_scale": "Close-up (filling screen)",
+      "expression": "Happy / Smiling",
+      "attire": "Winter clothing (matching reference)",
+      "setting": "Winter landscape / snowy backdrop",
+      "held_object_digital": {
+        "item": "Drinking Glass",
+        "branding": {
+          "logo_text": "Decamin",
+          "visibility": "Clear"
+        },
+        "initial_state": "Empty (waiting for pour)"
+      }
+    }
+  },
+  "surreal_bridge_event": {
+    "description": "The interaction connecting the physical and digital realms.",
+    "action_type": "Trans-dimensional Fluid Dynamics",
+    "source": "realm_physical.held_object.contents (Light Green Water)",
+    "interaction_point": "realm_digital.container_device.screen_surface",
+    "destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+    "physics_violation_rules": {
+      "rule_1": "Liquid does not splash off the glass screen surface.",
+      "rule_2": "Screen surface acts as a permeable membrane solely for this liquid.",
+      "rule_3": "Physical liquid transitions seamlessly into digital representation upon contact."
+    },
+    "visual_details": ["Sharp liquid simulation", "No surface tension on screen glass", "Fluid physically filling digital cup"]
+  },
+  "rendering_specifications": {
+    "visual_fidelity": "Hyper-realistic",
+    "texture_focus": ["Sharp fluid details", "Glass pixels", "Wood grain", "Skin texture (hand and subject)"],
+    "mood": "Cinematic, warm, magical",
+    "resolution_target": "8K / Highly detailed"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"meta": {
+"type": "创意简报",
+“类型”： “超现实主义超现实主义”
+"composition_style": "合成肖像",
+"aspect_ratio": "竖屏（由“竖屏”描述暗示）"
+},
+"场景架构": {
+"观点": {
+"type": "Photographic",
+"角度": "高角度/向下看",
+构图：聚焦中心主体
+},
+"dimensional_hierarchy": {
+“规则”：“利用尺度差异产生超现实效果”，
+"dominant_element": "iPhone 17 Pro Max（超大尺寸）",
+"subordinate_elements": ["蓝皮书（袖珍版）", "钢笔（袖珍版）"]
+}
+},
+"realm_physical": {
+“描述”：“设备周围的真实环境。”
+“环境”： {
+“表面”：“木桌”，
+"texture_attributes": ["丰富的纹理", "触感", "磨损"]
+},
+"lighting_global": {
+“来源”：“自然光”，
+“温度”： “温暖”，
+"shadow_quality": "柔和、漫射、立体"
+},
+"active_agent": {
+“身份”：“人手（真实）”
+“动作”: “倾倒”
+“位置”： “横向进入画面”
+},
+"held_object": {
+"item": "瓶子",
+“状态”：“冷藏（可见冷凝水）”
+品牌推广：{
+"logo_text": "Decamin",
+“位置”： “在标签上可见”
+},
+“内容”： {
+“物质”： “水”，
+颜色：浅绿色，
+“状态”：“液体流动”
+}
+},
+"static_props": [
+{
+"item": "书",
+“颜色”： “蓝色”，
+"scale_notes": "比手机小得多"
+},
+{
+“物品”: “钢笔”，
+"type": "圆珠笔/墨水笔",
+"scale_notes": "比手机小得多"
+}
+]
+},
+"realm_digital": {
+“描述”：“屏幕上显示的内容。”
+"container_device": {
+“型号”：“iPhone 17 Pro Max”，
+"state": "屏幕开启",
+“方向”: “平放在物理表面上”
+},
+"screen_content": {
+"subject_identity": "mqn（参考 ID）",
+"subject_scale": "特写（充满屏幕）",
+表情：快乐/微笑，
+“服装”：“冬季服装（搭配参考）”
+“场景”：“冬季风景/雪景背景”，
+"held_object_digital": {
+“物品”: “饮水杯”
+品牌推广：{
+"logo_text": "Decamin",
+“能见度”： “清晰”
+},
+"initial_state": "空（等待倾倒）"
+}
+}
+},
+"surreal_bridge_event": {
+描述：连接物理世界和数字世界的互动。
+"action_type": "跨维度流体动力学",
+"source": "realm_physical.held_object.contents (浅绿色水)",
+"交互点": "realm_digital.container_device.screen_surface",
+"destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+"physics_violation_rules": {
+规则1：液体不会从玻璃屏幕表面溅出。
+规则2：屏幕表面仅对该液体起渗透膜的作用。
+“规则 3”：“物理液体在接触后无缝过渡到数字表示。”
+},
+"visual_details": ["清晰的液体模拟", "屏幕玻璃上无表面张力", "液体物理填充数字杯子"]
+},
+"渲染规范": {
+"visual_fidelity": "超逼真",
+"texture_focus": ["清晰的流体细节", "玻璃像素", "木纹", "皮肤纹理（手和主体）"],
+“氛围”：“电影感十足，温暖，充满魔力”，
+"resolution_target": "8K / 高分辨率"
+}
+}
+```
+
+<a id="prompt-739"></a>
+## 案例 739：女子公寓电梯内自拍 (来源 [@xmliisu](https://x.com/xmliisu/status/1996555784206025074)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/739.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子公寓电梯内自拍">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "scene": {
+      "location": "Inside a warmly lit apartment elevator, showing wood paneling and brushed metal surfaces.",
+      "lighting": "Soft, warm overhead elevator light casting a golden glow.",
+      "atmosphere": "Intimate, quiet, candid moment between floors."
+    },
+    "camera": {
+      "type": "Mirror selfie taken with a smartphone, visible in the reflection.",
+      "angle": "Chest-level, slightly angled downwards.",
+      "framing": "Full-body view of the subject in the elevator mirror."
+    },
+    "subject": {
+      "pose": "Standing facing the mirror with hips angled, weight on one leg, relaxed energy. Right hand holds the phone, left arm carries a draped jacket.",
+      "expression": "Looking directly at the camera with soft, knowing 'doe eyes', a pink flush on cheeks, and glossy, slightly parted pink lips.",
+      "hair": "Long, wavy platinum blonde hair falling from under a cap."
+    },
+    "outfit": {
+      "headwear": "Forest green baseball cap worn forward.",
+      "top": "Black fitted ribbed knit cropped long-sleeve shirt.",
+      "bottom": "White high-waisted pleated tennis skirt.",
+      "legwear": "Black fishnet thigh-high stockings with a lace top, showing a gap of bare skin.",
+      "jacket": "A dark jacket draped over the left forearm."
+    },
+    "accessories": {
+      "bag": "Small black crossbody bag with a strap.",
+      "jewelry": "Small silver hoop earrings, a thin silver necklace."
+    },
+    "style": "Candid, natural, intimate, warm tones, soft focus."
+  },
+  "negative_prompt": "(Worst quality, Low quality: 1.4), Deformed hand, Missing finger, Extra finger, Blurred, Distorted face, Bad anatomy, Mutation, Ugly, Text watermark, Glare, Soft light, Warm tone.",
+  "width": 1200,
+  "height": 1600
+}
+```
+
+**中文提示词：**
+```
+{
+“提示词”： {
+“场景”： {
+地点：一间灯光温暖的公寓电梯内，可以看到木质镶板和拉丝金属表面。
+“照明”：“柔和温暖的电梯顶灯散发出金色的光芒。”
+“氛围”：“楼层之间亲密、安静、坦诚的时刻。”
+},
+“相机”： {
+类型：用智能手机拍摄的镜子自拍，照片可在镜中看到。
+“角度”：“胸部高度，略微向下倾斜。”
+“构图”：“电梯镜子中拍摄的人物全身像”。
+},
+“主题”： {
+“姿势”：“面向镜子站立，臀部略微倾斜，重心放在一条腿上，神态放松。右手拿着手机，左臂披着一件外套。”
+“表情”：“用温柔而充满智慧的‘小鹿眼’直视镜头，双颊泛起淡淡的粉红，嘴唇涂着光泽，微微张开。”
+“头发”：“长长的、波浪状的铂金色头发从帽子下垂下来。”
+},
+“全套服装”： {
+“头饰”：“森林绿色的棒球帽，向前戴。”
+上衣：黑色修身罗纹针织短款长袖衬衫。
+下装：白色高腰百褶网球裙。
+“腿部服饰”：“黑色网状过膝长袜，袜口为蕾丝设计，露出部分肌肤。”
+“外套”：“一件深色外套搭在左前臂上。”
+},
+“配件”： {
+“包”：“带肩带的小号黑色斜挎包。”
+“首饰”：“小银圈耳环，一条细银项链。”
+},
+“风格”：“坦诚、自然、亲密、暖色调、柔焦”。
+},
+"negative_prompt": "(质量最差，低质量：1.4)，手部畸形，缺指，多指，模糊，面部扭曲，解剖结构错误，变异，丑陋，文字水印，眩光，柔光，暖色调。"
+宽度：1200，
+高度：1600
+}
+```
+
+<a id="prompt-738"></a>
+## 案例 738：人物转换为韩式风格的专业形象照 (来源 [@MindfulReturn](https://x.com/MindfulReturn/status/1996738867391852622)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/738.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物转换为韩式风格的专业形象照">
+</div>
+
+**中文提示词：**
+```
+将附件图片人物转换为一张韩式风格的专业形象照，比例3:4。构图与人物:构图: 半身照，采用简约的非中心构图，留有呼吸感的恰当空白。人物: 面部特写，聚焦于清澈自然的眼神和面部表情。动作和姿态要求放松、协调且自然，流露出一种不经意的优雅。风格: 都市休闲风格的简约着装，如纯色裙装、纯色衬衫或针织衫，干净利落。
+光影与氛围:光线: 运用柔和的蝴蝶光或伦勃朗光，营造出清晰、立体的面部轮廓，同时让皮肤看起来通透、细腻。眼中需要有明亮自然的眼神光，作为画面的情感焦点。氛围:整体氛围追求安静、清澈、温柔。画面呈现出一种高级空气感和呼吸感。背景与质感:背景: 纯色或带有低饱和度色彩的柔和渐变背景，营造出简约、干净且有层次感的空间氛围。质感: 画面质感细腻，色彩柔和，可带有轻微的、几乎不可见的胶片颗粒感，增加一丝温暖和复古的韵味。避免任何干扰性的文字或标志，让焦点完全集中在人物的情绪和气质上。
+保持图片人物面部特征保持一致。
+```
+
+<a id="prompt-737"></a>
+## 案例 737：人物转风格化的3D人物漫画 (来源 [@NanoBanana](https://x.com/NanoBanana/status/1996554636166049928)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/737.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物转风格化的3D人物漫画">
+</div>
+
+**提示词：**
+```
+A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence.
+```
+
+**中文提示词：**
+```
+根据上传的图片，创作一幅风格化的3D人物漫画，面部表情丰富，风格夸张活泼。渲染风格流畅精致，材质干净，环境光柔和。背景采用醒目的色彩，以突出人物的魅力和存在感。
+```
 
 <a id="prompt-736"></a>
 ## 案例 736：MacBook自拍（情侣款） (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1996186805398364512)) 模型：Nano banana pro
