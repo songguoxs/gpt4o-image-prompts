@@ -33,6 +33,27 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 771：一幅俏皮时尚的肖像拼贴画 ](#prompt-771)
+*   [案例 770：带有插图贴纸叠加的逼真照片 ](#prompt-770)
+*   [案例 769：应用界面展示9种不同的滑稽效果 ](#prompt-769)
+*   [案例 768：黑白素描手绘漫画 ](#prompt-768)
+*   [案例 767：照片与素描的完美融合 ](#prompt-767)
+*   [案例 766：制作一张隐藏单词的照片 ](#prompt-766)
+*   [案例 765：一张高质量的可爱少女肖像照 ](#prompt-765)
+*   [案例 764：橱窗里出现了一个小小的动画版的自己 ](#prompt-764)
+*   [案例 763：维多利亚时代外科医生的医疗箱摊开 ](#prompt-763)
+*   [案例 762：工藤新一和毛利兰 ](#prompt-762)
+*   [案例 761：一个近视人的视角 ](#prompt-761)
+*   [案例 760：一位年轻的日本美女模特 ](#prompt-760)
+*   [案例 759：杂志编辑风格制作专业的OOTD时尚拼贴 ](#prompt-759)
+*   [案例 758：女子仰卧右臂向上伸展自拍 ](#prompt-758)
+*   [案例 757：女子手持吸塑包装靠近镜头 ](#prompt-757)
+*   [案例 756：女子赤脚盘腿坐在简朴的木椅上 ](#prompt-756)
+*   [案例 755：使用作品中人物的经历来绘制图片 ](#prompt-755)
+*   [案例 754：用浮世绘和茶杯头的风格生成信息图 ](#prompt-754)
+*   [案例 753：一个微型人修眉 ](#prompt-753)
+*   [案例 752：人物放到一个逼格拉满的大会现场 ](#prompt-752)
+*   [案例 751：红黄两色手绘肖像画插图 ](#prompt-751)
 *   [案例 750：电影感胶片印样大师 ](#prompt-750)
 *   [案例 749：电影混合媒体肖像 ](#prompt-749)
 *   [案例 748：巨大的时尚弧形3D广告牌上的女士 ](#prompt-748)
@@ -290,8 +311,1361 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-771"></a>
+## 案例 771：一幅俏皮时尚的肖像拼贴画 (来源 [@dotey](https://x.com/dotey/status/1997191891553534399)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/771.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅俏皮时尚的肖像拼贴画">
+</div>
 
+**提示词：**
+```
+Recreate the character's appearance from the uploaded photo, accurately preserving hairstyle, facial details, and expression. Present it as a bright, fresh, and youthful fashion portrait in a vertical collage format.
+
+She wears trendy youthful clothing, holding a red lollipop near her lips. Her face is playfully decorated with cute colorful stickers shaped like hearts, strawberries, and stars, creating a lively, stylish atmosphere. Her eyes are expressive, makeup is soft and natural, and her face shows a dreamy expression.
+
+The background features a corkboard covered with colorful sticky notes and memo papers, creating a campus and journaling vibe. Hand-drawn doodles of stars, arrows, and similar elements add to the cute, magazine-style aesthetic. Surrounding the main subject are ～4 scrapbook-style photo frames in various shapes, showcasing different outfits and poses of the same person.
+
+Overall, the image should utilize soft studio lighting, high-definition details, a clean-cut scrapbook aesthetic, Korean fashion-magazine style, and vibrant colors.
+
+Aspect ratio: 9:16.
+```
+
+**中文提示词：**
+```
+根据上传的照片，还原人物外貌，准确保留发型、面部细节和表情。以竖版拼贴画的形式，呈现一张明亮、清新、充满活力的时尚肖像。
+
+她身着时髦青春的服饰，嘴边含着一根红色棒棒糖。脸上俏皮地贴满了可爱的彩色贴纸，形状有心形、草莓形和星星形，营造出活泼时尚的氛围。她眼神灵动，妆容淡雅自然，脸上流露出梦幻般的神情。
+
+背景是一块贴满了彩色便签和备忘录的软木板，营造出校园和日记本的氛围。手绘的星星、箭头等元素更添可爱杂志风。主体周围环绕着约4个形状各异的相框，展示着同一个人不同造型和姿势的照片。
+
+总体而言，图像应采用柔和的影棚灯光、高清细节、简洁的剪贴簿美学、韩国时尚杂志风格和鲜艳的色彩。
+
+宽高比：9:16。
+```
+
+<a id="prompt-770"></a>
+## 案例 770：带有插图贴纸叠加的逼真照片 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996908146452025628)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/770.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-带有插图贴纸叠加的逼真照片">
+</div>
+
+**提示词：**
+```
+{
+  "description": "Aesthetic cozy mirror selfie of a young woman sitting casually on a chair, wearing a dark oversized hoodie and blue jeans. She holds a professional camera in one hand while resting her face gently on the other with a soft, dreamy smile. The background is warm beige with soft studio lighting and a minimal modern interior. Cute cartoon-style doodles float around her, including a smiling sunflower character, a hand-drawn yellow sun, and playful white sketch lines around the camera. A handwritten romantic quote appears on the wall: 'Love feels a lot like… I saw this and thought of you!'. The overall style mixes photorealism with illustrated sticker overlays, creating a cozy, romantic Instagram aesthetic.",
+  "style": {
+    "tones": "soft warm tones, cozy romantic vibe",
+    "lighting": "soft studio lighting, warm and diffused",
+    "aesthetic": "Instagram aesthetic with cinematic depth of field",
+    "texture": "natural skin texture, ultra-detailed"
+  },
+  "visual_elements": {
+    "subject": {
+      "gender": "female",
+      "pose": "sitting casually on a chair, taking a mirror selfie",
+      "clothing": "dark oversized hoodie and blue jeans",
+      "expression": "soft dreamy smile"
+    },
+    "environment": {
+      "background": "warm beige indoor setting, minimal modern interior",
+      "lighting": "soft warm shadows"
+    },
+    "overlays": [
+      "cute smiling sunflower doodle",
+      "hand-drawn yellow sun",
+      "white sketch lines around the camera",
+      "handwritten romantic quote on the wall"
+    ]
+  },
+  "quality": {
+    "resolution": "4K ultra-detailed",
+    "render": "photorealistic with illustrated sticker overlay"
+  },
+  "format": {
+    "ratio": "3:4"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+描述：一位年轻女子随意地坐在椅子上，身穿深色宽松连帽衫和蓝色牛仔裤，对着镜子自拍，画面温馨舒适。她一手拿着专业相机，另一只手轻轻地托着脸，脸上带着柔和梦幻的微笑。背景是温暖的米色，柔和的影棚灯光和简约现代的室内装潢营造出温馨浪漫的氛围。可爱的卡通涂鸦环绕着她，包括一朵微笑的向日葵、一轮手绘的黄色太阳，以及相机周围俏皮的白色线条。墙上写着一句浪漫的手写情话：“爱的感觉就像……我看到这个就想到了你！”。整体风格融合了照片写实主义和插画贴纸，打造出温馨浪漫的Instagram美感。
+“风格”： {
+“色调”：“柔和温暖的色调，温馨浪漫的氛围”，
+“灯光”：“柔和的影棚灯光，温暖而漫射”，
+“美学”：“具有电影景深的 Instagram 美学”，
+“纹理”：“自然肌肤纹理，超细腻”
+},
+"visual_elements": {
+“主题”： {
+"性别": "女性",
+“姿势”：“随意地坐在椅子上，对着镜子自拍”，
+“服装”：“深色超大号连帽衫和蓝色牛仔裤”，
+“表情”：“柔和梦幻的微笑”
+},
+“环境”： {
+“背景”：“温暖的米色室内环境，简约现代的室内设计”
+“光线”：“柔和温暖的阴影”
+},
+“叠加层”：[
+“可爱的微笑向日葵涂鸦”
+“手绘黄色太阳”
+“相机周围的白色草图线”，
+墙上手写的浪漫语录
+]
+},
+“质量”： {
+"分辨率": "4K超细致",
+“渲染”：“带有插图贴纸叠加的逼真照片”
+},
+“格式”： {
+比例：3:4
+}
+}
+```
+
+<a id="prompt-769"></a>
+## 案例 769：应用界面展示9种不同的滑稽效果 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1996912935688618215)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/769.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-应用界面展示9种不同的滑稽效果">
+</div>
+
+**提示词：**
+```
+A complete screenshot of the MacOS Photo Booth application interface, with the top title bar displaying "Photo Booth". The main window has a 9-grid layout, and each grid shows a user-uploaded person with different funny effects applied. At the bottom of each grid, there are white Chinese subtitles: First row: Alien, Crooked Nose, Chipmunk; Second row: Madly in Love, Normal, Dizzy; Third row: Fool, Big Eyes, Frog. At the bottom is a gray control bar with left and right arrows, four navigation dots (the first one is blue), and an "Effects" button. The background is dark and blurred.
+```
+
+**中文提示词：**
+```
+一个完整的MacOS Photo Booth应用程序界面截图，顶部标题栏显示 "Photo Booth"。主窗口是一个9宫格布局，每个格子都显示着用户上传的人物，但应用了不同的滑稽效果。每个格子的底部都有白色中文字幕：
+第一排：外星人、歪鼻子、花栗鼠
+第二排：热恋、正常、头晕
+第三排：笨蛋、大眼睛、青蛙
+底部是带有左右箭头、四个导航点（第一个蓝色）和 "效果" 按钮的灰色控制栏。背景是深色且模糊的。
+```
+
+<a id="prompt-768"></a>
+## 案例 768：黑白素描手绘漫画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996955607656812714)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/768.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-黑白素描手绘漫画">
+</div>
+
+**提示词：**
+```
+{
+  "style": {
+    "type": "hand-drawn caricature",
+    "technique": "cross-hatching, fine ink lines",
+    "mood": "serious, slightly exaggerated expression",
+    "medium": "black and white sketch"
+  },
+  "subject": {
+    "type": "male figure",
+    "age": "middle-aged",
+    "skin_texture": "detailed line work with emphasized shading",
+    "hair": {
+      "style": "short, tightly curled",
+      "texture": "dense linework"
+    },
+    "facial_features": {
+      "eyes": "narrow, expressive, slightly squinting",
+      "eyebrows": "furrowed, showing intensity",
+      "nose": "long and defined with accentuated shading",
+      "mouth": "exaggerated downward curve, caricatured pout",
+      "ears": "large and prominently exaggerated",
+      "jawline": "elongated and structured with sharp lines"
+    }
+  },
+  "composition": {
+    "pose": "straightforward headshot with slight tilt",
+    "framing": "upper torso visible, suit collar included",
+    "background": "clean white, no elements"
+  },
+  "clothing": {
+    "attire": "formal suit",
+    "details": "sharp collar lines with textured shading"
+  },
+  "notes": {
+    "emphasis": "hyper-exaggeration of facial structure",
+    "aesthetic": "editorial political-cartoon style"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“风格”： {
+“类型”：“手绘漫画”，
+“技法”：“交叉阴影线，细墨线”，
+“情绪”：“严肃、略带夸张的表情”，
+“媒介”: “黑白素描”
+},
+“主题”： {
+"type": "男性形象",
+“年龄”：“中年”
+"skin_texture": "带有强调阴影的精细线条"
+“头发”： {
+“发型”：“短而紧密的卷发”，
+“纹理”：“密集的线条”
+},
+"facial_features": {
+“眼睛”：“狭长、有神、略微眯起”，
+“眉毛”：“紧皱，表示紧张”，
+“鼻子”：“修长且轮廓分明，阴影突出”，
+“嘴巴”: “夸张的向下弯曲，漫画式的撅嘴”，
+“耳朵”：“又大又夸张”，
+“下颌线”：“修长且轮廓分明”
+}
+},
+“作品”： {
+“姿势”：“略微倾斜的正面头像照”，
+“构图”：“上半身可见，包括西装领子”，
+“背景”: “纯白色，无任何元素”
+},
+“衣服”： {
+“着装”：“正装”，
+“细节”：“带有纹理阴影的利落领线”
+},
+"备注": {
+“强调”：“面部结构的过度夸张”，
+“美学”：“社论政治漫画风格”
+}
+}
+```
+
+<a id="prompt-767"></a>
+## 案例 767：照片与素描的完美融合 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1996969905678143983)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/767.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片与素描的完美融合">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "goal": "Create a whimsical mixed-media masterpiece blending realistic top-down photography with playful white line-art doodles, depicting a sleeping woman dreaming of a deep-sea scuba adventure",
+    "meta": {
+      "image_type": "Mixed Media Photography / Creative Conceptual Art / Surreal Dreamscape",
+      "quality": "8K, Ultra-HD, Masterpiece, High Fidelity, Creative Composite",
+      "color_mode": "Cool Nocturnal Blues / Monochromatic Teal Palette with Stark White Lines",
+      "style_mode": "cinematic_mixed_media",
+      "aspect_ratio": "1:1",
+      "resolution": "1440x1440px"
+    },
+    "creative_style": "Playful and surreal integration of hand-drawn illustration over realistic photography, evoking a sense of childhood wonder and vivid dreaming, combining the cozy texture of bedding with the adventurous spirit of an underwater doodle world",
+    "overall_theme": "dreaming of adventure / underwater fantasy / mixed media art / playful imagination",
+    "mood_vibe": "serene, whimsical, imaginative, peaceful, creative, cool, nocturnal",
+    "style_keywords": [
+      "mixed media",
+      "doodle art overlay",
+      "white line art",
+      "top-down perspective",
+      "flat lay",
+      "surrealism",
+      "scuba diving",
+      "dream concept",
+      "night photography"
+    ],
+    "subject": {
+      "count": "1",
+      "type": "female human",
+      "identity": "fit young woman, Finnish ethnicity, long blonde hair, relaxed sleeping expression",
+      "identity_preservation": {
+        "description": "Natural sleeping posture, relaxed facial muscles, closed eyes",
+        "notes": "Subject should look peacefully asleep, unaware of the doodles"
+      },
+      "age_appearance": "young adult / early 20s",
+      "skin": "fair, natural texture, cool-toned lighting interaction",
+      "clothing": {
+        "top": "pink bikini top",
+        "bottom": "pink bikini bottom",
+        "full_description": "wearing a pink bikini",
+        "accessories": "none (real), drawn accessories (scuba mask, tank, fins)"
+      },
+      "props": {
+        "other": "white line drawings of scuba gear: diving mask over eyes, air tank on back, breathing regulator, large swim fins on feet"
+      }
+    },
+    "pose_action": {
+      "description": "Subject is sleeping on her side in a fetal-like position, legs slightly bent, hands curled near chest/face, perfectly positioned to align with the superimposed doodles",
+      "overall_pose": "sleeping on side / side-lying",
+      "head_turn": "profile resting on pillow",
+      "body_position": "lying on side, diagonal composition across the bed",
+      "hands": "relaxed, tucked near chin"
+    },
+    "environment": {
+      "setting": "cozy bedroom bed viewed from above",
+      "location": "indoor bedroom/dream world",
+      "weather": "indoor controlled / imaginary underwater",
+      "time_of_day": "night/sleep time",
+      "atmosphere": "dreamy, quiet, submerged feeling due to color palette"
+    },
+    "background": {
+      "color": "teal/aquamarine / cool blue sheets",
+      "effect": "wrinkled fabric texture serving as the canvas for the white doodles"
+    },
+    "lighting": {
+      "type": "soft ambient moonlight / cool overhead fill",
+      "position": "overhead diffused",
+      "direction": "soft top-down",
+      "intensity": "moderate, creating soft dimensional shadows on the bedsheets",
+      "tone": "cool blue/cyanotic/nocturnal",
+      "mood": "peaceful night",
+      "subject_lighting": "soft cool highlighting on skin",
+      "imperfections": ["fabric wrinkles", "natural shadows"]
+    },
+    "camera": {
+      "sensor_format": "Digital Mirrorless / High-Res",
+      "lens": "35mm or 50mm standard",
+      "position_angle": "Directly Top-Down / 90-degree Bird's Eye View",
+      "framing": "Wide enough to show the full bed or a significant portion of the mattress to allow space for the doodles",
+      "composition": {
+        "framing": "subject centered or slightly diagonal",
+        "depth": "flat field focus (everything sharp, including bedsheets)",
+        "emphasis": "interaction between the real sleeping figure and the drawn environment"
+      }
+    },
+    "photobooth_collage_specific": {
+      "layout": "N/A - Single Composite Image",
+      "tonality_texture": "Smooth photographic texture for the background/subject, rough chalk/marker texture for the doodles"
+    },
+    "color_grading": {
+      "palette": "Dominant hues of teal, cyan, and navy blue; pure white for the illustration elements; natural skin tones shifted cool",
+      "mood": "Cinematic night / underwater simulation"
+    },
+    "post_processing": {
+      "final_touch": "Superimpose distinct, scribbly white line art: 'hand-drawn' fish, bubbles, coral, seaweed surrounding the subject, and diving gear 'worn' by the subject."
+    },
+    "negative": {
+      "style": "3D render of doodles, realistic props (the gear should be drawn, not real), warm lighting, sunlight, orange tones, complex bedding patterns",
+      "content": "waking subject, standing, real scuba gear, messy room (other than bed)"
+    },
+    "additional_controls": {
+      "focus_emphasis": "The contrast between the realistic sleeping human and the 2D white line art",
+      "special_notes": "The doodles must look like they were drawn on the photo surface or the bedsheets, white outline style only. The doodles include: a school of fish, coral reefs at the bottom, bubbles rising, a starfish, and the scuba gear outfit.
+      "vibe": "playful creativity",
+      "final_output_goal": "A seamless blend of photo and sketch that tells a story of a diver's dream."
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_request": {
+“目标”：“创作一幅异想天开的混合媒介杰作，将写实的俯视摄影与俏皮的白色线条涂鸦相结合，描绘一位熟睡的女子梦见深海潜水探险的场景。”
+"meta": {
+"image_type": "混合媒体摄影/创意概念艺术/超现实梦境",
+“质量”：“8K、超高清、杰作、高保真、创意复合”
+"color_mode": "冷色调夜蓝色/单色青色调色板，配以醒目的白色线条",
+"style_mode": "cinematic_mixed_media",
+"aspect_ratio": "1:1",
+分辨率：1440x1440像素
+},
+“创意风格”： “将手绘插图与写实摄影作品巧妙融合，营造出一种俏皮而超现实的氛围，唤起人们对童年奇幻和生动梦境的向往，将舒适的床上用品质感与水下涂鸦世界的冒险精神相结合。”
+"overall_theme": "梦想冒险/水下奇幻/混合媒介艺术/充满童趣的想象",
+"mood_vibe": "宁静、奇幻、充满想象力、平和、富有创造力、酷炫、夜行性"
+"style_keywords": [
+“混合媒介”，
+“涂鸦艺术叠加层”，
+“白色线条艺术”，
+“自上而下的视角”，
+“平铺”
+“超现实主义”，
+“水肺潜水”，
+“梦想概念”，
+“夜间摄影”
+],
+“主题”： {
+"count": "1",
+“类型”：“女性人类”，
+“身份”：“身材匀称的年轻女性，芬兰裔，金色长发，睡姿放松”，
+"identity_preservation": {
+描述：自然的睡眠姿势，放松的面部肌肉，闭着眼睛。
+备注：受试者应看起来像睡着了一样，对涂鸦毫不知情。
+},
+"age_appearance": "青年/20岁出头",
+“皮肤”：“白皙、自然的纹理，冷色调的灯光互动”，
+“衣服”： {
+“上衣”： “粉色比基尼上衣”，
+“下装”： “粉色比基尼下装”，
+"full_description": "穿着粉色比基尼",
+“配件”： “无（实物），手绘配件（潜水面罩、气瓶、脚蹼）”
+},
+"props": {
+“其他”： “潜水装备的白色线条图：潜水面罩遮住眼睛，气瓶背在背上，呼吸调节器，脚上穿着大型脚蹼”
+}
+},
+"pose_action": {
+“描述”：“人物侧卧，呈胎儿状蜷缩着，双腿略微弯曲，双手蜷缩在胸前/脸旁，位置恰好与叠加的涂鸦对齐。”
+"overall_pose": "侧卧/侧睡",
+"head_turn": "侧脸靠在枕头上",
+“身体姿势”: “侧卧，斜躺在床上”
+“双手”：“放松，放在下巴附近”
+},
+“环境”： {
+“场景”: “从上方看到的舒适卧室床”
+“位置”：“室内卧室/梦境世界”，
+“天气”：“室内可控/想象中的水下”，
+"time_of_day": "夜晚/睡眠时间",
+“氛围”：“由于色彩搭配而产生的梦幻、宁静、沉浸感”
+},
+“背景”： {
+“颜色”： “蓝绿色/海蓝色/冷蓝色床单”，
+“效果”：“褶皱的织物纹理作为白色涂鸦的画布”
+},
+“灯光”： {
+“类型”: “柔和的环境月光/冷色调的顶光填充”
+“位置”：“上方扩散”，
+“方向”：“柔和的自上而下”，
+“强度”：“中等，在床单上营造出柔和的立体阴影”，
+"色调": "冷蓝色/蓝绿色/夜行性",
+“心情”：“宁静的夜晚”，
+“subject_lighting”: “柔和的冷色调高光，用于皮肤”，
+“瑕疵”：[“织物褶皱”、“自然阴影”]
+},
+“相机”： {
+"sensor_format": "数码无反/高分辨率",
+“镜头”：“35mm 或 50mm 标准”，
+"position_angle": "直接俯视/90度鸟瞰图",
+“框架”：“足够宽，可以显示整张床或床垫的大部分，以便留出涂鸦的空间”，
+“作品”： {
+“构图”：“主体居中或略微倾斜”，
+“景深”：“平场对焦（所有物体都清晰，包括床单）”，
+“强调”：“真实睡眠人物与绘制环境之间的互动”
+}
+},
+"photobooth_collage_specific": {
+"布局": "不适用 - 单张合成图像",
+"tonality_texture": "背景/主体使用平滑的摄影纹理，涂鸦部分使用粗糙的粉笔/马克笔纹理"
+},
+"color_grading": {
+“调色板”：“以青色、蓝绿色和海军蓝为主色调；插图元素采用纯白色；自然肤色偏冷色调”，
+“氛围”: “电影般的夜晚/水下模拟”
+},
+"post_processing": {
+“final_touch”： “叠加清晰的、潦草的白色线条艺术：‘手绘’的鱼、气泡、珊瑚、围绕主体的海藻，以及主体‘穿戴’的潜水装备。”
+},
+“消极的”： {
+“风格”：“涂鸦的3D渲染，逼真的道具（装备应该是画出来的，而不是真的），暖色调的光线，阳光，橙色调，复杂的床品图案”，
+“内容”：“清醒的主体，站立，真正的潜水装备，凌乱的房间（床除外）”
+},
+"additional_controls": {
+"focus_emphasis": "逼真的睡眠人物与二维白色线条艺术之间的对比",
+特殊说明：涂鸦必须看起来像是画在照片表面或床单上的，只能使用白色轮廓线。涂鸦内容包括：一群鱼、底部的珊瑚礁、上升的气泡、海星和潜水装备。
+氛围：充满趣味的创造力，
+"final_output_goal": "照片与素描的完美融合，讲述潜水员的梦想故事。"
+}
+}
+}
+```
+
+<a id="prompt-766"></a>
+## 案例 766：制作一张隐藏单词的照片 (来源 [@fofrAI](https://x.com/fofrAI/status/1996612750915809419)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/766.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-制作一张隐藏单词的照片">
+</div>
+
+**提示词：**
+```
+make a photo with a hidden word embedded into it, make the word hard to see until you spot it, then you can't unsee it. use the word "fofr". form the word out of a pride of lions
+```
+
+**中文提示词：**
+```
+制作一张隐藏单词的照片，让这个单词很难被发现，直到你找到它，然后你就无法忽略它了。使用单词“fofr”。用一群狮子组成这个词。
+```
+
+<a id="prompt-765"></a>
+## 案例 765：一张高质量的可爱少女肖像照 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1996866976980127932)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/765.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张高质量的可爱少女肖像照">
+</div>
+
+**提示词：**
+```
+High-quality cute portrait photo of a young girl sitting in a cozy café, captured in a bright soft-flash lighting style.
+Main subject (girl):
+• Cute youthful face, fair flawless skin
+• Soft glam natural makeup with pink blush
+• One eye winking playfully, small smile
+• Two neat black braided pigtails
+• Wearing an oversized blue plush mouse hat with huge round ears, pink ear lining, and a tiny pink nose
+• Holding both sides of the hat with her hands lifted up
+
+Outfit:
+• Pastel striped knit zip-up cardigan
+• Colors: baby blue, soft yellow, pale pink, white stripes
+• Light blue collar visible under the cardigan
+• Cozy, soft texture, slightly oversized sleeves
+
+Pose:
+• Sitting front-facing
+• Playful expression, slight head tilt
+• Both hands pulling the long sides of the mouse hat outward
+
+Café background:
+• Minimalist bright café interior
+• Glass display case with pastries
+• Menu board on the wall (blurred)
+• Plants adding cozy vibes
+• Warm ambient lighting with clean white tones
+• Slight depth-of-field blur
+
+Table elements:
+• Blue tray in front of her
+• Small slice of layered pastel cake (pink + white + blue) with strawberry on top
+• Glass of drink with whipped topping and a cherry inside
+• Fork and spoon next to the plate
+
+Lighting & Camera:
+• Soft flash photography with bright highlights
+• Slight overexposed glow on skin for cute aesthetic
+• 3:4 vertical composition
+• Clean, crisp texture with pastel tones dominant
+• No harsh shadows
+• Kawaii café snapshot vibe
+
+Aesthetic:
+Cute pastel, cozy café girl, playful expression, soft flash, colorful and happy atmosphere.
+```
+
+**中文提示词：**
+```
+一张高质量的可爱少女肖像照，拍摄对象是一位坐在舒适咖啡馆里的年轻女孩，采用明亮柔和的闪光灯照明风格。
+
+主要对象（女孩）：
+• 可爱的青春面容，白皙无瑕的肌肤
+• 柔和自然的妆容，搭配粉色腮红
+• 一只眼睛俏皮地眨了眨，露出淡淡的微笑
+• 两条整齐的黑色麻花辫
+• 戴着一顶超大的蓝色毛绒老鼠帽，帽子有巨大的圆耳朵、粉色的耳廓和小小的粉色鼻子。
+• 她双手高举，双手抓住帽子的两侧
+
+全套服装：
+• 粉彩条纹针织拉链开衫
+颜色：浅蓝色、淡黄色、浅粉色、白色条纹
+• 开衫下露出浅蓝色衣领
+• 舒适柔软的质地，略微宽松的袖子
+
+姿势：
+• 面向前方就坐
+• 表情顽皮，头部微微倾斜
+双手将老鼠帽的长边向外拉。
+
+咖啡馆背景：
+• 简约明亮的咖啡馆内部装潢
+• 玻璃展示柜里摆放着糕点
+• 墙上的菜单板（模糊处理）
+• 植物增添温馨氛围
+• 温暖的氛围灯光，以干净的白色调为主
+• 轻微的景深模糊
+
+表格元素：
+她面前的蓝色托盘
+• 一小块多层粉彩蛋糕（粉色+白色+蓝色），上面放着草莓
+• 一杯顶部有鲜奶油和一颗樱桃的饮料
+• 餐盘旁放着叉子和勺子。
+
+灯光和摄像机：
+• 柔和的闪光灯摄影，高光部分明亮
+• 肌肤略微泛光，营造可爱美感
+• 3:4 竖幅构图
+• 质地干净清爽，以柔和的粉彩色调为主
+• 没有刺眼的阴影
+• 可爱咖啡馆快照氛围
+
+审美的：
+可爱的粉彩色调，温馨的咖啡馆女孩，俏皮的表情，柔和的闪光灯，缤纷快乐的氛围。
+```
+
+<a id="prompt-764"></a>
+## 案例 764：橱窗里出现了一个小小的动画版的自己 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1997182817235583293)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/764.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-橱窗里出现了一个小小的动画版的自己">
+</div>
+
+**提示词：**
+```
+{
+  "PROMPT": "Create a bright, high-end street-fashion photograph of the woman from the reference image, keeping her face, hair, body & outfit exactly the same. She stands outside a luxury toy-shop window, gently touching the glass. Inside the window display, place a full-height cartoon-style doll designed to resemble her—same features, hair, and outfit—transformed into a cute, big-eyed, stylized animated character. Crisp lighting, premium street-fashion look, realistic reflections, face unchanged.",
+  "settings": {
+    "style": "high-end street fashion",
+    "lighting": "crisp and bright",
+    "environment": "outside luxury toy-shop window",
+    "subject": "woman from reference image",
+    "focus": ["face", "hair", "body", "outfit"],
+    "additional_elements": [
+      {
+        "type": "doll",
+        "style": "cartoon-style, big-eyed, stylized",
+        "location": "inside window display",
+        "resemblance": "exact features, hair, outfit of woman"
+      }
+    ],
+    "reflections": "realistic",
+    "photorealism": true
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+提示：根据参考图片，拍摄一张明亮、高端的街头时尚照片，保持照片中女性的脸部、发型、身材和服装完全一致。她站在一家高档玩具店的橱窗外，轻轻抚摸着玻璃。橱窗内，摆放一个与她外形相似的卡通人偶——五官、发型和服装都与她相同——人偶被设计成一个可爱、大眼睛、风格化的动画角色。光线要明亮，营造高端街头时尚感，要有逼真的反光效果，脸部保持不变。
+“设置”： {
+“风格”：“高端街头时尚”，
+“照明”：“清晰明亮”，
+“环境”：“豪华玩具店橱窗外”，
+“主题”：“参考图像中的女人”，
+焦点：[“脸”、“头发”、“身体”、“服装”]
+"additional_elements": [
+{
+"类型": "娃娃",
+“风格”：“卡通风格，大眼睛​​，风格化”，
+“位置”：“橱窗内展示”，
+“相似之处”： “女性的五官、发型、服饰”
+}
+],
+“反思”：“现实的”，
+“照片写实主义”：真
+}
+}
+```
+
+<a id="prompt-763"></a>
+## 案例 763：维多利亚时代外科医生的医疗箱摊开 (来源 [@BeanieBlossom](https://x.com/BeanieBlossom/status/1996868169546579972)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/763.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-维多利亚时代外科医生的医疗箱摊开">
+</div>
+
+**提示词：**
+```
+A Victorian surgeon's medical kit laid open on aged leather, featuring antique bone saws, glass syringes with brass fittings, faded anatomical sketches, and a pocket watch, arranged on burgundy velvet with dried medicinal herbs scattered around, painted in classical Dutch Golden Age still life style with rich shadows and meticulous detail
+```
+
+**中文提示词：**
+```
+一套维多利亚时代外科医生的医疗箱摊开在陈旧的皮革上，里面摆放着古董骨锯、带有黄铜配件的玻璃注射器、褪色的解剖图和一块怀表，它们被放置在酒红色天鹅绒上，周围散落着干草药。这幅画以古典荷兰黄金时代静物画的风格绘制，光影丰富，细节刻画入微。
+```
+
+<a id="prompt-762"></a>
+## 案例 762：工藤新一和毛利兰 (来源 [@servasyy](https://x.com/servasyy/status/1996966434191344109)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/762.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-工藤新一和毛利兰">
+</div>
+
+**提示词：**
+```
+(masterpiece, best quality, highres:1.4), (official anime art source:1.3), (anime screencap style:1.3),
+(portrait dimensions:1.5), (tall aspect ratio:1.5),
+(vertical dual portrait:1.3), (continuous composition:1.2), (unified image:1.2), pure black background,
+
+(extremely dramatic chiaroscuro lighting:1.6), (heavy deep shadows:1.5), (sharp shadow edges:1.3), (low key lighting:1.5), (characters blending into darkness:1.4), minimal lighting, mysterious atmosphere, dark tones, (warm skin tones:1.3), (healthy complexion:1.2), (natural skin color:1.2),
+
+BREAK
+
+(bust shot, tight focus:1.3), 1boy, kudo shinichi, male focus,
+
+(lying flat on back:1.5), (perfectly horizontal body alignment:1.5), parallel to frame edge, head on left,
+
+(index finger on lips:1.3), shushing gesture,
+(closed mouth:1.3), (slight mysterious smirk:1.2), intense cold stare, (eyes shaded by hair:1.4),
+dark hair, (face half obscured by deep sharp shadow:1.4), (warm skin tone:1.2),
+
+wearing dark black suit jacket, dark tie, (clothes merging with shadow), absolutely no rim lighting,
+
+BREAK
+
+(bust shot, tight focus:1.3), 1girl, mouri ran, female focus,
+(lying flat on back:1.5), (inverted:1.4), upside down, (perfectly horizontal body alignment:1.5), parallel to frame edge, head on right,
+(index finger on lips:1.3), shushing gesture, (silver bracelet on left wrist:1.3),
+(serious cold expression:1.5), (calm steady look:1.3), (both eyes open sharp stare:1.4), (subtle blush:0.8), dark red lips, (warm skin tone:1.2),
+dark long hair flowing into darkness, earrings,
+wearing dark dress, (body and face hidden in deep sharp shadow:1.4), absolutely no rim lighting
+```
+
+**中文提示词：**
+```
+（杰作，最佳品质，高分辨率：1.4），（官方动画艺术来源：1.3），（动画截图风格：1.3）
+（竖屏尺寸：1.5），（竖屏宽高比：1.5），
+（竖幅双人像：1.3），（连续构图：1.2），（统一图像：1.2），纯黑色背景，
+
+（极强明暗对比：1.6），（浓重的阴影：1.5），（清晰的阴影边缘：1.3），（低调的光线：1.5），（人物融入黑暗：1.4），极简的光线，神秘的氛围，暗色调，（温暖的肤色：1.3），（健康的肤色：1.2），（自然的肤色：1.2）
+
+休息
+
+（半身像，特写：1.3），1个男孩，工藤新一，男性焦点，
+
+（平躺：1.5），（身体完全水平：1.5），与框架边缘平行，头部在左侧，
+
+（食指放在嘴唇上：1.3），嘘的手势
+（闭嘴：1.3），（略带神秘的冷笑：1.2），目光冰冷，（头发遮住眼睛：1.4），
+深色头发，（脸部一半被深邃的阴影遮挡：1.4），（暖色调肤色：1.2），
+
+身穿黑色西装外套，系着深色领带（衣服与阴影融为一体），完全没有轮廓光。
+
+休息
+
+（半身特写，近景：1.3），1个女孩，毛利兰，女性焦点，
+（平躺：1.5），（倒立：1.4），上下颠倒，（身体完全水平：1.5），与画面边缘平行，头部朝右，
+（食指放在嘴唇上：1.3），嘘的手势，（左手腕上的银手镯：1.3），
+（严肃冷漠的表情：1.5），（冷静沉稳的眼神：1.3），（双眼睁开，目光锐利：1.4），（淡淡的红晕:0 。 8) ，深红色的嘴唇，（暖色调的​​肤色：1.2），
+乌黑的长发垂入夜色，戴着耳环。
+身着深色连衣裙（身体和脸部隐藏在深邃的阴影中：1.4），完全没有轮廓光
+```
+
+<a id="prompt-761"></a>
+## 案例 761：一个近视人的视角 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1997177277327856085)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/761.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个近视人的视角">
+</div>
+
+**提示词：**
+```
+ultra hugging close-up view of with edges of glasses with the lenses almost touching the viewer's perspective, filling most of the view. The glasses reveal a detailed [VIEW] within the lenses, showcasing [VIEW] .The background is out of focus , enhancing the impression that the viewer is peering into the [VIEW]
+```
+
+**中文提示词：**
+```
+超近距离特写，眼镜边缘几乎贴近观看者的视线，占据了大部分视野。眼镜镜片内呈现出清晰的[VIEW]，展现了[VIEW]。背景虚化，增强了观看者仿佛正在凝视[VIEW]的印象。
+```
+
+<a id="prompt-760"></a>
+## 案例 760：一位年轻的日本美女模特 (来源 [@Ankit_patel211](https://x.com/Ankit_patel211/status/1997225726421151899)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/760.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位年轻的日本美女模特">
+</div>
+
+**提示词：**
+```
+Prompt - A young Japanese beauty model glamour hot in a stylish black streped jeans with shorts chiaroscuro black outfit outdoors short jeans , three-quarter portrait (from lower legs upward), elegant body framing and balanced proportions.
+
+Long wavy light browny hair with airy texture 
+Soft K-beauty makeup: peach-pink eyeshadow with subtle shimmer, long curled lashes, delicate eyeliner, warm hazel circle lenses giving a doll-like enlargement, rosy blush, rose-pink gradient velvet matte lips.
+
+Outfit: black  short jeans and skirt 
+Accessories: dangling earrings.
+Pose: slightly leaning forward, engaging gaze, feminine charm.
+
+Environment: tokyo city building scene natural light 
+
+Photography style: high-end outdoor fashion portrait, soft bright sunlight, cinematic soft glow, shallow depth of field, crisp skin rendering, airy color grading, mild film grain.
+Atmosphere: lively, warm, romantic, playful festival vibe.
+```
+
+**中文提示词：**
+```
+提示 - 一位年轻的日本美女模特，身穿时尚的黑色条纹牛仔裤和短裤，光影对比鲜明，在户外穿着黑色短裤，四分之三侧面像（从小腿向上），优雅的身材轮廓和均衡的比例。
+
+长长的浅棕色波浪卷发，质地蓬松。
+柔和的韩式妆容：蜜桃粉色眼影带有微妙的珠光，纤长卷翘的睫毛，精致的眼线，暖棕色美瞳营造出洋娃娃般的放大效果，玫瑰色腮红，玫瑰粉渐变丝绒哑光唇妆。
+
+穿搭：黑色短牛仔裤和裙子
+配饰：垂坠耳环。
+姿势：身体微微前倾，眼神迷人，充满女性魅力。
+
+环境：东京城市建筑场景，自然光
+
+摄影风格：高端户外时尚人像，柔和明亮的阳光，电影般的柔光，浅景深，清晰的皮肤渲染，清新的色彩分级，轻微的胶片颗粒感。
+氛围：热闹、温馨、浪漫、轻松的节日氛围。
+```
+
+<a id="prompt-759"></a>
+## 案例 759：杂志编辑风格制作专业的OOTD时尚拼贴 (来源 [@qisi_ai](https://x.com/qisi_ai/status/1997139694170337387)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/759.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-杂志编辑风格制作专业的OOTD时尚拼贴">
+</div>
+
+**中文提示词：**
+```
+角色与任务 :
+请以杂志编辑风格制作专业的 OOTD（今日的搭配）时尚拼贴。
+设计需在左侧和右侧反映以下内容。
+
+左侧：
+・完全保留上传图片的面部、发型、服装。
+・可爱、有趣且搞怪的姿势，真实的氛围感。
+・干净明亮，杂志品质的照片。
+・宽度占整体的60%。
+
+右侧：
+・在干净的白色背景上整理好的商品网格
+・[数量]个独立商品模块垂直排列
+・最后的商品是配置了根据图像推测的内衣（胸罩、T 恤等）。
+・各模块包含的内容：
+商品照片（白色背景裁剪、电子商务风格）
+商品名称
+价格
+・宽度占整体的40%。
+
+展示商品示例：
+1.[商品1] - ¥[价格]
+2.[商品2] - ¥[价格]
+3.[商品3] - ¥[价格]
+4.[商品4] - ¥[价格]
+5.[商品5] - ¥[价格]
+6.[商品6] - ¥[价格]
+
+排版：
+・现代的无衬线体（简洁、极简）
+・商品名使用中等粗细
+・价格加粗
+
+整体风格：
+・明亮、清爽、专业
+・像 Instagram 时尚博主
+・简洁且留有空间的布局
+・调色板：自然色、白色、柔和的灰色
+・专业商品照片质量
+```
+
+<a id="prompt-758"></a>
+## 案例 758：女子仰卧右臂向上伸展自拍 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1996991478313455783)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/758.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子仰卧右臂向上伸展自拍">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "type": "young woman",
+    "pose": "lying on her back, taking a selfie with her right arm extended upward",
+    "expression": "soft smile, relaxed and natural",
+    "gaze": "looking toward the camera",
+    "skin_details": {
+      "complexion": "smooth, warm, sunlit glow",
+      "freckles": "visible on nose and cheeks"
+    },
+    "hair": {
+      "color": "medium brown",
+      "length": "long",
+      "style": "loose, spread out on the pillow around her head"
+    },
+    "eyes": {
+      "color": "light blue or green",
+      "makeup": "subtle eyeliner"
+    }
+  },
+  "clothing": {
+    "top": {
+      "type": "ribbed tank top",
+      "color": "white",
+      "fit": "form-fitting",
+      "neckline": "scoop neck"
+    },
+    "bottoms": {
+      "type": "jeans",
+      "color": "light blue",
+      "visibility": "partially visible"
+    },
+    "accessories": {
+      "earrings": "small studs",
+      "necklace": "thin, minimal chain"
+    }
+  },
+  "environment": {
+    "location": "bed or soft resting surface",
+    "bedding": {
+      "pillow": "white",
+      "sheets": "white"
+    },
+    "background": "neutral wall and edge of headboard or furniture barely visible"
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "direction": "coming from upper left of frame",
+    "effect": "creates warm highlights and soft shadows on face and torso"
+  },
+  "composition": {
+    "camera_angle": "top-down selfie angle",
+    "framing": "close-up of face, upper torso, and part of jeans",
+    "focus": "sharp on face and upper body",
+    "colors": "warm skin tones, white bedding, brown hair, neutral background"
+  },
+  "mood": "warm, relaxed, comfortable, natural"
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+“类型”: “年轻女子”
+“姿势”：“仰卧，右臂向上伸展，自拍”
+“表情”：“柔和的微笑，轻松自然”，
+“凝视”: “看着镜头”，
+"skin_details": {
+“肤色”：“光滑、温暖、阳光般的光泽”，
+“雀斑”：“鼻子和脸颊上可见的雀斑”
+},
+“头发”： {
+“颜色”：“中棕色”，
+"length": "长",
+“风格”：“宽松地，散落在枕头上，围绕着她的头部”
+},
+"眼睛": {
+“颜色”: “浅蓝色或绿色”
+妆容：淡淡的眼线
+}
+},
+“衣服”： {
+“顶部”： {
+类型：罗纹背心，
+颜色：白色，
+“合身”： “贴合身形”，
+领口：圆领
+},
+"底部": {
+类型：牛仔裤，
+“颜色”： “浅蓝色”，
+“可见性”： “部分可见”
+},
+“配件”： {
+“耳环”: “小耳钉”
+项链：纤细简约的链条
+}
+},
+“环境”： {
+“位置”：“床或柔软的休息表面”，
+"床上用品": {
+“枕头”： “白色”，
+“床单”： “白色”
+},
+“背景”：“中性色调的墙壁和床头板或家具边缘几乎看不见”
+},
+“灯光”： {
+类型：自然阳光，
+“方向”：“来自画面左上方”，
+“效果”：“在脸部和躯干上营造出温暖的高光和柔和的阴影”
+},
+“作品”： {
+"camera_angle": "俯拍自拍角度",
+“构图”：“脸部、上半身和部分牛仔裤的特写”，
+“焦点”: “清晰地聚焦在脸部和上半身”，
+“色彩”：“暖色调肤色、白色床品、棕色头发、中性背景”
+},
+氛围：温暖、放松、舒适、自然
+}
+```
+
+<a id="prompt-757"></a>
+## 案例 757：女子手持吸塑包装靠近镜头 (来源 [@kaanakz](https://x.com/kaanakz/status/1997061904125083696)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/757.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子手持吸塑包装靠近镜头">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "setting": "studio_cinematic_advertising_shoot",
+    "environment": {
+      "background": "soft_gradient_cinematic_backdrop",
+      "lighting": "high_end_beauty_lighting_soft_yet_high_contrast",
+      "mood": "premium_modern_tech_advertisement"
+    }
+  },
+  "subject": {
+    "type": "female",
+    "identity": "reference_photo_model",
+    "appearance": {    
+      "face": "charming_symmetric_expressive",
+      "expression": "gentle_smile_intriguing_gaze",
+      "render_style": "ultra_photorealistic_close_up"
+    },
+    "pose": "holding_blister_pack_close_to_camera",
+    "focus": "sharp_on_face_and_blister_pack"
+  },
+  "object": {
+    "type": "blister_pack",
+    "representation": "macro_photorealistic",
+    "materials": {
+      "plastic": "shiny_transparent_high_gloss",
+      "foil": "silver_reflective_with_microtexture"
+    },
+    "details": {
+      "content_replaced": true,
+      "cells": [
+        { "slot_content": "Huggingface_logo" },
+        { "slot_content": "OpenAI_logo" },
+        { "slot_content": "X_logo" },
+        { "slot_content": "Grok Logo" },
+        { "slot_content": "Google_logo" }
+      ],
+      "logo_style": "embossed_colorful_brand_icons_as_pills",
+      "finish": "premium_glossy_high_detail"
+    }
+  },
+  "composition": {
+    "camera": {
+      "angle": "close_up_portrait_with_macro_focus",
+      "lens": "85mm_beauty_lens",
+      "depth_of_field": "shallow_do_f_highlight_face_and_blister",
+      "framing": "cinematic_product_beauty_split_focus"
+    },
+    "art_direction": {
+      "style": "luxury_tech_advertisement",
+      "color_palette": "warm_skin_tones_with_colorful_brand_icons",
+      "highlight_accent": "glowing_reflections_on_plastic_and_eyes"
+    }
+  },
+  "render_style": {
+    "look": "hyper_photorealistic_cinematic",
+    "textures": "extreme_skin_detail_freckles_hair_strands_plastic_gloss",
+    "lighting_effects": [
+      "beauty_glow_on_skin",
+      "soft_specular_highlights",
+      "cinematic_reflections"
+    ]
+  },
+  "post_processing": {
+    "color_grade": "premium_filmic_ad_grade",
+    "contrast": "high_but_balanced",
+    "saturation": "rich_but_refined",
+    "clarity": "maximum",
+    "aspect_ratio": "2.39:1_cinematic"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+"设置": "studio_cinematic_advertising_shoot",
+“环境”： {
+“背景”： “柔和渐变电影背景”
+"lighting": "high_end_beauty_lighting_soft_yet_high_contrast",
+"mood": "premium_modern_tech_advertisement"
+}
+},
+“主题”： {
+“类型”: “女性”
+"identity": "reference_photo_model",
+“外貌”： {
+"脸："迷人_对称_富有表现力",
+"表情": "温柔的微笑，迷人的凝视",
+"render_style": "ultra_photorealistic_close_up"
+},
+"姿势": "手持吸塑包装靠近镜头",
+"focus": "sharp_on_face_and_blister_pack"
+},
+“目的”： {
+"type": "blister_pack",
+"representation": "macro_photorealistic",
+“材料”： {
+"塑料": "亮面透明高光泽",
+"箔" "带微纹理的银色反光箔"
+},
+“细节”： {
+"content_replaced": true,
+“细胞”：[
+{ "slot_content": "Huggingface_logo" },
+{ "slot_content": "OpenAI_logo" },
+{ "slot_content": "X_logo" },
+{ "slot_content": "Grok Logo" },
+{ "slot_content": "Google_logo" }
+],
+"logo_style": "embossed_colorful_brand_icons_as_pills",
+"finish": "premium_glossy_high_detail"
+}
+},
+“作品”： {
+“相机”： {
+"角度": "带有微距对焦的特写肖像",
+"lens": "85mm_beauty_lens",
+"景深": "浅do_ f_highlight_face_and_blister",
+"构图": "cinematic_product_beauty_split_focus"
+},
+“艺术指导”：{
+"style": "luxury_tech_advertisement",
+"color_palette": "暖色调肤色搭配彩色品牌图标",
+"highlight_accent": "glowing_reflections_on_plastic_and_eyes"
+}
+},
+"render_style": {
+"外观": "超逼真电影风格",
+"textures": "extreme_skin_detail_freckles_hair_strands_plastic_gloss",
+"lighting_effects": [
+"beauty_glow_on_skin",
+"soft_specular_highlights",
+“电影感反射”
+]
+},
+"post_processing": {
+"color_grade": "premium_filmic_ad_grade",
+"对比度": "高但平衡",
+“饱和度”: “丰富而精致”
+“清晰度”：“最大”，
+"aspect_ratio": "2.39:1_cinematic"
+}
+}
+```
+
+<a id="prompt-756"></a>
+## 案例 756：女子赤脚盘腿坐在简朴的木椅上 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1997306169845792963)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/756.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子赤脚盘腿坐在简朴的木椅上">
+</div>
+
+**提示词：**
+```
+[Prompt]
+Main_Subject = A woman with long dark hair sits on a simple wooden chair, legs crossed, bare feet. She wears an off-the-shoulder white top and beige/sand-colored jogger pants. Her posture is relaxed as she looks to the left, gazing intently at the artwork. She holds a pair of sunglasses/reading glasses in her right hand.
+
+Artwork = A large black-and-white pencil/charcoal drawing hangs on the right wall. It is a dramatic, high-contrast portrait of the same woman wearing the same outfit.
+
+Background = Smooth white minimalist wall that creates a clean, modern aesthetic.
+
+Additional_Elements = Two empty wooden frames stacked on the floor (one large natural wood, one smaller white). A small decorative object resembling a rustic windmill or tiny house is placed near the frames.
+
+Atmosphere = Artistic, contemplative, neutral-toned. Strong visual dialogue between the woman and her own portrait. Calm, modern, gallery-like mood.
+
+Signature = Shreya Yadav
+Image_Ratio = 3:4
+
+[Style]
+Rendering = Ultra realistic, soft natural lighting, gentle shadows, high clarity.
+Color_Palette = White, beige, wood tones, black-and-white artwork contrast.
+Composition = Balanced; woman on left, artwork on right, décor elements below.
+
+[Output]
+Format = Photographic image
+Quality = High detail, professional art-scene aesthetic
+```
+
+**中文提示词：**
+```
+[提示词]
+主体：一位长发黑发的女子赤脚盘腿坐在简朴的木椅上。她身穿露肩白色上衣和米色/沙色运动裤。她姿态放松，目光转向左侧，专注地欣赏着一幅画作。她的右手拿着一副太阳镜/老花镜。
+
+艺术品 = 右侧墙上挂着一幅大型黑白铅笔/炭笔画。这是一幅对比鲜明、极具戏剧性的肖像画，画中人物是同一位穿着同样服装的女士。
+
+背景 = 光滑的白色极简主义墙面，营造出干净、现代的美感。
+
+附加元素 = 两个空木框叠放在地板上（一个大的原木色，一个小的白色）。木框附近放置着一个类似乡村风车或小房子的装饰品。
+
+氛围：艺术感十足，沉思冥想，色调中性。女性与其肖像之间形成强烈的视觉对话。平静、现代，宛如置身画廊。
+
+签名 = Shreya Yadav
+图像比例 = 3:4
+
+[风格]
+渲染效果 = 超逼真，柔和的自然光照，淡淡的阴影，高清晰度。
+颜色调色板 = 白色、米色、木色、黑白艺术对比。
+构图=平衡；左侧是女性，右侧是艺术品，下方是装饰元素。
+
+[输出]
+格式 = 照片图像
+品质 = 高细节、专业的艺术场景美学
+```
+
+<a id="prompt-755"></a>
+## 案例 755：使用作品中人物的经历来绘制图片 (来源 [@langzihan](https://x.com/langzihan/status/1997184522254012752)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/755.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-使用作品中人物的经历来绘制图片">
+</div>
+
+**提示词：**
+```
+大家注意这个是提示词模板，末尾替换自己喜欢的作品和角色，投喂给AI吐出的才是图片提示词，然后再将提示词赋值给Nano banana pro进行图片生成。
+
+prompt V4:
+
+# Role Definition
+You are a **Borderless Miniature World Architect**. Your goal is to create a hyper-dense, vertically stacked isometric world that feels like an **infinite slice of reality**. You must remove all artificial borders, wooden frames, or glass boxes. The landscape surface must bleed to the very edges of the image.
+
+# Core Competency
+**CRITICAL VISUAL STRATEGY (Frameless Full-Bleed):**
+1.  **Eradicate the Container & Cross-Section:** STRICTLY NO baseplates, NO frames, and **NO vertical ground cross-sections or cutaways at the bottom edge**. The terrain surface itself must extend right to the bottom of the frame.
+2.  **Infinite Surface Extend:** The bottom edge of the image must show the **top surface** of the terrain (e.g., grass, pavement, sand), as if the camera is looking down at the ground extending off-screen.
+3.  **Integrated 3D Title:** The **[Work Title]** must be rendered as **massive, cinematic 3D Typography** standing directly ON this extended terrain surface in the immediate foreground.
+4.  **High-Density Vertical Stack:** Continue to use the "Zig-Zag Ascent" method to pack 5-7 scenes from bottom to top.
+
+# Work Process (Internal "Chain of Thought")
+When provided with **[Work Title] + [Character Name]**:
+1.  **Conceive the "Infinite Ground":** Imagine standing on a hill; the ground at your feet doesn't have a cut-off edge, it just continues. That's the bottom edge view.
+2.  **Layout the Zig-Zag:**
+    * *Bottom (Foreground):* 3D Title sitting on extended ground + Beat 1 & 2.
+    * *Middle (Ascending):* Beat 3, 4, 5 winding upwards.
+    * *Top (Background):* Beat 6 & 7 fading into the atmosphere.
+3.  **Text Integration:** The 3D text should cast shadows onto the terrain surface it sits upon.
+
+# Output Format (The Final Prompt)
+You will output a single prompt block optimized for **Frameless Full-Bleed High Density**:
+
+---
+**Prompt Structure:**
+
+**[1. The Frameless Full-Bleed Composition]**
+A **frameless, edge-to-edge** high-angle isometric landscape representing **[Insert Work Title]**. The image is NOT contained in a box and shows **NO vertical cross-section** at the bottom. The terrain surface **fills the entire 16:9 frame**, extending all the way to the bottom corners. The composition follows a **vertical zigzagging path** (The "Spine") connecting **7 distinct narrative layers**.
+
+**[2. The 7-Stage Rising World (Seamless & Dense)]**
+The terrain is a continuous, rising expanse:
+* **[Layer 1 - Bottom Front]:** The immediate foreground surface, extending to the bottom edge. **Massive 3D text spelling "[Insert Work Title]" stands here**, planted on the [Describe terrain surface, e.g., desert sand/cobblestone street]. Beside it is [Describe Scene 1].
+* **[Layer 2 - Front Right]:** The path climbs to [Describe Scene 2].
+* **[Layer 3 - Mid-Left]:** Stacked above, [Describe Scene 3].
+* **[Layer 4 - Center Core]:** A dense transition zone featuring [Describe Scene 4].
+* **[Layer 5 - Mid-Right Elevated]:** Rising steeply to [Describe Scene 5].
+* **[Layer 6 - Upper Left]:** [Describe Scene 6].
+* **[Layer 7 - Top Peak]:** The highest point featuring [Describe Scene 7].
+* *Note:* The layout is organic. The bottom edge shows the **continuous surface material** of the terrain, NOT a cutaway slice.
+
+**[3. The Character's Ascent]**
+**[Insert Character Name]** appears as a recurring miniature figure throughout the climb:
+1.  [Action at Layer 1 near the Title]
+2.  [Action at Layer 2]
+3.  [Action at Layer 3]
+4.  [Action at Layer 4]
+5.  [Action at Layer 5]
+6.  [Action at Layer 6]
+7.  [Action at Layer 7]
+
+**[4. The Branding & Atmosphere]**
+**No frames, no borders, no cross-sections.** Lighting is cinematic and volumetric. The text "**[Insert Work Title]**" is rendered in **[Material Style]** 3D letters casting shadows on the ground. Tilt-shift photography, macro details, claymation texture, octane render, 8k resolution. --no wooden base, box, frame, borders, cross-section view, cutaway --ar 16:9 --stylize 750 --v 6.0
+
+---
+# User Input
+The user will provide **[Work Title] + [Character Name]**.
+```
+
+<a id="prompt-754"></a>
+## 案例 754：用浮世绘和茶杯头的风格生成信息图 (来源 [@op7418](https://x.com/op7418/status/1997283261064925190)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/754.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用浮世绘和茶杯头的风格生成信息图">
+</div>
+
+**中文提示词：**
+```
+用浮世绘+茶杯头的风格为下面的内容生成信息图
+<<这里是内容>>
+```
+
+<a id="prompt-753"></a>
+## 案例 753：一个微型人修眉 (来源 [@egeberkina](https://x.com/egeberkina/status/1997318054431052221)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/753.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个微型人修眉">
+</div>
+
+**提示词：**
+```
+{
+ "subject": {
+ "main_character": "A photorealistic, living miniature man (Lilliputian size), not a plastic figure",
+ "attire": "Casual gardening clothes, blue jeans, white t-shirt",
+ "equipment": "A tiny, realistic red push-lawnmower"
+ },
+ "action": "The man is pushing the lawnmower over a giant human eyebrow, trimming the long eyebrow hairs as if mowing a lawn",
+ "setting": {
+ "location": "Extreme close-up macro view of a human forehead and closed eye",
+ "surface_details": "Giant-scale skin texture, visible pores, wrinkles, and coarse eyebrow hair"
+ },
+ "style": [
+ "Surreal conceptual photography",
+ "Hyper-realistic",
+ "Macro photography",
+ "Humorous",
+ "High contrast",
+ "Sharp focus"
+ ],
+ "technical_details": {
+ "lighting": "Hard, direct lighting mimicking sunlight to create distinct shadows on the skin",
+ "camera": "Macro lens, shallow depth of field, focus on the miniature man and the eyebrow",
+ "resolution": "8k, ultra-detailed"
+ }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+"main_character": "一个逼真的、活生生的微型人（小人国大小），而不是塑料模型"
+着装：休闲园艺服、蓝色牛仔裤、白色T恤衫。
+“设备”：“一台小巧逼真的红色手推式割草机”
+},
+“动作”：“男子正推着割草机碾过巨大的人类眉毛，修剪长长的眉毛，就像在割草一样。”
+“环境”： {
+“位置”：“人类额头和闭着的眼睛的超近距离微距视图”，
+"surface_details": "巨大的皮肤纹理，可见的毛孔、皱纹和粗硬的眉毛"
+},
+“风格”： [
+“超现实概念摄影”
+“超现实主义”，
+“微距摄影”，
+“幽默”，
+“高对比度”，
+“清晰聚焦”
+],
+"technical_details": {
+“照明”：“模拟阳光的硬朗、直接的照明，在皮肤上形成清晰的阴影”，
+“相机”：“微距镜头，浅景深，对焦于小人和眉毛”，
+分辨率：8K，超高清
+}
+}
+```
+
+<a id="prompt-752"></a>
+## 案例 752：人物放到一个逼格拉满的大会现场 (来源 [@bggg_ai](https://x.com/bggg_ai/status/1995323329683787810)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/752.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物放到一个逼格拉满的大会现场">
+</div>
+
+**提示词：**
+```
+A wide-angle, candid documentary photograph capturing the person from {reference_image} mid-speech on a large, professionally lit stage at a major technology summit. They are holding a microphone and gesturing naturally toward the audience. Behind them, an immense, wall-sized LED screen is fully visible, displaying a crisp, **full-screen presentation slide (showing only the slide content, absolutely no PowerPoint software interface, toolbars, or window borders)**. The slide content is professionally designed based on the theme: '{speech_topic_or_outline}'. The heads and shoulders of a large audience are visible in the **very bottom foreground, low in the frame and blurred, completely ensuring an unobstructed view of the entire stage screen**. Professional stage lighting with blue and sharp spotlights on the speaker. Shot with a high-resolution camera, sharp focus on both the speaker and the screen content, realistic film grain.
+```
+
+**中文提示词：**
+```
+一张广角的、纪实风格的抓拍照片，捕捉了{reference_image}中的人物在一个主要科技峰会的大型、专业照明的舞台上演讲中途的瞬间。他们手持麦克风，自然地向观众做手势。在他们身后，一个巨大的、墙壁大小的LED屏幕完全可见，显示着一张清晰的、全屏演示幻灯片（只显示幻灯片内容，绝对没有PowerPoint软件界面、工具栏或窗口边框）。幻灯片内容是根据主题：'{speech_topic_or_outline}'进行专业设计的。大量观众的头部和肩膀出现在非常靠下的前景中，在画面位置很低且模糊，完全确保对整个舞台屏幕的视线无遮挡。专业的舞台灯光，有蓝色和锐利的聚光灯打在演讲者身上。用高分辨率相机拍摄，焦点清晰地对准演讲者和屏幕内容，逼真的电影颗粒感。
+```
+
+<a id="prompt-751"></a>
+## 案例 751：红黄两色手绘肖像画插图 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1997231229431857332)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/751.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-红黄两色手绘肖像画插图">
+</div>
+
+**提示词：**
+```
+Use my uploaded image. Generate a hand-drawn portrait illustration in red and yellow pen on notebook paper, inspired by doodle art and comic annotations.Keep full likeness of the subject, expressive lines, spontaneous
+gestures, bold outline glow,
+handwritten notes around, realistic pen stroke texture,4K resolution.
+```
+
+**中文提示词：**
+```
+使用我上传的图片。用红色和黄色钢笔在笔记本纸上绘制一幅手绘肖像插图，灵感来自涂鸦艺术和漫画注释。保持人物的完整形象，线条富有表现力，风格自然流畅。
+手势，醒目的轮廓光晕，
+周围有手写笔记，逼真的笔触纹理，4K分辨率。
+```
 
 <a id="prompt-750"></a>
 ## 案例 750：电影感胶片印样大师 (来源 [@berryxia_ai](https://x.com/berryxia_ai/status/1996238630550110422)) 模型：Nano banana pro
