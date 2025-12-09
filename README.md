@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 796：一组赛博朋克风格的时尚大片 ](#prompt-796)
+*   [案例 795：红墨水加上手写中文批注 ](#prompt-795)
+*   [案例 794：融合多种媒体元素的现实扭曲镜面自拍 ](#prompt-794)
+*   [案例 793：无缝融合两个不同的时代 ](#prompt-793)
+*   [案例 792：斯塔克工业钢铁侠战衣的演变 ](#prompt-792)
 *   [案例 791：女生展示自己手机照片 ](#prompt-791)
 *   [案例 790：产品发展轨迹图 ](#prompt-790)
 *   [案例 789：年轻女子在室内优雅地蹲着自拍 ](#prompt-789)
@@ -133,6 +138,321 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-796"></a>
+## 案例 796：一组赛博朋克风格的时尚大片 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1997832235974598763)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/796.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一组赛博朋克风格的时尚大片">
+</div>
+
+**提示词：**
+```
+A cyber-grunge surveillance fashion editorial featuring a cool, edgy young woman in her early 20s with a short chin-length bob haircut, straight with slight texture and casual bangs, partially obscured by thick black sunglasses and holding an iced coffee/chocolate plastic cup with a straw in her left hand and a half-eaten sandwich/pastry in her right hand. She wears an oversized white t-shirt with rust-red raglan sleeves and a small chest logo, tucked loosely into black, baggy carpenter/cargo denim jeans with white stitching details, and burgundy loafers, accessorized with a gold pendant necklace. She is captured in a full body walking stride, relaxed posture, facing slightly off-center with a casual, indifferent expression, head turned slightly to the side, looking downward, frozen mid-stride in an urban paved plaza with grey concrete and tiled pavement under bright sunny late afternoon golden hour light, creating high contrast shadows and long diagonal shadows to the left. The image is in 8K Ultra-HD quality, hyperrealistic, with a 4:5 aspect ratio and 1440x1920 resolution, styled in raw photoreal high fidelity, full color with cool urban tones and vibrant red UI accents, high-contrast daylight. The composition includes a main full body shot with multiple zoom-in crops (face/drink, torso, pants leg) in a fragmented layout, overlaid with tactical CCTV UI elements like red bounding boxes, telemetry data, and digital HUD overlays, simulating high-end surveillance footage with a 'Big Brother' observation vibe, candid urban documentation, and crisp daylight realism mixed with digital graphic design elements. The background is a sharp focus concrete cityscape with harsh shadow lines, and the lighting is natural harsh sunlight from a high angle, creating deep black cast shadows against bright pavement, with digital grain and scanline imperfections. The color grading features neutral urban greys, white, rust-red, denim black, and striking bright crimson red UI elements, with post-processing including high sharpness and red vector graphics overlays such as numbers '19 5 3 21 18 9 20 25', text 'CCWW', 'TR521', timecode '18/02', and bounding boxes with hashtags '#83575//' and '#25747//'. The overall theme is urban surveillance, Y2K streetwear, tactical data visualization, candid fashion moment, and dystopian chic, with a mood of cool detached observation, urban nonchalance, chaotic data stream, and privacy-invasion chic, captured from a high-angle surveillance perspective with a 35mm to 50mm lens, deep focus, and a layout of one main image plus three inset detail crops connected by red tactical line art and crosshairs.
+```
+
+**中文提示词：**
+```
+这是一组赛博朋克风格的时尚大片，主角是一位酷劲十足、个性鲜明的二十出头年轻女性。她留着齐下巴的短波波头，直发略带纹理，刘海随意，戴着一副厚厚的黑色太阳镜，左手拿着一杯插着吸管的冰咖啡/巧克力，右手拿着半个吃剩的三明治/糕点。她身穿一件宽松的白色T恤，袖子是锈红色插肩袖，胸前印着一个小巧的品牌标识，下身随意地塞进一条黑色宽松的工装牛仔裤里，裤子上有白色缝线细节，脚踩一双酒红色乐福鞋，脖子上戴着一条金色吊坠项链。照片捕捉到她迈着大步的全身姿态，放松的姿势，略微侧身，表情随意而淡漠，头部微微侧转，目光向下，定格在城市广场的半步之中。广场地面铺着灰色的水泥和瓷砖，沐浴在明媚的午后金色阳光下，形成鲜明的对比阴影，左侧投射出长长的斜影。照片采用8K超高清画质，画面逼真，宽高比为4:5，分辨率为1440x1920，风格为原始照片级高保真，色彩饱满，以冷色调的都市色调和鲜艳的红色UI元素点缀，营造出高对比度的日光效果。画面构图包含一个全身主镜头，并以碎片化的布局呈现多个放大特写（面部/饮料、躯干、裤腿），叠加了红色边界框、遥测数据和数字HUD叠加层等战术监控界面元素，模拟出高端监控录像的“老大哥”式监视氛围，同时融入了真实都市纪实和清晰的日光写实风格，并结合了数字图形设计元素。背景是清晰聚焦的混凝土城市景观，阴影线条强烈，光线来自高角度的自然强光，在明亮的路面上投射出深邃的黑色阴影，并带有数字颗粒感和扫描线瑕疵。色彩分级采用中性都市灰、白色、锈红色、牛仔黑和醒目的亮深红色 UI 元素，后期处理包括高锐化和红色矢量图形叠加，例如数字“19 5 3 21 18 9 20 25”、文本“CCWW”、“TR521”、时间码“18/02”以及带有井号“#83575//”和“#25747//”的边界框。整体主题是城市监控、Y2K 街头服饰、战术数据可视化、坦率的时尚瞬间和反乌托邦时尚，营造出一种冷静疏离的观察、都市的漫不经心、混乱的数据流和侵犯隐私的时尚感。照片采用 35 毫米至 50 毫米镜头，以高角度监控视角拍摄，并使用了深焦效果。照片布局为一张主图加三张局部细节图，并用红色战术线条和十字线连接。
+```
+
+<a id="prompt-795"></a>
+## 案例 795：红墨水加上手写中文批注 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1998271998259323132)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/795.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-红墨水加上手写中文批注">
+</div>
+
+**中文提示词：**
+```
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，检索这个账户内容，涂鸦的内容主要为吐槽他，还可以加点小剪贴画
+```
+
+<a id="prompt-794"></a>
+## 案例 794：融合多种媒体元素的现实扭曲镜面自拍 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1998059385675829263)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/794.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-融合多种媒体元素的现实扭曲镜面自拍">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "goal": "Create a mixed-media reality-bending mirror selfie / blending 2D anime characters into a 3D real-world photo / cozy autumn academia fashion meets otaku dream",
+    "meta": {
+      "image_type": "Mixed Media Composite / Anime in Real Life / Mirror Selfie / Fashion Snapshot",
+      "quality": "Best Quality, Photorealistic Center Subject, Sharp Anime Lines, Mixed Dimensionality",
+      "color_mode": "Full Color / Natural Indoor Tones / Warm Beige & Brown Palette",
+      "style_mode": "raw_photoreal blended with cel-shaded anime",
+      "aspect_ratio": "3:4",
+      "resolution": "1080x1920"
+    },
+    "creative_style": "A playful fusion of dimensions where 2D anime characters seamlessly occupy a real-world space. The photorealistic central figure wears a cozy 'Autumn Academia' outfit, contrasting with the flat, cel-shaded anime characters. The vibe is a casual, dream-like hangout caught in a mirror reflection.",
+    "overall_theme": "Anime meets reality / Autumn Academia Fashion / Mirror selfie with fictional characters",
+    "mood_vibe": "Cozy, stylish, playful, surreal, dimensional barrier breaking",
+    "style_keywords": [
+      "mixed media",
+      "mirror selfie",
+      "anime in real life",
+      "autumn academia",
+      "cable knit texture",
+      "cel-shaded",
+      "photorealistic fashion",
+      "hallway reflection"
+    ],
+    "subject": {
+      "count": "3 (1 human female, 2 anime males)",
+      "type": "human and anime characters",
+      "identity": "Center: Young woman (Photorealistic). Left: Spiky black-haired anime male (Megumi style). Right: White-haired anime male (Gojo style).",
+      "identity_preservation": {
+        "description": "Center subject is a photorealistic human wearing the specific autumn outfit. Side subjects retain distinct 2D anime art style.",
+        "notes": "Maintain clear stylistic distinction: Highly detailed texture on the cardigan/skirt vs. bold anime lines for the boys."
+      },
+      "age_appearance": "Young adults",
+      "skin": "Human: Natural texture, soft lighting. Anime: Flat cel-shaded tones.",
+      "clothing": {
+        "top": "Human: White cotton poplin shirt worn under a loose, oversized beige wool cable-knit cardigan. Left Anime: Black long-sleeve shirt. Right Anime: White t-shirt.",
+        "bottom": "Human: Brown plaid/tartan flannel mini skirt and black knee-high socks. Left Anime: Grey pants. Right Anime: Black pants.",
+        "accessories": "Human: Smartphone (taking the photo). Right Anime: Sunglasses.",
+        "textures": "Emphasize the high-depth weave of the beige cardigan and the flannel texture of the skirt on the human subject."
+      },
+      "facial_features": {
+        "expression": "Human: Obscured by phone or neutral/soft smile. Left Anime: Cool, stoic, arms crossed. Right Anime: Confident, smirk, adjusting glasses."
+      },
+      "hair": {
+        "style": "Human: Natural styling suitable for an academic look. Left Anime: Spiky energetic black hair. Right Anime: White hair with bangs down."
+      }
+    },
+    "pose_action": {
+      "overall_pose": "Casual group mirror selfie. Center subject stands straight taking the photo holding phone. Left subject leans casually against the mirror frame. Right subject stands tall.",
+      "body_position": "Standing, full body visible in mirror reflection to show the skirt and knee-high socks.",
+      "hands": "Center: Holding phone. Left: Arms crossed. Right: Touching sunglasses/face."
+    },
+    "environment": {
+      "setting": "Indoor hallway or lobby with high ceilings and reflective surfaces (matches original scene to keep the context).",
+      "location": "Modern building interior with marble/tiled walls and glass elements.",
+      "lighting": "Natural daylight filtering in, highlighting the texture of the wool cardigan.",
+      "atmosphere": "Clean, bright, casual everyday hangout."
+    },
+    "background": {
+      "color": "Beige, tan, brown (marble stripes) - compliments the beige/brown outfit.",
+      "effect": "Reflected in mirror, showing a tiled floor and a glass door leading to the outside."
+    },
+    "lighting": {
+      "type": "Natural diffuse",
+      "source": "Windows/Doors behind the subjects (reflected)",
+      "quality": "Soft, even. Creates soft shadows on the cable-knit texture.",
+      "tone": "Warm neutral."
+    },
+    "camera": {
+      "sensor_format": "Smartphone Camera",
+      "position_angle": "Eye-level mirror reflection",
+      "framing": "Vertical portrait shot capturing full bodies.",
+      "composition": {
+        "framing": "Mirror frame visible with geometric grid lines overlaying the reflection.",
+        "depth": "Deep depth of field."
+      }
+    },
+    "post_processing": {
+      "final_touch": "Digital composite look. Ensure the lighting on the photorealistic cardigan matches the environment, while anime characters remain 2D."
+    },
+    "negative": {
+      "style": "3D render of anime characters, messy drawing, bad anatomy, low resolution",
+      "content": "distorted faces, extra limbs, human subject looking like a drawing, anime characters looking too realistic"
+    },
+    "additional_controls": {
+      "special_notes": "Focus on the material contrast: Real wool and flannel vs. Anime flat colors.",
+      "vibe": "Fan edit, OOTD (Outfit of the Day)."
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_request": {
+“目标”：“创作一张融合多种媒体元素的现实扭曲镜面自拍/将二维动漫人物融入三维现实世界照片/舒适的秋季学院风时尚与宅男梦想相遇”，
+"meta": {
+"image_type": "混合媒体合成/现实生活中的动漫/镜子自拍/时尚快照",
+“质量”：“最佳质量，照片级逼真的中心主体，清晰的动漫线条，混合维度”
+"color_mode": "全彩/自然室内色调/暖米色和棕色调色板",
+"style_mode": "raw_photoreal blended with cel-shaded anime",
+"aspect_ratio": "3:4",
+分辨率：1080x1920
+},
+“创意风格”： “一种巧妙融合不同维度的趣味作品，二维动画角色无缝融入现实世界空间。写实风格的中心人物身着舒适的‘秋季学院风’服装，与扁平的赛璐珞风格动画角色形成鲜明对比。整体氛围如同镜中倒影般，营造出一种轻松梦幻的聚会氛围。”
+"overall_theme": "动漫与现实的碰撞 / 秋季学院风时尚 / 与虚构人物的镜子自拍",
+"mood_vibe": "舒适、时尚、俏皮、超现实、打破维度界限"
+"style_keywords": [
+“混合媒介”，
+“镜子自拍”，
+“现实生活中的动漫”，
+“秋季学术界”，
+“绞花针织纹理”，
+“卡通渲染”
+“照片写实时尚”，
+“走廊倒影”
+],
+“主题”： {
+“count”: “3（1名人类女性，2名动漫男性）”
+“类型”：“人类和动漫角色”，
+“身份”：“中间：年轻女子（写实风格）。左侧：黑色刺猬头动漫男性（惠美风格）。右侧：白色头发动漫男性（五条风格）。”
+"identity_preservation": {
+“描述”：“中心人物是一位身着特定秋季服装的写实人物。两侧人物则保留了鲜明的二维动画艺术风格。”
+“备注”：“保持清晰的风格区分：开衫/裙子采用高度精细的纹理，而男孩款则采用粗犷的动漫线条。”
+},
+"age_appearance": "青年人",
+“皮肤”： “人类：自然纹理，柔和光照。动漫：扁平的赛璐珞着色色调。”
+“衣服”： {
+“上图”：人类：白色棉质府绸衬衫，外搭宽松的米色羊毛麻花针织开衫。左图动漫人物：黑色长袖衬衫。右图动漫人物：白色T恤。
+“底部”： “人类：棕色格子/苏格兰格纹法兰绒迷你裙和黑色过膝袜。左侧动漫角色：灰色裤子。右侧动漫角色：黑色裤子。”
+“配件”： “人类：智能手机（正在拍照）。 右动漫人物：太阳镜。”
+“纹理”：“强调人物身上米色开衫的高密度编织纹理和裙子的法兰绒质感。”
+},
+"facial_features": {
+“表情”： “人类：被手机遮挡或面带中性/柔和的微笑。左侧动漫人物：冷静、沉稳，双臂交叉。右侧动漫人物：自信，嘴角带着一丝微笑，正在调整眼镜。”
+},
+“头发”： {
+“风格”：人类：适合学术形象的自然发型。左侧动漫：充满活力的黑色刺猬头。右侧动漫：带刘海的白色头发down."
+}
+},
+"pose_action": {
+“整体姿势”： “随意的集体镜前自拍。中间的人站直，拿着手机拍照。左边的人随意地倚靠在镜框上。右边的人站得笔直。”
+“body_position”: “站立，全身在镜中反射可见，可以看到裙子和及膝袜。”
+“手”：中间：拿着手机。左：双臂交叉。右：摸着太阳镜/脸。
+},
+“环境”： {
+“场景”：“室内走廊或大厅，天花板很高，表面有反光材料（与原场景相符，以保持语境）。”
+“地点”：“现代建筑内部，墙面采用大理石/瓷砖，并融入玻璃元素。”
+“光线”：“自然光线倾泻而入，突显了羊毛开衫的质感。”
+“氛围”：“干净、明亮、休闲的日常聚会场所。”
+},
+“背景”： {
+颜色：米色、棕褐色、棕色（大理石条纹）——与米色/棕色服装相得益彰。
+“效果”：“在镜子中映照出瓷砖地板和通往室外的玻璃门。”
+},
+“灯光”： {
+“类型”：“自然漫射”，
+“来源”：“主体背后的窗户/门（反射）”
+“品质”：“柔软均匀。在针织纹理上营造出柔和的阴影。”
+“色调”：“暖中性”。
+},
+“相机”： {
+"sensor_format": "智能手机摄像头",
+"position_angle": "眼平镜反射",
+“构图”：“竖幅肖像照，拍摄全身像。”
+“作品”： {
+“镜框”：“镜框清晰可见，几何网格线覆盖在镜面反射之上。”
+“景深”：“大景深”。
+}
+},
+"post_processing": {
+“final_touch”： “数字合成效果。确保逼真开衫的光照与环境相匹配，同时保持动漫人物的二维风格。”
+},
+“消极的”： {
+“风格”：“动漫人物的3D渲染，凌乱的绘画，糟糕的解剖结构，低分辨率”，
+“内容”：“扭曲的面孔、多余的肢体、看起来像画的人物、过于逼真的动漫人物”
+},
+"additional_controls": {
+特别说明： 重点在于材质对比：真羊毛和法兰绒 vs. 动漫风格的纯色。
+“vibe”：“粉丝剪辑，OOTD（每日穿搭）。”
+}
+}
+}
+```
+
+<a id="prompt-793"></a>
+## 案例 793：无缝融合两个不同的时代 (来源 [@dotey](https://x.com/dotey/status/1998095424394007000)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/793.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-无缝融合两个不同的时代">
+</div>
+
+**提示词：**
+```
+A horizontal split-screen cinematic shot of {Scene}, seamlessly blending two different eras: {Era_A} on the left and {Era_B} on the right (default: about 100 years ago vs. present day).
+
+On the left side ({Era_A}): show era-appropriate architecture, interior or environment design, materials, vehicles, and props that clearly belong to that historical period. People wear authentic clothing from {Era_A}, including hairstyles, accessories, and typical items in their hands (such as books, umbrellas, instruments, letters, newspapers, etc.). The overall mood feels nostalgic and historically accurate.
+
+On the right side ({Era_B}): show the same {Scene} in the modern era, with updated architecture or renovated structures, contemporary materials (glass, steel, LED screens, modern furniture), modern vehicles or equipment, and current technology (smartphones, laptops, cameras, etc.). People wear contemporary fashion that matches today’s style in this setting.
+
+In the center: the two eras merge and overlap organically, without a hard dividing line. Elements from {Era_A} and {Era_B} visually interact: people from different times look at each other, walk through each other’s space, or seem surprised by the other era’s technology and objects. Architecture and environment smoothly morph from old to new (for example, stone gates turning into modern campus gates, classical concert hall décor fading into a futuristic stage, old street shops transforming into neon-lit storefronts).
+
+Make sure the scene is not just a simple left/right comparison but a dynamic time-travel interaction where buildings, clothing, props, and human gestures clearly emphasize the contrast and fusion between the two eras. Photorealistic, 8k resolution, cinematic lighting, wide angle, highly detailed textures, rich sense of time-travel storytelling.
+
+---
+SCENE: Times Square, New York
+Era Comparison: 1920s and present day
+Aspect Ratio: 4:3
+```
+
+**中文提示词：**
+```
+水平分屏电影镜头 {Scene}，无缝融合了两个不同的时代：左侧为 {Era _A} ，右侧为 {Era_ B} （默认：大约 100 年前 vs. 现代）}。
+
+左侧（{时代_A}):展示了符合时代特征的建筑、室内或环境设计、材料、车辆和道具，这些都明显属于该历史时期。人们穿着{时代_A}的真实服饰，包括发型、配饰以及手中的典型物品（例如书籍、雨伞、乐器、信件、报纸等）。整体氛围既充满怀旧气息，又符合历史事实。
+
+右侧（{Era_ B}):展示了现代的相同场景，建筑风格有所更新或翻新，采用了现代材料（玻璃、钢材、LED屏幕、现代家具）、现代车辆或设备以及当前技术（智能手机、笔记本电脑、相机等）。人们穿着符合当今风格的时尚服饰。
+
+在中心区域：两个时代有机地融合交叠，没有明显的界限。{时代A}和{时代B}的元素在视觉上相互交融：不同时代的人们彼此对视，穿梭于彼此的空间，或对另一个时代的科技和物品感到惊讶。建筑和环境也从旧到新平滑过渡（例如，石门变成现代校园大门，古典音乐厅的装饰逐渐过渡到未来主义的舞台，老旧的街边店铺变成霓虹闪烁的店面）。
+
+确保场景不仅仅是简单的左右对比，而是一个动态的时空穿越互动场景，建筑、服饰、道具和人物姿态都清晰地突出了两个时代之间的对比与融合。照片级写实效果，8K分辨率，电影级光照，广角镜头，高度精细的纹理，以及丰富的时空穿越叙事感。
+
+---
+场景：纽约时代广场
+时代对比：20世纪20年代与当今时代
+宽高比：4:3
+```
+
+<a id="prompt-792"></a>
+## 案例 792：斯塔克工业钢铁侠战衣的演变 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1997927625717915755)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/792.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-斯塔克工业钢铁侠战衣的演变">
+</div>
+
+**提示词：**
+```
+Role & Subject: A massive, encyclopedic 16:9 3D infographic poster titled "THE EVOLUTION OF STARK INDUSTRIES IRON MAN SUITS". The visual style is a high-end fusion of museum-grade product photography and complex technical engineering blueprints.
+
+The Hero Lineup (Chronological Core): A complete, linear chronological lineup of 10 historical versions of Iron Man Armors, ranging from the crude, bulky Mark I prototype forged in a cave to the sleek, bleeding-edge Mark LXXXV nanotechnology model. They are arranged with precision on a glowing holographic measurement scale/ruler base running horizontally across the center. Rendering: Hyper-realistic 3D, 8k resolution. Emphasis on the evolution of textures: showing the aging of early crude welded scrap metal, heavy iron, and exposed wiring of the Mk I vs. the pristine, highly-polished hot-rod red and gold plating, and fluid nanotech finish of modern versions like the Mk 50 and Mk 85.
+
+Brand Atmosphere (The Canvas): Background: A deep, rich Hot Rod Red and metallic Gold textured background, resembling an armored plating surface. It is heavily layered with low-opacity watermarks of vintage Stark Industries patent drawings, handwritten engineering notes by Tony Stark (with coffee stains), and newspaper clippings related to the Avengers' history. Header: A prominent, high-contrast STARK INDUSTRIES logo displayed at the top center, with a bold typography title.
+
+The "Hyper-Dense" Information Layer (The PUNCH Style): The layout is overwhelmed with organized information (creating a "Data aesthetics" look):
+
+Dense Annotation Network: Hundreds of fine white and cyan hairlines connecting specific components (e.g., Arc Reactors, Repulsor Transmitters in palms, Articulated Helmet Faceplates, Micro-missile Compartments, Flight Stabilizers) to compact text blocks, energy output charts, and data tables floating in the volumetric space.
+
+Contextual Zones: "Era Modules" floating above the suits, representing different phases (e.g., "AFGHANISTAN ESCAPE," "THE AVENGERS INITIATIVE," "ULTRON OFFENSIVE," "INFINITY WAR NANO-TECH") with iconographic markers.
+
+Magnifying Inserts: Circular "Zoom-in" lenses scattered in empty spaces, showing extreme macro close-ups of texture details like the crude welding on Mark I, the mechanical joint articulation of Mark III, and the fluid nano-particle assembly of Mark LXXXV.
+
+Tech Specs Strip: A structured data bar at the very bottom listing precise specifications (Model Number, Weight in tons/kg, Power Source Type, Year of Creation, Primary Material Code).
+
+Technical Specs: Octane render, Unreal Engine 5 aesthetic, editorial layout, information design masterpiece, cinematic volumetric lighting, sharp focus, professional color grading, blockbuster movie poster vibe. --ar 16:9 --v 6.0 --stylize 350
+```
+
+**中文提示词：**
+```
+角色与主题：一幅名为“斯塔克工业钢铁侠战衣的演变”的大型百科全书式16:9 3D信息图海报。视觉风格融合了博物馆级别的产品摄影和复杂的技术工程蓝图，呈现出高端质感。
+
+英雄阵容（时间线核心）：完整呈现10款钢铁侠战甲的历史版本，按时间顺序排列，从洞穴中锻造的粗糙笨重的Mark I原型到线条流畅、尖端科技的Mark LXXXV纳米技术型号，应有尽有。它们被精确地排列在中央水平延伸的发光全息测量标尺底座上。渲染：超逼真3D，8K分辨率。着重展现纹理的演变：早期Mark I粗糙的焊接废金属、厚重的铁质和裸露的电线，与Mk 50和Mk 85等现代版本光洁如新、高度抛光的红色和金色镀层以及流畅的纳米技术表面形成鲜明对比。
+
+品牌氛围（画布）：背景：深邃浓郁的热棒红和金属金色纹理背景，宛如装甲板表面。其上叠加了多层低透明度的水印，包括斯塔克工业的复古专利图纸、托尼·斯塔克的手写工程笔记（带有咖啡渍）以及与复仇者联盟历史相关的报纸剪报。标题：醒目的高对比度“STARK INDUSTRIES”标志位于顶部中央，搭配粗体标题。
+
+“超密集”信息层（PUNCH 风格）：布局中充斥着组织有序的信息（营造出一种“数据美学”的外观）：
+
+密集的注释网络：数百条细细的白色和青色线条将特定组件（例如，弧形反应堆、手掌中的反重力发射器、铰接式头盔面罩、微型导弹舱、飞行稳定器）连接到漂浮在体积空间中的紧凑文本块、能量输出图表和数据表。
+
+上下文区域：“时代模块”漂浮在战衣上方，代表不同的阶段（例如，“阿富汗逃亡”、“复仇者联盟计划”、“奥创进攻”、“无限战争纳米科技”），并带有图标标记。
+
+放大插片：散落在空白处的圆形“放大”镜头，显示纹理细节的极端宏观特写，例如 Mark I 的粗糙焊接、Mark III 的机械关节铰接以及 Mark LXXXV 的流体纳米颗粒组装。
+
+技术规格条：最底部的结构化数据栏，列出精确的规格（型号、重量（吨/千克）、电源类型、生产年份、主要材料代码）。
+
+技术规格：Octane渲染，虚幻引擎5美学，编辑布局，信息设计杰作，电影级体积光照，清晰对焦，专业调色，大片海报氛围。--ar 16:9 --v 6.0 --stylize 350
+```
 
 <a id="prompt-791"></a>
 ## 案例 791：女生展示自己手机照片 (来源 [@SDT_side](https://x.com/SDT_side/status/1997789514526564650)) 模型：Nano banana pro
