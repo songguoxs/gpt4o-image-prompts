@@ -33,6 +33,21 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 811：可爱的睡眠报告海报 ](#prompt-811)
+*   [案例 810：女子映照在飞机折叠餐桌上的iPad屏幕上 ](#prompt-810)
+*   [案例 809：一张3D游戏关卡地图海报 ](#prompt-809)
+*   [案例 808：软饮堡垒 ](#prompt-808)
+*   [案例 807：采用超广角视角拍摄的高级时装照片 ](#prompt-807)
+*   [案例 806：一位身着华丽唐代服装的年轻女子 ](#prompt-806)
+*   [案例 805：一次性探索不同的艺术风格 ](#prompt-805)
+*   [案例 804：电影级双重曝光海报设计 ](#prompt-804)
+*   [案例 803：人物坐在床沿上双手摊开一叠钞票 ](#prompt-803)
+*   [案例 802：像掀起地毯一样掀起一个浪花 ](#prompt-802)
+*   [案例 801：融合了动漫人物素描人物和黏土动画人物 ](#prompt-801)
+*   [案例 800：真实世界移轴摄影 ](#prompt-800)
+*   [案例 799：登鹳雀楼 ](#prompt-799)
+*   [案例 798：类似摄影集的精美版面 ](#prompt-798)
+*   [案例 797：五彩缤纷的电影级照片 ](#prompt-797)
 *   [案例 796：一组赛博朋克风格的时尚大片 ](#prompt-796)
 *   [案例 795：红墨水加上手写中文批注 ](#prompt-795)
 *   [案例 794：融合多种媒体元素的现实扭曲镜面自拍 ](#prompt-794)
@@ -137,6 +152,875 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-811"></a>
+## 案例 811：可爱的睡眠报告海报 (来源 [@op7418](https://x.com/op7418/status/1997274785232101723)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/811.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱的睡眠报告海报">
+</div>
+
+**中文提示词：**
+```
+任务： 海报设计、睡眠数据可视化艺术。 第一步： 分析 [上传的 Apple Watch 睡眠数据截图]，提取清醒、REM、核心、深睡四个阶段的时长比例
+
+画面描述： 画面主体是一个立体的、垂直长方体透明玻璃容器（类似精致的奖杯底座或地质采样管），放置在深邃的纯色背景中。 容器内部由四种不同颜色的微缩景观层层堆叠而成，每一层的垂直厚度必须根据[上传数据]的时长比例来生成（例如：如果核心睡眠时间最长，那么蓝色的层就应该最厚）。
+
+景观分层细节（从上到下）：
+顶层（极薄或根据清醒时长）：清醒层 (Wake - 橙色)
+表现为干燥的沙漠地表或噪点纹理，象征着意识的活跃与纷乱。
+第二层：快速眼动层 (REM - 浅蓝色)
+表现为漂浮着云朵、气泡或超现实物体的梦幻天空层。材质通透轻盈。
+第三层：核心睡眠层 (Core - 深蓝色)
+表现为柔软舒适的海洋球堆积层或层叠的羽绒材质，给人平稳安定的感觉。
+底层：深度睡眠层 (Deep - 紫罗兰色)
+表现为坚硬、厚重的水晶矿洞或发光的能量块堆叠。这是地基，越厚代表睡眠质量越好。
+
+主角（用户形象）： 在玻璃容器的最顶端边缘（瓶口处），坐着一个Q版 3D 小人。
+动作： 小人的双腿自然垂下，悠闲地坐在上面。
+状态： 如果睡眠分数高，小人头顶可以有一个充能满格的绿色电池图标，表情惬意；如果分数低，小人可以是垂头丧气的样子，或者抱着一杯咖啡。
+装备： 小人手腕上必须佩戴着一只微缩的智能手表。
+
+光影与渲染： 使用 C4D 或 Blender 风格的 3D 渲染。强调玻璃容器的折射率和各层材质的物理质感（沙子、云朵、海洋球、水晶）。背景为高级黑或深夜蓝，打光重点突出容器内部的通透感和底层的微光。
+
+底部排版： 简洁的数据展示。
+
+主标题：昨晚的睡眠地质层 (My Sleep Strata)
+
+核心数据：总睡眠时长 | 睡眠评分
+
+图例：用四个对应颜色的小圆点标注每一层的名称和具体时长。
+```
+
+<a id="prompt-810"></a>
+## 案例 810：女子映照在飞机折叠餐桌上的iPad屏幕上 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1997509228706386408)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/810.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子映照在飞机折叠餐桌上的iPad屏幕上">
+</div>
+
+**提示词：**
+```
+A highly realistic, tightly framed scene showing the reflection of a fair-skinned woman with flawless skin on an iPad placed on the airplane’s foldable tray table in front of the subject, with a pair of sunglasses positioned in the foreground as an aesthetic element. Beige/grey cabin seats fill the area surrounding the iPad. On the iPad screen, the subject appears half-reclining on the airplane seat. Her left hand supports her head, fingers gently touching her temple in a relaxed gesture. Her right hand holds an iPhone 16 Pro Max to take the picture, with part of her face visible on the tablet screen. Her expression is soft, eyes slightly looking downward, giving a dreamy and calm feeling.
+
+She is wearing an oversized beige hoodie made of thick, soft fabric, with the hoodie pulled over her head. Minimalist silver rings. French nail art. Her hair is long, straight with layered cuts and beautiful volume, parted in the middle with soft front bangs covering her forehead and framing her face, in dark brown with subtle highlights. Her skin is bright, fair, and flawless with soft Korean glam makeup. Pink blush on her cheeks. Glossy rosy pink lips. Thin eyeliner and curled lashes.
+
+The environment visible behind the reflection is minimalistic yet lively: a premium/business class airplane cabin interior. A large airplane window shows soft blue light from the sky outside. The iPad camera UI—shutter button, small icons, and dock—are clearly visible on the screen.
+
+Soft-warm × pastel aesthetic tone. Edited in a “K-aesthetic soft glow” style. 9:16 portrait aspect ratio, HD, high quality. **Do NOT change the face.
+```
+
+**中文提示词：**
+```
+这是一幅高度写实、构图紧凑的画面，展现了一位肤色白皙、肌肤完美无瑕的女子映照在飞机折叠餐桌上的iPad屏幕上，一副太阳镜作为点缀置于前景。iPad周围是米灰色的机舱座椅。iPad屏幕上，女子半斜倚在座椅上，左手托着下巴，手指轻触太阳穴，姿态放松。右手拿着iPhone 16 Pro Max拍照，部分脸部出现在平板电脑屏幕上。她神情柔和，目光微微向下，给人一种梦幻而宁静的感觉。
+
+她穿着一件米色超大号连帽衫，面料厚实柔软，帽子拉到头上。手腕上戴着简约的银色戒指，指甲是法式美甲。她的头发是深棕色，带有淡淡的挑染，长直发，层次分明，蓬松饱满，中分刘海轻柔地遮住额头，修饰脸型。她的肌肤白皙透亮，无瑕疵，化着精致的韩式淡妆。双颊泛着淡淡的腮红，嘴唇涂着水润的玫瑰粉色唇膏，眼线纤细，睫毛卷翘。
+
+透过倒影可以看到，画面中的环境简约而充满活力：一架高级/商务舱飞机的客舱内部。宽大的舷窗映照出窗外柔和的蓝色天空光线。iPad 的相机界面——快门按钮、小图标和程序坞——清晰地显示在屏幕上。
+
+柔和温暖的粉彩色调。采用“韩式柔光”风格编辑。9:16 竖屏比例，高清，高品质。 **请勿更改人脸。
+```
+
+<a id="prompt-809"></a>
+## 案例 809：一张3D游戏关卡地图海报 (来源 [@op7418](https://x.com/op7418/status/1997722842042085409)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/809.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张3D游戏关卡地图海报">
+</div>
+
+**中文提示词：**
+```
+基于主题 [前端工程师的进阶之路]，创作一张3D游戏关卡地图海报。
+
+画面结构： 一条蜿蜒曲折的 3D 道路从画面底部延伸至顶部云端，分为三个主要的“关卡阶段”：
+
+底部：新手村 (Level 1: Noob)
+模型： 简单的草地场景。放置基础工具。
+路标： 插着木牌，写着标题，下方用一段话介绍当前等级的标准。
+
+中部：试炼场 (Level 10: Pro)
+模型： 地形变得复杂（森林或岩石）。放置进阶装备。
+视觉： 道路变得陡峭，象征难度增加。
+路标： 插着木牌，写着标题，下方用一段话介绍当前等级的标准。
+
+顶部：神之殿 (Level 99: Master)
+模型： 漂浮在云端的辉煌神殿或高科技实验室。放置终极神器。
+视觉： 发着金光，有彩虹或宝箱。
+路标： 插着木牌，写着标题，下方用一段话介绍当前等级的标准。
+
+数据与排版：路径线： 虚线连接各个阶段，上面有小脚印。
+
+耗时/成本： 在每个阶段旁边，用游戏 UI 风格的浮窗显示“预计耗时”或“预计金币消耗”。
+
+风格与渲染： 任天堂 (Nintendo) 风格的的粘土风。色彩鲜艳饱和。
+```
+
+<a id="prompt-808"></a>
+## 案例 808：软饮堡垒 (来源 [@KanaWorks_AI](https://x.com/KanaWorks_AI/status/1997851570323796109)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/808.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-软饮堡垒">
+</div>
+
+**提示词：**
+```
+This is a whimsical【 orange-and-green】 fantasy castle crafted from 【Fanta 】bottle labels. The scene includes playful dragons and soda-themed airships — humorous yet surprisingly detailed, radiating an unexpected sense of magic.1080×1080
+```
+
+**中文提示词：**
+```
+这是一个用【芬达】瓶标拼贴而成的奇幻【橙绿相间】城堡。场景中包含嬉戏的巨龙和汽水主题的飞艇——幽默风趣却又细节丰富，散发着意想不到的魔幻气息。1080×1080
+```
+
+<a id="prompt-807"></a>
+## 案例 807：采用超广角视角拍摄的高级时装照片 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1997986646655185245)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/807.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-采用超广角视角拍摄的高级时装照片">
+</div>
+
+**提示词：**
+```
+{
+  "meta_control": {
+    "generation_mode": "multi_panel_consistent",
+    "priority_stack": ["identity_lock", "perspective_physics", "material_fidelity", "environmental_coherence"],
+    "quality_target": "editorial_print_ready"
+  },
+  "intent": {
+    "primary": "High-fashion streetwear editorial with extreme wide-angle perspective study",
+    "secondary": "Technical demonstration of foreshortening and forced perspective",
+    "publication_context": "Double-page spread, fashion magazine collage layout"
+  },
+  "frame": {
+    "aspect_ratio": "3:4",
+    "layout": {
+      "type": "2x2 grid collage",
+      "gutter_width": "2px white or seamless",
+      "panel_uniformity": "identical dimensions per panel"
+    }
+  },
+  "subject": {
+    "type": "Human female fashion model",
+    "identity_lock": {
+      "enforcement_level": "strict",
+      "anchor_features": ["face_geometry", "skin_tone", "body_proportions", "hair_style"]
+    },
+    "biometrics": {
+      "age_presentation": "22-26",
+      "height_cm": 175,
+      "build": "Slender athletic, model proportions",
+      "ethnicity_presentation": "Northern European features"
+    },
+    "facial_signature": {
+      "structure": "Angular diamond face, high cheekbones, defined jawline",
+      "eyes": "Sharp almond, steel grey, graphic black winged liner extending 8mm",
+      "nose": "Refined, straight, small silver hoop piercing on left nostril",
+      "lips": "Natural shape, matte nude-pink",
+      "skin": "Fair, visible pores and natural texture, subtle peach fuzz, tiny freckle cluster left cheekbone",
+      "expression_default": "Cool confidence, intense direct eye contact, composed"
+    },
+    "hair": {
+      "style": "Platinum blonde straight bob, blunt bangs ending at eyebrows",
+      "texture": "Silky, light-catching, individual strand definition",
+      "behavior": "Natural movement responding to pose changes"
+    },
+    "wardrobe": {
+      "jacket": {
+        "item": "Oversized bomber jacket",
+        "material": "Ripstop nylon, high gloss",
+        "color": "Neon orange (vivid, saturated)",
+        "state": "Unzipped, hanging open",
+        "light_behavior": "Sharp specular highlights, visible weave texture"
+      },
+      "top": {
+        "item": "Crop top",
+        "material": "Black synthetic mesh, diamond pattern",
+        "fit": "Tight, stretched across torso",
+        "transparency": "Semi-sheer, skin visible through weave"
+      },
+      "pants": {
+        "item": "Tactical cargo pants",
+        "material": "Heavy cotton twill, matte",
+        "color": "Charcoal grey",
+        "details": "Multiple pockets, silver buckles, black nylon straps, baggy fit"
+      },
+      "footwear": {
+        "item": "Platform sneakers",
+        "color": "White, chunky sole",
+        "condition": "Clean but worn, realistic sole texture"
+      }
+    },
+    "accessories": {
+      "neck": "Layered heavy silver Cuban link chains, 3 chains varying thickness",
+      "hands": "Silver rings on index and middle fingers both hands"
+    }
+  },
+  "panels": [
+    {
+      "id": 1,
+      "position": "top-left",
+      "concept": "Extreme low-angle sneaker perspective",
+      "camera": {
+        "height_cm": 10,
+        "distance_cm": 35,
+        "angle": "Looking up at 75 degrees"
+      },
+      "composition": {
+        "foreground_dominant": "Right sneaker sole filling 40% of frame, laces in sharp focus",
+        "midground": "Legs receding upward",
+        "background": "Torso and face small in upper frame, looking down at camera"
+      },
+      "subject_pose": "Standing, weight back, right foot extended toward lens",
+      "expression": "Looking down, slight smirk"
+    },
+    {
+      "id": 2,
+      "position": "top-right",
+      "concept": "Bird's-eye reaching hand",
+      "camera": {
+        "height_cm": 200,
+        "distance_cm": 60,
+        "angle": "Looking straight down"
+      },
+      "composition": {
+        "foreground_dominant": "Hand reaching up, fingers spread, appearing oversized",
+        "midground": "Face looking up",
+        "background": "Body compressed, pavement visible around edges"
+      },
+      "subject_pose": "Deep squat, one arm reaching directly up to camera",
+      "expression": "Intense upward eye contact, serious"
+    },
+    {
+      "id": 3,
+      "position": "bottom-left",
+      "concept": "Fisheye face extreme close-up",
+      "camera": {
+        "height_cm": 150,
+        "distance_cm": 20,
+        "angle": "Dutch tilt 20 degrees"
+      },
+      "composition": {
+        "foreground_dominant": "Face filling 70% of frame, nose and eyes enlarged by proximity",
+        "background": "Environment warping and curving at edges, slight motion blur"
+      },
+      "subject_pose": "Leaning face toward camera, shoulders back",
+      "expression": "Piercing eye contact, one eyebrow slightly raised, confident"
+    },
+    {
+      "id": 4,
+      "position": "bottom-right",
+      "concept": "Seated knee-forward perspective",
+      "camera": {
+        "height_cm": 40,
+        "distance_cm": 50,
+        "angle": "Slight upward looking"
+      },
+      "composition": {
+        "foreground_dominant": "Knees and shins large in frame, cargo pant texture detailed",
+        "midground": "Torso leaning forward",
+        "background": "Face in upper third, hands resting on knees"
+      },
+      "subject_pose": "Seated on pavement, knees up, leaning toward camera",
+      "expression": "Relaxed confidence, soft direct gaze"
+    }
+  ],
+  "environment": {
+    "location_type": "Urban industrial alleyway",
+    "surfaces": {
+      "ground": "Weathered concrete pavement, cracks, texture, subtle debris",
+      "walls": "Concrete and brick, metallic rolling security doors, faded graffiti tags"
+    },
+    "atmosphere": "Gritty urban, authentic street context",
+    "consistency_rule": "Identical environment visible across all four panels"
+  },
+  "lighting": {
+    "source": "Natural afternoon sunlight",
+    "quality": "Hard directional light",
+    "direction": "High side-light, approximately 45 degrees from left",
+    "shadow_character": "Sharp-edged, deep shadows",
+    "color_temperature_kelvin": 5500,
+    "fill": "Minimal, ambient bounce from pavement only",
+    "specular_behavior": "Strong highlights on nylon jacket, chain jewelry, sneaker rubber"
+  },
+  "camera_global": {
+    "lens": "Ultra-wide rectilinear, 12-14mm equivalent",
+    "aperture": "f/8",
+    "depth_of_field": "Deep, foreground to background sharp",
+    "distortion": "Barrel distortion, edge stretching, exaggerated foreshortening",
+    "sensor": "Full-frame, high resolution"
+  },
+  "post_processing": {
+    "color_grade": {
+      "contrast": "High",
+      "saturation_subject": "Vivid, especially neon orange jacket",
+      "saturation_background": "Slightly desaturated, muted",
+      "blacks": "Deep, crushed slightly",
+      "highlights": "Preserved, not blown"
+    },
+    "texture": "8K resolution equivalent, visible skin texture, fabric weave, material detail",
+    "film_treatment": "Subtle RAW photo grain, not excessive"
+  },
+  "negative_constraints": {
+    "style_rejection": ["illustration", "anime", "cartoon", "painting", "drawing", "3d render", "CGI", "digital art", "AI art look", "smooth skin filter", "beauty filter"],
+    "anatomical_rejection": ["extra fingers", "missing fingers", "fused fingers", "extra limbs", "anatomical errors", "broken joints", "impossible body positions"],
+    "consistency_rejection": ["face change between panels", "different person", "clothing change", "hair color change", "inconsistent skin tone", "different lighting between panels"],
+    "technical_rejection": ["blur", "low resolution", "jpeg artifacts", "noise", "watermark", "text", "logo", "signature"],
+    "lens_rejection": ["telephoto compression", "portrait lens look", "85mm aesthetic", "no foreshortening", "flat perspective"]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"meta_control": {
+"generation_mode": "multi_panel_consistent",
+"priority_stack": ["identity_lock", "perspective_physics", "material_fidelity", "environmental_coherence"],
+"quality_target": "editorial_print_ready"
+},
+"意图": {
+“主要”： “采用超广角视角拍摄的高级时装街头服饰专题报道”
+“次要的”: “透视缩短和强制透视的技术演示”
+"publication_context": "双页跨页，时尚杂志拼贴版式"
+},
+“框架”： {
+"aspect_ratio": "3:4",
+“布局”： {
+“类型”：“2x2 网格拼贴画”，
+"gutter_width": "2px 白色或无缝",
+"panel_uniformity": "每个面板尺寸相同"
+}
+},
+“主题”： {
+“类型”：“人类女性时装模特”，
+"identity_lock": {
+"enforcement_level": "严格",
+"anchor_features": ["face_geometry", "skin_tone", "body_proportions", "hair_style"]
+},
+"生物识别"：{
+"age_presentation": "22-26"
+"height_cm": 175,
+“体型”：“纤细健美，模特身材比例”，
+"ethnicity_presentation": "北欧人特征"
+},
+"facial_signature": {
+“面部结构”：“棱角分明的钻石脸，高颧骨，轮廓分明的下颌线”，
+“眼睛”：“尖锐的杏仁眼，钢灰色，黑色线条勾勒的眼线，延伸8毫米”，
+“鼻子”：“左侧鼻孔上戴着精致、笔直的小银环鼻钉”，
+“唇部”：“自然形状，哑光裸粉色”，
+“皮肤”：“白皙，毛孔可见，质地自然，有细小的绒毛，左侧颧骨处有几颗小雀斑”，
+"expression_default": "冷静自信，目光直视，沉着冷静"
+},
+“头发”： {
+“发型”：“铂金色直发波波头，齐刘海，长度到眉毛处”
+“质感”：“丝滑、闪亮、根根分明的发丝”，
+“行为”：“对姿势变化做出反应的自然动作”
+},
+“衣柜”： {
+“夹克”： {
+“商品”: “超大号飞行员夹克”
+材质：高光泽防撕裂尼龙，
+“颜色”：“霓虹橙色（鲜艳、饱和）”
+"状态": "拉链拉开，敞开着",
+"light_behavior": "清晰的镜面高光，可见的织物纹理"
+},
+“顶部”： {
+“商品”： “露脐上衣”
+材质：黑色合成网布，菱形图案，
+“合身”： “紧身，绷紧躯干”，
+“透明度”： “半透明，透过织物可以看到皮肤”
+},
+“裤子”： {
+“商品”: “战术工装裤”
+“材质”：“厚棉斜纹布，哑光”
+“颜色”：“炭灰色”，
+细节：多口袋设计，银色搭扣，黑色尼龙肩带，宽松版型
+},
+鞋类：{
+“商品”: “厚底运动鞋”
+颜色：白色，厚底，
+状况：干净但有磨损，鞋底纹理逼真
+}
+},
+“配件”： {
+“颈部”：“多层厚重的银色古巴链，3条粗细不同的链子”，
+“双手”：“双手食指和中指上戴着银戒指”
+}
+},
+“面板”：[
+{
+“id”：1，
+"位置": "左上"
+“概念”：“极低角度运动鞋视角”，
+“相机”： {
+"height_cm": 10,
+"距离_厘米": 35,
+“角度”：“向上看75度”
+},
+“作品”： {
+"前景主导"": "右运动鞋鞋底占据画面 40%，鞋带清晰聚焦"
+“中景”：“双腿向上收缩”
+“背景”：“画面上方，躯干和脸部较小，低头看向镜头”
+},
+“subject_pose”: “站立，重心后移，右脚伸向镜头”
+“表情”：“低头，嘴角带着一丝冷笑”
+},
+{
+“id”：2，
+位置：右上角，
+“概念”：“鸟瞰视角下的伸手”，
+“相机”： {
+"height_cm": 200,
+"距离_厘米": 60,
+“角度”：“垂直向下看”
+},
+“作品”： {
+"前景主导": "一只手向上伸出，手指张开，显得过大",
+“中景”：“仰视的脸”
+“背景”：“身体被压扁，边缘可见路面”
+},
+“subject_pose”: “深蹲，一只手臂直接伸向镜头”
+“表情”：“目光专注向上，神情严肃”
+},
+{
+“id”：3，
+"位置": "左下角",
+“概念”：“鱼眼镜头面部超近特写”
+“相机”： {
+"height_cm": 150,
+"distance_cm": 20,
+“角度”： “荷兰式倾斜 20 度”
+},
+“作品”： {
+"前景主导"："面部占据画面70%的面积，鼻子和眼睛因距离而放大",
+“背景”：“环境边缘扭曲弯曲，轻微动态模糊”
+},
+“subject_pose”: “脸朝向镜头，肩膀向后倾”
+“表情”：“目光锐利，一侧眉毛微微上扬，自信满满”
+},
+{
+“id”：4，
+"位置": "右下角",
+“概念”：“坐姿膝盖前倾视角”，
+“相机”： {
+"height_cm": 40,
+"距离_厘米": 50,
+角度：略微向上看
+},
+“作品”： {
+"前景主导"："画面中膝盖和小腿较大，工装裤纹理细节丰富",
+“中景”：“躯干向前倾斜”，
+“背景”：“上三分之一处是脸部，双手放在膝盖上”
+},
+“subject_pose”: “坐在人行道上，膝盖抬起，身体前倾，朝向镜头”
+“表情”：“放松的自信，柔和的直视”
+}
+],
+“环境”： {
+"location_type": "城市工业巷道",
+"表面": {
+“地面”：风化的混凝土路面，裂缝，纹理，细微的碎屑，
+“墙壁”：混凝土和砖块，金属卷帘安全门，褪色的涂鸦标签
+},
+“氛围”：“粗犷的都市，真实的街头环境”，
+"consistency_rule": "所有四个面板上显示相同的环境"
+},
+“灯光”： {
+“来源”：“自然午后阳光”，
+“品质”：“硬定向光”，
+“方向”：“高侧光，大约从左侧倾斜 45 度”
+"shadow_character": "锐利、深邃的阴影",
+"color_temperature_kelvin": 5500,
+“填充”：“仅来自路面的最小环境反射”
+"specular_behavior": "尼龙夹克、链式首饰、运动鞋橡胶上的强光"
+},
+"camera_global": {
+“镜头”：“超广角直线镜头，等效焦距 12-14mm”
+光圈：f/8，
+"depth_of_field": "景深，前景到背景清晰",
+“变形”：“桶形变形、边缘拉伸、夸张的透视缩短”，
+“传感器”：“全画幅，高分辨率”
+},
+"post_processing": {
+"color_grade": {
+“对比度”：“高”，
+"saturation_subject": "鲜艳，尤其是霓虹橙色夹克",
+"saturation_background": "略微去饱和，柔和"
+“黑色”：“深沉，略微压扁”，
+“亮点”：“保存完好，未曾损毁”
+},
+“纹理”: “相当于 8K 分辨率，可见的皮肤纹理、织物纹理、材质细节”
+"film_treatment": "轻微的RAW照片颗粒感，不过度"
+},
+"negative_constraints": {
+"style_rejection": ["illustration", "anime", "cartoon", "painting", "drawing", "3d render", "CGI", "digital art", "AI art look", "smooth skin filter", "beauty filter"],
+"anatomical_rejection": ["多余的手指", "缺失的手指", "融合的手指", "多余的肢体", "解剖错误", "断裂的关节", "不可能的身体姿势"],
+"consistency_rejection": ["面板间面部变化", "不同的人", "服装变化", "发色变化", "肤色不一致", "面板间光照不同"],
+“技术拒绝”：[“模糊”、“低分辨率”、“JPEG伪影”、“噪点”、“水印”、“文本”、“徽标”、“签名”]
+"lens_rejection": ["远摄压缩", "人像镜头风格", "85mm美学", "无透视缩短", "平面透视"]
+}
+}
+```
+
+<a id="prompt-806"></a>
+## 案例 806：一位身着华丽唐代服装的年轻女子 (来源 [@brad_zhang2024](https://x.com/brad_zhang2024/status/1997943993943134554)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/806.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位身着华丽唐代服装的年轻女子">
+</div>
+
+**中文提示词：**
+```
+4K hyper-detailed fashion photograph featuring hyper-realistic rendering. 
+
+ **Crucial Character Consistency:** The character featured is precisely the same person shown in reference images , 
+ maintaining consistent facial features, hair style, and body structure across all shots.
+
+{
+  "core_structure": {
+    "description": "一张超写实的电影感肖像，描绘了一位身着华丽唐代服装（齐胸襦裙）的年轻女子，手持红色刺绣团扇，在飘雪的黑色背景中回眸。",
+    "elements": [
+      {
+        "object": "人物主体",
+        "attributes": ["年轻东亚女性", "精致唐风妆容(花钿, 面靥)", "回眸姿态", "优雅"]
+      },
+      {
+        "object": "服饰 (唐风)",
+        "attributes": ["唐代齐胸襦裙 (Tang Dynasty Qixiong Ruqun)", "袒领/低胸抹胸 (Low-cut bodice)", "半透明大袖衫 (Sheer wide sleeves)", "飘逸的披帛 (Flowing Pibo ribbon)", "红色与金色主调"]
+      },
+      {
+        "object": "发型",
+        "attributes": ["唐代高髻 (High bun)", "牡丹花发饰", "金步摇", "华丽发梳"]
+      },
+      {
+        "object": "道具",
+        "attributes": ["红色刺绣团扇 (保持不变)", "精致流苏"]
+      },
+      {
+        "object": "环境",
+        "attributes": ["飘落的雪花 (Falling snow)", "黑色背景 (Dark background)", "微光氛围"]
+      }
+    ]
+  },
+  "style_definition": {
+    "primary_style": "photorealistic | cinematic | classical Chinese portrait",
+    "rendering_quality": "8k resolution | ultra-detailed | masterpiece",
+    "surface_textures": ["silk", "lace", "skin texture", "snow particles"],
+    "lighting": "rim lighting | soft facial spotlight | moody dark atmosphere"
+  },
+  "technical_specifications": {
+    "camera_settings": {
+      "depth_of_field": "shallow depth of field",
+      "focal_length": "85mm",
+      "aperture": "f/1.8",
+      "exposure": "low key with highlight on face"
+    },
+    "resolution": "professional quality",
+    "rendering": ["high contrast", "sharp focus"],
+    "physics_accuracy": ["natural fabric flow", "frozen snow motion"]
+  },
+  "material_properties": {
+    "skin_textures": ["pale", "soft"],
+    "fabric_details": ["embroidery", "sheer gauze (typical for Tang)", "layered silk"],
+    "surfaces": ["matte background", "reflective jewelry"],
+    "transparency": ["translucent outer sleeves"]
+  },
+  "environmental_factors": {
+    "atmosphere": ["cold but romantic", "quiet", "ethereal"],
+    "time_season": ["winter night", "snowing"],
+    "particles": ["white snowflakes", "cold breath"]
+  },
+  "composition_controls": {
+    "perspective": "eye-level",
+    "framing": "medium shot | looking back over shoulder",
+    "subject_placement": "center-right biased"
+  },
+  "quality_keywords": {
+    "include": ["Tang Dynasty fashion", "historical accuracy", "snowy night", "beautiful eyes"],
+    "avoid": ["high collar (Ming style)", "thick clothes", "modern makeup"],
+    "reference": ["Tang Dynasty paintings", "cinematic photography"]
+  }
+}
+```
+
+<a id="prompt-805"></a>
+## 案例 805：一次性探索不同的艺术风格 (来源 [@aziz4ai](https://x.com/aziz4ai/status/1997433270275846322)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/805.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一次性探索不同的艺术风格">
+</div>
+
+**提示词：**
+```
+A 3x3 grid collage layout featuring the same man in 9 different art styles. The central top image is the original photo (realistic). The other 8 panels show the exact same man (bald, mustache, white t-shirt) in the following distinct styles: 1. Studio Ghibli anime style, 2. Rough pencil sketch, 3. Cinematic movie still, 4. High-fashion editorial photography, 5. Semi-realistic digital painting, 6. Epic fantasy warrior portrait, 7. 3D vinyl toy pop figure, 8. Surreal Salvador Dali style. All images are close-up headshots matching the exact composition, angle, and facial expression of the source image. High contrast, 8k resolution, distinct visual separation between styles.
+```
+
+**中文提示词：**
+```
+这是一幅3x3网格拼贴画，以9种不同的艺术风格呈现同一位男士。最上方中央的图像是原图（写实风格）。其余8幅图分别展示了同一位男士（光头、留着胡子、身穿白色T恤）的以下几种风格：1. 吉卜力工作室动画风格；2. 铅笔素描；3. 电影剧照；4. 高级时装摄影；5. 半写实数字绘画；6. 史诗奇幻战士肖像；7. 3D乙烯基玩具人偶；8. 超现实主义萨尔瓦多·达利风格。所有图像均为特写头像，构图、角度和面部表情均与原图完全一致。高对比度，8K分辨率，风格之间清晰的视觉区分。
+```
+
+<a id="prompt-804"></a>
+## 案例 804：电影级双重曝光海报设计 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1997636068578046405)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/804.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影级双重曝光海报设计">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "A cinematic double-exposure portrait featuring a woman in profile on the left and a man in profile on the right, both turned away from each other. Their silhouettes, including detailed facial features and hair outlines, blend seamlessly into a dense forest landscape with an artistic, modern pattern. The woman's side glows with warm golden autumn hues, while the man's side is illuminated by cool, serene blue tones. Soft rays of sunlight filter through the trees, adding depth, contrast, and emotional atmosphere. Smooth, natural lighting transitions and a clean black backdrop. Modern, artistic, emotionally expressive poster aesthetic. Bold title text at the bottom: 'Ai Queen is Here…'.",
+  "style": [
+    "cinematic",
+    "double exposure",
+    "high-detail",
+    "artistic poster",
+    "emotional"
+  ],
+  "settings": {
+    "background": "clean black backdrop",
+    "lighting": "soft sun rays, warm vs cool contrast",
+    "composition": "woman profile left, man profile right, both facing outward",
+    "color_palette": {
+      "woman_side": "warm golden autumn tones",
+      "man_side": "cool serene blue tones"
+    }
+  },
+  "effects": [
+    "smooth transitions between silhouettes and forest landscape",
+    "high contrast artistic glow",
+    "poster-quality finish"
+  ],
+  "title_text": "Ai Queen is Here…",
+  "ratio": "3:4"
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：“这是一幅电影般的双重曝光肖像，左侧是一位侧脸的女性，右侧是一位侧脸的男性，两人背对着彼此。他们的轮廓，包括细致的面部特征和头发轮廓，与茂密的森林景观完美融合，呈现出艺术感十足的现代图案。女性的一侧沐浴在温暖的秋日金色光芒中，而男性的一侧则被清冷宁静的蓝色调所照亮。柔和的阳光透过树木洒下，增添了画面的层次感、对比度和情感氛围。光线过渡自然流畅，背景为干净的黑色。现代、艺术、充满情感表现力的海报美学。底部醒目的标题文字为：‘Ai Queen is Here…’。”
+“风格”： [
+“电影般的”，
+“双重接触”，
+“高细节”，
+“艺术海报”，
+“情绪化的”
+],
+“设置”： {
+“背景”: “干净的黑色背景”，
+“光线”：“柔和的阳光，暖色与冷色的对比”，
+“构图”：“女子侧脸朝左，男子侧脸朝右，两人均面向外侧”
+"color_palette": {
+"woman_side": "温暖的金色秋色调",
+"man_side": "清凉宁静的蓝色调"
+}
+},
+“效果”：[
+“轮廓与森林景观之间的平滑过渡”，
+“高对比度的艺术光晕”，
+“海报级成品”
+],
+"title_text": "Ai Queen is Here…",
+比例：3:4
+}
+```
+
+<a id="prompt-803"></a>
+## 案例 803：人物坐在床沿上双手摊开一叠钞票 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1997497207239635175)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/803.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物坐在床沿上双手摊开一叠钞票">
+</div>
+
+**提示词：**
+```
+{
+  "subject": "reference upload image - maintain exact consistency with uploaded image. Person sitting on bed ledge holding fanned stack of cash, looking upward with exaggerated expression, slightly tongue out",
+  "pose": "sitting on bed ledge, legs spread, holding fanned A stack of Japanese 10,000 yen bills in both hands at chest level, head tilted back looking upward",
+  "character": {
+    "face": "reference upload image",
+    "hair": "reference upload image",
+    "body_type": "reference upload image",
+    "skin_tone": "reference upload image"
+  },
+  "clothing": "reference upload image - maintain exact consistency with uploaded image",
+  "accessories": {
+    "jewelry": "reference upload image",
+    "props": "large stack of cash bills fanned out in hands, scattered A stack of Japanese 10,000 yen bills on surface, yellow designer bag visible in background"
+  },
+  "expression": "Mouth wide open with a melted, dazed, uncontrollable smile, Eyebrows drooping heavily downward, looking upward with exaggerated expression, mouth open, energetic and celebratory,
+  "environment": {
+    "location": "reference upload image",
+    "setting": "reference upload image",
+    "background": "reference upload image",
+    "surface": "reference upload image"
+  },
+  "lighting": {
+    "type": "night photography with camera flash",
+    "source": "clean white room lights, camera flash",
+    "quality": "warm artificial lighting mixed with flash, creates contrast and highlights subject"
+  },
+  "camera": {
+    "angle": "low angle, shot from below looking up at subject",
+    "perspective": "close-up, environmental portrait",
+    "technique": "flash photography"
+  },
+  "style": {
+    "aesthetic": "luxury lifestyle photography",
+    "mood": "energetic, celebratory, aspirational",
+    "color_palette": "warm tones, contrast colors"
+  },
+  "consistency_note": "Use uploaded reference image for all character features including face, hair, body type, skin tone, facial structure, clothing, and accessories. Maintain strict visual consistency with reference image.",
+  "output": {
+    "aspect_ratio": "9:16",
+    "orientation": "vertical"
+  }
+}
+```
+
+**中文提示词：**
+```
+{ "subject": "参考上传图片 - 保持与上传图片完全一致。人物坐在床沿上，双手摊开一叠钞票，仰头，表情夸张，微微吐舌。"pose": "坐在床沿上，双腿分开，双手摊开一叠10000日元钞票于胸前，头部后仰，仰望。"character": { "face": "参考上传图片", "hair": "参考上传图片", "body_type": "参考上传图片", "skin_tone": "参考上传图片" }, "clothing": "参考上传图片 - 保持与上传图片完全一致。"accessories": { "jere": "参考上传图片", "props": "一大叠钞票摊开在手中，散落在地上的10000日元钞票，背景中可见黄色名牌包。"expression": "嘴巴张得大大的，带着一种迷离、失控的笑容，眉毛沉重地向下垂着，望着。"仰头，表情夸张，张着嘴，充满活力，喜庆洋溢。“环境”：{“地点”：参考上传图片，“设置”：参考上传图片，“背景”：参考上传图片，“表面”：参考上传图片}，“光线”：{“类型”：夜间闪光灯摄影，“光源”：干净的白色室内灯光，相机闪光灯，“质量”：暖色调人造光与闪光灯混合，营造对比并突出主体”}，“相机”：{“角度”：低角度，从下往上拍摄主体，“视角”：特写，环境人像，“技巧”：闪光灯摄影”}，“风格”：{“美学”：奢华生活方式摄影，“情绪”：充满活力，喜庆，令人向往，“调色板”：暖色调，对比色”}，“一致性说明”：所有角色特征，包括面部、头发、体型、肤色、面部结构、服装和配饰，均使用上传的参考图片。与参考图像保持严格的视觉一致性。", "output": { "aspect_ratio": "9:16", "orientation": "vertical" } }
+```
+
+<a id="prompt-802"></a>
+## 案例 802：像掀起地毯一样掀起一个浪花 (来源 [@umesh_ai](https://x.com/umesh_ai/status/1997528999115853928)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/802.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-像掀起地毯一样掀起一个浪花">
+</div>
+
+**提示词：**
+```
+A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a [OBJECT] lying underneath deep inside. The ocean is calm with a clear blue sky in the background. The scene creates a clever illusion, in a surreal manner, with the wave being lifted as if it is a tangible object
+```
+
+**中文提示词：**
+```
+一个[主体]蹲在沙滩上，像掀起地毯一样掀起一个浪花，露出浪花深处埋藏的[物体]。海面平静，背景是湛蓝的天空。这幅画面以超现实的方式巧妙地营造了一种错觉，浪花被掀起时仿佛是一个有形的物体。
+```
+
+<a id="prompt-801"></a>
+## 案例 801：融合了动漫人物素描人物和黏土动画人物 (来源 [@NanoBanana](https://x.com/NanoBanana/status/1997971252858982531)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/801.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-融合了动漫人物素描人物和黏土动画人物">
+</div>
+
+**提示词：**
+```
+A photo of an everyday scene at a busy cafe serving breakfast. In the foreground is an anime man with blue hair, one of the people is a pencil sketch, another is a claymation person
+```
+
+**中文提示词：**
+```
+一张繁忙咖啡馆早餐日常场景的照片。前景中是一位蓝发动漫人物，其中一个人物是铅笔素描，另一个是黏土动画人物。
+```
+
+<a id="prompt-800"></a>
+## 案例 800：真实世界移轴摄影 (来源 [@XianyuLi](https://x.com/XianyuLi/status/1997859315164795317)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/800.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真实世界移轴摄影">
+</div>
+
+**提示词：**
+```
+A highly detailed tilt-shift photography of [LOCATION] captured from a high vantage point at [TIME OF DAY, e.g., golden hour sunset], transforming the iconic structure and surrounding landscape into a whimsical miniature toy model scene, with pinpoint sharp focus on the central elements like buildings, pathways, and key landmarks, gradually blurring into soft bokeh towards the edges and foreground/background for an exaggerated shallow depth of field effect; vibrant color palette featuring [COLOR SCHEME, e.g., warm oranges and deep blues], intricate textures on surfaces such as stone, foliage, or water reflections, subtle atmospheric haze or mist adding depth and realism, photorealistic rendering with high dynamic range lighting casting long dramatic shadows, ultra-high resolution 8K, cinematic composition emphasizing symmetry and leading lines, in the style of professional architectural miniature photography.
+```
+
+**中文提示词：**
+```
+一幅高度详细的移轴摄影，拍摄[LOCATION]，从高视角捕捉于[TIME OF DAY，例如，金色时段日落]，将标志性建筑和周围景观转化为一个奇幻的微型玩具模型场景，中心元素如建筑物、路径和关键地标具有针尖般的锐利焦点，向边缘和前景/背景逐渐模糊成柔和的散景，以夸张的浅景深效果；生动的色彩方案以[COLOR SCHEME，例如，温暖的橙色和深蓝色]为特色，表面如石头、叶片或水反射的复杂纹理，微妙的大气雾霾或薄雾增添深度和真实感，照片般真实的渲染，具有高动态范围照明投射长而戏剧性的阴影，超高分辨率8K，电影般的构图强调对称性和引导线，在专业建筑微型摄影风格中。
+```
+
+<a id="prompt-799"></a>
+## 案例 799：登鹳雀楼 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/1997976321021116454)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/799.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-登鹳雀楼">
+</div>
+
+**提示词：**
+```
+Create a captivating poetic visual composition based on this prompt, seamlessly integrating the four lines of the quatrain into a unified masterpiece. Each panel perfectly illustrates one line of the poem, with the corresponding verse and the poem’s title and author elegantly embedded within its respective scene using Chinese characters. Together, these panels form a harmonious and cohesive panoramic artwork. Rendered with rich detail, cinematic lighting, 8K resolution, and highly refined textures. --ar 4:3
+
+Poem Title: 登鹳雀楼
+```
+
+<a id="prompt-798"></a>
+## 案例 798：类似摄影集的精美版面 (来源 [@Ankit_patel211](https://x.com/Ankit_patel211/status/1997930955248746637)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/798.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-类似摄影集的精美版面">
+</div>
+
+**中文提示词：**
+```
+让指定角色看起来像是在经纬度 35.63323748316045, 139.88033890258112 处观光。设计一个类似摄影集的精美版面。充分利用 9:16 的比例，为这本日本杂志制作一个专题页面。这将是一个重要的阅读页面，会影响访问量，因此请尽可能多地包含信息。
+```
+
+<a id="prompt-797"></a>
+## 案例 797：五彩缤纷的电影级照片 (来源 [@xmiiru_](https://x.com/xmiiru_/status/1998275179684757534)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/797.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-五彩缤纷的电影级照片">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_id": "aor0093",
+  "description": "Ultra-realistic HDR cinematic photo using the uploaded face as the only reference, keeping the true facial identity — no transformation, no changes",
+  "scene": {
+    "location": "Attic bedroom",
+    "style": "Cute minimalist",
+    "colors": ["orange", "pink", "blue", "purple", "green", "yellow", "white", "gray", "black", "red"],
+    "features": [
+      {
+        "type": "window",
+        "color": "bright pink"
+      },
+      {
+        "type": "wallpaper",
+        "pattern": "vertical stripes",
+        "colors": ["purple", "pink", "blue"],
+        "style": "Dopa Mine Decor",
+        "theme": "colorful"
+      }
+    ]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_id": "aor0093",
+“描述”：“使用上传的面部作为唯一参考，生成超逼真的 HDR 电影级照片，保留真实的面部特征——不进行任何转换或更改。”
+“场景”： {
+"位置": "阁楼卧室",
+风格：可爱简约
+颜色：[橙色”、“粉色”、“蓝色”、“紫色”、“绿色”、“黄色”、“白色”、“灰色”、“黑色”、“红色]
+“特征”： [
+{
+"type": "window",
+颜色：亮粉色
+},
+{
+类型：壁纸，
+“图案”：“竖条纹”，
+颜色：["紫色", "粉色", "蓝色"]
+"风格": "多巴矿装饰",
+主题：多彩
+}
+]
+}
+}
+```
 
 <a id="prompt-796"></a>
 ## 案例 796：一组赛博朋克风格的时尚大片 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1997832235974598763)) 模型：Nano banana pro
