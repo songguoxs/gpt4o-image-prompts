@@ -33,6 +33,22 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 827：现实世界传送门动漫角色跨界场景 ](#prompt-827)
+*   [案例 826：生成任何影视剧或者小说的场景海报 ](#prompt-826)
+*   [案例 825：漂浮的太极可爱3D卡通立体场景 ](#prompt-825)
+*   [案例 824：巨型韩国女子置身于熙熙攘攘的街头 ](#prompt-824)
+*   [案例 823：照片中人物一手拿着产品 ](#prompt-823)
+*   [案例 822：现实与内在精神交汇在魔镜 ](#prompt-822)
+*   [案例 821：可爱黏土风格主题海报 ](#prompt-821)
+*   [案例 820：动物和人类都变成了霓虹玻璃生物 ](#prompt-820)
+*   [案例 819：电影场景变成微缩等距立体模型 ](#prompt-819)
+*   [案例 818：透明的物体里面盛满了娇嫩的花 ](#prompt-818)
+*   [案例 817：一位个性的年轻女性 ](#prompt-817)
+*   [案例 816：东京夜生活专题报道 ](#prompt-816)
+*   [案例 815：身躯虽小心若雄狮 ](#prompt-815)
+*   [案例 814：产品的影棚拍摄照片 ](#prompt-814)
+*   [案例 813：人物出现在巨型数字广告牌上 ](#prompt-813)
+*   [案例 812：令人惊艳的分屏照片 ](#prompt-812)
 *   [案例 811：可爱的睡眠报告海报 ](#prompt-811)
 *   [案例 810：女子映照在飞机折叠餐桌上的iPad屏幕上 ](#prompt-810)
 *   [案例 809：一张3D游戏关卡地图海报 ](#prompt-809)
@@ -152,6 +168,706 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-827"></a>
+## 案例 827：现实世界传送门动漫角色跨界场景 (来源 [@dotey](https://x.com/dotey/status/1998784442052014356)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/827.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现实世界传送门动漫角色跨界场景">
+</div>
+
+**提示词：**
+```
+A glowing oval portal stands between {Real_World_Scene} and {Portal_Inner_Scene}.
+
+Outside the portal, the real-world environment is {Real_World_Scene}, depicted with realistic textures, grounded atmosphere, and gritty or natural tones.
+
+Inside the portal lies {Portal_Inner_Scene}, vibrant, imaginative, and contrasting sharply with the real world.
+
+{Portal_Inner_Character} is stepping through the portal, turning back with a dynamic glance while holding the viewer’s hand, as if guiding them into the other world.
+
+The portal emits mystical blue-purple light, drawn with clean outlines and soft shading consistent with the character’s style.
+
+Optional overall visual style: {Art_Style} (defaults to a bold contrast between anime and reality).
+
+Camera angle: third-person perspective, clearly showing the viewer’s hand being pulled into the new world.  
+No blur; sharp visual distinction between the two worlds.  
+Aspect ratio: 2:3.  
+
+----
+Real_World_Scene: A winter street in Tokyo, low-saturation neon lights with a faint snowy haze
+Portal_Inner_Scene:  A futuristic city street glowing with blue holograms, neon refracting through the air
+Portal_Inner_Character: A cyborg girl with mechanical limbs wearing a semi-armored exosuit
+```
+
+**中文提示词：**
+```
+一个闪闪发光的椭圆形传送门位于 {真实世界场景} 和 {传送门内部场景} 之间。
+
+在传送门之外，现实世界环境是 {Real_World_Scene}，以逼真的纹理、写实的氛围和粗犷或自然的色调描绘而成。
+
+传送门内是 {Portal_Inner_Scene}，充满活力，富有想象力，与现实世界形成鲜明对比。
+
+{Portal_Inner_Character} 正穿过传送门，一边牵着观众的手，一边回头，眼神充满活力，仿佛在引导他们进入另一个世界。
+
+传送门散发出神秘的蓝紫色光芒，线条简洁流畅，阴影柔和，与角色的风格相符。
+
+可选的整体视觉风格：{Art_Style } (默认采用动漫与现实之间的鲜明对比。
+
+摄像机角度：第三人称视角，清晰地展现了观众的手被拉入新世界的过程。
+没有模糊；两个世界之间有着清晰的视觉区分。
+宽高比：2:3。
+
+----
+真实场景：东京冬日街道，霓虹灯饱和度较低，笼罩着一层淡淡的雪雾。
+传送门内部场景：一条充满未来感的城市街道，蓝色的全息影像闪烁，霓虹灯光在空气中折射。
+Portal_Inner_Character：一个拥有机械肢体、身穿半装甲外骨骼的改造人女孩
+```
+
+<a id="prompt-826"></a>
+## 案例 826：生成任何影视剧或者小说的场景海报 (来源 [@op7418](https://x.com/op7418/status/1998355915456790916)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/826.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成任何影视剧或者小说的场景海报">
+<img src="./images/826-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成任何影视剧或者小说的场景海报">
+</div>
+
+**中文提示词：**
+```
+请为影视剧/小说《需要添加的名称》设计一张高品质的3D海报，需要先检索影视剧/小说信息和著名的片段场景。
+
+首先，请利用你的知识库检索这个影视剧/小说的内容，找出一个最具代表性的名场面或核心地点。在画面中央，将这个场景构建为一个精致的轴侧视角3D微缩模型。风格要采用梦工厂动画那种细腻、柔和的渲染风格。你需要还原当时的建筑细节、人物动态以及环境氛围，无论是暴风雨还是宁静的午后，都要自然地融合在模型的光影里。
+
+关于背景，不要使用简单的纯白底。请在模型周围营造一种带有淡淡水墨晕染和流动光雾的虚空环境，色调雅致，让画面看起来有呼吸感和纵深感，衬托出中央模型的珍贵。
+
+最后是底部的排版，请生成中文文字。居中写上小说名称，字体要有与原著风格匹配的设计感。在书名下方，自动检索并排版一句原著中关于该场景的经典描写或台词，字体使用优雅的衬线体。整体布局要像一个高级的博物馆藏品铭牌那样精致平衡。
+```
+
+<a id="prompt-825"></a>
+## 案例 825：漂浮的太极可爱3D卡通立体场景 (来源 [@eviljer](https://x.com/eviljer/status/1998428061394751825)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/825.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-漂浮的太极可爱3D卡通立体场景">
+<img src="./images/825-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-漂浮的太极可爱3D卡通立体场景">
+</div>
+
+**提示词：**
+```
+A clear, floating cute 3D cartoon diorama scene in a circular composition with rotational symmetry, echoing a yin-yang layout:
+
+Scene:
+- a single floating circular emblem viewed from isometric bird's-eye perspective (45° angle looking down).
+- one swirling half of the circle shows [Subject]'s most iconic defining scene or aspect (primary realm).
+- the opposite swirling half is the contrasting opposite realm, occupying the complementary yin-yang territory.
+- both realms share the same gravity direction and isometric orientation.
+- each half may be a continuous shared landmass OR two structurally separate diorama units that curve around each other, forming a recognizable yin-yang composition.
+
+Interpret narrative essence:
+- treat [Subject] as ONE overarching theme or entity with TWO conflicting aspects.
+- let each realm embody one aspect in a clear, visual way: the first half leans into aspect A, the opposite half leans into aspect B.
+- use characters only where they naturally serve the contrast: they may appear in one realm, both realms, or take different forms — repetition is optional, never a strict requirement.
+- place 2 distinct symbolic objects, each rooted naturally in its own world, echoing each other across the curve to suggest what was abandoned or gained between these two aspects.
+
+Yin-yang relationship:
+- design the two realms as interlocking, yin-yang-like shapes inside the circle: interlocking territories that echo yin-yang flow.
+- place the most focal element of each realm at its "yin-yang eye" position — the visual anchor point within each half's territory.
+- the two realms should feel spatially intimate and cohesive — bring them closer together to create a unified, compact circular emblem rather than loosely scattered islands.
+- the two halves are typically structurally separate with a subtle atmospheric gap, but may share ground where narrative calls for it — when adjoining, boundaries flow naturally through lighting, color temperature, and ground material shifts.
+- edge treatment: encourage organic overflow at key points — tall structures gently break the circular silhouette, ground edges fade atmospherically rather than clip sharply.
+
+Composition:
+- clean, dramatic circular multiverse — the circle reads as one unified, spatially compact emblem, with two interlocking narrative poles sitting close and relating to each other.
+- amplify contrast between the two realms: maximize visual tension to make the duality unmistakable.
+- vast open view: the scene extends naturally to its edges without boundary walls, fences, or enclosures — the horizon remains visible and unobstructed.
+
+Shadow:
+BARELY visible, extremely soft non-contact shadow with expansive fadeout — extends well beyond the diorama's footprint with a gentle gradient that blurs into the background. Viewed from bird's-eye perspective, nearly circular in shape.
+
+Render:
+- C4D. high poly with soft shading, rounded edges and bevels.
+- realistic PBR materials with tactile authenticity — avoid glossy plastic or resin appearance.
+- intricate textures, delicate detail, vivid harmonized colors. SSS texture:true.
+- CRITICAL: ground planes must remain flat and level with natural material textures appropriate to each realm.
+
+Background:
+- a single unified, clean, subtle gradient sky as the shared environment of both realms, providing generous breathing space around the circular diorama.
+
+Typography (top-center, cinematic poster-style design):
+- a prominent title "[Subject]" in a slim elegant serif (remove the brackets).
+- beneath it, a poetic, insightful subtitle that distills the story’s deepest truth or tension into one profound line.
+- create clear visual hierarchy through scale and weight contrast; allow auto line wrap and slight overlap with the top of the circle if needed.
+
+Enhance:
+- professional cinematic lighting, shaped to emphasize the contrast between the two realms while keeping both legible.
+- if characters are present, use dynamic, emotionally expressive poses that clearly align with the aspect of their realm.
+- strong sense of visual depth within each realm.
+
+Scene / lighting / cultural aesthetics:
+- contextually appropriate to [Subject].
+
+Negative:
+- [cropped elements at canvas edges, plastic/resin, hard cartoon outlines, underexposed, creepy, ceiling].
+
+ar=1:1
+[Subject] =
+```
+
+**中文提示词：**
+```
+一个清晰、漂浮的可爱3D卡通立体场景，采用圆形构图，具有旋转对称性，呼应了阴阳布局：
+
+场景：
+- 从等距鸟瞰视角（45°角观察）看到的单个漂浮的圆形标志down) 。
+- 圆圈的一半旋转，代表[主题]最具标志性的定义场景或方面（主要领域）。
+- 与之相对的漩涡状的一半是对比鲜明的对立领域，占据着互补的阴阳领域。
+- 两个领域具有相同的重力方向和等距方向。
+- 每一半可以是连续的共享陆地，也可以是两个结构上独立的立体模型单元，它们相互环绕，形成可辨认的阴阳图案。
+
+解读叙事精髓：
+- 将[主题]视为一个具有两个相互冲突的方面的总体主题或实体。
+- 让每个领域以清晰、直观的方式体现一个方面：前半部分倾向于方面 A，后半部分倾向于方面 B。
+- 只在自然而然地起到对比作用的地方使用人物：他们可以出现在一个领域，两个领域，或者以不同的形式出现——重复是可选的，绝不是严格的要求。
+- 放置两个截然不同的象征性物体，每个物体都自然地扎根于自己的世界中，在曲线上相互呼应，以暗示这两个方面之间放弃了什么或获得了什么。
+
+阴阳关系：
+- 将这两个领域设计成圆圈内相互交错的阴阳形状：相互交错的领域呼应阴阳流动。
+- 将每个领域中最关键的元素放置在其“阴阳眼”位置——即每个半领域内的视觉锚点。
+- 这两个领域应该在空间上感觉亲密且连贯——将它们拉近，创造一个统一、紧凑的圆形标志，而不是松散分散的岛屿。
+- 这两个部分通常在结构上是分开的，存在微妙的氛围上的隔阂，但在叙事需要时可能会共享空间——当相邻时，边界会通过光照、色温和地面材料的变化自然流动。
+- 边缘处理：鼓励在关键点自然溢出——高大的建筑轻轻地打破圆形轮廓，地面边缘以大气的方式淡化，而不是生硬地裁剪。
+
+作品：
+- 干净、戏剧性的圆形多元宇宙——圆圈被视为一个统一的、空间紧凑的象征，两个相互交错的叙事极紧密相连，彼此关联。
+- 增强两个领域之间的对比：最大限度地增强视觉张力，使二元性显而易见。
+- 广阔的开阔视野：景色自然延伸到边缘，没有边界墙、栅栏或围栏——地平线仍然可见且无遮挡。
+
+阴影：
+几乎难以察觉的、极其柔和的非接触式阴影，边缘逐渐淡出——远远超出立体模型的范围，并以柔和的渐变过渡到背景中。从鸟瞰视角看，阴影形状近乎圆形。
+
+使成为：
+- C4D。高精度模型，柔和阴影，圆角和倒角。
+- 逼真的 PBR 材料，触感真实——避免光亮的塑料或树脂外观。
+- 纹理精细，细节精致，色彩鲜艳和谐。SSS纹理：是。
+- 关键：地面必须保持平坦，并采用适合各个领域的自然材料纹理。
+
+背景：
+- 一片统一、干净、柔和的渐变天空作为两个世界的共同环境，为圆形立体模型周围提供了广阔的呼吸空间。
+
+字体设计（顶部居中，电影海报风格设计）：
+- 一个醒目的标题“[主题]”，采用纤细优雅的衬线字体（去掉括号）。
+——在其下方，有一句富有诗意和洞察力的副标题，将故事最深刻的真相或紧张感提炼成一句意味深长的句子。
+- 通过比例和粗细对比创建清晰的视觉层次；允许自动换行，并在需要时与圆的顶部略微重叠。
+
+提高：
+- 专业电影灯光，旨在强调两个领域之间的对比，同时保持两者清晰可辨。
+- 如果人物出现，请使用动态的、富有情感表现力的姿势，这些姿势应与他们所处领域的特征明显相符。
+- 每个领域都具有强烈的视觉深度感。
+
+场景/灯光/文化美学：
+- 与[主题]的语境相符。
+
+消极的：
+- [画布边缘的裁剪元素、塑料/树脂、硬卡通轮廓、曝光不足、令人毛骨悚然、天花板]。
+
+ar=1:1
+[主题] =
+```
+
+<a id="prompt-824"></a>
+## 案例 824：巨型韩国女子置身于熙熙攘攘的街头 (来源 [@Ankit_patel211](https://x.com/Ankit_patel211/status/1998299295586693397)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/824.png" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-巨型韩国女子置身于熙熙攘攘的街头">
+</div>
+
+**提示词：**
+```
+A highly detailed photorealistic aerial shot looking down on a colossal Korean young woman wearing a stylish jacket and layered outfits, positioned in a crowded Tokyo street; the giant is playfully driving a tiny car with her hands while interacting with nearby buildings and street signs, tiny people and cars clustered near her feet for scale; visible close-up hands and textured clothing details; morning daylight with soft directional sunlight casting long gentle shadows, cool urban reflections on wet pavement, slight atmospheric haze and depth of field, high-resolution, crisp details, cinematic composition with leading lines along the street, muted vibrant color palette, realistic skin textures and fabric wrinkles, subtle motion blur on the tiny cars, photorealistic lens characteristics
+```
+
+**中文提示词：**
+```
+一张高度写实的航拍照片，俯视镜头展现了一位身着时尚外套和层叠服饰的巨型韩国年轻女子，她置身于熙熙攘攘的东京街头。这位巨人正用双手玩弄着一辆迷你汽车，与附近的建筑物和路牌互动，脚边聚集着一些迷你人和汽车作为参照物。照片中清晰可见她的双手和服装的纹理细节。清晨的阳光柔和地洒下长长的阴影，湿润的路面反射出清冷的城市光影，略带薄雾，景深适中。高分辨率、清晰锐利的细节、电影般的构图（街道上的引导线）、柔和而充满活力的色调、逼真的皮肤纹理和衣物褶皱、迷你汽车上微妙的动态模糊，以及照片级的镜头特性，共同营造出逼真的画面效果。
+```
+
+<a id="prompt-823"></a>
+## 案例 823：照片中人物一手拿着产品 (来源 [@VibeMarketer_](https://x.com/VibeMarketer_/status/1998460889117409756)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/823.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片中人物一手拿着产品">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic mirror selfie of a person holding the product in one hand. Use natural bathroom lighting with a believable handheld phone reflection in the mirror.
+```
+
+**中文提示词：**
+```
+拍摄一张超逼真的镜前自拍照，照片中人物一手拿着产品。使用浴室的自然光线，并在镜子中呈现逼真的手持手机倒影。
+```
+
+<a id="prompt-822"></a>
+## 案例 822：现实与内在精神交汇在魔镜 (来源 [@dotey](https://x.com/dotey/status/1998506088262500848)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/822.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现实与内在精神交汇在魔镜">
+</div>
+
+**提示词：**
+```
+In a room infused with subtle magical ambience, {Reality} stands with their back to the camera, gazing intently into a slightly oversized oval magic mirror. The mirror appears realistic and physically accurate, with a natural reflective sheen and believable optical behavior, yet within its surface faint currents of mystical light and soft energy ripples flow gently, creating a subtle multicolored iridescence that blurs the line between realism and fantasy.
+
+In the reflection, the image of {Inner_Reflection} appears—symbolic, powerful, and metaphorically resonant. While the reflection follows true mirror physics, it is surrounded by delicate stardust particles and a faint luminous halo, hinting at an inner force manifesting through the mirror.
+
+Soft golden sunlight enters from a side window, blending naturally with the mirror’s gentle magical glow. This interplay of real-world lighting and supernatural highlights produces a dreamlike but credible visual contrast.
+
+{Reality} and the reflected {Inner_Reflection} occupy most of the composition, with the mirror proportioned only slightly larger than the character—large enough to feel mystical, yet still realistic and grounded.
+
+Rendered in cinematic lighting, surrealist style, ultra-detailed realism, 8K resolution, highly lifelike.
+
+---
+
+{Reality}: a small orange tabby cat
+ {Inner_Reflection}: a majestic, powerful lion
+```
+
+**中文提示词：**
+```
+在一个弥漫着微妙魔法氛围的房间里，{Reality}背对着镜头，专注地凝视着一面略大的椭圆形魔镜。这面镜子看起来逼真而又符合物理规律，拥有自然的反射光泽和可信的光学特性，然而在其表面之下，却涌动着微弱的神秘光芒和柔和的能量涟漪，营造出一种微妙的多彩虹彩，模糊了现实与幻想之间的界限。
+
+在倒影中，{Inner_Reflection} 的影像显现——象征意义深刻、气势磅礴，且蕴含丰富的隐喻。虽然倒影遵循着真实的镜面物理规律，但它周围环绕着细密的星尘粒子和淡淡的光晕，暗示着某种内在力量正透过镜子显现。
+
+柔和的金色阳光从侧窗射入，与镜面散发的柔和光晕自然融合。这种现实世界光线与超自然光影的交织，营造出梦幻般却又真实可信的视觉对比。
+
+现实和反映的内心世界占据了画面的大部分，镜子的比例只比人物略大一些——足够大，给人一种神秘的感觉，但又很现实，很接地气。
+
+采用电影级光照、超现实主义风格、超高细节真实感、8K分辨率渲染，高度逼真。
+
+---
+
+【现实】：一只橘色小虎斑猫
+{内心反思}：一头威武雄壮的狮子
+```
+
+<a id="prompt-821"></a>
+## 案例 821：可爱黏土风格主题海报 (来源 [@sundyme](https://x.com/sundyme/status/1998760131136466997)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/821.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-可爱黏土风格主题海报">
+</div>
+
+**中文提示词：**
+```
+Top-tier clay stop-motion animation style poster for [在此填入核心主题/人物] - MAXIMUM EXPRESSION & IMMERSION
+
+[1. VISUAL STYLE & ATMOSPHERE | 核心画风]
+- Style: 3D Clay Art, Q-version cute proportions, Stop-motion Animation aesthetic.
+- Texture: Soft matte clay, visible fingerprints, rounded edges, slight imperfections (handmade feel).
+- Camera: Macro photography, shallow depth of field (Bokeh), diorama effect.
+- Color Palette: [在此填入颜色关键词，如：Soft Pastel, Dark Gothic, Vibrant Neon].
+
+[2. IMMERSIVE COMPOSITION | 沉浸式构图]
+- Concept: A seamless 3D micro-world. The character is embedded in the environment, not just standing in front of it.
+- Perspective: [在此填入视角，如：Low angle, Top-down, Fish-eye, Isometric].
+- Foreground: [在此填入前景物体，用于增加纵深感].
+- Mid-ground: Q-version [在此填入人物描述] doing [在此填入动作], surrounded by [在此填入环境元素].
+- Background: [在此填入背景元素], blurred for depth.
+
+[3. LIGHTING & MOOD | 光影氛围]
+- Lighting Type: [在此填入光效，如：Warm golden hour, Cold moonlight, Dramatic spotlight, Volumetric lighting].
+- Shadow: Soft, colored shadows (not pitch black).
+
+[4. INTEGRATED TEXT DESIGN | 文字物理化融合]
+- Main Title: "[在此填入中文标题]" and "[在此填入英文标题]".
+- Title Style: The text is PHYSICALLY formed by [在此填入标题材质，如：Clouds, Wood, Neon tubes, Stone].
+- Body Copy: "[在此填入中文文案]" / "[在此填入英文文案]".
+- Copy Placement: Written directly on [在此填入文案载体，如：A floating paper, A wall, A road sign] within the scene.
+- Font Style: [在此填入字体风格，如：Handwritten, Graffiti, Elegant calligraphy], natural and textured.
+
+[5. TECH SPECS | 技术参数]
+- Resolution: 4K Definition, High Fidelity, Octane Render style.
+
+💡 如何像设计师一样填写？（使用指南）
+为了达到最佳效果，请在填写[ ]内容时参考以下“心法”：
+1. 构图 (Perspective) - 打破常规
+不要只用“平视”。尝试：
+Low angle (仰视)：表现伟大、压迫感（如贝多芬、诺兰）。
+Top-down (俯视)：表现掌控、精致感（如韦斯·安德森、莫扎特）。
+
+Inside-out (内部视角)：如从后备箱看出去、从山洞看出去。
+2. 标题材质 (Title Material) - 脑洞大开
+不要让 AI 随便生成字体，指定一种和主题相关的**“物体”**：
+写音乐家？标题由**“五线谱”或“乐器零件”**组成。
+写赛车手？标题由**“赛道沥青”或“轮胎痕迹”**组成。
+写厨师？标题由**“面粉”或“蔬菜切片”**组成。
+3. 文案载体 (Copy Placement) - 拒绝字幕
+
+不要让文字悬浮在空中，给它找个**“落脚点”**：
+写在飘落的树叶上。
+写在斑驳的墙壁上。
+写在扔在地上的纸团上。
+写在显示器的屏幕里。
+```
+
+<a id="prompt-820"></a>
+## 案例 820：动物和人类都变成了霓虹玻璃生物 (来源 [@dotey](https://x.com/dotey/status/1998454127152500959)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/820.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动物和人类都变成了霓虹玻璃生物">
+</div>
+
+**提示词：**
+```
+Create an imaginative, ultra-surreal image based on the provided picture or description.
+
+Reimagine the scene ${SCENE} by transforming all ${SUBJECTS} (animals, humans, creatures) into surreal beings made of transparent glass and glowing neon lights. Their bodies resemble crystal sculptures that refract ambient light, while vibrant neon streams (colors like electric blue, magenta, purple, orange-gold, etc.) flow inside them, emitting a soft yet radiant glow into the environment.
+
+Keep the original structure and layout of the scene, but re-render the lighting and atmosphere to respond to these luminous glass beings—reflections, refractions, glowing highlights, and atmospheric color shifts.
+
+The overall mood should be dreamlike, futuristic, vividly colored, highly detailed, and visually stunning, as if the world is illuminated by living neon glass creatures in a surreal alternate reality.
+
+-----
+
+SCENE: At the boundary between sunset and nightfall on the African savannah, where orange-red sunlight merges into deep blue twilight. Silhouetted acacia trees stretch across the horizon as animals wander through the glowing dust-lit grassland.
+```
+
+**中文提示词：**
+```
+根据提供的图片或描述，创作一幅充满想象力、超现实主义的画作。
+
+重新构想场景 ${SCENE}，将所有 ${SUBJECTS } (动物、人类、生物) 转化为由透明玻璃和发光霓虹灯构成的超现实生物。它们的身体如同折射环境光的晶体雕塑，而充满活力的霓虹流（如电光蓝、品红、紫、橙金等颜色）在它们体内流动，向周围环境散发出柔和而耀眼的光芒。
+
+保持场景的原始结构和布局，但重新渲染光照和氛围，以响应这些发光的玻璃生物——反射、折射、发光的高光和氛围色彩变化。
+
+整体氛围应如梦似幻、充满未来感、色彩鲜艳、细节丰富、视觉效果惊艳，仿佛世界被活生生的霓虹玻璃生物照亮，置身于超现实的平行世界。
+
+-----
+
+场景：非洲大草原上，日落与夜幕交界处，橙红色的阳光与深蓝色的暮色融为一体。地平线上，金合欢树的轮廓清晰可见，动物们在被尘土照亮的草原上漫步。
+```
+
+<a id="prompt-819"></a>
+## 案例 819：电影场景变成微缩等距立体模型 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1998713345474445676)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/819.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影场景变成微缩等距立体模型">
+<img src="./images/819-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影场景变成微缩等距立体模型">
+</div>
+
+**提示词：**
+```
+A hyper-realistic isometric miniature diorama encased in a cubic enclosure.
+Structure: The cube features two solid back walls [describe the texture/material of the back walls, e.g., textured with brick, wood paneling, forest greenery, stone blocks] forming the [describe the setting type, e.g., urban backdrop, cozy room corner, dungeon cell], and two transparent glass front walls, creating a perfect cutaway view. The entire scene is strictly contained within this cube.
+Inside the cube is [SCENE DESCRIPTION: Describe the specific iconic movie scene environment. Mention key props, furniture, floor texture, and specific clutter that makes the scene recognizable].
+Character: A photorealistic miniature person, representing [ACTOR NAME] as [CHARACTER NAME]. They are wearing [describe the iconic outfit/costume in detail]. The character is [ACTION: describe their pose/action, e.g., sitting, dancing, standing], with a [EXPRESSION] expression. [Optional: mention any specific hand-held props].
+Materials & Textures: All elements feature hyper-realistic textures (e.g., [list 2-3 specific textures relevant to the scene, e.g., weathered wood, velvet fabric, rusted metal]). It looks like a masterfully crafted, museum-quality miniature model.
+Lighting: [ATMOSPHERE NAME]: [describe light sources and mood, e.g., warm golden sunlight, harsh fluorescent light, moody noir shadows], creating cinematic depth within the glass enclosure.
+Background: A clean, solid neutral grey background completely isolating the cube. No table texture, no blurred room surroundings, no external clutter.
+Camera: A detailed macro photograph from a slightly elevated isometric three-quarter view, centering on the front glass corner. High aperture to keep the entire miniature in focus.
+```
+
+**中文提示词：**
+```
+一个超逼真的等距微缩模型，被放置在一个立方体外壳内。
+结构：这个立方体由两面实心后墙（描述后墙的纹理/材质，例如砖块、木板、森林绿植、石块）构成（描述场景类型，例如城市背景、舒适的房间角落、地牢牢房），以及两面透明玻璃前墙组成，形成完美的剖面视图。整个场景完全包含在这个立方体内。
+立方体内部是[场景描述：描述特定的标志性电影场景环境。提及关键道具、家具、地板纹理以及使场景易于识别的特定杂物]。
+角色：一个逼真的微缩人偶，代表[演员姓名]饰演的[角色姓名]。他/她身着[详细描述标志性服装/戏服]。角色处于[动作：描述其姿势/动作，例如：坐着、跳舞、站立]状态，表情为[表情]。[可选：提及任何特定的手持道具]。
+材质与纹理：所有元素均采用超逼真的纹理（例如，列出 2-3 种与场景相关的具体纹理，例如，风化的木材、天鹅绒织物、生锈的金属]) 。它看起来像一个精心制作的博物馆级微缩模型。
+照明：[氛围名称]: [描述光源和氛围，例如，温暖的金色阳光、刺眼的荧光灯、阴郁的黑色阴影]，在玻璃罩内营造电影般的深度。
+背景：干净、纯色的中性灰色背景，完全衬托出立方体。没有桌面纹理，没有模糊的房间环境，也没有外部杂物。
+相机：采用略微抬高的等距四分之三视角拍摄的精细微距照片，焦点位于前玻璃角。使用大光圈以确保整个微缩模型清晰对焦。
+```
+
+<a id="prompt-818"></a>
+## 案例 818：透明的物体里面盛满了娇嫩的花 (来源 [@azed_ai](https://x.com/azed_ai/status/1998392470464503963)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/818.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-透明的物体里面盛满了娇嫩的花">
+</div>
+
+**提示词：**
+```
+A transparent [OBJECT] filled with delicate spring flowers like cherry blossoms, irises, and wildflowers. Hyper-realistic 3D render, soft lighting and reflections, minimal aesthetic, set against a [BACKGROUND COLOR] backdrop, whimsical botanical design, elegant and surreal composition
+```
+
+**中文提示词：**
+```
+一个透明的[物体]，里面盛满了娇嫩的春花，如樱花、鸢尾花和野花。超逼真的3D渲染，柔和的光线和反射，极简主义美学，以[背景色]为衬托，充满奇思妙想的植物设计，优雅而超现实的构图。
+```
+
+<a id="prompt-817"></a>
+## 案例 817：一位个性的年轻女性 (来源 [@xmliisu](https://x.com/xmliisu/status/1998425357066633672)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/817.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位个性的年轻女性">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "subject": {
+      "demographics": "Young woman, fair skin with natural blush, freckle-free nose and cheeks.",
+      "hair": "Short ash-brown bob, center-parted layer, loose strands falling over face.",
+      "facial_features": "Light brown eyes, curly eyelashes, soft pouty pink lips (glossy/plump), septum piercing.",
+      "expression": "Playful, mischievous, cute, winking and sticking out tongue.",
+      "tattoos": "Preserve subject's original tattoos (visible on skin/face/hands)."
+    },
+    "apparel": {
+      "upper_body": "Black tank top, light blue, white, and black plaid flannel shirt (worn open or draped).",
+      "lower_body": "Denim miniskirt.",
+      "accessories": "Small black belt."
+    },
+    "pose_and_action": {
+      "posture": "Sitting casually on a bar stool.",
+      "hands": "Left hand relaxed and down, holding a lit cigarette."
+    },
+    "environment": {
+      "setting": "Dark outdoor/semi-outdoor bar, pub, or nightclub.",
+      "furniture": "Round tables with stone/metal texture, bar stools.",
+      "background_elements": "Faintly visible people sitting in the background, nighttime atmosphere."
+    },
+    "props": {
+      "table_items": [
+        "Glass glasses filled with drinks",
+        "Glass pitcher",
+        "Cigarette pack (Gudang Garam Surya 16 styling)"
+      ]
+    },
+    "technical_specifications": {
+      "angle": "High Angle Shot (looking down at subject).",
+      "lighting": "Harsh direct flash, sharp shadows behind subject, skin appears bright/slightly overexposed.",
+      "style": "Casual snapshot, Y2k aesthetic, streetwear vibe, grunge, flash photography.",
+      "resolution": "1200x1200px"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_request": {
+“主题”： {
+“人口统计信息”：“年轻女性，皮肤白皙，带有自然红晕，鼻子和脸颊上没有雀斑。”
+头发：短款灰棕色波波头，中分层次，几缕碎发垂在脸颊旁。
+面部特征：浅棕色眼睛，卷曲的睫毛，柔软丰满的粉红色嘴唇（有光泽/饱满），鼻中隔穿孔。
+“表情”：“顽皮、调皮、可爱、眨眼吐舌头。”
+“纹身”：“保留被摄对象的原始纹身（在皮肤/面部/手部可见）。”
+},
+"服装": {
+“上身”： “黑色背心，浅蓝色、白色和黑色格子法兰绒衬衫（敞开穿着或披在身上）。”
+"下半身": "牛仔迷你裙。"
+“配饰”：“黑色小腰带。”
+},
+"pose_and_action": {
+“姿势”：“随意地坐在吧台凳上。”
+“双手”：“左手放松下垂，手里拿着一支点燃的香烟。”
+},
+“环境”： {
+“环境”：昏暗的户外/半户外酒吧、酒馆或夜总会。
+“家具”：“石纹/金属质感的圆桌，吧台凳。”
+"background_elements": "背景中隐约可见的人，夜晚的氛围。"
+},
+"props": {
+"table_items": [
+“装满饮料的玻璃杯”
+“玻璃水壶”，
+“香烟包（Gudang Garam Surya 16造型）”
+]
+},
+"technical_specifications": {
+“角度”：“高角度拍摄（俯视拍摄对象）”。
+“光线”：“强烈的直射闪光灯，主体后方阴影锐利，皮肤显得明亮/略微过曝。”
+风格：随意快照、Y2K美学、街头服饰风格、颓废风、闪光灯摄影。
+分辨率：1200x1200像素
+}
+}
+}
+```
+
+<a id="prompt-816"></a>
+## 案例 816：东京夜生活专题报道 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1998531548698591377)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/816.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-东京夜生活专题报道">
+</div>
+
+**提示词：**
+```
+Tokyo nightlife editorial. Full body shot, low angle looking up slightly. A cool, alluring young woman is resting her lower back against the hood of a modified pink sports car. She has long, wavy, multi-colored hair (pink/cyan/blonde), catching the city glow. Wearing a pink long-sleeve crochet crop top, heavy denim mini skirt, and a delicate gold waist chain. The car creates a foreground frame with its open door. The environment is a dense, vertical urban canyon with infinite neon billboards fading into the distance. Color palette: Cyberpunk pinks, deep purples, and midnight blues. Lighting is soft and diffuse on the face, with dramatic shadows. 85mm portrait photography, f/1.8, high fidelity, candid mood.
+```
+
+**中文提示词：**
+```
+东京夜生活专题报道。全身照，低角度略微仰拍。一位酷劲十足的年轻女子倚靠在一辆改装粉色跑车的引擎盖上，腰部略微放松。她一头长长的波浪卷发，染着粉色、青色和金色，在城市灯光的映衬下熠熠生辉。她身穿粉色长袖钩针露脐上衣、厚重的牛仔迷你裙，腰间系着一条精致的金色腰链。敞开的车门构成了前景的框架。周围环境是密集的垂直都市峡谷，无尽的霓虹广告牌延伸至远方。色彩运用：赛博朋克粉、深紫色和午夜蓝。面部光线柔和而漫射，营造出戏剧性的阴影效果。85mm焦距，f/1.8光圈，高保真度，自然抓拍。
+```
+
+<a id="prompt-815"></a>
+## 案例 815：身躯虽小心若雄狮 (来源 [@dotey](https://x.com/dotey/status/1998436949284270379)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/815.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-身躯虽小心若雄狮">
+</div>
+
+**提示词：**
+```
+A small, reddish-brown poodle with curly fur and expressive dark eyes is standing on a quiet street, looking into a puddle. In the water’s reflection, he sees a proud, majestic lion with a flowing mane. The reflection is realistically distorted by soft ripples in the puddle, giving the scene a dreamlike, metaphorical quality. The lighting is soft and natural, with a hint of golden hour. The image captures the contrast between Vin’s small size and his inner strength, courage, and determination. --ar 1:1
+```
+
+**中文提示词：**
+```
+一只体型娇小、毛色红棕色、有着卷曲毛发和炯炯有神的黑眼睛的贵宾犬，站在一条静谧的街道上，凝视着水洼。在水面的倒影中，它看到一头鬃毛飘逸、威风凛凛的雄狮。水洼中柔和的涟漪使倒影呈现出一种梦幻般的、充满隐喻的质感。光线柔和自然，带着一丝日落的金色光芒。这幅画面捕捉到了小家伙Vin娇小的身形与它内在的力量、勇气和决心之间的鲜明对比。——ar 1:1
+```
+
+<a id="prompt-814"></a>
+## 案例 814：产品的影棚拍摄照片 (来源 [@azed_ai](https://x.com/azed_ai/status/1998708551888547897)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/814.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-产品的影棚拍摄照片">
+<img src="./images/814-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-产品的影棚拍摄照片">
+</div>
+
+**提示词：**
+```
+studio shot of [PRODUCT], placed on a [background], surrounded by soft shadows and gradient background, high-key lighting, shallow depth of field, ultra-sharp focus on the object, premium product photography, shot on a DSLR, minimal aesthetic, subtle reflections, commercial lighting setup
+```
+
+**中文提示词：**
+```
+[产品] 的影棚拍摄照片，置于 [背景] 之上，周围环绕着柔和的阴影和渐变背景，采用高调布光、浅景深，主体清晰锐利，高端产品摄影，使用单反相机拍摄，简约美学，微妙的反射，商业照明设置
+```
+
+<a id="prompt-813"></a>
+## 案例 813：人物出现在巨型数字广告牌上 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1998397446628806709)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/813.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物出现在巨型数字广告牌上">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation_prompt": {
+    "subject_details": {
+      "description": "Young stylish woman with long straight brown hair",
+      "expression": "Subtle, confident smile",
+      "outfit": {
+        "top": "Soft pink T-shirt under an open black casual jacket",
+        "bottom": "Fitted dark jeans",
+        "shoes": "Polished black shoes"
+      },
+      "pose": "Standing on a street corner facing the camera, pointing with one hand toward a building behind her"
+    },
+    "background_scene": {
+      "setting": "Vibrant modern city at night",
+      "key_element": "Giant digital billboard on a tall glass building",
+      "billboard_content": {
+        "visual": "Portrait of the same woman in the same outfit, posed like a high-fashion magazine cover",
+        "text_headline": "VOUGHT STYLE",
+        "text_subheading": "Smaller indistinct magazine-style text"
+      },
+      "atmosphere": [
+        "Neon lights",
+        "Glowing billboards",
+        "Moving cars with motion blur",
+        "Wet pavement with reflections"
+      ]
+    },
+    "technical_specs": {
+      "style": "Cinematic, Photorealistic, Urban Night",
+      "camera": "35mm lens",
+      "depth_of_field": "Shallow with soft bokeh on city lights",
+      "lighting": "Mixed neon ambient, directional light from billboard, moody shadows",
+      "resolution": "8k, high definition"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation_prompt": {
+"subject_details": {
+描述： “年轻时尚的女性，留着棕色长直发”
+“表情”：“微妙而自信的微笑”，
+“全套服装”： {
+上衣：一件浅粉色T恤，外面套一件敞开的黑色休闲外套。
+“下装”：“修身深色牛仔裤”，
+“鞋子”： “擦亮的黑皮鞋”
+},
+“姿势”：“站在街角，面向镜头，一只手指向身后的建筑物”
+},
+"background_scene": {
+“场景”：“充满活力的现代都市夜景”，
+"key_element": "高耸玻璃建筑上的巨型数字广告牌",
+"billboard_content": {
+“视觉”：“同一位女性身着同一套服装，摆出类似高级时装杂志封面的姿势的肖像”，
+"text_headline": "沃特风格",
+"text_subheading": "较小的模糊杂志风格文本"
+},
+“气氛”： [
+霓虹灯
+“闪闪发光的广告牌”，
+“带有运动模糊效果的行驶车辆”
+“湿漉漉的路面映照着倒影”
+]
+},
+"technical_specs": {
+“风格”：“电影感、照片写实、都市夜景”
+“相机”: “35mm 镜头”
+"depth_of_field": "城市灯光浅景深，带有柔和的散景效果",
+“照明”：“混合霓虹灯环境光、广告牌定向光、阴郁的阴影”，
+分辨率：8K，高清
+}
+}
+}
+```
+
+<a id="prompt-812"></a>
+## 案例 812：令人惊艳的分屏照片 (来源 [@dboy_yi2025](https://x.com/dboy_yi2025/status/1998333880068358601)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/812.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-令人惊艳的分屏照片">
+</div>
+
+**提示词：**
+```
+A single, perfectly composed 4:3 cinematic photograph of Shibuya Crossing, Tokyo, shot right after a sudden summer shower.
+The entire street is covered in a mirror-like sheet of rainwater that reflects everything above it like flawless glass.
+Above the waterline: hyper-real 2026 Shibuya.
+Towering curved 8K transparent OLED billboards, naked-eye 3D holograms of J-pop idols floating mid-air, salarymen in translucent raincoats and AR monocles, girls in techwear with glowing umbrella drones, cyan-magenta neon bleeding into wet asphalt, thousands of umbrellas blooming in perfect chaos.
+Below the waterline, perfectly reflected yet terrifyingly real: 1926 Shibuya.
+Low-rise wooden shops with sliding doors, hand-painted kanji signs for sake and kimono stores, rickshaws and early Model-T taxis, women in furisode kimono and braided hair carrying paper parasols, men in haori-hakama and geta sandals, soft gas lamps flickering, everything in warm sepia monochrome.
+At the exact center where water meets reality, the boundary breaks:
+A 2026 girl in chrome puffer jacket kneels and touches the puddle; her reflection is a 1926 geisha reaching upward; their fingertips meet at the water surface and create perfect concentric ripples that turn into glowing pixels.
+A salaryman looks down and sees his own face aged 100 years staring back in horror.
+A 1926 paper parasol floats upward out of the water and becomes a transparent umbrella drone.
+Droplets fall upward from 1926 into 2026, becoming LED particles that explode into tiny holograms.
+Everyone, past and present, is frozen mid-step, staring into the mirror-realm in pure shock and wonder.
+Photorealistic octane render, 8K, razor-sharp reflection detail, anamorphic lens, subtle volumetric god rays cutting through rain mist, perfect water physics, colour grade shifts from electric neon above to warm sepia below, maximum emotional intensity.
+--ar 4:3 --stylize 650 --v 6 --q 2
+```
+
+**中文提示词：**
+```
+一张构图完美的 4:3 电影感照片，拍摄于东京涩谷十字路口，当时正值一场突如其来的夏雨过后。
+整条街道都被一层如镜面般的雨水覆盖，将上方的一切映照得如同完美无瑕的玻璃。
+水线之上：超现实的 2026 年涩谷。
+高耸的弧形 8K 透明 OLED 广告牌，肉眼可见的 3D 全息影像，漂浮在半空中的日本流行偶像，身穿半透明雨衣、戴着 AR 单片眼镜的上班族，身穿科技服装、手持发光雨伞无人机的女孩，青色和品红色的霓虹灯渗入湿漉漉的沥青路面，成千上万把雨伞在完美的混乱中绽放。
+水线以下，完美地倒映着，却又无比真实：1926 年的涩谷。
+低矮的木制商店，推拉门，清酒店和和服店的招牌是手绘的汉字，人力车和早期的T型出租车，穿着振袖和服、梳着辫子的妇女撑着纸伞，穿着羽织袴和木屐的男人，柔和的煤气灯闪烁着，一切都笼罩在温暖的棕褐色调中。
+在水与现实交汇的正中心，界限消失了：
+一位身穿铬色羽绒服的 2026 年女孩跪在水坑边，触摸着水坑；她的倒影是一位 1926 年的艺伎，正向上伸出手；她们的指尖在水面上相遇，激起完美的同心涟漪，最终变成闪闪发光的像素。
+一名上班族低头一看，发现自己100岁时的脸正惊恐地盯着自己。
+一把 1926 年的纸伞从水中向上漂浮，变成了一把透明的伞状无人机。
+水滴从 1926 年向上落到 2026 年，变成 LED 粒子，爆炸成微小的全息图。
+过去和现在的所有人，都愣在了原地，目瞪口呆地望着镜中的世界，充满了震惊和惊奇。
+照片级真实感渲染，8K分辨率，锐利的反射细节，变形镜头，雨雾中微妙的体积光束，完美的水物理效果，色彩从上方的霓虹灯色过渡到下方的暖褐色，最大程度的情感强度。
+--ar 4:3 --stylize 650 --v 6 --q 2
+```
 
 <a id="prompt-811"></a>
 ## 案例 811：可爱的睡眠报告海报 (来源 [@op7418](https://x.com/op7418/status/1997274785232101723)) 模型：Nano banana pro
