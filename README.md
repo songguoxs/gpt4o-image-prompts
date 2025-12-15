@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 857：超逼真的3D商业风格产品图 ](#prompt-857)
+*   [案例 856：提线木偶 ](#prompt-856)
+*   [案例 855：剪纸风格的珠江新城 ](#prompt-855)
+*   [案例 854：商业广告拍摄现场 ](#prompt-854)
+*   [案例 853：雪景下的精灵 ](#prompt-853)
+*   [案例 852：20元纸币（桂林山水版） ](#prompt-852)
+*   [案例 851：圣诞宠物九宫图 ](#prompt-851)
+*   [案例 850：圣诞主题高端影棚照片 ](#prompt-850)
+*   [案例 849：专业影棚人像摄影圣诞冬季主题 ](#prompt-849)
+*   [案例 848：9宫格裸感3D拼贴海报 ](#prompt-848)
 *   [案例 847：展开3D模型 ](#prompt-847)
 *   [案例 846：夸张视角插画风格 ](#prompt-846)
 *   [案例 845：成为自己漫画中的一部分 ](#prompt-845)
@@ -188,6 +198,431 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-857"></a>
+## 案例 857：超逼真的3D商业风格产品图 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/2000485236841607559)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/857.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的3D商业风格产品图">
+<img src="./images/857-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的3D商业风格产品图">
+</div>
+
+**提示词：**
+```
+Create an ultra-realistic 3D commercial-style product shot of a premium cherry juice bottle, suspended mid-air with intricate condensation droplets on its surface. The bottle should appear fresh and vibrant, with each condensation bead reflecting ambient light to enhance photorealism. Surround the product with dynamic elements like splashing droplets of cherry juice, whole cherries, and ice cubes, frozen in high-speed motion, each element sharply defined with vibrant clarity.
+Floating cherry stems and leaves should also be included to enhance the sense of freshness and energy.
+
+Set the background against a rich, deep red and burgundy gradient, which complements the rich color of the cherry juice and evokes a sense of indulgence and premium quality. The product should be centrally placed, slightly tilted to convey a sense of movement and sophistication.
+Use cinematic, studio-style lighting with bright highlights reflecting off the bottle, crisp shadows, and high contrast to create a luxurious, polished look. Ensure the bottle’s label is clearly visible, with subtle reflections beneath it, adding depth and realism to the scene.
+
+The overall aesthetic must evoke indulgence, freshness, and premium quality, with all elements contributing to a high-end, visually striking image. The scene should feel rich, fresh, and full of vitality,with a focus on the vibrant color and fresh nature of the cherry juice.
+
+Technical Specifications:
+
+Aspect Ratio: 4:5
+
+Resolution: Ultra-HD quality
+
+Lighting: Studio-style, cinematic with bright highlights, subtle reflections, and high contrast
+
+Detailing: Extreme attention to condensation, droplets, and high-speed motion of elements
+```
+
+**中文提示词：**
+```
+创作一张超逼真的3D商业风格产品图，展示一瓶优质樱桃汁悬浮在半空中，瓶身表面凝结着精致的水珠。瓶身应呈现清新亮丽的质感，每一滴水珠都反射着环境光，增强照片的真实感。在产品周围添加动态元素，例如飞溅的樱桃汁、完整的樱桃和冰块，以高速运动的瞬间定格，每个元素都清晰锐利，栩栩如生。
+为了增强清新活力感，还可以加入漂浮的樱桃茎和叶子。
+
+背景采用浓郁的深红色和酒红色渐变色，与樱桃汁的浓郁色泽相得益彰，营造出奢华和高品质的氛围。产品应置于画面中央，略微倾斜，以展现动感和精致感。
+使用电影级的影棚灯光，让明亮的高光反射在瓶身上，阴影清晰锐利，并营造出高对比度，从而打造出奢华精致的视觉效果。确保瓶标清晰可见，其下方有微妙的反射光，为画面增添层次感和真实感。
+
+整体美学必须营造出奢华、清新和高端的氛围，所有元素都应共同打造出高端且引人注目的视觉效果。场景应给人以丰富、清新和充满活力的感觉，重点突出樱桃汁鲜艳的色彩和新鲜的特性。
+
+技术规格：
+
+宽高比：4:5
+
+分辨率：超高清
+
+灯光：影棚风格，电影感十足，高光明亮，反射柔和，对比度高。
+
+细节处理：极其注重冷凝、水滴和高速运动的元素。
+```
+
+<a id="prompt-856"></a>
+## 案例 856：提线木偶 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2000436371975000418)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/856.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-提线木偶">
+</div>
+
+**提示词：**
+```
+{
+  "type": "advertisement_poster",
+  "style": {
+    "photorealistic": true,
+    "hyper_realistic": true,
+    "highly_detailed": true,
+    "commercial_photography": true,
+    "vibrant_colors": true,
+    "high_contrast": true,
+    "cinematic_lighting": true
+  },
+  "camera": {
+    "angle": "low",
+    "orientation": "vertical_portrait",
+    "focus": "strong_foreground"
+  },
+  "subject": {
+    "person": {
+      "age": "30s",
+      "ethnicity": "Asian",
+      "hair": "short black",
+      "clothing": {
+        "tshirt": "mustard yellow",
+        "shorts": "navy blue",
+        "shoes": "gray sneakers"
+      },
+      "pose": {
+        "style": "marionette_puppet_losing_control",
+        "expression": "surprised",
+        "eyes": "wide",
+        "mouth": "open",
+        "arm": "one_raised_in_panic",
+        "body_tilt": "forward",
+        "leg_lifted": true
+      },
+      "props": [
+        {
+          "object": "popcorn_bucket",
+          "orientation": "upside_down",
+          "color": "yellow",
+          "label": "Popcorn",
+          "text_color": "red",
+          "effect": "caramel_popcorn_spilling_dynamically"
+        }
+      ],
+      "marionette_strings": {
+        "attached_to": ["wrists", "ankles", "waist"],
+        "connected_to": {
+          "controller": "wooden_cross_shaped_marionette",
+          "held_by": {
+            "hand": "giant",
+            "skin_tone": "fair",
+            "position": "top_of_frame"
+          }
+        }
+      }
+    }
+  },
+  "effects": {
+    "dynamic_motion": true,
+    "selective_focus": true,
+    "cinematic_drama": true
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"type": "advertisement_poster",
+“风格”： {
+“照片级真实感”：是，
+"hyper_realistic": true,
+"highly_detailed": true,
+"commercial_photography": true,
+"vibrant_colors": true,
+“高对比度”：true，
+"cinematic_lighting": true
+},
+“相机”： {
+"角度": "低",
+"方向": "竖屏",
+“焦点”： “前景强”
+},
+“主题”： {
+“人”： {
+“年龄”: “30多岁”
+“种族”: “亚洲人”
+“头发”：“黑色短发”，
+“衣服”： {
+“t恤衫”：“芥末黄”，
+“短裤”： “海军蓝”
+“鞋子”: “灰色运动鞋”
+},
+"姿势": {
+"style": "marionette_puppet_losing_control",
+“表情”：“惊讶”，
+“眼睛”：“睁大”，
+"嘴巴": "张开的",
+"arm": "one_raised_in_panic",
+"body_tilt": "向前",
+"leg_lifted": true
+},
+“道具”：[
+{
+"对象": "爆米花桶",
+"方向": "倒置",
+“颜色”: “黄色”
+标签：爆米花，
+"text_color": "红色",
+“效果”： “焦糖爆米花动态溢出”
+}
+],
+"marionette_strings": {
+"attached_to": ["手腕", "脚踝", "腰部"],
+"connected_to": {
+"控制器": "木制十字形木偶",
+"held_by": {
+“手”：“巨人”，
+"skin_tone": "fair",
+"position": "top_of_frame"
+}
+}
+}
+}
+},
+"效果": {
+"dynamic_motion": true,
+"selective_focus": true,
+"cinematic_drama": true
+}
+}
+```
+
+<a id="prompt-855"></a>
+## 案例 855：剪纸风格的珠江新城 (来源 [@liyue_sqlroad](https://x.com/liyue_sqlroad/status/2000560041410154989)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/855.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-剪纸风格的珠江新城">
+</div>
+
+**中文提示词：**
+```
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+<a id="prompt-854"></a>
+## 案例 854：商业广告拍摄现场 (来源 [@KanaWorks_AI](https://x.com/KanaWorks_AI/status/2000183694452298143)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/854.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-商业广告拍摄现场">
+</div>
+
+**提示词：**
+```
+A 【Coca-Cola】 commercial film set.
+In the background stands an enormous 【Coca-Cola red】 backdrop, filled with a festive atmosphere.
+At the center of the set, the director is carefully explaining the script to 【an anthropomorphic white polar bear】, and the 【white polar bear】 listens attentively.
+Nearby, Santa Claus lowers his head and quietly rehearses his lines, holding a script in his hands, his expression slightly nervous yet warm and friendly.
+Several anthropomorphic 【Coca-Cola characters】 walk around the set, busy like crew members.
+Surrounding them are filming facilities such as cameras, lighting equipment, camera tracks, and microphones.
+Crew members move back and forth across the set.
+The entire scene feels busy yet perfectly organized.
+Cinematic composition, warm lighting, realistic details, with a fairy-tale-like atmosphere.
+```
+
+**中文提示词：**
+```
+【可口可乐】商业广告拍摄现场。
+背景中矗立着一块巨大的【可口可乐红】背景幕布，充满了节日气氛。
+在片场中央，导演正在认真地向【一只拟人化的白色北极熊】讲解剧本，而【白色北极熊】则认真地听着。
+不远处，圣诞老人低着头，手里拿着剧本，安静地练习着台词，表情略显紧张，但又温暖友好。
+几个拟人化的【可口可乐人物】在片场走来走去，像工作人员一样忙碌着。
+他们周围是拍摄设备，例如摄像机、照明设备、摄影机轨道和麦克风。
+剧组人员在片场来回走动。
+整个场景既热闹又井然有序。
+电影般的构图、温暖的光线、逼真的细节，营造出童话般的氛围。
+```
+
+<a id="prompt-853"></a>
+## 案例 853：雪景下的精灵 (来源 [@Adam38363368936](https://x.com/Adam38363368936/status/2000502374784471427)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/853.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-雪景下的精灵">
+</div>
+
+**中文提示词：**
+```
+{ "image_generation_request": { "meta_protocols": { "reference_adherence": { “说明”：“请严格按照提供的照片进行面部参照。” “公差”: “零偏差” “参数”：“以100%的准确度保留面部比例、皮肤纹理、表情和身份特征。” "stylization_constraint": "不要对脸部特征进行风格化或改变。"       }, "format_style": "编辑冬季海报风格的多面板拼贴画", "aesthetic_quality": "自发的 iPhone 摄影（抓拍、温馨、写实）", "global_textures": "柔和的雪花，细腻的模拟颗粒感，轻微的手持拍摄瑕疵"     }, "consistent_elements": { "subject_wardrobe": { “外套”： “短款人造毛皮外套” 腿部服饰：黑色紧身裤， “鞋类”：“经典 UGG 靴子”， "style_notes": "简约、舒适、极具冬日气息"       }, "primary_device": { “型号”：“iPhone 17 Pro Max”， “颜色”： “银色”， “用法”：“由主体在相关框架中持有”       }, "color_palette": [ “温暖的琥珀色”， “柔和的红色”， “松树绿” “柔和的冬日灰色”       ]     }, "layout_configuration": { "panel_1_top_left": { "scene_type": "黄昏时分的商店橱窗反光照片", "lighting_and_atmosphere": "淡淡的圣诞彩灯、花环、磨砂玻璃边缘、毛皮上的暖色调高光", “subject_action”: “拿着手机部分遮住脸部” "optical_effects": "掠过的轮廓、层叠的反射、柔和的重影、自然的玻璃曲率扭曲"       }, "panel_2_top_right": { "scene_type": "超广角街景人像（雪中的人行道/圣诞市场）", "camera_angle": "近距离，向下倾斜", “subject_pose”: “随意地向前倾，双手插在外套口袋里” "可见性检查": "黑色紧身裤和 UGG 靴子清晰可见", "motion_dynamics": "带有轻微运动模糊的飘雪", 镜头特性： “微妙的透视变形，以增强手持拍摄的真实感”       }, "panel_3_bottom_right": { "scene_type": "亲密俯视自拍", “照明”：“温暖的街道或咖啡馆照明”， "props": { "held_item": "外带节日饮品（咖啡或热红酒）", “配件”：“可见的有线耳机”         }, "texture_focus": "清晰细腻的毛皮纹理和冬季面料", “氛围”：“柔和的颗粒感增强了怀旧的假日氛围”       }     }, "graphic_overlay": { "element": "极简 Apple Music 风格的迷你播放器", "content": "流行圣诞歌曲（例如，'Last Christmas' 或 'All I Want for Christmas Is You'）", “风格”：“渲染效果平整干净，没有阴影”， “位置”：“漂浮在拼贴画的中心”     }   } }
+```
+
+<a id="prompt-852"></a>
+## 案例 852：20元纸币（桂林山水版） (来源 [@0x00_Krypt](https://x.com/0x00_Krypt/status/2000426631345893715)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/852.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-20元纸币（桂林山水版）">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "Subject: Genuine Chinese 20 Yuan Banknote (Guilin Landscape edition). \n\n[Macro Material Analysis]: The object must be rendered with the exact physical properties of real currency paper—matte cotton-fiber rag paper, NOT glossy cardboard. \n\n[Paper Engineering]: The karst mountain scenery is delicately cut and lifted. \n- **Critical Thickness**: The cut-out paper layers must appear razor-thin (0.1mm), fragile, and slightly translucent against the light. Edges should show microscopic fibrous tearing, not clean thick cuts.\n- **Printing Texture**: The mountains are NOT solid colors. They must be composed of microscopic engraved lines (intaglio printing) and guilloche patterns. The ink should look slightly raised on the paper surface.\n\n[Scene Context]: A realistic tiny bamboo raft floats on the flat printed water. \n\n[Scale Reference]: A giant, realistic human finger with distinct skin texture presses the edge of the bill. The finger is huge compared to the tiny raft, emphasizing the miniature scale.\n\n[Photography]: Macro lens, high contrast lighting to show the texture of the paper fibers. Shallow depth of field.",
+  "negative_prompt": "glossy paper, thick cardboard, plastic texture, toy money, monopoly money, solid color blocks, blurred printing, low resolution, cartoon, thick edges",
+  "aspect_ratio": "16:9"
+}
+```
+
+**中文提示词：**
+```
+{
+提示：主题：真品中国20元纸币（桂林山水版）。\n\n[宏观材质分析]:物体必须具有真实货币纸张的精确物理特性——哑光棉纤维纸，而非光面纸板。\n\n[纸张工程]:喀斯特山景经过精细切割和凸起处理。\n- **关键厚度** ：切割出的纸层必须薄如刀（0.1毫米），脆弱易碎，并且在光线下略微半透明。边缘应呈现微观纤维撕裂，而非干净利落的厚切痕迹。\n- **印刷纹理** ：山峦并非纯色。它们必须由微小的雕刻线条（凹版印刷）和扭索纹图案组成。油墨在纸张表面应略微凸起。\n\n[场景背景]:一艘逼真的小型竹筏漂浮在水面上在平坦的印刷水面上。\n\n[比例尺参考]:一根巨大的、逼真的、皮肤纹理清晰的人手指按压着纸筏的边缘。与小小的纸筏相比，手指显得巨大，突显了纸筏的微缩比例。\n\n[摄影]:微距镜头，高对比度照明，以展现纸张纤维的纹理。浅景深。]
+"negative_prompt": "光面纸、厚纸板、塑料质感、玩具钞票、大富翁钞票、纯色色块、模糊印刷、低分辨率、卡通、厚边"
+"aspect_ratio": "16:9"
+}
+```
+
+<a id="prompt-851"></a>
+## 案例 851：圣诞宠物九宫图 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/2000556731915743679)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/851.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞宠物九宫图">
+</div>
+
+**中文提示词：**
+```
+生成一张图片，画面以圣诞红色为背景，采用九宫格排版（3×3），展示同一只宠物在九种不同的圣诞主题装扮状态。
+
+第一排（从左至右）：
+•宠物待在圣诞树造型的宠物窝里，趴着吐舌头，呈现可爱的神态；
+•接着佩戴圣诞元素围脖，歪着头，仿佛在卖萌；
+•然后戴着圣诞帽小发箍蹭脸，神情略显呆萌。
+
+第二排（从左至右）：
+•宠物穿着圣诞装扮坐在礼物盒里，呈现想要爬出来的姿态，神情乖巧；
+•随后靠在迷你圣诞树旁，戴着甜甜圈小发带晃头，仿佛在玩耍；
+•接着戴着圣诞树造型的帽子，鼻子上戴着小丑红色鼻子，坐姿活泼有精神。
+
+第三排（从左至右）：
+•宠物坐在礼物盒里，身穿圣诞装扮，吐舌微笑，呈现精神饱满的状态；
+•接着戴着肉松小发圈、穿着圣诞毛衣打哈欠，展现慵懒可爱的模样；
+•最后躺在棕色圣诞垫子上，露出温顺柔和的神情。
+
+整体要求：
+•每一种圣诞主题装扮状态都要生动鲜活；
+•细腻呈现宠物的「小呆萌」特质；
+•真实写真风格；
+•不要生成其他宠物，只能是图一中的同一只宠物。
+```
+
+<a id="prompt-850"></a>
+## 案例 850：圣诞主题高端影棚照片 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2000549421394633036)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/850.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞主题高端影棚照片">
+</div>
+
+**提示词：**
+```
+{
+  "format": "9:16",
+  "type": "AR high-end studio photo",
+  "slides": [
+    {
+      "slide": 3,
+      "prompt": "Create a 9:16 AR high-end studio photo of a beautiful woman matching the provided photo reference. She is wearing a red maxi gown with short sleeves and a sabrina neckline, paired with high heels. She is smiling toward the camera, sitting in a squatting pose, with one hand resting on her knee and the other supporting her chin. The woman is seated inside a large transparent plastic bag styled as luxury packaging, with a big elegant red bow on top. The environment is a professional studio with a deep grey background, dramatic cinematic studio lighting, strong red palette accents, glossy reflections on the plastic surface, and a high-fashion editorial mood."
+    },
+    {
+      "slide": 4,
+      "prompt": "Create a 9:16 AR high-end studio photo of a beautiful woman matching the provided photo reference. She is wearing a white organza maxi gown with red polka dots, voluminous silhouette, short puff sleeves, and a sabrina neckline. She is paired with red sheer tights, red leather heels, and elegant jewelry. She is sitting cross-legged, smiling warmly at the camera, holding a green gift box with a red ribbon using both hands. The scene maintains a luxury fashion editorial aesthetic with a studio setup, refined lighting, and a polished high-end mood."
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"格式": "9:16",
+"type": "AR高端影棚照片",
+“幻灯片”：[
+{
+“幻灯片”：3，
+提示：请根据提供的照片参考，创作一张9:16的AR高端影棚照片，照片中的女士是一位美丽的女性。她身穿红色短袖长款礼服，领口为Sabrina式，脚踩高跟鞋。她面带微笑地对着镜头，呈蹲姿，一只手放在膝盖上，另一只手托着下巴。她坐在一个大型透明塑料袋中，该塑料袋被设计成奢华包装，顶部系着一个优雅的大红色蝴蝶结。拍摄环境为专业影棚，背景为深灰色，采用戏剧性的电影级灯光，并以强烈的红色调点缀，塑料表面呈现光泽，营造出高级时尚杂志的氛围。
+},
+{
+“幻灯片”：4，
+“提示”：根据提供的照片参考，创作一张时长 9 分 16 秒的 AR 高端摄影棚照片，照片中的女士是一位美丽的女性。她身穿白色欧根纱长裙，裙摆蓬松，饰有红色波点，短泡泡袖，领口为萨布丽娜式。她搭配红色薄丝袜、红色皮质高跟鞋和精致的珠宝。她盘腿而坐，对着镜头露出温暖的笑容，双手捧着一个系着红色丝带的绿色礼盒。场景营造出奢华时尚大片的氛围，采用摄影棚布景、精致的灯光和高端的质感mood."
+}
+]
+}
+```
+
+<a id="prompt-849"></a>
+## 案例 849：专业影棚人像摄影圣诞冬季主题 (来源 [@LiEvanna85716](https://x.com/LiEvanna85716/status/2000530737842557269)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/849.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-专业影棚人像摄影圣诞冬季主题">
+</div>
+
+**提示词：**
+```
+Professional studio portrait photography, Christmas winter theme, white studio background.  Young Asian woman, age 20-23, beautiful delicate features: - Large expressive eyes with double eyelids - Elegant facial features, high cheekbones - Natural makeup: soft pink blush, natural lip color - Shoulder-length dark brown hair - Fair porcelain skin with realistic texture (visible pores)  Outfit: - Bright red cable knit beanie - Bright red chunky wool scarf - Black wool coat  Studio setup: Pure white seamless background, professional soft lighting, snowflakes falling on hair/beanie/scarf  Technical: 85mm lens, f/1.8-2.8, natural soft studio lighting, realistic skin texture, high-end fashion portrait quality  Mood: Natural, warm, gentle expression, serene and contemplative
+```
+
+**中文提示词：**
+```
+专业影棚人像摄影，圣诞冬季主题，白色背景。年轻亚裔女性，20-23岁，拥有精致美丽的五官： - 双眼皮，大而有神的眼睛 - 精致的五官，高颧骨 - 自然妆容：淡粉色腮红，自然唇色 - 及肩深棕色头发 - 白皙如瓷的肌肤，纹理真实（毛孔可见） 服装： - 亮红色麻花针织帽 - 亮红色粗羊毛围巾 - 黑色羊毛大衣 影棚布景：纯白色无缝背景，专业柔光，雪花飘落在头发/针织帽/围巾上 技术参数：85mm镜头，f/1.8-2.8光圈，自然柔和的影棚灯光，逼真的肌肤纹理，高端时尚人像品质 氛围：自然、温暖、温柔的表情，宁静而沉思
+```
+
+<a id="prompt-848"></a>
+## 案例 848：9宫格裸感3D拼贴海报 (来源 [@langzihan](https://x.com/langzihan/status/2000416971662479749)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/848.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9宫格裸感3D拼贴海报">
+</div>
+
+**中文提示词：**
+```
+# Role: 时尚视觉艺术总监 & AI绘图指令大师 (Fashion Art Director & Prompt Engineer)
+
+## 1. 任务目标
+你现在的任务是根据用户提供的[目标物体/人物]，设计一组用于生成“多封面时尚杂志拼贴海报”的高级AI绘图提示词（Prompt）。你需要复刻一种特定的视觉结构：背景由多个杂志封面风格的网格组成，前景有一个核心人物打破边框，形成“破格”的立体视觉效果。
+
+## 2. 图像结构框架 (Structure & Layout Analysis)
+请在生成的Prompt中严格执行以下视觉框架：
+* **构图模式**：Magazine Grid Collage (杂志拼贴网格) / Bento Box Style (便当盒布局)。
+* **背景层**：将画面分割为 7-9 个矩形区域。每个区域模仿一本顶级时尚杂志的封面（Vogue, Bazaar, Elle, i-D, Dazed, GQ, Marie Claire 等）。
+* **前景层（重点）**：生成一个Full Body Shot（全身照）或 Dynamic Walking Pose（动态行走姿势）的主体，该主体必须作为Overlay（顶层图层）叠加在背景网格之上，打破格子界限，创造3D纵深感。
+* **比例**：Aspect Ratio --ar 2:3。
+
+## 3. 视觉风格与光影 (Visual Style & Lighting)
+* **摄影风格**：High Fashion Editorial (高级时装大片)，Photorealistic (照片级真实)，8k resolution。
+* **光影设置**：Soft Studio Lighting (柔和棚拍光)，即使光线，强调皮肤质感和衣物材质。
+* **色彩美学**：Clean, Minimalist, Sophisticated (干净、极简、精致)。
+
+## 4. 自动化工作流 (Workflow for Prompt Generation)
+请按照以下步骤思考并构建最终的提示词：
+1.  **提取变量**：分析用户输入的[目标物体/人物]和[风格描述]。
+2.  **角色设定**：定义模特的特征（发型、肤色、妆容）或物体的材质。
+3.  **姿态分解**：为背景的每个格子规划不同的姿态（特写、半身、坐姿、侧身），并为前景规划一个最具张力的动态姿态。
+4.  **排版填充**：列出需要出现的杂志LOGO文本（Text Blocks）。
+5.  **输出合成**：将以上元素组合成一段连贯的英文Prompt。
+
+## 5. 用户输入接口 (User Input)
+* **[目标物体/人物]**：(在此处输入，例如：一位穿着赛博朋克风格夹克的银发少女)
+* **[科普/描述语言]**：(在此处输入，例如：未来科技感，霓虹灯光)
+
+---
+
+## 6. 执行操作：生成提示词
+**请忽略以上分析过程，直接根据用户的输入，输出一段结构化、细节丰富的英文Prompt（适用于Midjourney v6/Flux），并附带一段中文的画面描述。**
+
+**Prompt 结构要求：**
+`[主体描述] + [穿搭/外观细节] + [构图：拼贴/杂志封面矩阵/前景叠加] + [特定杂志Logo列表] + [光影与渲染参数]`
+
+---
+
+## 示例输入 (Example for User to Test)：
+> **目标人物**：[如：一个法国长发女郎]。
+> **描述语言**：[风格：如80年代港风]。
+```
 
 <a id="prompt-847"></a>
 ## 案例 847：展开3D模型 (来源 [@KanaWorks_AI](https://x.com/KanaWorks_AI/status/1999336496357343569)) 模型：Nano banana pro
