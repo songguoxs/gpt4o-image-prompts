@@ -33,6 +33,21 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 872：一生要出片的中国女人系列之故宫打卡 ](#prompt-872)
+*   [案例 871：3x3网格皮克斯风格故事板 ](#prompt-871)
+*   [案例 870：舞台场景上多名女性蹲着 ](#prompt-870)
+*   [案例 869：女子漂浮在巨大的透明塑料水袋中 ](#prompt-869)
+*   [案例 868：一款逼真的挂历 ](#prompt-868)
+*   [案例 867：漫画中的人物走出画面 ](#prompt-867)
+*   [案例 866：一张超写实的竖屏照片 ](#prompt-866)
+*   [案例 865：包装设计 ](#prompt-865)
+*   [案例 864：穿越时空的滤镜-老照片修复 ](#prompt-864)
+*   [案例 863：老照片高清修复 ](#prompt-863)
+*   [案例 862：一位面带微笑的人手持可口可乐铝罐 ](#prompt-862)
+*   [案例 861：3D卡通风格角色 ](#prompt-861)
+*   [案例 860：超逼真的物体云朵 ](#prompt-860)
+*   [案例 859：一位美丽迷人的年轻女子 ](#prompt-859)
+*   [案例 858：女子站在房间里的近距离自拍照 ](#prompt-858)
 *   [案例 857：超逼真的3D商业风格产品图 ](#prompt-857)
 *   [案例 856：提线木偶 ](#prompt-856)
 *   [案例 855：剪纸风格的珠江新城 ](#prompt-855)
@@ -198,6 +213,846 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-872"></a>
+## 案例 872：一生要出片的中国女人系列之故宫打卡 (来源 [@hx831126](https://x.com/hx831126/status/2000793779977273724)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/872.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一生要出片的中国女人系列之故宫打卡">
+<img src="./images/872-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一生要出片的中国女人系列之故宫打卡">
+<img src="./images/872-3.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一生要出片的中国女人系列之故宫打卡">
+</div>
+
+**中文提示词：**
+```
+【PROJECT GOAL | 项目目标】 生成一张 9:16 竖版「高端时尚杂志封面级」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“明制华丽礼服方向”的重工汉服（多层叠穿、手工刺绣/织金锦、贵重金饰头面），在故宫红墙长廊雪景中拍摄。画面具备《Vogue》《Harper’s Bazaar》《ELLE》《Cosmopolitan》《Marie Claire》《i-D》《Allure》《FLAUNT》级别的摄影、造型与封面设计，以上杂志随机任选一作为杂志的封面设计，并保持选择杂志的一贯设计风格（中英文设计）
+
+【INPUTS | 输入】
+
+FACE_REF：我上传的人物五官参考图（身份锁定）
+
+【ABSOLUTE PRIORITY | 身份锁定（最高优先级）】
+
+100%还原 FACE_REF 的五官与骨相；眼距、鼻梁鼻翼、唇形、下颌线、颧骨结构完全一致，不得漂移。
+
+真实皮肤质感：可见细微纹理与毛孔，不要过度磨皮与网红化。
+
+成年女性形象（adult）。
+
+【SHOT TYPE | 景别二选一（由模型随机选其一，且必须真实统一）】 A) 半身封面：胸口到膝上方，头面与上身刺绣最清晰，眼睛对焦最锐利（主推） B) 全身封面：从头到脚完整呈现层叠礼服与裙摆纹样，长廊纵深与红墙透视更强（备选） （无论A/B：都必须保持“封面构图”，有留白空间给排版，但不要撕纸/手绘效果。）
+
+【LOCATION | 场景（故宫/紫禁城）】
+
+北京故宫红墙长廊：朱红墙、红柱、雕花窗极、彩绘梁枋细节与强透视纵深。
+
+天气二选一（随机）：1) 细雪飘落 2) 雪后晴朗（檐下/台阶残雪、空气通透）
+
+背景干净：无游客、无现代标识、无手机状态栏UI、无水印字幕。
+
+【LIGHTING & CAMERA | 摄影质感（杂志级）】
+
+镜头感：85mm人像质感（半身）或 50mm/70mm（全身），浅景深，眼睛最清晰。
+
+光线：冬日自然光 + 柔和补光；金饰/珠翠有真实高光但不爆；刺绣纹理清晰可辨。
+
+色彩：高级电影感，红墙与服装主色不互相脏染；整体干净、通透、质感厚。
+
+【WARDROBE | 明制华丽礼服（重工、多层叠、可读的硬锚点）】 目标审美：“金饰为主、流苏密集、凤冠、衣服大面积织金刺绣、层叠繁复但高级不俗艳”。
+
+轮廓与层次（必须多层叠穿）
+
+内层：白色/黑衣立领/里领清晰可见（干净、挺括，做出层次边界）
+
+中层：对襟袄/衫（或方领/立领结构感），袖口宽大、滚边精细
+
+外层：披肩/霞帔式的礼服结构（有明显“压襟/佩饰”承托），整体层次厚重
+
+下装：长裙/马面裙方向，裙摆纹样连续，底边有织金边或刺绣边（全身版本必须明显）
+
+面料与工艺（重手工必须“看得见”）
+
+主面料：织金锦/提花锦（真实纤维感，暗纹浮起）
+
+主要工艺：盘金绣、金线绣、立体刺绣、贴布绣（让花纹有“微微起伏”的厚度）
+
+纹样主题：牡丹/团花/祥云/瑞兽（精致、密度高、但图案边缘清晰，瑞兽不能是龙）
+
+细节：滚边、暗扣、系带、护领、胸前“压襟/璎珞感”层叠装饰（但不杂乱）
+
+头面（黄金为主的重工头饰，必须华丽）
+
+金色为主的方向：金丝累珠、点翠/珠翠、密集簪钗、左右对称的长流苏坠饰，凤冠
+
+流苏长度与密度要“明显”：走动或微风时有轻微摆动
+
+耳饰/颈饰：金+珍珠+玉（贵重但不廉价闪）
+
+【COLOR MATRIX | 颜色矩阵搭配（必须执行，且必须“多彩刺绣”）】 从以下三套“主色方案”中随机选1套作为【底色/大面积主面料色】。 注意：主色只决定“底色”，刺绣必须是【宫廷织锦式多色刺绣】（不允许只有金色刺绣）。
+
+Scheme G (翡翠绿底)： 底色：翡翠绿/孔雀绿（大面积主面料） 刺绣：多色绣线 + 盘金绣混用（至少包含：金色、朱红/胭脂红、宝蓝/靛蓝、米白、淡紫或藕粉） 层次点亮：米白里领/内衬边 + 少量朱红与宝蓝作为“宫廷撞色”点缀
+
+Scheme A (杏底)： 底色：暖杏/米杏（大面积主面料） 刺绣：多色绣线 + 盘金绣混用（至少包含：金色、翡翠绿/松石绿、朱红/珊瑚红、孔雀蓝/靛蓝、米白） 层次点亮：用翡翠绿与朱红做小面积宫廷撞色，保持“雅而不素、贵而不艳”
+
+Scheme R (红底)： 底色：深朱红/绯红（大面积主面料） 刺绣：多色绣线 + 盘金绣混用（至少包含：金色、孔雀蓝/靛蓝、松石绿、米白、胭脂粉或珊瑚红） 层次点亮：米白里领/内衬边 + 少量翡翠绿或孔雀蓝作冷暖对比
+
+【颜色执行规则】
+
+“多彩刺绣”必须看得见：至少 4 种以上彩色绣线清晰可辨，且与金线叠加，形成丰富层次。
+
+纹样边缘要清晰，不糊成一片；红墙背景下服装与背景必须分离，层次清楚、低脏度、厚而不闷。
+
+禁止出现“单一金色刺绣覆盖全身”的单调效果。
+
+【POSE | 封面姿态（端庄、贵气、非摆拍俗气）】
+
+半身：双手在身前轻持团扇/宫扇（扇面刺绣清晰），或一手轻拢袖口一手自然垂落
+
+全身：站姿端正、重心稳定，裙摆自然垂坠；袖摆形成优雅弧线
+
+表情：沉静、克制、自信；不要夸张大笑，不要做短视频“眨眼比心”。
+
+【OUTPUT | 输出】
+
+1 张 9:16 竖版写实杂志封面级照片
+
+随机：半身 or 全身（A/B二选一）
+
+随机：雪中 or 雪后晴朗（天气二选一）
+
+随机：翡翠绿 / 杏 / 红 /（颜色矩阵三选一）
+
+造型：明制华丽礼服方向 + 金色重工凤冠头面 + 多层叠穿 + 大面积织金刺绣
+```
+
+<a id="prompt-871"></a>
+## 案例 871：3x3网格皮克斯风格故事板 (来源 [@firatbilal](https://x.com/firatbilal/status/2000575188094599311)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/871.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3网格皮克斯风格故事板">
+</div>
+
+**提示词：**
+```
+{
+"project_name": "Auto_Creative_Music_Video_Storyboard_Generator",
+"version": "4.0 (Video Clip Focus - Multi-Input)",
+"ai_role": "You are a visionary Creative Director and Cinematographer for a high-end music video. Your goal is to create a cohesive, visually stunning 9-scene storyboard based on provided visual references.",
+"input_configuration": {
+"source_material": "Multiple Uploaded Images. The AI must synthesize all provided images to establish the definitive subject(s), color palette, lighting scheme, and overall aesthetic.",
+"video_clip_style_selector": {
+"description": "Select the overarching genre/mood for the music video clip behavior.",
+"options": ["Creative", "Surreal", "Absurd", "Dreamlike", "High-Fashion", "Cyberpunk", "Gothic", "Abstract"],
+"selected_style": "Pixar")
+}
+},
+"processing_rules": {
+"consistency_is_paramount": "Strictly maintain the visual identity established by the input images across all 9 scenes. The subject's features, the specific lighting mood (e.g., neon stripes, iridescence), and the environment style must never deviate.",
+"apply_selected_style": "Inject the mood and behaviors of the 'selected_style' into the movement, composition, and events of the scenes. (e.g., if 'Surreal', gravity might behave oddly; if 'Absurd', actions might be illogical).",
+"imply_motion": "These are not static photos. Each panel must look like a still frame taken from a moving video clip, implying action, camera movement, or atmospheric shifting.",
+"no_text_overlays": true,
+"output_aspect_ratio": "16:9 for all panels."
+},
+"scene_progression_structure": {
+"note": "Design 9 distinct visual beats representing the flow of a music video.",
+"row_1_introduction": {
+"panel_1": "Opening Scene: Establishing the mood and environment. Subtle introduction of the subject.",
+"panel_2": "Focus on Detail: A close cinematic shot emphasizing a key textural element from the input (e.g., makeup, clothing material, light reflection).",
+"panel_3": "Building Atmosphere: The subject interacts with the environment in a way defined by the selected style."
+},
+"row_2_escalation": {
+"panel_4": "Dynamic Action: The energy increases. Stronger movement or a shift in lighting intensity.",
+"panel_5": "The 'Surreal' Turn: A moment that heavily highlights the selected video style (e.g., an impossible angle, abstract background shift, unusual pose).",
+"panel_6": "Intense Emotion: A powerful, emotive shot focusing on the subject's connection to the (implied) song."
+},
+"row_3_climax_and_resolution": {
+"panel_7": "Visual Climax: The most visually striking and complex shot. The peak of the video's energy.",
+"panel_8": "Pulling Back: A wider view showing the aftermath of the climax or a change in state.",
+"panel_9": "Closing Scene: A resolving shot that fades out or ends the visual journey, leaving a lasting impression."
+}
+},
+"final_prompt_instruction": "Synthesize all uploaded input images into a single, cohesive visual identity. Acting as a Creative Director, generate a 3x3 grid storyboard composed of 9 high-quality video stills. You must strictly apply the requested 'selected_style' to the narrative flow defined in the 'scene_progression_structure'. Ensure every panel looks like a frame from the same high-budget music video, maintaining perfect consistency in subject and lighting. Do NOT include any text overlays on the final images."
+}
+```
+
+**中文提示词：**
+```
+{
+"project_name": "Auto_Creative_Music_Video_Storyboard_Generator",
+“版本”：“4.0（视频剪辑焦点 - 多输入）”
+“ai_role”： “您是一位富有远见的创意总监兼摄影师，负责一部高端音乐视频的拍摄。您的目标是根据提供的视觉参考资料，创作一个连贯且视觉效果惊艳的9个场景的故事板。”
+"input_configuration": {
+"source_material": "多张上传的图片。人工智能必须综合所有提供的图片，以确定最终的主题、调色板、光照方案和整体美感。"
+"video_clip_style_selector": {
+“描述”：“选择音乐视频片段行为的总体类型/氛围。”
+“选项”：[“创意”、“超现实”、“荒诞”、“梦幻”、“高级时装”、“赛博朋克”、“哥特”、“抽象”]
+"selected_style": "皮克斯")
+}
+},
+"processing_rules": {
+“一致性至关重要”：在所有9个场景中严格保持输入图像所建立的视觉识别。主体特征、特定光照氛围（例如，霓虹条纹、虹彩）和环境风格绝不能偏离。
+“apply_selected_style”：将“selected_style”的情绪和行为注入到场景的动作、构图和事件中。（例如，如果是“超现实”，重力可能会表现得很奇怪；如果是“荒诞”，动作可能会不合逻辑。）”
+"imply_motion": "这些不是静态照片。每个画面都必须看起来像是从动态视频片段中截取的静帧，暗示着动作、镜头运动或氛围变化。"
+"no_text_overlays": true,
+"output_aspect_ratio": "所有面板均为 16:9。"
+},
+"scene_progression_structure": {
+“备注”：“设计9个不同的视觉节拍，以展现音乐视频的流程。”
+"row_1_introduction": {
+“panel_1”： “开场场景：营造氛围和环境。巧妙地引入主题。”
+“panel_2”：“聚焦细节：特写镜头，强调素材中的关键纹理元素（例如，妆容、服装材质、光线反射）。”
+“panel_3”：“营造氛围：主体以所选风格定义的方式与环境互动。”
+},
+"row_2_escalation": {
+“panel_4”：“动态动作：能量增强。动作更剧烈或光照强度发生变化。”
+"panel_5": "超现实转折：突出所选视频风格的瞬间（例如，不可能的角度、抽象背景的变换、不寻常的姿势）。"
+“panel_6”：“强烈的情感：一张充满力量、饱含情感的镜头，聚焦于人物与（隐含的）歌曲之间的联系。”
+},
+"row_3_climax_and_resolution": {
+“panel_7”：“视觉高潮：视觉效果最震撼、最复杂的镜头。视频能量的巅峰。”
+“panel_8”：“拉远镜头：展现高潮过后或状态转变的更广阔视角。”
+“panel_9”: “结尾场景：一个结束视觉旅程的镜头，逐渐淡出或结束，留下深刻的印象。”
+}
+},
+"final_prompt_instruction": "将所有上传的输入图像合成为一个统一的视觉形象。作为创意总监，生成一个由9张高质量视频静帧组成的3x3网格故事板。您必须严格按照“scene_progression_structure”中定义的叙事流程应用指定的“selected_style”。确保每个分镜都像同一部高预算音乐视频中的一帧，并在主题和光线上保持完全一致。请勿在最终图像上添加任何文字叠加层。"
+}
+```
+
+<a id="prompt-870"></a>
+## 案例 870：舞台场景上多名女性蹲着 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/2000794568091226383)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/870.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-舞台场景上多名女性蹲着">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A wide panoramic stage scene showing a lineup of multiple women kneeling or squatting in synchronized poses, viewed from behind, wearing coordinated but varied dance outfits under soft stage lighting.",
+  "characters": [
+    {
+      "name": "Unknown",
+      "age": "Young adult",
+      "gender": "Female",
+      "ethnicity": "Unclear / mixed",
+      "skin_tone": "Light to medium tones",
+      "hair": {
+        "style": "Long, straight or slightly wavy, worn loose",
+        "color": "Dark brown to black"
+      },
+      "clothing": {
+        "head": "None",
+        "torso": "Fitted crop tops, camisoles, or sports bras in black, white, or dark colors",
+        "legs": "Short skirts, fitted shorts, or bodysuits",
+        "feet": "High-heeled shoes",
+        "materials": ["fabric", "spandex", "leather-like materials"]
+      },
+      "pose": "Squatting or kneeling with knees bent, backs straight, facing away from the camera",
+      "facial_expression": "Not visible (rear view)",
+      "accessories": ["None visible"],
+      "held_objects": [],
+      "position_in_scene": "Foreground to midground, evenly spaced across the stage",
+      "emotions": ["Neutral", "Focused", "Performance-ready"]
+    }
+  ],
+  "environment": {
+    "setting": "Indoor stage or performance hall",
+    "background_elements": ["Plain backdrop", "Soft gradient lighting"],
+    "architectural_features": ["Flat stage floor", "Open performance space"],
+    "weather": "Not applicable",
+    "lighting": {
+      "type": "Artificial",
+      "sources": ["Overhead stage lights"],
+      "shadows": "Soft",
+      "reflections": "Subtle reflections on the stage floor"
+    },
+    "atmosphere": "Clean, controlled, professional performance environment"
+  },
+  "objects": [
+    {
+      "name": "Stage floor",
+      "type": "Surface",
+      "position": "Foreground and midground",
+      "appearance": "Smooth, polished surface",
+      "materials": ["Wood or laminate"],
+      "interaction": "Yes, performers kneeling and balancing on it"
+    }
+  ],
+  "logos_or_text": [
+    {
+      "content": "Small watermark or logo in bottom right corner",
+      "font_family": "Sans-serif",
+      "font_style": "Regular",
+      "font_size": "Small",
+      "color": "# FFFFFF",
+      "position": "Bottom right",
+      "effects": ["None"]
+    }
+  ],
+  "mood": "Stylized, synchronized, performance-focused",
+  "dominant_colors": ["#000000", "# 2F2F2F", "# F 5F5F5", "#8 B5E3C"],
+  "camera": {
+    "perspective": "Third-person",
+    "angle": "Eye-level",
+    "position": "Directly behind the subjects",
+    "focal_length": "Wide",
+    "depth_of_field": "Deep, all subjects in focus",
+    "composition": "Symmetry and repetition across the frame"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景描述”： “一个宽广的全景舞台场景，展现了多名女性跪着或蹲着，摆出同步的姿势，镜头从背后拍摄，她们身着协调但又各具特色的舞蹈服装，舞台灯光柔和。”
+“人物”： [
+{
+"名称": "未知",
+“年龄”: “青年”
+"性别": "女",
+“种族”: “不明/混血”
+"skin_tone": "浅至中等肤色",
+“头发”： {
+“发型”：“长直发或略带波浪，随意披散着”，
+颜色：深棕色至黑色
+},
+“衣服”： {
+"head": "无",
+“上衣”：“黑色、白色或深色的修身露脐上衣、吊带背心或运动文胸”，
+“腿部”：短裙、紧身短裤或连体衣，
+“脚”: “高跟鞋”
+“材料”：[“织物”、“氨纶”、“类皮革材料”]
+},
+“姿势”：“蹲着或跪着，膝盖弯曲，背部挺直，背对镜头”，
+"facial_expression": "不可见（后视图）",
+“配件”：[“无可见”]
+"held_objects": [] ,
+"position_in_scene": "前景到中景，均匀分布在舞台上",
+“情绪”：[“中性”、“专注”、“准备就绪”]
+}
+],
+“环境”： {
+“设置”: “室内舞台或表演厅”，
+"background_elements": ["纯色背景", "柔和渐变光"],
+"architectural_features": ["平坦的舞台地面", "开放式表演空间"],
+“天气”：“不适用”，
+“灯光”： {
+类型：人工，
+“光源”：[“舞台顶灯”]，
+“阴影”：“柔和”，
+“倒影”：舞台地板上的微妙倒影
+},
+“氛围”：“洁净、可控、专业的演出环境”
+},
+“对象”：[
+{
+"名称": "舞台地板",
+"type": "表面",
+“位置”：“前景和中景”，
+“外观”：“光滑、抛光的表面”，
+“材料”：[“木材或层压板”]，
+“互动”：“是的，表演者跪在上面保持平衡”
+}
+],
+"logos_or_text": [
+{
+"内容": "右下角有小水印或徽标"
+"font_family": "无衬线字体",
+"font_style": "常规",
+"font_size": "小",
+“颜色”：“# FFFFFF”，
+“位置”：“右下角”，
+“效果”：[“无”]
+}
+],
+“氛围”：“风格化、同步、注重表演”，
+"主色": ["#000000", "#2F2F2F", "#F5F5F5", "#8B5E3C"],
+“相机”： {
+“视角”： “第三人称”
+“角度”：“视线水平”，
+“位置”：“就在被摄对象身后”，
+"focal_length": "广角",
+"depth_of_field": "景深，所有主体都清晰对焦"
+“构图”：“画面中的对称和重复”
+}
+}
+```
+
+<a id="prompt-869"></a>
+## 案例 869：女子漂浮在巨大的透明塑料水袋中 (来源 [@Zar_xplorer](https://x.com/Zar_xplorer/status/2000527303353540953)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/869.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子漂浮在巨大的透明塑料水袋中">
+</div>
+
+**提示词：**
+```
+A high-end glossy surreal fashion photograph of a young woman floating inside a giant transparent plastic water bag, like a human goldfish. She wears a tight black catsuit and white sneakers, her body posed in a graceful mid-motion curve, one arm lifted, the other extended, hair drifting weightlessly in the water. Three small golden fish swim around her, adding playful contrast. The bag is held from above by a large manicured hand with long red nails, stretching the plastic and creating sharp specular highlights and distortions. Background: a clean deep red studio backdrop with subtle gradient and no distractions. Lighting is cinematic and polished, with crisp reflections on the plastic, smooth skin tones, and strong contrast that emphasizes the contours of her body and the surreal aquarium concept. Ultra-high resolution, editorial campaign quality.
+```
+
+**中文提示词：**
+```
+一张高端光鲜亮丽的超现实主义时尚摄影作品，一位年轻女子漂浮在一个巨大的透明塑料水袋中，宛如一条人形金鱼。她身着黑色紧身连体衣和白色运动鞋，身体姿态优美，呈现出一种动感的曲线，一只手臂抬起，另一只手臂伸展，秀发在水中轻盈飘动。三条金色小鱼在她周围游弋，增添了一丝俏皮的对比。一只涂着红色长指甲、修剪得十分精致的大手从上方托起水袋，拉伸塑料，营造出鲜明的镜面反射和扭曲效果。背景：干净的深红色影棚背景，带有微妙的渐变，没有任何干扰元素。灯光运用极具电影感和精致感，塑料上的反射清晰锐利，肤色柔和细腻，强烈的对比突出了她曼妙的身姿和超现实的水族馆概念。超高分辨率，达到杂志大片级别的品质。
+```
+
+<a id="prompt-868"></a>
+## 案例 868：一款逼真的挂历 (来源 [@AIwithkhan](https://x.com/AIwithkhan/status/2000800087975584206)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/868.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一款逼真的挂历">
+</div>
+
+**提示词：**
+```
+Create a realistic wall calendar hanging on a textured concrete wall, framed in a warm wooden frame. The top half features my uploaded portrait photo in a soft cinematic style, shallow depth of field, warm bokeh lights in the background, natural skin tones, calm confident expression. The bottom half displays a clean, modern calendar layout for December 2025, with bold month text on the left and year on the right, neatly aligned date grid below, Sundays to Saturdays clearly labeled. Minimal beige and brown color palette, elegant typography, realistic paper texture, soft natural sunlight casting gentle shadows, premium lifestyle photography look, ultra-high resolution.
+```
+
+**中文提示词：**
+```
+制作一款逼真的挂历，悬挂在纹理丰富的混凝土墙上，并配以温暖的木质画框。上半部分展示我上传的肖像照片，采用柔和的电影风格，浅景深，背景中温暖的散景光，自然的肤色，以及沉稳自信的神情。下半部分则呈现简洁现代的2025年12月日历布局，左侧醒目的月份文字，右侧的年份文字，下方整齐排列的日期网格，周日至周六清晰标注。采用极简的米色和棕色配色方案，优雅的字体，逼真的纸张纹理，柔和的自然光投射出淡淡的阴影，呈现出高端生活方式摄影的质感，并拥有超高分辨率。
+```
+
+<a id="prompt-867"></a>
+## 案例 867：漫画中的人物走出画面 (来源 [@94vanAI](https://x.com/94vanAI/status/2000760405921292406)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/867.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-漫画中的人物走出画面">
+</div>
+
+**提示词：**
+```
+In the ultra-realistic 8K scene, the person in the photo walked out and broke the panel frame of a giant open Japanese version of the comic book called "｛就是玩AI}" lying on the floor of the aesthetic bedroom. The comic page depicts a surreal 4-panel Japanese version of the black-and-white comic, with screen tone, bold ink lines and authentic Japanese layout (read from right to left). According to the content and character design in "{就是玩AI}", it features a comic version with the same person trapped in it, wearing, styling
+```
+
+**中文提示词：**
+```
+在超写实 8K 场景中，照片中的人物走出画面，打破了摊开在美学风格卧室地板上的巨型日文版漫画《{就是玩 AI}》的分镜画框。该漫画页面呈现超现实风格的 4 格黑白日文漫画，带有网点纸、粗重墨线和正宗日式排版（从右至左阅读）。根据《{就是玩 AI}》的内容和角色设计，漫画中呈现的是同一人物的漫画形象，其穿着、造型
+```
+
+<a id="prompt-866"></a>
+## 案例 866：一张超写实的竖屏照片 (来源 [@langzihan](https://x.com/langzihan/status/2000808841089527981)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/866.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张超写实的竖屏照片">
+</div>
+
+**中文提示词：**
+```
+# 图片复刻元提示词 (Image Reproduction Meta-Prompt)
+
+## 1. 角色指定 (Role)
+你是一位**资深人像摄影大师 (Senior Portrait Photographer)** 和 **光影构图专家**。你擅长捕捉日常生活中的自然瞬间（Candid Moments），精通室内布光与景深控制，能够完美复刻“男友视角”的社交媒体风格照片。
+
+## 2. 图片结构与框架 (Structure & Frame)
+* **画幅比例:** 9:16 (竖屏全画幅)
+* **构图模式:** 近景人像 (Medium Close-up)，人物占据画面前景左侧 60% 区域。
+* **核心锚点:**
+    * 前景：浅色木质圆桌边缘（切过画面左下角）。
+    * 中景：人物上半身，特别是面部和托腮的手臂。
+    * 背景：虚化的咖啡店柜台与人群。
+* **文字处理:** 本图无UI文字框。需在画面中生成的自然文字为人物左臂衣袖上的 "alo" 品牌标签。
+
+## 3. 图片主题内容生成 Workflow
+**Step 1: 场景构建 (Scene Setup)**
+   * 设定环境为现代繁忙的咖啡店内部。
+   * 天花板：裸露的工业风管道，安装有轨道射灯。
+   * 背景：远处有模糊的服务柜台（红色菜单板为特征）和排队的深色衣着路人。
+
+**Step 2: 主体刻画 (Subject Definition)**
+   * 生成一名[目标角色特征，默认为年轻亚洲女性]。
+   * 发型：棕色短发，空气刘海。
+   * 着装：穿着黑色半拉链立领Fleece材质卫衣，质感柔软厚实。
+   * **关键细节:** 左大臂处必须有一个清晰的黑色正方形补丁，上有白色 "alo" 字母Logo。
+
+**Step 3: 姿态与神情 (Pose & Expression)**
+   * 动作：身体向桌子前倾，重心下沉。左手手肘撑在桌面上，手掌托住脸颊/下巴。
+   * 视线：直视镜头，眼神清澈，带有一丝温柔或探究的笑意。
+
+**Step 4: 摄影参数模拟 (Camera Parameters)**
+   * 焦段：50mm 或 85mm 定焦镜头。
+   * 光圈：f/1.8 或 f/2.0 (制造背景虚化)。
+   * 光线：模拟室内顶光，面部受光均匀，带有轻微暖调。
+
+## 4. 图片整体描述 (Overall Description)
+* **风格:** 真实感摄影 (Photorealistic)，生活方式 (Lifestyle)，高清 (8k resolution)，Instagram 风格。
+* **色彩:** 黑色(衣服)与暖木色(桌子)为前景主调，背景杂糅暖黄光与红色点缀。
+* **纹理:** 重点表现卫衣的抓绒质感、头发的光泽感、木桌的纹理。
+
+## 5. 目标物体和语言输入框 (User Inputs)
+* **[目标角色特征]:** （可爱短发亚洲女性）- *默认为：可爱短发亚洲女性*
+* **[服装品牌细节]:** () - *默认为：alo 品牌 Logo*
+* **[环境氛围]:** (户外咖啡馆) - *默认为：星巴克风格咖啡店*
+
+---
+**生成指令 (中文提示词参考):**
+一张超写实的竖屏照片，视角略微俯视。画面主体是一位[目标角色特征]，她正坐在咖啡店的浅色圆木桌前。她穿着黑色的半拉链高领抓绒卫衣，左侧袖子上有一个清晰的 "[服装品牌细节]" 标签。她身体前倾，单手托腮，手肘撑在桌上，眼神温柔地看向镜头。背景是虚化的繁忙咖啡店，可以看到天花板的轨道灯、远处红色的菜单板和模糊的顾客。光线为温暖的室内顶光，肤色自然，发丝清晰，具有极高的摄影质感。
+```
+
+<a id="prompt-865"></a>
+## 案例 865：包装设计 (来源 [@yyyole](https://x.com/yyyole/status/2000593180362949061)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/865.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-包装设计">
+</div>
+
+**中文提示词：**
+```
+【服装/奶茶/面包】品牌包装设计展示图，一张完整设计稿画面，【总体风格描述，纯黑色包装袋，简约Logo设计，具有质感的材质………】，【需融入形象】……
+画面中同时展示：
+•【服装】包装袋设计和吊牌设计
+•左侧为黑色线稿结构图（线描风格，工业设计草图）
+•右侧为完成上色的成品效果图（真实材质质感）
+•下方或角落配有简洁的设计标注文字（尺寸、材质、工艺说明，示意性）
+
+整体风格为专业包装设计提案，【干净白色】背景，平面排版清晰
+设计感强，理性、有秩序
+非广告海报风格
+
+视角为正视图 + 轻微等轴测视角
+高分辨率，细节清晰
+```
+
+<a id="prompt-864"></a>
+## 案例 864：穿越时空的滤镜-老照片修复 (来源 [@AztecaAlpaca](https://x.com/AztecaAlpaca/status/2000853838073618726)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/864.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿越时空的滤镜-老照片修复">
+</div>
+
+**提示词：**
+```
+对提供的照片，根据提示词生成图片，滤镜采用大滤镜，使用彩色呈现。
+{
+  "type": "augmented_reality_filter_synthesis",
+  "aspect_ratio": "16:9",
+  "instruction": "CRITICAL: This is an IMAGE-TO-IMAGE task, not a text-to-image generation. You must strictly preserve the pixels of the {{UPLOADED_IMAGE_FILE}} as the background. Do not generate a new scene based on description. Only the area INSIDE the glass filter is allowed to change.",
+
+  "global_constraints": {
+    "source_fidelity": "The background outside the filter must be an EXACT pixel-match to {{UPLOADED_IMAGE_FILE}}. Do not alter, crop, expand, or 'reimagine' the background context.",
+    "context_isolation": "Ignore all previous images or conversation topics. Focus EXCLUSIVELY on the current uploaded file.",
+    "modification_scope": "modifications are STRICTLY limited to the area inside the glass filter lens."
+  },
+
+  "dynamic_analysis_module": {
+    "step_1_focal_point_extraction": {
+      "task": "Identify the coordinates of the main subject (Face/Object) in the current file to position the filter.",
+      "output_variable": "[TARGET_COORDINATES]",
+      "logic": "Find the center of interest solely within the provided image."
+    },
+    "step_2_filter_specs": {
+      "task": "Determine filter parameters based on the subject.",
+      "output_variable_shape": "[FILTER_SHAPE]",
+      "output_variable_style": "[HD_RESTORATION_STYLE]",
+      "logic": "Face -> Circular/Oval + Skin Restoration. Building -> Rectangular + Structure Sharpening."
+    }
+  },
+
+  "system_prompt_logic": {
+    "main_premise": "A first-person view of a hand holding a [FILTER_SHAPE] glass lens over the actual physical print of {{UPLOADED_IMAGE_FILE}}.",
+
+    "layer_definition_logic": {
+      "layer_1_background_immutable": {
+        "z_index": "Background (The Original Image)",
+        "content": "The original {{UPLOADED_IMAGE_FILE}} displayed as a large physical print or wall projection.",
+        "strict_rules": {
+          "NO_GENERATION": "Do not generate new scenery. Use the uploaded image as a fixed texture map.",
+          "NO_EXPANSION": "Do not attempt to extend the image borders. Show the image exactly as provided, framing it to fill the background.",
+          "visual_state": "Must retain all original artifacts: noise, blur, scratches, B&W tone, and low resolution. This is the 'Before' state."
+        }
+      },
+      
+      "layer_2_foreground_hand": {
+        "z_index": "Foreground (Overlay)",
+        "content": "A realistic human hand holding a [FILTER_SHAPE] optical glass lens.",
+        "positioning": "The hand enters from the edge (unobtrusive). The glass lens is positioned directly over [TARGET_COORDINATES].",
+        "lighting": "The hand casts a subtle shadow onto the background print to create depth."
+      },
+
+      "layer_3_filter_throughput": {
+        "z_index": "Lens Interior (The Transformation)",
+        "content": "The specific pixels visible *through* the glass lens.",
+        "visual_transformation": {
+          "action": "Upscale and colorize ONLY the pixels inside the lens boundary.",
+          "style": "[HD_RESTORATION_STYLE] (4K resolution, realistic textures, vibrant lighting).",
+          "contrast_lock": "The separation is absolute. Outside the line = Old/Blurry. Inside the line = New/Sharp. No fading gradients."
+        }
+      }
+    }
+  }
+}
+```
+
+<a id="prompt-863"></a>
+## 案例 863：老照片高清修复 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/2000593577253146761)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/863.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-老照片高清修复">
+</div>
+
+**提示词：**
+```
+Luxury portrait of the uploaded image, 100% same face identity. Bright, clean exposure with soft studio lighting, balanced brightness, natural highlights on face and eyes, smooth shadow falloff. Ultra-realistic skin texture, sharp detailed eyes, natural hair strands, high-detail fabric. Clean elegant background with soft depth of field. Premium cinematic color grading, rich natural colors. Full-frame DSLR look, 85mm f/1.8, 8K ultra-realistic, no cartoon, no over-smoothing, no face change.
+```
+
+**中文提示词：**
+```
+上传图片的高级人像，100% 还原本人面部特征。明亮清晰的曝光，柔和的影棚灯光，亮度均衡，面部和眼部高光自然，阴影过渡平滑。肌肤纹理极其逼真，双眼细节清晰锐利，发丝自然，织物细节丰富。背景干净优雅，景深柔和。采用高级电影级调色，色彩饱满自然。全画幅单反风格，85mm f/1.8 镜头，8K 超高清画质，无卡通化、无过度磨皮、无面部修改。
+```
+
+<a id="prompt-862"></a>
+## 案例 862：一位面带微笑的人手持可口可乐铝罐 (来源 [@Sheldon056](https://x.com/Sheldon056/status/2000769215989489837)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/862.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位面带微笑的人手持可口可乐铝罐">
+</div>
+
+**提示词：**
+```
+Studio portrait of one smiling person holding a Fanta orange aluminum can close to the camera, with both the can and the person’s head in the foreground. Shot using an ultra-wide fisheye lens for a playful, energetic, immersive perspective.
+The model wears a glossy vibrant orange puffer jacket inspired by Fanta branding, layered over a bright white t-shirt.
+Background in a bold citrus-orange gradient with subtle yellow highlights, perfectly color-matched to Fanta’s brand palette, smooth modern transitions.
+Diffused cinematic studio lighting, juicy highlights on the can, soft glossy reflections on the jacket, gentle shadows for depth.
+Slightly desaturated yet fresh, youthful modern editorial style, fun soda-campaign aesthetic, clean and minimal composition.
+Ultra-sharp focus, natural skin texture, cheerful expressive smile, high-end commercial beverage photography look.
+
+Face must match the attached reference image exactly, accurate facial proportions, realistic skin tone, no facial alteration.
+Photorealistic, 8K detail, professional studio photography, global soda brand advertisement quality.
+```
+
+**中文提示词：**
+```
+一张影棚肖像照，照片中一位面带微笑的人手持芬达橙味铝罐，靠近镜头，罐子和人的头部都位于前景。照片采用超广角鱼眼镜头拍摄，营造出一种活泼、充满活力且引人入胜的视角。
+模特身穿一件亮橙色羽绒服，其设计灵感源自芬达品牌，内搭一件亮白色T恤。
+背景采用大胆的柑橘橙色渐变，并带有微妙的黄色高光，与芬达品牌色调完美匹配，过渡流畅现代。
+漫射的电影摄影棚灯光，罐身上明亮的高光，夹克上柔和的光泽反射，以及营造深度感的柔和阴影。
+略微褪色但清新、年轻、现代的编辑风格，有趣的汽水广告美学，简洁的构图。
+超清晰的焦点、自然的肌肤纹理、灿烂的笑容，高端商业饮料摄影风格。
+
+面部必须与附图完全一致，面部比例准确，肤色逼真，不得进行任何面部修改。
+照片级真实感，8K细节，专业影棚拍摄，全球汽水品牌广告品质。
+```
+
+<a id="prompt-861"></a>
+## 案例 861：3D卡通风格角色 (来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2000940216316801527)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/861.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D卡通风格角色">
+</div>
+
+**提示词：**
+```
+3×2 collage of six stylized 3D caricature portraits of [name], each with a different expressive pose (joyful, surprised, serious, cute, sassy, confident). Smooth polished look, soft ambient lighting, clean character design, and bold vibrant backgrounds for each panel.
+```
+
+**中文提示词：**
+```
+一幅由六幅风格化的3D漫画肖像组成的3×2拼贴画，描绘的是[姓名]，每幅肖像都展现出不同的表情（喜悦、惊讶、严肃、可爱、俏皮、自信）。画面流畅精致，环境光线柔和，人物设计简洁明快，每幅画的背景都鲜艳夺目。
+```
+
+<a id="prompt-860"></a>
+## 案例 860：超逼真的物体云朵 (来源 [@TechieBySA](https://x.com/TechieBySA/status/2000671056780996891)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/860.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的物体云朵">
+</div>
+
+**提示词：**
+```
+Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear silhouette of a [OBJECT]. The cloud shape appears high in a vibrant blue sky, naturally floating above a recognizable nature below.
+
+The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape grounds the scene beneath it. Lighting is crisp and daylight-bright, with sunlit highlights on the clouds that enhance depth, softness, and realism.
+
+The overall mood should feel calm, optimistic, and visually striking, with rich color saturation and a clean, peaceful atmosphere.
+```
+
+**中文提示词：**
+```
+“创造一个超逼真的天空场景，其中柔和自然的云朵有机地组合成清晰的[物体]轮廓。云朵的形状出现在充满活力的蓝色天空的高处，自然地漂浮在下方可辨认的自然景观之上。”
+
+画面构图为正方形（1080×1080），云层占据画面上半部分，下方则是地景。光线明亮清晰，如同日光一般，阳光照射在云层上，增强了画面的层次感、柔和感和真实感。
+
+整体氛围应给人平静、乐观、视觉冲击力强的感觉，色彩饱和度高，环境干净平和。
+```
+
+<a id="prompt-859"></a>
+## 案例 859：一位美丽迷人的年轻女子 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/2000818403137786340)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/859.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位美丽迷人的年轻女子">
+</div>
+
+**提示词：**
+```
+{
+  "task": "image_generation",
+  "output": {
+    "aspect_ratio": "9:16",
+    "resolution": "8K",
+    "style": ["ultra-realistic", "ultra-high-detail", "photorealistic"]
+  },
+  "identity_reference": {
+    "use_uploaded_image_as_reference": true,
+    "face_and_body": "match uploaded identity as closely as possible",
+    "notes": "If the system supports reference images, keep the same face, skin tone, facial proportions, and overall figure from the uploaded image."
+  },
+  "prompt": {
+    "scene": "A candid, glamour portrait photo at a sunny upscale outdoor cafe terrace during summer brunch.",
+    "subject": {
+      "description": "A beautiful glamorous young woman with long dark wavy hair wearing pink-tinted cat-eye sunglasses, seated at an outdoor cafe table and posing naturally for a photo.",
+      "outfit": "Romantic floral-print ruffled sundress with a sweetheart neckline.",
+      "expression_pose": "Relaxed confident smile, casual elegant posture, slightly angled toward camera."
+    },
+    "food_foreground": {
+      "description": "In the foreground, a large golden waffle dusted with powdered sugar on a matte black plate. Next to it, a fancy glass dish of whipped cream with visible texture.",
+      "composition_note": "Food close to camera, subject in mid-ground for depth."
+    },
+    "environment": {
+      "description": "Sunny upscale terrace with large cream umbrellas, natural wood chairs, and large glass windows reflecting greenery and soft highlights.",
+      "mood": "Luxurious, bright, leisurely; sunny summer brunch atmosphere."
+    },
+    "lighting": {
+      "type": "Natural sunlight",
+      "quality": "Warm, soft shadows, gentle specular highlights on sunglasses and glass dish"
+    },
+    "camera": {
+      "shot_type": "Candid shot / captured moment",
+      "framing": "Vertical portrait, subject centered with foreground food prominent",
+      "lens_look": "Shallow depth of field, crisp subject detail, creamy bokeh background"
+    },
+    "quality_tags": [
+      "8k",
+      "ultra sharp",
+      "high dynamic range",
+      "realistic skin texture",
+      "fine fabric detail",
+      "natural color grading"
+    ]
+  },
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "cgi",
+    "3d render",
+    "painting",
+    "low resolution",
+    "blurry",
+    "overexposed",
+    "underexposed",
+    "bad anatomy",
+    "deformed hands",
+    "extra fingers",
+    "duplicate face",
+    "different identity",
+    "face distortion",
+    "text",
+    "watermark",
+    "logo",
+    "oversaturated colors"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"任务": "图像生成",
+“输出”： {
+"aspect_ratio": "9:16",
+分辨率：8K，
+风格：["超写实", "超高细节", "照片级写实"]
+},
+"identity_reference": {
+"use_uploaded_image_as_reference": true,
+"face_and_body": "尽可能与上传的身份信息相匹配",
+备注：如果系统支持参考图像，请保持上传图像中的面部、肤色、面部比例和整体体型一致。
+},
+“迅速的”： {
+“场景”：“在阳光明媚的高档户外咖啡馆露台上，夏日早午餐时分拍摄的一张自然、迷人的肖像照。”
+“主题”： {
+“描述”：“一位美丽迷人的年轻女子，留着长长的黑色波浪卷发，戴着粉色猫眼太阳镜，坐在户外咖啡桌旁，自然地摆姿势拍照。”
+“服装”：“浪漫碎花荷叶边吊带连衣裙，心形领口。”
+"expression_pose": "放松自信的微笑，随意优雅的姿态，略微侧身看向镜头。"
+},
+"food_foreground": {
+描述：前景中，一块撒满糖粉的金黄色华夫饼放在哑光黑色盘子上。旁边，一个精致的玻璃碗里盛着纹理清晰可见的鲜奶油。
+"构图说明": "食物靠近镜头，主体位于中景以营造景深。"
+},
+“环境”： {
+描述：阳光充足的高档露台，配有大型奶油色遮阳伞、天然木椅和大型玻璃窗，窗外绿意盎然，光线柔和明亮。
+“氛围”：“奢华、明亮、悠闲；阳光明媚的夏日早午餐氛围。”
+},
+“灯光”： {
+“类型”：“自然阳光”，
+“品质”：“太阳镜和玻璃碟上温暖柔和的阴影和柔和的高光”
+},
+“相机”： {
+"shot_type": "抓拍/瞬间捕捉",
+“构图”：“竖幅肖像，主体居中，前景食物突出”，
+镜头风格：浅景深，清晰的主体细节，柔和的散景背景
+},
+"quality_tags": [
+“8k”，
+“超清晰”，
+“高动态范围”
+“逼真的皮肤纹理”，
+“精细的面料细节”，
+“自然色彩分级”
+]
+},
+"negative_prompt": [
+“卡通片”，
+“日本动画片”，
+“cgi”，
+“3D渲染”，
+“绘画”，
+“低分辨率”，
+“模糊的”，
+“过度曝光”
+“曝光不足”，
+“糟糕的解剖学”
+“畸形的手”，
+“额外的手指”，
+“复制的脸”，
+“不同的身份”，
+“面部变形”，
+“文本”，
+“水印”，
+“标识”，
+“色彩过饱和”
+]
+}
+```
+
+<a id="prompt-858"></a>
+## 案例 858：女子站在房间里的近距离自拍照 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2000735478149210188)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/858.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子站在房间里的近距离自拍照">
+</div>
+
+**提示词：**
+```
+Take a close-up selfie portrait of a young woman standing in a room. She poses with her right hand holding the camera for the selfie, biting her index finger with a flirtatious expression, her right eye winking, and her body tilted slightly to the right.
+Her dark brown hair with highlights is tied in a high, messy bun with bangs circling her forehead. She wears diamond hoop earrings.
+She appears to have freckles around her nose and cheekbones.
+Her makeup is natural, with a subtle pink blush, a defined cat eye eyeliner, curled eyelashes, a brownish-green eye color, and a glossy nude lipstick.
+She is wearing a strapless black knit mini dress.
+
+The backdrop is a grayish-white curtain with soft, out-of-focus folds that contrast nicely with the denim dress.
+The natural lighting from the sun highlights the subject from the front.  Shot with a 90s camera. Don't change the face.
+```
+
+**中文提示词：**
+```
+拍摄一张年轻女子站在房间里的近距离自拍照。她摆出自拍姿势，右手拿着相机，咬着食指，表情妩媚，右眼眨动，身体微微向右倾斜。
+她深棕色的头发挑染了几缕，随意地挽成一个高高的发髻，刘海垂在额前。她戴着钻石耳环。
+她的鼻子和颧骨周围似乎有雀斑。
+她的妆容很自然，淡淡的粉色腮红，精致的猫眼眼线，卷翘的睫毛，棕绿色的眼影，以及亮泽的裸色唇膏。
+她身穿一件黑色无肩带针织迷你连衣裙。
+
+背景是一块灰白色的窗帘，柔和的、略带虚化的褶皱与牛仔连衣裙形成了很好的对比。
+阳光的自然光线从正面突出了拍摄对象。用90年代的相机拍摄。不要改变脸部特征。
+```
 
 <a id="prompt-857"></a>
 ## 案例 857：超逼真的3D商业风格产品图 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/2000485236841607559)) 模型：Nano banana pro
