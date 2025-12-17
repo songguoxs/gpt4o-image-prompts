@@ -33,6 +33,29 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 895：Gemini 3 flash广告图 ](#prompt-895)
+*   [案例 894：大唐盛世与巴黎写真照 ](#prompt-894)
+*   [案例 893：9宫格产品展示 ](#prompt-893)
+*   [案例 892：6X6产品多种风格 ](#prompt-892)
+*   [案例 891：6X6风格和质量各异的产品图 ](#prompt-891)
+*   [案例 890：女生铅笔素描画 ](#prompt-890)
+*   [案例 889：微缩的品牌门店 ](#prompt-889)
+*   [案例 888：将人物置身于9部电影的圣诞场景中 ](#prompt-888)
+*   [案例 887：Q版人物九宫格 ](#prompt-887)
+*   [案例 886：模特站在布满了无数黑白广告牌的地面上 ](#prompt-886)
+*   [案例 885：人物站在一部超大的智能手机上 ](#prompt-885)
+*   [案例 884：极简主义食物摄影作品 ](#prompt-884)
+*   [案例 883：女子在一辆复古美式车内 ](#prompt-883)
+*   [案例 882：微缩3D立体模型 ](#prompt-882)
+*   [案例 881：墨水风格营造出梦幻般的诗意氛围 ](#prompt-881)
+*   [案例 880：微缩世界与宏观食物 ](#prompt-880)
+*   [案例 879：红墨水疯狂地加上手写中文批注 ](#prompt-879)
+*   [案例 878：预判前后时间的画面 ](#prompt-878)
+*   [案例 877：专业的知识信息图 ](#prompt-877)
+*   [案例 876：朱迪站在雪桥上 ](#prompt-876)
+*   [案例 875：北京7日天气预报-海报 ](#prompt-875)
+*   [案例 874：真人版的9宫格照片 ](#prompt-874)
+*   [案例 873：女生坐在瑞幸咖啡的冷饮杯子上 ](#prompt-873)
 *   [案例 872：一生要出片的中国女人系列之故宫打卡 ](#prompt-872)
 *   [案例 871：3x3网格皮克斯风格故事板 ](#prompt-871)
 *   [案例 870：舞台场景上多名女性蹲着 ](#prompt-870)
@@ -213,6 +236,1154 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-895"></a>
+## 案例 895：Gemini 3 flash广告图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2001234260594974883)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/895.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Gemini 3 flash广告图">
+</div>
+
+**中文提示词：**
+```
+生成一张符合谷歌调性的Gemini 3 flash宣传图片，宽高比16:9
+```
+
+<a id="prompt-894"></a>
+## 案例 894：大唐盛世与巴黎写真照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2001198742998016062)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/894.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大唐盛世与巴黎写真照">
+</div>
+
+**中文提示词：**
+```
+生成一张 9:16 竖版「大唐盛世与巴黎」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“唐代（盛唐）宫廷贵妃方向”的重工礼服（齐胸衫裙、大袖衫、牡丹纹样、金饰），在巴黎埃菲尔铁塔下的特罗卡德罗广场或塞纳河畔拍摄。画面具备COSMO时尚杂志级别的摄影、造型与封面设计，保持杂志的一贯设计风格（英文设计）。
+
+【INPUTS | 输入】 FACE_REF：我上传的人物五官参考图（身份锁定）
+
+【ABSOLUTE PRIORITY | 身份锁定（最高优先级）】 100%还原 FACE_REF 的五官与骨相：脸型、容貌、眼距、鼻梁鼻翼、唇形、下颌线、颧骨结构完全一致，不得漂移。 真实皮肤质感：可见细微纹理与毛孔，不要过度磨皮与网红化。 成年女性形象。
+
+【SHOT TYPE | 景别二选一（由模型随机选其一，且必须真实统一）】 A) 半身封面：胸口到腰上方，头面与上身刺绣最清晰，眼睛对焦最锐利（主推） B) 全身封面：从头到脚完整呈现层叠礼服与裙摆纹样，铁塔的钢结构透视更强（备选） （无论A/B：都必须保持“封面构图”，有留白空间给排版，但不要撕纸/手绘效果。）
+
+【LOCATION | 场景（巴黎埃菲尔铁塔）】 巴黎埃菲尔铁塔：经典的钢结构塔身背景。天气二选一（随机）：1) 巴黎阴雨（地面微湿，光线柔和高级灰色调，时尚感强） 2) 绚丽黄昏（夕阳余晖，金色光影，浪漫氛围） 背景干净：无游客、无现代标识、无手机状态栏UI、无水印字幕、无护栏。
+
+【LIGHTING & CAMERA | 摄影质感（杂志级）】 镜头感：85mm人像质感（半身）或 50mm/70mm（全身），浅景深，眼睛最清晰。 光线：自然光（强调环境光） + 电影级补光；金饰有真实高光但不爆；丝绸光泽清晰可辨。 色彩：高级电影感，法式米灰/蓝灰色调与唐代服装的“红绿金”配色形成强烈视觉张力；整体干净、通透、质感厚。
+
+【WARDROBE | 唐代宫廷礼服（丰腴、飘逸、色彩浓烈）】 目标审美：“金饰华丽、面靥花钿、齐胸裙、披帛飘逸、大红大绿大金、极度张扬”。
+
+轮廓与层次（必须体现唐代特征） 内层：诃子（抹胸），露出颈部与上胸肌肤（唐代开放风气） 中层：对襟短衫（直领），材质透明轻薄（罗/纱） 外层：大袖衫（极宽大的袖子，拖地），像翅膀一样张开 装饰：披帛（长长的丝带），挽在手臂间，随风飘舞 下装：齐胸破裙（裙腰系在胸口，裙摆宽大，多色拼接或印花） 面料与工艺（重手艺必须“看得见”） 主面料：丝绸、织锦、印金纱（轻盈与厚重结合） 主要工艺：印染（蜡染/夹路）、金线刺绣、织金 纹样主题（适配大唐）：宝相花、缠枝牡丹、瑞兽（狮子/麒麟）、团花（图案巨大、饱满） 细节：花钿（额头红色装饰）、面靥（嘴角红点）、臂钗（大臂上的金属饰品） 头面（唐代雍容华贵头饰） 核心结构：高耸的发髻（云髻/坠马髻），插戴大朵牡丹花（真花或绢花） 装饰：金梳背（插在发髻上的金梳子）、步摇（走动摇曳）、金钗 耳饰：贵重金玉
+
+【COLOR MATRIX | 颜色矩阵搭配（必须执行，且必须“浓烈唐风”）】 （调整为唐代流行色：红绿撞色、金碧辉煌） 从以下三套“主色方案”中随机选 1 套作为【底色/大面积主面料色】。
+
+Scheme G（石青/翠绿底）： 底色：翠绿/石青（常用的间色） 刺绣/印染：茜红、金色、橘黄、米白 Scheme A（牡丹红底）： 底色：牡丹红/石榴红（最经典的唐风） 刺绣/印染：金色、翠绿、宝蓝、紫 Scheme R（紫底）： 底色：紫/葡萄色（高贵） 刺绣/印染：金色、朱红、草绿、银
+
+【颜色执行规则】 色彩对比要强烈，体现盛唐气象，但整体色调要统一在高级感中。
+
+【POSE | 封面姿态（自信、舒展、女王感）】 半身：微昂头，眼神睥睨，一手轻抚发髻或披帛 全身：双臂张开带动大袖衫和披帛，展现服装的体积感，气场全开 表情：自信、张扬、妩媚、大方；不要羞涩。
+
+【OUTPUT | 输出】 1 张 9:16 竖版写实杂志封面级照片 随机：半身 or 全身（A/B二选一） 随机：阴雨 or 黄昏（天气二选一） 随机：翠绿 / 牡丹红 / 紫（颜色矩阵三选一） 造型：唐代宫廷礼服方向 + 牡丹花/金梳头面 + 齐胸大袖 + 披帛
+```
+
+<a id="prompt-893"></a>
+## 案例 893：9宫格产品展示 (来源 [@azed_ai](https://x.com/azed_ai/status/2000845183257292883)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/893.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-9宫格产品展示">
+</div>
+
+**提示词：**
+```
+Create a 3×3 grid in
+3:4 aspect ratio for a high-end commercial marketing campaign using the uploaded product as the central subject.
+
+Each frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.
+
+Grid Concepts (one per cell):
+
+1. Iconic hero still life with bold composition
+
+2. Extreme macro detail highlighting material, surface, or texture
+
+3. Dynamic liquid or particle interaction surrounding the product
+
+4. Minimal sculptural arrangement with abstract forms
+
+5. Floating elements composition suggesting lightness and innovation
+
+6. Sensory close-up emphasizing tactility and realism
+
+7. Color-driven conceptual scene inspired by the product palette
+
+8. Ingredient or component abstraction (non-literal, symbolic)
+
+9. Surreal yet elegant fusion scene combining realism and imagination
+
+Visual Rules:
+Product must remain 100% accurate in shape, proportions, label, typography, color, and branding
+No distortion, deformation, or redesign of the product
+Clean separation between product and background
+
+Lighting & Style:
+Soft, controlled studio lighting
+Subtle highlights, realistic shadows
+High dynamic range, ultra-sharp focus
+Editorial luxury advertising aesthetic
+Premium sensory marketing look
+
+Overall Feel:
+Modern, refined, visually cohesive
+High-end commercial campaign
+Designed for brand websites, social grids, and digital billboards
+Hyperreal, cinematic, polished, and aspirational
+```
+
+**中文提示词：**
+```
+创建一个 3×3 的网格
+3:4 宽高比，适用于以上传产品为中心主题的高端商业营销活动。
+
+每幅画面都必须呈现独特的视觉概念，同时在所有九幅画面中保持产品的完美一致性。
+
+网格概念（每个单元格一个）：
+
+1. 构图大胆的标志性英雄静物画
+
+2. 极致的宏观细节，突出材质、表面或纹理。
+
+3. 产品周围的动态液体或颗粒相互作用
+
+4. 极简主义的抽象造型雕塑摆设
+
+5. 漂浮元素构成，暗示着轻盈和创新。
+
+6. 强调触觉和真实感的感官特写
+
+7. 以产品色卡为灵感的色彩驱动型概念场景
+
+8. 成分或组成部分抽象（非字面意义、符号意义）
+
+9. 超现实而又优雅的融合场景，兼具现实主义与想象力
+
+视觉规则：
+产品在形状、比例、标签、字体、颜色和品牌标识方面必须保持100%准确。
+产品不得有任何变形、扭曲或重新设计。
+产品与背景之间清晰分离
+
+灯光与风格：
+柔和、可控的摄影棚灯光
+微妙的高光，逼真的阴影
+高动态范围，超清晰对焦
+编辑奢华广告美学
+高端感官营销外观
+
+整体感觉：
+现代、精致、视觉上和谐统一
+高端商业推广活动
+专为品牌网站、社交媒体平台和数字广告牌而设计
+超现实的、电影般的、精致的、令人向往的
+```
+
+<a id="prompt-892"></a>
+## 案例 892：6X6产品多种风格 (来源 [@gokayfem](https://x.com/gokayfem/status/2001265620449444251)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/892.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-6X6产品多种风格">
+</div>
+
+**提示词：**
+```
+Generate a 6x6 grid of variations based on the original image. Keep the same product but vary the color palettes, backgrounds, lighting, angles, props, and styling dramatically across all 36 cells. Maintain the same professional quality and aesthetic throughout.
+```
+
+**中文提示词：**
+```
+基于原图生成一个 6x6 的变体网格。保持产品相同，但大幅改变所有 36 个单元格中的配色方案、背景、光线、角度、道具和造型。始终保持相同的专业品质和美感。
+```
+
+<a id="prompt-891"></a>
+## 案例 891：6X6风格和质量各异的产品图 (来源 [@gokayfem](https://x.com/gokayfem/status/2001265620449444251)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/891.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-6X6风格和质量各异的产品图">
+</div>
+
+**提示词：**
+```
+Generate a 6x6 grid of professional product photography. Reference the original image's mood, quality, and aesthetic. Each cell should showcase a completely different product (bags, bottles, hats, cosmetics, jewelry, food, electronics, etc.) in a unique studio setting with a distinct color palette. Maintain the same high-end commercial photography style throughout. Vary the products, lighting, backgrounds, props, and styling dramatically across all 36 images.
+```
+
+**中文提示词：**
+```
+生成一个 6x6 的专业产品摄影网格。参考原图的风格、质量和美感。每个单元格应展示一种完全不同的产品（例如包袋、瓶装水、帽子、化妆品、珠宝、食品、电子产品等），并置于独特的摄影棚环境中，使用不同的色彩搭配。保持整体高端商业摄影风格一致。在所有 36 张图片中，产品、光线、背景、道具和造型都应有显著差异。
+```
+
+<a id="prompt-890"></a>
+## 案例 890：女生铅笔素描画 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2001269553599336475)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/890.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生铅笔素描画">
+</div>
+
+**提示词：**
+```
+{
+  "scene": {
+    "setting": "winter",
+    "environment": {
+      "ground": "pure white snow",
+      "lighting": "natural winter daylight, soft and diffused, gentle shadows, no harsh highlights",
+      "mood": "quiet, peaceful, poetic, dreamy, nostalgic, gentle winter serenity",
+      "color_palette": ["white", "soft gray", "muted green"]
+    }
+  },
+  "subject": {
+    "type": "young woman",
+    "appearance": {
+      "face": "same as reference photo",
+      "skin": "fair, smooth",
+      "body": "slender",
+      "pose": "kneeling on snow, viewed from slightly top-down back angle, facing forward, both hands gently on snow in front",
+      "hair": "low neat bun with a few loose strands naturally framing the neck",
+      "outfit": {
+        "dress_type": "halter-neck",
+        "color": "light sage-green",
+        "material": "sheer, soft, flowing, slightly translucent",
+        "style": "delicately draping, upper back exposed, conveying elegance, softness, vulnerability"
+      }
+    }
+  },
+  "art_elements": {
+    "snow_sketch": {
+      "portrait": {
+        "subject": "woman",
+        "face": "same as reference photo",
+        "style": "pencil-style, graphite, fine linework, soft shading, realistic proportions, gentle contrast, traditional graphite drawing",
+        "features": {
+          "eyes": "large, expressive",
+          "nose": "slender",
+          "lips": "delicate",
+          "hair": "loosely tied with subtle flyaway strands"
+        },
+        "placement": "directly carved into snow in front of kneeling woman"
+      },
+      "text": {
+        "content": "2025 Winter",
+        "style": "handwritten, pencil or charcoal, blending naturally with snow",
+        "placement": "left of the portrait"
+      },
+      "additional_elements": {
+        "pandas": {
+          "style": "graphite sketch, minimal, playful",
+          "placement": "scattered around, evenly spaced, subtle whimsical touch"
+        }
+      }
+    }
+  },
+  "photography_style": {
+    "type": "cinematic fine art photography",
+    "details": {
+      "perspective": "slightly top-down back angle (overhead rear perspective)",
+      "depth_of_field": "shallow",
+      "texture": "crisp snow, high detail fabric, skin, pencil lines",
+      "composition": "balanced, clean background"
+    }
+  },
+  "format": {
+    "aspect_ratio": "9:16",
+    "realism": "ultra-realistic"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“场景”： {
+“设置”：“冬季”，
+“环境”： {
+“地面”: “纯白的雪”
+“照明”：“自然的冬季日光，柔和而漫射，淡淡的阴影，没有刺眼的高光”，
+“氛围”：“安静、平和、诗意、梦幻、怀旧、温柔的冬日宁静”，
+"color_palette": ["白色", "柔和的灰色", "柔和的绿色"]
+}
+},
+“主题”： {
+“类型”: “年轻女子”
+“外貌”： {
+“脸部”： “与参考照片相同”，
+“皮肤”: “白皙、光滑”
+“身材”： “苗条”，
+“姿势”：“跪在雪地上，从略微俯视的后方角度看，面向前方，双手轻轻放在身前的雪地上”，
+“头发”：“低低的整齐发髻，几缕碎发自然地垂在颈间”，
+“全套服装”： {
+"dress_type": "露背领",
+“颜色”：“浅鼠尾草绿”，
+“材质”：“轻薄、柔软、飘逸、略微半透明”，
+“风格”：“轻柔垂坠，露出上背部，传达优雅、柔美、脆弱”
+}
+}
+},
+"art_elements": {
+"snow_sketch": {
+“肖像”： {
+主题：女人，
+“脸部”： “与参考照片相同”，
+“风格”：“铅笔风格，石墨，精细线条，柔和阴影，写实比例，柔和对比，传统石墨画”
+“特征”： {
+“眼睛”：“大而有神”，
+“鼻子”：“纤细”，
+“嘴唇”： “精致的”，
+“头发”：“松散地扎起来，留有几缕碎发”
+},
+“位置”：“直接在跪着的女人面前的雪地上雕刻”
+},
+“文本”： {
+"content": "2025 年冬季",
+“风格”：“手写，铅笔或炭笔，与雪自然融合”，
+“位置”：“肖像左侧”
+},
+"additional_elements": {
+"pandas": {
+风格：石墨素描、极简、活泼，
+“摆放位置”：“散落在各处，均匀分布，略带奇思妙想”
+}
+}
+}
+},
+"photography_style": {
+“类型”：“电影艺术摄影”，
+“细节”： {
+“视角”：“略微俯视的后方视角（俯视后方视角）”，
+"景深": "浅",
+“纹理”：“清脆的雪，高细节的织物，皮肤，铅笔线条”，
+构图：平衡、干净的背景
+}
+},
+“格式”： {
+"aspect_ratio": "9:16",
+“写实主义”: “超写实主义”
+}
+}
+```
+
+<a id="prompt-889"></a>
+## 案例 889：微缩的品牌门店 (来源 [@TechieBySA](https://x.com/TechieBySA/status/2000936938103267764)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/889.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩的品牌门店">
+</div>
+
+**提示词：**
+```
+A dynamic aerial view of a bustling city street, focusing on a miniature [BRAND] store. The camera performs a smooth, sweeping dolly in towards the storefront, capturing the vibrant activity of pedestrians, cyclists, and vehicles. Bright daylight illuminates the scene, highlighting the distinctive branding and merchandise displayed in the window. The atmosphere is lively and energetic, with a playful, miniature aesthetic that emphasizes the intricate details of the cityscape. 1080x1080 dimension.
+```
+
+**中文提示词：**
+```
+一段动态的航拍镜头，展现了熙熙攘攘的城市街道，镜头聚焦于一家微缩的[品牌]门店。镜头流畅地缓缓推移至店面，捕捉行人、骑行者和车辆熙熙攘攘的景象。明亮的日光照亮了整个画面，突显了橱窗中独特的品牌标识和商品。画面充满活力，趣味盎然的微缩美学突出了城市景观的精妙细节。画面尺寸为1080x1080。
+```
+
+<a id="prompt-888"></a>
+## 案例 888：将人物置身于9部电影的圣诞场景中 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2000918182660596229)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/888.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将人物置身于9部电影的圣诞场景中">
+</div>
+
+**中文提示词：**
+```
+[全局指令]： 一个3x3的网格拼贴画，所有9个格子里必须是完全同一位女性。严格保持与参考图一致的面部特征。不要改变她的五官，只改变她的表情、妆容和造型以匹配各电影主题。
+格1：《真爱至上》风格-机场告别场景戴圣诞帽，手持包装礼物，温情拥抱，背景机场巨型圣诞树和彩灯装饰，柔和光线
+格2：《小鬼当家》风格-惊讶夸张表情手捂脸颊，戴歪圣诞帽，背景家中圣诞树、礼物堆和装饰彩灯，喜剧效果
+格3：《极地特快》风格-火车窗前戴睡帽，手持热可可配糖果拐杖，窗外魔幻雪景和圣诞村庄，梦幻蓝金色调
+格4：《圣诞怪杰》风格-真实人物绿色调服装配红色圣诞帽，搞怪表情，手持偷来的圣诞装饰，背景圣诞村彩灯和礼物，创意造型
+格5：《34街的奇迹》风格-复古百货商店场景穿经典红色圣诞礼服，手持圣诞购物袋，背景巨型圣诞树和复古装饰，经典好莱坞照明（中心）
+格6：《圣诞精灵》风格-完整精灵装扮（绿色上衣、红色条纹袜、尖头帽配铃铛），欢乐跳跃姿态，手持糖果拐杖，背景糖果色圣诞工坊
+格7：《冰雪奇缘》风格-冰蓝色公主裙配雪花皇冠，手持魔法冰晶，雪花飞舞，背景冰晶城堡和大大的圣诞树，特别的喜庆糖果，迪士尼魔法感
+格8：《真实的谎言》风格-黑色礼服配红色圣诞饰品，手持香槟，背景圣诞派对场景彩灯和装饰球，优雅神秘
+格9：《Last Christmas》风格-时尚女性穿红色复古大衣配绿色围巾和金色耳环，手持圣诞礼物盒，站在伦敦圣诞街市彩灯下，背景科文特花园巨型圣诞树和节日橱窗，温暖夜景灯光，充满希望的表情，现代浪漫电影美学
+每格模仿对应电影的色调、光线和氛围，圣诞装饰元素极其明显，电影海报构图，添加电影感标题文字效果，专业电影剧照质感，4K高清
+```
+
+<a id="prompt-887"></a>
+## 案例 887：Q版人物九宫格 (来源 [@rovvmut_](https://x.com/rovvmut_/status/2000944698131992587)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/887.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Q版人物九宫格">
+</div>
+
+**提示词：**
+```
+Create a 3D kawaii a 9:16 canvas featuring nine chibi-style stickers in various outfits, poses and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with regular use phrases. Set on a soft white-to-pastel blue gradient background for a fun, positive vibe, perfect for WhatsApp use.
+```
+
+**中文提示词：**
+```
+制作一个 9:16 的 3D 可爱画布，包含九个不同服装、姿势和表情的 Q 版贴纸。可参考附图。每个贴纸都带有白色边框，并包含一个带有常用短语的对话框。背景采用柔和的白色到淡蓝色渐变，营造出轻松愉悦的氛围，非常适合在 WhatsApp 中使用。
+```
+
+<a id="prompt-886"></a>
+## 案例 886：模特站在布满了无数黑白广告牌的地面上 (来源 [@oggii_0](https://x.com/oggii_0/status/2001232399368380637)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/886.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-模特站在布满了无数黑白广告牌的地面上">
+</div>
+
+**提示词：**
+```
+This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
+```
+
+**中文提示词：**
+```
+这张高分辨率鸟瞰照片是用 LOMO Ic-a 拍摄的。地面上布满了无数黑白广告牌，上面是美丽的时尚模特，而站在广告牌上的是一位身穿黑色长外套的绝世美女日本电影女演员。
+```
+
+<a id="prompt-885"></a>
+## 案例 885：人物站在一部超大的智能手机上 (来源 [@r4jjesh](https://x.com/r4jjesh/status/2001196132190609508)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/885.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-人物站在一部超大的智能手机上">
+</div>
+
+**提示词：**
+```
+Using the uploaded image for accurate facial likeness, create a surreal, modern digital artwork featuring the same person standing on top of an oversized smartphone displaying a music-player interface. Do not change the face. The person wears a white short-sleeve button-up shirt, black shorts, white sneakers, and large over-ear headphones, with sunglasses, standing casually with hands in pockets. The smartphone beneath appears massive, making the person look miniaturized, and shows a playlist screen with album covers and playback controls. The overall aesthetic is minimal, clean, and softly lit with a beige background. The style is cinematic, high-resolution, polished, and resembles a professional poster design. Face and body must 100% match the uploaded reference image
+```
+
+**中文提示词：**
+```
+请使用上传的图片作为参考，创作一幅超现实主义的现代数字艺术作品。作品中，人物站在一部超大的智能手机上，屏幕上显示着音乐播放器界面。请勿更改人物面部。人物身穿白色短袖衬衫、黑色短裤、白色运动鞋，戴着大型头戴式耳机和太阳镜，双手插兜，姿态随意。下方的智能手机显得巨大，衬托出人物的渺小，屏幕上显示着带有专辑封面和播放控制的播放列表。整体风格简约、干净，柔和的光线，米色背景。作品风格电影感十足，高分辨率，画面精致，如同专业海报设计。人物的面部和身体必须与上传的参考图片完全一致。
+```
+
+<a id="prompt-884"></a>
+## 案例 884：极简主义食物摄影作品 (来源 [@TechieBySA](https://x.com/TechieBySA/status/2001021119441330425)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/884.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极简主义食物摄影作品">
+</div>
+
+**提示词：**
+```
+Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, matte surface and is captured mid-transformation into a 3D pixelized form: one half remains intact while the other organically fragments into large, floating cubes that drift outward, each cube revealing the object’s texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up.
+```
+
+**中文提示词：**
+```
+极简主义食物摄影作品，[1080x1080]——一块食物静置于轻盈的哑光表面上，被捕捉到其逐渐转化为3D像素化形态的瞬间：一半保持完整，另一半则自然地分裂成漂浮的大立方体，向外扩散，每个立方体都展现出食物的纹理、成分和颜色。摄影棚灯光营造出柔和逼真的阴影，浅景深，视角和构图恰到好处，细节超写实，几何抽象风格时尚，立方体上带有微妙的动态模糊，高分辨率，电影般的特写镜头。
+```
+
+<a id="prompt-883"></a>
+## 案例 883：女子在一辆复古美式车内 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1994550156763582572)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/883.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子在一辆复古美式车内">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A cinematic, wide-angle interior shot of a stylish young woman lounging inside a vintage American muscle car during golden hour.",
+  "subject": {
+    "type": "young woman",
+    "age": "early 20s",
+    "features": {
+      "hair": "long, volumetric, sun-kissed honey blonde hair, tousled and windblown texture",
+      "skin": "fair with warm golden undertones from the sun",
+      "expression": "confident, alluring gaze directly into the lens, slight pout"
+    },
+    "attire": "black puff-sleeve milkmaid-style mini dress or romper with a sweetheart neckline",
+    "position": "reclined comfortably across the front bench/bucket seats, one leg extended towards the camera (foreshortened), one knee bent, hand resting casually against her forehead."
+  },
+  "action": {
+    "primary": "lounging in the passenger seat",
+    "secondary": "shielding eyes/touching hair with left hand",
+    "effect": "relaxed, rebellious 'cool girl' aesthetic"
+  },
+  "environment": {
+    "setting": "Interior of a classic 1960s/70s muscle car",
+    "foreground_elements": [
+      "vintage wood-rimmed 3-spoke steering wheel (partial view)",
+      "black vinyl dashboard",
+      "chrome accents"
+    ],
+    "background_elements": [
+      "wooden ranch-style fence visible through window",
+      "clear blue sky",
+      "car rear view mirror reflecting a sliver of the face"
+    ]
+  },
+  "lighting": {
+    "style": "Natural Golden Hour",
+    "key_light": {
+      "type": "Direct, warm sunlight",
+      "color": "golden amber",
+      "illuminates": [
+        "face",
+        "hair highlights",
+        "legs"
+      ]
+    },
+    "shadows": "Deep, high-contrast shadows inside the car cabin, creating depth"
+  },
+  "style": {
+    "medium": "35mm film photography",
+    "aesthetic": "Vintage Americana, editorial fashion, indie road trip",
+    "quality": "high fidelity, grain simulation",
+    "details": "ultra-realistic textures on leather and skin"
+  },
+  "scene_composition": {
+    "subject_action": "Lounging with attitude, dominating the frame",
+    "camera_behavior": "Wide-angle interior shot, creating perspective distortion on the boots",
+    "depth_layering": "Steering wheel foreground -> Subject focus -> Exterior background"
+  },
+  "visual_description": {
+    "core_subject": "A photorealistic young woman with blonde waves.",
+    "attire_physics": "The black fabric of the dress absorbs light, while the leather boots have specular highlights.",
+    "skin_rendering": "Warm, glowing skin texture with natural highlighting from the sun."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Golden Hour Natural Light",
+    "specifics": "Hard sunlight entering through the car window, creating distinct shadow lines across the interior upholstery.",
+    "color_grade": "Warm, Kodak Portra 400 inspired, rich blacks and vibrant skin tones."
+  },
+  "attire_customization": {
+    "current_clothing": "Black long-sleeve puff-shoulder top with sweetheart neckline, black chunky platform combat boots with laces.",
+    "customizable_clothing": "User can replace with 'denim jacket', 'white summer dress', etc."
+  },
+  "brand_product_customization": {
+    "current_brand_product": "Dr. Martens style combat boots",
+    "customizable_brand": "",
+    "customizable_product": "",
+    "product_placement_area": "The boots in the foreground or the car interior branding."
+  },
+  "objects_and_props": {
+    "main_objects": [
+      "Vintage car seats (ribbed black leather)",
+      "Steering wheel",
+      "Rearview mirror"
+    ],
+    "secondary_objects": [
+      "Wooden fence outside",
+      "Chrome door handle"
+    ]
+  },
+  "camera_and_lens": {
+    "focal_length_feel": "24mm or 28mm (wide angle)",
+    "aperture_effect": "f/5.6 (deep enough to keep interior sharp, slight softness outside)",
+    "camera_angle": "Eye-level relative to seated subject, shot from driver's side perspective",
+    "lens_type": "Wide angle prime lens",
+    "bokeh_style": "Minimal bokeh, mostly sharp context"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“scene_description” “一段电影感十足的广角内景镜头，展现了一位时尚年轻女子在日落时分慵懒地躺在一辆复古美式肌肉车内。”
+“主题”： {
+“类型”: “年轻女子”
+“年龄”：“20岁出头”，
+“特征”： {
+“头发”：“长长的、蓬松的、阳光亲吻过的蜜金色头发，蓬松凌乱，略带风吹的质感”，
+“肤色”：“白皙，带有阳光带来的温暖金色光泽”，
+“表情”：“自信、迷人的眼神直视镜头，微微撅嘴”
+},
+“服装”：“黑色泡泡袖挤奶女工风格迷你连衣裙或连体裤，心形领口”，
+“姿势”：“舒适地斜倚在前排长椅/桶形座椅上，一条腿伸向镜头（画面缩短），一条膝盖弯曲，一只手随意地放在额头上。”
+},
+“行动”： {
+“主要”： “躺在乘客座位上”，
+“次要的”：“用左手遮住眼睛/触摸头发”，
+“效果”：“轻松叛逆的‘酷女孩’美学”
+},
+“环境”： {
+“场景”：“一辆经典的 20 世纪 60 年代/70 年代肌肉车的内饰”，
+"前景元素": [
+“复古木质三辐方向盘（局部视图）”
+“黑色乙烯基仪表板”，
+“镀铬装饰”
+],
+“背景元素”：[
+“透过窗户可以看到木制牧场风格的围栏”
+“晴朗的蓝天”，
+“汽车后视镜映出脸部的一角”
+]
+},
+“灯光”： {
+“风格”：“自然黄金时刻”，
+"key_light": {
+“类型”：“直接、温暖的阳光”，
+“颜色”：“金琥珀色”，
+“照亮”：[
+“脸”，
+“头发挑染”，
+“腿”
+]
+},
+“阴影”：“车厢内部深邃、高对比度的阴影，营造出景深效果”
+},
+“风格”： {
+“媒介”: “35mm 胶片摄影”
+“美学”：“复古美式风格、时尚大片、独立公路旅行”
+“质量”：“高保真度，颗粒模拟”，
+“细节”：“皮革和皮肤上的超逼真纹理”
+},
+"scene_composition": {
+“subject_action”: “慵懒地摆着姿势，占据了画面”
+“camera_behavior”: “广角室内镜头，在靴子上产生透视变形”
+"depth_layering": "方向盘前景->主体焦点->外部背景"
+},
+"visual_description": {
+核心主题：一位拥有金色波浪卷发的写实年轻女性。
+"attire_physics": "连衣裙的黑色面料会吸收光线，而皮靴则具有镜面反射的高光。"
+“skin_rendering”: “温暖、有光泽的肌肤纹理，带有阳光带来的自然高光。”
+},
+"lighting_and_atmosphere": {
+“类型”：“黄金时段自然光”，
+“具体情况”：“强烈的阳光透过车窗照射进来，在车内座椅上投下清晰的阴影线。”
+"color_grade": "温暖的色调，灵感来自柯达Portra 400，浓郁的黑色和鲜艳的肤色。"
+},
+"attire_customization": {
+"current_clothing": "黑色长袖泡泡袖上衣，心形领口，黑色厚底系带马丁靴。"
+"customizable_clothing": "用户可以替换为'牛仔夹克'、'白色夏日连衣裙'等。"
+},
+"品牌产品定制": {
+"current_brand_product": "马丁靴款式"
+"customizable_brand": "",
+"customizable_product": "",
+"product_placement_area": "前景中的靴子或汽车内饰品牌标识。"
+},
+"objects_and_props": {
+"main_objects": [
+“复古汽车座椅（黑色罗纹皮革）”
+“方向盘”，
+“后视镜”
+],
+"secondary_objects": [
+“外面有木栅栏，”
+“镀铬门把手”
+]
+},
+"camera_and_lens": {
+"focal_length_feel": "24mm 或 28mm（广角）",
+"aperture_effect": "f/5.6（足够深，可以保持内部清晰，外部略微柔和）",
+“camera_angle”: “相对于坐着的拍摄对象，从驾驶员侧视角拍摄，视线与拍摄对象视线齐平”
+"lens_type": "广角定焦镜头",
+"bokeh_style": "极简散景，主体清晰"
+}
+}
+```
+
+<a id="prompt-882"></a>
+## 案例 882：微缩3D立体模型 (来源 [@TechieBySA](https://x.com/TechieBySA/status/2000876376287576430)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/882.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩3D立体模型">
+</div>
+
+**提示词：**
+```
+Present a clear, 45° top-down isometric miniature 3D diorama of the iconic vehicle [VEHICLE NAME].
+
+The vehicle is the main focus, placed on a small raised diorama-style base that reflects its most recognizable environment
+(e.g. road, runway, ocean, space, racetrack), with subtle contextual details and tiny stylized figures if appropriate.
+
+Use soft refined textures, realistic PBR materials, and gentle cinematic lighting.
+The vehicle should feel premium, collectible, and instantly recognizable at a glance.
+
+Use a clean solid [BACKGROUND COLOR] background with no gradients.
+
+At the top-center, display “[VEHICLE NAME]” in large bold text.
+Directly beneath it, display a short descriptor in medium text (e.g. “Iconic Movie Car”, “World’s Fastest Train”).
+Optionally place an official logo or emblem below the text.
+
+All text must automatically match background contrast (white or black).
+Composition: perfectly centered, square 1080x1080, ultra-clean high-clarity diorama aesthetic.
+```
+
+**中文提示词：**
+```
+“展示一个清晰的、45°俯视等距微缩3D立体模型，展现标志性车辆[车辆名称]。
+
+车辆是主要焦点，放置在一个小型凸起的立体模型底座上，该底座反映了车辆最典型的环境。
+（例如道路、跑道、海洋、太空、赛道），如果合适，可以添加微妙的背景细节和微小的程式化人物。
+
+使用柔和细腻的纹理、逼真的PBR材质和柔和的电影级光照。
+这款车应该给人一种高端、值得收藏的感觉，并且一眼就能认出来。
+
+使用干净的纯色背景，不要使用渐变色。
+
+在顶部中央，以粗体大字显示“[车辆名称]”。
+在其正下方，显示一段中等大小的文字描述（例如“标志性电影用车”、“世界上最快的火车”）。
+（可选）在文本下方放置官方标志或徽章。
+
+所有文字必须自动与背景对比度（白色或黑色）匹配。
+构图：完美居中，1080x1080正方形，超清晰高纯度立体模型美学。
+```
+
+<a id="prompt-881"></a>
+## 案例 881：墨水风格营造出梦幻般的诗意氛围 (来源 [@azed_ai](https://x.com/azed_ai/status/2001246085042593973)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/881.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-墨水风格营造出梦幻般的诗意氛围">
+</div>
+
+**提示词：**
+```
+The [subject] is formed from liquid plumes swirling in milky water. Soft diffusion, abstract forms, rich ink blacks, and cloudy whites blending naturally, giving a dreamy, poetic impression.
+```
+
+**中文提示词：**
+```
+画面主体由乳白色水中旋转的液态羽流构成。柔和的扩散效果、抽象的形态、浓郁的墨黑色和朦胧的白色自然融合，营造出梦幻般的诗意氛围。
+```
+
+<a id="prompt-880"></a>
+## 案例 880：微缩世界与宏观食物 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/2000922964011712945)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/880.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩世界与宏观食物">
+<img src="./images/880-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩世界与宏观食物">
+</div>
+
+**提示词：**
+```
+{
+  "collection_meta": {
+    "theme": "Miniature Worlds & Macro Food",
+    "style_preset": "Microphotography / Tilt-Shift Realism",
+    "aspect_ratio": "3:4"
+  },
+  "scenes": [
+    {
+      "id": "scene_01_chicken_construction",
+      "subject": {
+        "team": "Miniature construction workers",
+        "action": "Lifting massive KFC drumstick using LEGO-style scaffolding, ropes, and pulleys",
+        "details": [
+          "Workers covered in head-sized crumbs",
+          "One figure shoveling grease off floor"
+        ]
+      },
+      "environment": {
+        "macro_object": "Giant KFC crispy fried chicken drumstick",
+        "background": "Generic KFC bucket, coleslaw and fries appearing as boulders",
+        "lighting": "Cinematic, shallow depth of field emphasizing crunch texture"
+      }
+    },
+    {
+      "id": "scene_02_egg_excavation",
+      "subject": {
+        "team": "Miniature archaeologists",
+        "action": "Excavating cracked eggshell buried in flour",
+        "tools": "Tiny brushes, micro-hammers",
+        "details": "Tiny footprints visible in the flour dust"
+      },
+      "environment": {
+        "macro_object": "Cracked eggshell and giant yolk puddle (cordoned off with toothpicks)",
+        "background": "Whisk and measuring cup towering in blur",
+        "lighting": "Soft morning kitchen light, highlighting fragility"
+      }
+    },
+    {
+      "id": "scene_03_ice_trek",
+      "subject": {
+        "team": "Miniature adventurers/mountaineers",
+        "action": "Trekking across melting ice landscape",
+        "gear": "Tents made of gum wrappers",
+        "details": "Reflections of tiny shadows in meltwater pools"
+      },
+      "environment": {
+        "macro_object": "Melting ice cubes with jagged edges",
+        "background": "Fallen spoon acting as a frozen bridge",
+        "lighting": "Cold cinematic, high-contrast reflections, glistening textures"
+      }
+    },
+    {
+      "id": "scene_04_cheese_rescue",
+      "subject": {
+        "team": "Miniature rescue team",
+        "action": "Saving a figure fallen into shredded cheese",
+        "tactics": [
+          "Rappelling using dental floss",
+          "Carrying cheese curls on stretchers"
+        ]
+      },
+      "environment": {
+        "macro_object": "Massive metal cheese grater looming like a mountain",
+        "surface": "Wooden kitchen table with crumbs",
+        "atmosphere": "Dramatic, humorous chaos, macro realism"
+      }
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"collection_meta": {
+“主题”：“微缩世界与宏观食物”，
+"style_preset": "微距摄影/移轴真实感",
+"aspect_ratio": "3:4"
+},
+“场景”：[
+{
+"id": "scene_01_chicken_construction",
+“主题”： {
+“团队”：“微型建筑工人”，
+“动作”：“使用乐高式脚手架、绳索和滑轮吊起巨大的肯德基鸡腿”
+“细节”： [
+“工人们身上沾满了像人头一样大的面包屑”，
+“一个人正在用铲子清理地板上的油污”
+]
+},
+“环境”： {
+"macro_object": "巨型肯德基脆皮炸鸡腿",
+“背景”：“肯德基的普通炸鸡桶、凉拌卷心菜和薯条看起来像巨石”，
+“灯光”：“电影感十足的浅景深，强调颗粒质感”
+}
+},
+{
+"id": "scene_02_egg_excavation",
+“主题”： {
+“团队”：“微型考古学家”，
+“行动”：“挖掘埋在面粉里的碎蛋壳”，
+“工具”：“小刷子、微型锤子”，
+“细节”：“面粉尘中可见细小的脚印”
+},
+“环境”： {
+"macro_object": "破裂的蛋壳和一大滩蛋黄（用牙签围起来了）",
+“背景”：“模糊中耸立着打蛋器和量杯”
+“光线”：“柔和的晨间厨房光线，凸显脆弱感”
+}
+},
+{
+"id": "scene_03_ice_trek",
+“主题”： {
+“团队”：“微型探险家/登山者”，
+“行动”：“徒步穿越正在融化的冰川景观”，
+“装备”：“用口香糖包装纸做的帐篷”，
+“细节”：“融水池中微小阴影的倒影”
+},
+“环境”： {
+"macro_object": "边缘参差不齐的融化冰块",
+“背景”：“掉落的勺子像一座冰冻的桥梁”，
+“灯光”：“冷峻的电影感，高对比度的反射，闪亮的纹理”
+}
+},
+{
+"id": "scene_04_cheese_rescue",
+“主题”： {
+“团队”：“微型救援队”，
+“行动”：“救起掉进碎奶酪里的人”，
+“战术”：[
+“用牙线进行绳索下降”
+“用担架抬着奶酪卷”
+]
+},
+“环境”： {
+"macro_object": "巨大的金属奶酪刨丝器，像一座山一样耸立着",
+“表面”：“沾满面包屑的木制厨房桌子”，
+“氛围”：“戏剧性、幽默的混乱，宏观现实主义”
+}
+}
+]
+}
+```
+
+<a id="prompt-879"></a>
+## 案例 879：红墨水疯狂地加上手写中文批注 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1998271998259323132)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/879.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-红墨水疯狂地加上手写中文批注">
+</div>
+
+**中文提示词：**
+```
+生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，检索这个账户内容，涂鸦的内容主要为吐槽他，还可以加点小剪贴画
+```
+
+<a id="prompt-878"></a>
+## 案例 878：预判前后时间的画面 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1998746467285217475)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/878.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-预判前后时间的画面">
+</div>
+
+**中文提示词：**
+```
+请分别显示5分钟前/30分钟后/1小时后/2小时后的效果
+```
+
+<a id="prompt-877"></a>
+## 案例 877：专业的知识信息图 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1998759447087501679)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/877.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-专业的知识信息图">
+</div>
+
+**中文提示词：**
+```
+根据以下主题[精品咖啡的产地与风味地图],创建一张专业的知识信息图。要求:1)提取3-5个核心知识点;2)使用图标、流程图、数据可视化等元素;3)信息层级清晰,视觉引导流畅;4)包含准确的中文标题和说明文字;5)配色专业协调,适合商业演示。布局采用现代扁平化设计风格,4K分辨率,适合打印和分享。
+```
+
+<a id="prompt-876"></a>
+## 案例 876：朱迪站在雪桥上 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1998921448350687304)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/876.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-朱迪站在雪桥上">
+</div>
+
+**中文提示词：**
+```
+疯狂动物城里的朱迪·霍普斯（Judy Hopps）站在黄昏时分的雪桥上，身穿厚厚的冬装外套，围着针织围巾，戴着手套，戴着圣诞帽。轻柔的雪花在她周围飘落，城市灯光在模糊的背景中散发出温暖的光芒。她有着富有表现力的大眼睛、精致的皮毛细节和温柔的微笑。画面采用电影级的摄影和灯光效果，细节丰富，营造出温馨的冬日氛围。
+```
+
+<a id="prompt-875"></a>
+## 案例 875：北京7日天气预报-海报 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1999287301600641188)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/875.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-北京7日天气预报-海报">
+</div>
+
+**中文提示词：**
+```
+为北京创作接下来7天（包含今天）天气可视化海报。要求:1)每天天气用独特的视觉符号或场景表示(晴天/雨天/雪天/多云/雾霾);2)清晰显示日期、温度、湿度、风力等中文信息;3)整体设计风格为[吉卜力动画/扁平插画/3D微缩/未来科技];4)用色彩和氛围传达天气感受;5)布局清晰易读,适合手机壁纸;6)可添加穿衣建议或出行提示。信息设计与艺术结合,竖版构图,适合社交分享。
+```
+
+<a id="prompt-874"></a>
+## 案例 874：真人版的9宫格照片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2000055154415182214)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/874.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-真人版的9宫格照片">
+</div>
+
+**提示词：**
+```
+{
+  "image_prompt": {
+    "critical_instruction": "ABSOLUTE PRIORITY: Maintain identical facial structure across all panels. Do not alter underlying bone structure, nose shape, eye spacing, or jawline regardless of the expression being rendered. The identity must be unmistakable in every single shot.",
+    "format": "3x3 grid collage",
+    "subject": {
+      "face_reference": "uploaded_photo",
+      "face_identity_lock": "CRITICAL: fixed identity, zero deviation from reference facial features",
+      "face_match_accuracy": "100% exact match enforced",
+      "identity_preservation_details": "Ensure consistent interpupillary distance, exact nose bridge shape, and jaw structure in every panel.",
+      "negative_constraints": [
+        "do not morph nose shape",
+        "do not change eye size or spacing",
+        "do not alter cheekbone structure",
+        "no plastic surgery look"
+      ],
+      "style": "hyper-realistic portrait photography, 8k resolution, raw photo aesthetic",
+      "skin": "highly detailed natural skin texture, visible pores, subtle imperfections, realistic complexion, consistent across all lighting conditions",
+      "camera_settings": "shot on Sony A7R IV, 85mm portrait lens, f/1.8 aperture, sharp focus on eyes, shallow depth of field"
+    },
+
+    "panels": [
+      {
+        "expression": "joyful",
+        "pose": "bright natural smile (maintaining jaw structure), shoulders slightly raised",
+        "hairstyle": "high ponytail with loose strands",
+        "outfit": "pastel cotton hoodie",
+        "background": "soft gradient sky blue studio backdrop"
+      },
+      {
+        "expression": "surprised",
+        "pose": "hands near face, wide eyes (without altering eye shape), natural reaction",
+        "hairstyle": "loose natural wavy hair",
+        "outfit": "casual cotton t-shirt",
+        "background": "light peach studio backdrop"
+      },
+      {
+        "expression": "sad",
+        "pose": "head tilted down, emotional soft eyes",
+        "hairstyle": "messy low bun",
+        "outfit": "oversized wool sweater",
+        "background": "muted lavender tone studio backdrop"
+      },
+      {
+        "expression": "tender",
+        "pose": "gentle smile, head slightly tilted",
+        "hairstyle": "elegant half-up hairstyle",
+        "outfit": "soft knit top",
+        "background": "warm beige studio backdrop"
+      },
+      {
+        "expression": "daring",
+        "pose": "confident gaze, chin slightly raised (showing consistent jawline)",
+        "hairstyle": "chic slicked-back hair",
+        "outfit": "stylish leather or denim jacket",
+        "background": "deep teal studio backdrop"
+      },
+      {
+        "expression": "playful",
+        "pose": "cheeks slightly puffed (ensure nose remains unchanged), playful stare",
+        "hairstyle": "short textured bob",
+        "outfit": "striped linen shirt",
+        "background": "soft mint green studio backdrop"
+      },
+      {
+        "expression": "charming",
+        "pose": "wink with finger poking cheek",
+        "hairstyle": "playful double buns",
+        "outfit": "trendy graphic tee",
+        "background": "light pink studio backdrop"
+      },
+      {
+        "expression": "shocked",
+        "pose": "mouth slightly open, eyebrows raised (forehead wrinkles match reference age)",
+        "hairstyle": "tousled loose hair",
+        "outfit": "simple silk blouse",
+        "background": "light yellow studio backdrop"
+      },
+      {
+        "expression": "furious",
+        "pose": "arms crossed, intense glare (eyes narrowed but spacing unchanged)",
+        "hairstyle": "tight high bun",
+        "outfit": "dark fitted turtleneck",
+        "background": "deep red studio backdrop"
+      }
+    ],
+
+    "rendering": {
+      "lighting": "cinematic studio lighting, softbox illumination, remix of warm and cool tones, rim light for separation",
+      "shading": "realistic shadows, subsurface scattering on skin, consistent facial modeling",
+      "quality": "photorealistic, ultra-detailed, award-winning photography, magazine quality",
+      "consistency": "FLAWLESS identity consistency and lighting setup across all 9 panels"
+    },
+
+    "composition": {
+      "grid_alignment": "perfectly aligned 3x3 photo booth strip style",
+      "spacing": "equal white margins between panels",
+      "background_border": "clean white border"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_prompt": {
+“关键指令”： “绝对优先事项：所有画面中保持面部结构完全一致。无论表情如何，都不得改变骨骼结构、鼻子形状、眼距或下颌线。每一帧画面中都必须清晰可辨。”
+"格式": "3x3 网格拼贴画",
+“主题”： {
+"face_reference": "uploaded_photo",
+"face_identity_lock": "严重：身份已固定，与参考面部特征无偏差",
+"face_match_accuracy": "强制执行 100% 精确匹配",
+"identity_preservation_details": "确保每个面板中瞳距一致、鼻梁形状精确、下颌结构准确。"
+"negative_constraints": [
+“不要改变鼻子的形状”，
+“不要改变眼睛的大小或间距，”
+“不要改变颧骨结构”，
+“没有整容痕迹”
+],
+“风格”：“超写实人像摄影，8K分辨率，原始照片美学”，
+“皮肤”：“高度精细的自然皮肤纹理，可见毛孔，细微瑕疵，逼真的肤色，在所有光照条件下保持一致”。
+"camera_settings": "使用索尼 A7R IV 拍摄，85mm 人像镜头，f/1.8 光圈，眼睛锐化对焦，浅景深"
+},
+
+“面板”：[
+{
+“表情”： “喜悦的”，
+“姿势”：“灿烂自然的笑容（保持下颌结构），肩膀微微抬起”，
+“发型”：“高马尾辫，留出几缕碎发”，
+“服装”： “淡色棉质连帽衫”，
+“背景”: “柔和渐变天蓝色影棚背景”
+},
+{
+“表情”：“惊讶”，
+“姿势”：“双手靠近脸部，睁大眼睛（不改变眼形），自然反应”，
+“发型”：“自然蓬松的波浪卷发”，
+“服装”：“休闲棉质T恤”，
+背景：浅桃色影棚背景
+},
+{
+“表情”：“悲伤”，
+“姿势”：“低头，眼神柔和，充满情感”，
+发型：凌乱的低发髻，
+“服装”: “宽松羊毛衫”，
+“背景”：“柔和的薰衣草色调工作室背景”
+},
+{
+“表达方式”：“温柔的”，
+“姿势”：“温柔的微笑，头部微微倾斜”，
+“发型”：“优雅的半扎发型”，
+服装：柔软针织上衣，
+背景：暖米色影棚背景
+},
+{
+“表达方式”：“大胆的”，
+“姿势”：“眼神自信，下巴微微抬起（展现出连贯的下颌线条）”，
+“发型”：“别致的油头”，
+“服装”：“时尚的皮夹克或牛仔夹克”，
+背景：深蓝绿色摄影棚背景
+},
+{
+“表情”：“俏皮的”，
+“姿势”：“双颊微微鼓起（确保鼻子保持不变），眼神俏皮”，
+“发型”：“短款纹理波波头”，
+“服装”：“条纹亚麻衬衫”，
+背景：柔和的薄荷绿色摄影棚背景
+},
+{
+“表情”：“迷人”，
+“姿势”：“眨眼并用手指戳脸颊”，
+发型：俏皮的双丸子头，
+“服装”: “时髦的图案T恤”
+背景：浅粉色摄影棚背景
+},
+{
+“表情”：“震惊”，
+“姿势”：“嘴巴微张，眉毛上扬（额头皱纹与参考年龄相符）”，
+“发型”：“蓬松的披肩发”，
+“服装”：“简单的丝绸衬衫”，
+“背景”: “浅黄色摄影棚背景”
+},
+{
+“表情”：“愤怒的”，
+“姿势”：“双臂交叉，目光锐利（眼睛眯起但间距不变）”
+发型：高高盘发，
+“服装”：“深色修身高领毛衣”，
+“背景”：“深红色摄影棚背景”
+}
+],
+
+渲染：{
+“灯光”：“电影摄影棚灯光、柔光箱照明、冷暖色调混合、轮廓光用于分离”，
+“阴影”：“逼真的阴影、皮肤表面的次表面散射、一致的面部建模”，
+“品质”：“照片级逼真、细节超多、屡获殊荣的摄影作品，杂志品质”，
+“一致性”：“所有 9 个面板的标识一致性和灯光设置完美无瑕”
+},
+
+“作品”： {
+"grid_alignment": "完美对齐的 3x3 照片亭条形样式",
+“间距”：“面板之间留出相等的白色边距”，
+"background_border": "干净的白色边框"
+}
+}
+}
+```
+
+<a id="prompt-873"></a>
+## 案例 873：女生坐在瑞幸咖啡的冷饮杯子上 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2000129925995782171)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/873.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生坐在瑞幸咖啡的冷饮杯子上">
+</div>
+
+**中文提示词：**
+```
+一张写实的中景照片，场景设定在户外的路面上，柔和的自然光。画面必须完整包含所有元素。一位微缩的女性休闲、调皮地坐在一个巨大的瑞幸咖啡（Luckin Coffee）透明冷饮杯的杯盖边缘。
+关键要求：这位女性的面部特征必须完全参照并保持与输入参考图像中的人物面部一致，不做任何改变。
+她穿着粉色修身上衣、白色短裙和配套的柔和色调鞋子，姿态放松。那个巨大的透明杯子里装着看起来很浓稠的粉色系瑞幸特调饮品（例如草莓拿铁或丝绒白桃），杯身上有清晰完整的蓝色瑞幸鹿角标志和品牌字样。
+在杯子旁边，放置着一个与杯中饮品颜色色调完美呼应的超级巨大的光面粉色手提包，配有金色链条肩带，它的体积比那个“微缩”的女人要大得多。在她旁边的地面上，还完整地放着一副同样与饮品颜色色调一致的超大心形粉色太阳镜。镜头距离足够远，以确保巨大的杯子、微小的人、巨大的包和太阳镜都完整地呈现在画面中。宽高比1:1
+```
 
 <a id="prompt-872"></a>
 ## 案例 872：一生要出片的中国女人系列之故宫打卡 (来源 [@hx831126](https://x.com/hx831126/status/2000793779977273724)) 模型：Nano banana pro
