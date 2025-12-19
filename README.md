@@ -33,6 +33,9 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 903：提示词小子讽刺漫画 ](#prompt-903)
+*   [案例 902：圣诞场景的圣诞贺卡 ](#prompt-902)
+*   [案例 901：金发女子自拍照 ](#prompt-901)
 *   [案例 900：都市街头服饰编辑拼贴画 ](#prompt-900)
 *   [案例 899：中国四大节日美甲四宫格 ](#prompt-899)
 *   [案例 898：高角度商业美食摄影照片 ](#prompt-898)
@@ -242,10 +245,227 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-903"></a>
+## 案例 903：提示词小子讽刺漫画 (来源 [@dotey](https://x.com/dotey/status/2001334145386189179)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/903.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-提示词小子讽刺漫画">
+</div>
 
+**中文提示词：**
+```
+以丁聪的风格画一幅讽刺漫画，主题是：
+> 今天社交网络上被追捧的所谓AI高人,不过是 Prompt Kiddie(提示词小子)。
+> 整天转帖一些提示词,其实是在自动充当大模型的燃料。
+```
 
+<a id="prompt-902"></a>
+## 案例 902：圣诞场景的圣诞贺卡 (来源 [@NanoBanana](https://x.com/NanoBanana/status/2001234210409857077)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/902.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞场景的圣诞贺卡">
+</div>
+
+**提示词：**
+```
+a faithfully illustrated Christmas card design featuring the couple in Christmas hats, and the text "Happy Christmas 2025", it is friendly and traditional, with a classical design, in a winter wonderland
+```
+
+**中文提示词：**
+```
+一张忠实描绘圣诞场景的圣诞贺卡设计，卡片上这对夫妇戴着圣诞帽，并写着“2025圣诞快乐”。设计风格温馨传统，采用经典的冬日仙境风格。
+```
+
+<a id="prompt-901"></a>
+## 案例 901：金发女子自拍照 (来源 [@brindleyai](https://x.com/brindleyai/status/2001200342864667035)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/901.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金发女子自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "demographics": "Young female, approx 20-24 years old, Caucasian.",
+    "hair": {
+      "color": "Dirty blonde to light blonde gradient.",
+      "style": "Long, straight with slight wave, layered, casual parting.",
+      "texture": "Soft, natural strands, slightly tousled, roots visible.",
+      "movement": "Falling naturally over shoulders and back."
+    },
+    "face": {
+      "shape": "Oval with soft jawline.",
+      "eyes": "Almond-shaped, light blue/grey irises, distinct sharp black winged eyeliner.",
+      "nose": "Button nose, soft bridge.",
+      "lips": "Full, plump, rosy pink, slightly parted in a pouty expression.",
+      "skin_details": "Prominent, heavy freckles across nose and cheeks. Smooth texture but with realistic skin grain. Natural blush.",
+      "micro_details": "Mole on right upper chest, mole on left shoulder."
+    },
+    "body_proportions": {
+      "build": "Voluminous, curvy, heavy bust.",
+      "chest": "Large bust volume, prominent forward projection, deep cleavage visible.",
+      "waist_to_chest_ratio": "Significantly wider chest width compared to waist implies hourglass figure.",
+      "shoulders": "Soft, rounded, natural slope.",
+      "dominance": "Upper torso volume visually dominates the frame."
+    },
+    "clothing": {
+      "top": "Heather grey ribbed knit tank top/camisole.",
+      "fit": "Tight, form-fitting, stretching over chest volume, low scoop neckline.",
+      "straps": "Thick straps, sitting securely on shoulders."
+    },
+    "accessories": {
+      "jewelry": [
+        "Small gold hoop earrings.",
+        "Gold chain necklace with a small 'G' letter pendant.",
+        "Longer thin gold chain with a distinct kangaroo pendant."
+      ]
+    }
+  },
+  "pose": {
+    "type": "Handheld selfie perspective.",
+    "orientation": "Frontal close-up, slightly angled from above.",
+    "head_position": "Tilted slightly to subject's right.",
+    "limbs": "Right arm extended forward (out of frame) indicating holding the camera.",
+    "gaze": "Direct eye contact with lens, alluring and confident.",
+    "spine_curvature": "Slight arch implied by chest prominence."
+  },
+  "setting": {
+    "environment": "Domestic bathroom.",
+    "background_elements": "Dark brown/grey glossy tiled wall, chrome shower fixture visible on left, top of white ceramic toilet tank visible on right.",
+    "depth": "Shallow depth of field, background elements slightly out of focus."
+  },
+  "camera": {
+    "shot_type": "Close-up, selfie portrait.",
+    "angle": "High angle (slightly above eye level), typical of smartphone selfies.",
+    "focal_length": "24mm to 28mm equivalent (wide angle smartphone lens).",
+    "framing": "Chest-up shot, cropping at mid-torso.",
+    "focus": "Sharp focus on eyes and face, slight fall-off on shoulders.",
+    "perspective": "Slight foreshortening of the extended arm side."
+  },
+  "lighting": {
+    "source": "Soft, diffused overhead ambient bathroom lighting.",
+    "direction": "Front-top lighting.",
+    "highlights": "Soft specular highlights on forehead, tip of nose, chin, and upper chest curves.",
+    "shadows": "Soft shadows under the chin and defining the cleavage depth.",
+    "quality": "Natural, flattering, no harsh contrast."
+  },
+  "mood_and_expression": {
+    "tone": "Casual, sultry, confident.",
+    "expression": "Relaxed pout, 'cool girl' aesthetic.",
+    "atmosphere": "Intimate, candid."
+  },
+  "style_and_realism": {
+    "style": "Photorealistic, social media aesthetic.",
+    "fidelity": "High fidelity skin texture, no airbrushing.",
+    "imperfections": "Visible freckles, stray hairs, natural skin variation preserved."
+  },
+  "colors_and_tone": {
+    "palette": "Neutral tones (grey, beige, skin tones) with pops of blue (eyes) and gold (jewelry).",
+    "skin_tone": "Fair to light tan, warm undertones.",
+    "white_balance": "Slightly warm, indoor tungsten mix.",
+    "saturation": "Natural, slightly vibrant lips and eyes.",
+    "contrast": "Medium contrast."
+  },
+  "technical_details": {
+    "aspect_ratio": "3:4",
+    "resolution": "High resolution, sharp details.",
+    "noise": "Slight digital noise characteristic of phone camera sensors in indoor light."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+“人口统计信息”：“年轻女性，大约20-24岁，白种人。”
+“头发”： {
+颜色：从脏金色到浅金色的渐变色。
+发型：长直发，略带波浪，层次分明，随意分缝。
+“质感”：“柔软自然的发丝，略显蓬松，发根可见。”
+“动作”：“自然地垂落在肩膀和背部。”
+},
+“脸”： {
+“脸型”：“椭圆形，下颌线条柔和。”
+“眼睛”：“杏仁状，浅蓝灰色虹膜，清晰锐利的黑色上扬眼线。”
+“鼻子”：“小巧的鼻子，柔和的鼻梁。”
+“嘴唇”：“饱满、丰润、呈玫瑰粉色，微微张开，带着一丝嘟嘴的表情。”
+“皮肤细节”： “鼻子和脸颊上有明显的、较多的雀斑。质地光滑，但保留了真实的皮肤纹理。自然的红晕。”
+"micro_details": "右胸上方有一颗痣，左肩上有一颗痣。"
+},
+"body_proportions": {
+体型：丰满、曲线优美、胸部丰满。
+“胸部”：“胸部丰满，胸部前凸明显，乳沟深邃可见。”
+腰胸比：胸部宽度明显大于腰部宽度，表明身材呈沙漏形。
+“肩部”：“柔和、圆润、自然的坡度。”
+“主导性”：“上半身的体积在视觉上主导了画面。”
+},
+“衣服”： {
+上衣：浅灰色罗纹针织背心/吊带衫。
+“合身”：紧身、贴合胸部曲线，低圆领。
+“肩带”：“厚实的肩带，牢牢地贴在肩膀上。”
+},
+“配件”： {
+“珠宝”： [
+“小金圈耳环。”
+“金链项链，配有一​​个小小的字母‘G’吊坠。”
+“较长的细金链，配有独特的袋鼠吊坠。”
+]
+}
+},
+"姿势": {
+类型：手持自拍视角。
+“方向”：“正面特写，略微从上方倾斜。”
+“头部位置”： “略微向拍摄对象的右侧倾斜。”
+四肢：右臂向前伸展（超出画面），表示正在握持相机。
+“凝视”：“通过镜头直接与眼睛对视，充满魅力和自信。”
+"spine_curvature": "胸部突出所暗示的轻微弧度。"
+},
+“环境”： {
+“环境”：“家用浴室。”
+"background_elements": "深棕色/灰色光面瓷砖墙，左侧可见镀铬淋浴装置，右侧可见白色陶瓷马桶水箱顶部。"
+“景深”：“浅景深，背景元素略微失焦。”
+},
+“相机”： {
+"shot_type": "特写，自拍肖像。"
+“角度”：“高角度（略高于视线水平），是智能手机自拍的典型角度。”
+"focal_length": "24mm 至 28mm 等效焦距（广角智能手机镜头）",
+“构图”：“胸部以上镜头，裁剪至躯干中部。”
+“焦点”：“眼睛和脸部清晰聚焦，肩膀略微虚化。”
+“透视”：“伸展的手臂一侧略微缩短。”
+},
+“灯光”： {
+光源：柔和、漫射的浴室顶灯。
+“方向”：“前上照明。”
+“高光”：“额头、鼻尖、下巴和上胸曲线处的柔和镜面高光。”
+“阴影”：“下巴下方柔和的阴影勾勒出乳沟的深度。”
+“品质”：“自然、讨喜、无强烈对比。”
+},
+"mood_and_expression": {
+语气：随意、性感、自信。
+“表情”：“放松的嘟嘴，‘酷女孩’风格。”
+“氛围”：“亲密、坦诚。”
+},
+"风格与现实主义": {
+风格：写实风格，社交媒体美学。
+“真实感”： “高保真度的皮肤纹理，无修图。”
+“瑕疵”：“可见的雀斑、杂乱的毛发、自然的肤色差异均得以保留。”
+},
+"colors_and_tone": {
+“调色板”：“以中性色调（灰色、米色、肤色）为主，点缀以蓝色（眼妆）和金色（珠宝）。”
+“肤色”: “白皙至浅棕色，暖色调。”
+“白平衡”: “略微偏暖的室内钨丝灯混合模式。”
+“饱和度”：“自然、略带活力的唇部和眼部。”
+“对比度”: “中等对比度。”
+},
+"technical_details": {
+"aspect_ratio": "3:4",
+分辨率：高分辨率，细节清晰。
+“噪声”: “室内光线下手机摄像头传感器特有的轻微数字噪声。”
+}
+}
+```
 
 <a id="prompt-900"></a>
 ## 案例 900：都市街头服饰编辑拼贴画 (来源 [@xmliisu](https://x.com/xmliisu/status/2001254201611964524)) 模型：Nano banana pro
