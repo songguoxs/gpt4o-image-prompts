@@ -33,6 +33,17 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 919：丁香色长裙女性双版本比例对比 ](#prompt-919)
+*   [案例 918：生成一周的服装搭配 ](#prompt-918)
+*   [案例 917：用手指操纵自己的复制品 ](#prompt-917)
+*   [案例 916：高端影棚肖像照 ](#prompt-916)
+*   [案例 915：照片转换成漫画 ](#prompt-915)
+*   [案例 914：复古风格照相亭 ](#prompt-914)
+*   [案例 913：超逼真的 8K 街头抓拍肖像 ](#prompt-913)
+*   [案例 912：垂直三格拼贴画 ](#prompt-912)
+*   [案例 911：36 个穿着同一套衣服的不同人像 ](#prompt-911)
+*   [案例 910：女生四宫格照片 ](#prompt-910)
+*   [案例 909：精美杂志上的文章照片 ](#prompt-909)
 *   [案例 908：标本盒与现实的穿搭美学双重奏 ](#prompt-908)
 *   [案例 907：剪纸艺术 ](#prompt-907)
 *   [案例 906：和影视剧中人物自拍 ](#prompt-906)
@@ -250,10 +261,810 @@
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
 
+<a id="prompt-919"></a>
+## 案例 919：丁香色长裙女性双版本比例对比 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/2001944607714673042)) 模型：Nano banana pro
 
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/919.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-丁香色长裙女性双版本比例对比">
+</div>
 
+**提示词：**
+```
+{
+  "type": "image_generation_prompt",
+  "style": "ultra-realistic, high-fashion editorial, studio photography",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "alter_face": false,
+    "strict_identity_lock": true,
+    "notes": "Create an extremely realistic image that is ultra-similar to the referenced girl. Preserve her facial identity, proportions, hairstyle, and overall appearance exactly as in the reference."
+  },
+  "subject": {
+    "gender": "female",
+    "appearance": {
+      "hair": {
+        "color": "dark",
+        "style": "elegant updo (bun)"
+      },
+      "jewelry": [
+        "delicate dangling earrings"
+      ],
+      "expression": "calm, confident, composed"
+    }
+  },
+  "wardrobe": {
+    "dress": {
+      "type": "full-length elegant dress",
+      "color": "bright lilac",
+      "style": "fitted bodice with a refined silhouette, modest and fully covered",
+      "fabric": "smooth, high-quality fabric with a soft sheen"
+    },
+    "legwear": {
+      "type": "white lace-patterned tights or stockings",
+      "details": "floral or lace motif, refined and elegant"
+    },
+    "footwear": {
+      "type": "platform heels",
+      "color": "bright lilac",
+      "details": "thick high heel with ankle strap, bold and fashionable"
+    }
+  },
+  "composition": {
+    "concept": "scale contrast with two versions of the same woman",
+    "aspect_ratio": "9:16",
+    "foreground": {
+      "figure": "large version of the woman",
+      "pose": "leaning forward and downward, gently curving her back to look at the miniature version",
+      "emphasis": "long neck, arms, legs, and shoes dominating the frame for dramatic scale"
+    },
+    "background": {
+      "figure": "miniature version of the same woman",
+      "pose": "standing upright, appearing to salute, greet, or wave toward the larger figure",
+      "outfit": "identical full-length lilac dress, white lace tights, and lilac platform heels"
+    }
+  },
+  "environment": {
+    "setting": "studio",
+    "background": {
+      "color": "clean white or very light gray",
+      "style": "minimalist, distraction-free"
+    }
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "bright lilac",
+      "white"
+    ],
+    "overall_tone": "clean, elegant, high-contrast fashion palette"
+  },
+  "lighting": {
+    "type": "soft studio lighting",
+    "effects": [
+      "even illumination",
+      "clear separation between figures",
+      "enhanced fabric and skin realism"
+    ]
+  },
+  "quality": {
+    "realism": "ultra-realistic",
+    "detail_level": "high detail in skin, fabric textures, lace patterns, and footwear",
+    "rendering": "photorealistic, editorial-grade finish"
+  },
+  "mood": {
+    "atmosphere": "stylish, artistic, playful with scale",
+    "tone": "elegant, modern, fashion-forward"
+  },
+  "output_goal": "Create a maximally realistic and ultra-faithful fashion image of a woman in a full-length lilac dress, featuring a creative scale-play composition with two versions of the same subject, set against a clean studio background in a 9:16 format."
+}
+```
 
+**中文提示词：**
+```
+{
+"type": "image_generation_prompt",
+“风格”：“超写实、高级时尚杂志大片、影棚摄影”，
+"identity_preservation": {
+"use_reference_image": true,
+"alter_face": false,
+"strict_identity_lock": true,
+“备注”：“创作一幅与参考女孩极其相似的逼真图像。务必保留她的面部特征、身材比例、发型和整体外貌，与参考图完全一致。”
+},
+“主题”： {
+"性别": "女性",
+“外貌”： {
+“头发”： {
+“颜色”：“深色”，
+"发型": "优雅盘发（发髻）"
+},
+“珠宝”： [
+“精致的垂坠耳环”
+],
+表情：平静、自信、沉着
+}
+},
+“衣柜”： {
+“裙子”： {
+类型：优雅长裙
+“颜色”： “亮丁香色”，
+“款式”：“修身胸衣，线条优美，端庄得体，完全遮盖身体”。
+“面料”：光滑、高品质的面料，带有柔和的光泽
+},
+"腿部服装": {
+“类型”：“白色蕾丝图案的紧身裤或长筒袜”，
+细节：花卉或蕾丝图案，精致优雅
+},
+鞋类：{
+类型：厚底高跟鞋，
+“颜色”： “亮丁香色”，
+“细节”：“粗跟高跟鞋，踝带设计，大胆时尚”
+}
+},
+“作品”： {
+“概念”：“同一女性的两个不同版本之间的比例对比”，
+"aspect_ratio": "9:16",
+前景：{
+“人物”：“女性的放大版”，
+“姿势”：“身体前倾向下，轻轻弯曲背部，看着微缩模型”，
+“强调”：“修长的脖子、手臂、腿和鞋子占据画面，营造出戏剧性的比例感”。
+},
+“背景”： {
+“人物”：“同一女性的微缩版本”，
+“姿势”：“直立站立，看起来像是在向较大的人物敬礼、问候或挥手”，
+“服装”： “同款淡紫色长连衣裙、白色蕾丝紧身裤和淡紫色厚底高跟鞋”
+}
+},
+“环境”： {
+“设置”: “工作室”
+“背景”： {
+“颜色”: “纯白色或非常浅的灰色”，
+风格：极简主义，无干扰
+}
+},
+"color_palette": {
+"主色": [
+“亮紫色”，
+“白色的”
+],
+"overall_tone": "干净、优雅、高对比度的时尚色调"
+},
+“灯光”： {
+“类型”：“柔和的影棚灯光”，
+“效果”：[
+“均匀照明”，
+“数字之间有明显的分隔”，
+“增强织物和皮肤的真实感”
+]
+},
+“质量”： {
+“写实主义”：“超写实主义”，
+"detail_level": "皮肤、织物纹理、蕾丝图案和鞋履的细节都非常丰富",
+“渲染”：“照片级真实感，编辑级效果”
+},
+“情绪”： {
+“氛围”：“时尚、艺术、巧妙运用比例”，
+“基调”：“优雅、现代、时尚前卫”
+},
+"output_goal": "创作一幅极其逼真、高度还原的女性时尚照片，照片中女性身穿淡紫色长裙，采用创意性的比例构图，使用同一主题的两个版本，背景为干净的摄影棚，格式为 9:16。"
+}
+```
 
+<a id="prompt-918"></a>
+## 案例 918：生成一周的服装搭配 (来源 [@schnapoon](https://x.com/schnapoon/status/2001847957390549090)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/918.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成一周的服装搭配">
+</div>
+
+**中文提示词：**
+```
+环境：
+【角色特征]:高中女生，留着黑色长发
+【时尚主题]:现代高中女生日常穿着，整洁干净】
+
+转换规则：
+- 一张时尚造型图，展示了[Character Features]中的七个相同的角色并排站成一排。
+- 仅穿着 7 套基于【时尚主题】的全新休闲服装。
+- 参考图像的风格得到了完美保留。
+- 他们不穿[参考图片中的服装]，而是根据[时尚主题]穿七套不同的服装。
+全身照。
+- 背景为纯白色或略带象牙色。
+脚下有自然的阴影。这幅图的布局看起来像是从杂志上剪下来的。
+- 每个图形下方从左到右分别写着“星期一”、“星期二”、“星期三”、“星期四”、“星期五”、“星期六”和“星期日”。
+- 顶部醒目的标题文字。
+
+艺术风格：
+- 高分辨率
+- 摄影棚灯光
+- 4k
+——ar 16:9
+```
+
+<a id="prompt-917"></a>
+## 案例 917：用手指操纵自己的复制品 (来源 [@FitzGPT](https://x.com/FitzGPT/status/2001695202600456576)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/917.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用手指操纵自己的复制品">
+</div>
+
+**提示词：**
+```
+ekteki kişi, bir tiyatro kulisinde kendisinin kopya kuklasını (marionette) parmaklarıyla hareket ettiriyor.
+```
+
+**中文提示词：**
+```
+附图中的人正在剧院的化妆间里用手指操纵自己的复制品（木偶）。
+```
+
+<a id="prompt-916"></a>
+## 案例 916：高端影棚肖像照 (来源 [@AIwithkhan](https://x.com/AIwithkhan/status/2001685648768680052)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/916.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端影棚肖像照">
+</div>
+
+**提示词：**
+```
+A high-end studio portrait using the uploaded photo as the main subject. The person stands confidently against a clean, minimal background in soft neutral tones, holding a large vertical poster in front of them. The poster features an artistic reinterpretation of the same uploaded photo — stylized as a digital illustration, sketch, or painterly artwork — clearly recognizable as the same face. Professional studio lighting with a soft key light and subtle rim light creates gentle shadows and depth. The subject’s expression is calm and confident, body posture relaxed yet strong, evoking a modern personal brand identity. Clean composition, balanced framing, premium editorial aesthetic, shallow depth of field, ultra-realistic skin texture, crisp details, contemporary creator branding vibe, cinematic realism, 1:1 aspect ratio, high resolution.
+```
+
+**中文提示词：**
+```
+这是一张以上传照片为主体的高端影棚肖像照。照片中的人物自信地站在简洁的中性色调背景前，手持一张大幅竖版海报。海报上是对同一张照片的艺术化重新诠释——风格化为数字插画、素描或绘画作品——清晰地展现了同一张面孔。专业的影棚灯光，柔和的主光和微妙的轮廓光营造出柔和的阴影和层次感。人物表情沉稳自信，身姿放松而有力，展现出现代个人品牌形象。构图简洁，取景均衡，呈现高端时尚美感，浅景深，肌肤纹理逼真，细节清晰，散发出当代创作者的品牌气息，兼具电影般的真实感，1:1宽高比，高分辨率。
+```
+
+<a id="prompt-915"></a>
+## 案例 915：照片转换成漫画 (来源 [@ecommartinez](https://x.com/ecommartinez/status/2001689993778249952)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/915.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-照片转换成漫画">
+</div>
+
+**提示词：**
+```
+Crea una ilustración de cómic moderno usando mi imagen de referencia como personaje principal.
+Estilo inspirado en los cómics de superhéroes contemporáneos y novelas gráficas cinematográficas.
+El personaje mantiene los rasgos faciales exactos y su identidad de la foto de referencia, transformados en un estilo cómic estilizado con líneas limpias pero expresivas.
+Añade contornos negros marcados, sombreado dinámico con tinta y colores de alto contraste.
+Aplica efectos FX como energía brillante, chispas, estelas de movimiento, haces de luz y partículas sutiles para aumentar la acción y la intensidad.
+Usa una pose de acción dinámica o una postura poderosa, con perspectiva exagerada y ángulos dramáticos.
+El fondo debe ser gráfico y cinematográfico: formas urbanas abstractas, líneas de velocidad o explosiones de energía, sin distraer del personaje.
+La iluminación es dramática, con luces y sombras fuertes para dar profundidad e impacto.
+Estilo final: portada de cómic moderno de alta calidad, detalles nítidos, colores vibrantes, composición enérgica, ilustración profesional, impacto visual fuerte.
+No cambies el rostro, solo estilízalo.
+```
+
+**中文提示词：**
+```
+请以我的参考图为主角，创作一幅现代漫画插画。
+风格灵感源自当代超级英雄漫画和电影图像小说。
+该角色保留了参考照片中的精确面部特征和身份，并被转化为线条简洁但富有表现力的风格化漫画风格。
+它增加了清晰的黑色轮廓、动态的墨迹阴影和高对比度的颜色。
+应用诸如明亮能量、火花、运动轨迹、光束和细微粒子等特效，以增强动作和强度。
+采用动态动作姿势或有力的站姿，并运用夸张的透视和戏剧性的角度。
+背景应具有图形感和电影感：抽象的城市形状、速度线条或能量爆发，但不要分散对角色的注意力。
+灯光效果极佳，强烈的明暗对比营造出深度和冲击力。
+最终风格：高质量的现代漫画封面，细节清晰，色彩鲜艳，构图充满活力，插图专业，视觉冲击力强。
+不要改变你的容貌，只需进行一些风格上的修饰。
+```
+
+<a id="prompt-914"></a>
+## 案例 914：复古风格照相亭 (来源 [@miilesus](https://x.com/miilesus/status/2001734583830626635)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/914.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-复古风格照相亭">
+</div>
+
+**提示词：**
+```
+Create a realistic vintage-style photo booth / Polaroid photo collage featuring the same couple, using the two uploaded images as exact face references for both individuals (preserve both identities accurately).
+The couple appears natural, affectionate, and playful, captured in multiple candid moments as if taken inside a photo booth. The woman and the man maintain their original facial features, skin tones, and expressions.
+Woman: elegant, feminine, glowing skin, natural makeup, soft blush, glossy lips, long dark hair styled loosely with gentle volume. Wearing a minimal strapless cream or light beige dress.
+Man: clean and handsome appearance, short dark hair, light stubble or clean-shaven, wearing a black leather jacket over a white shirt
+Scenes & poses included in the collage:
+The woman smiling brightly while the man stands behind her playfully covering her eyes.
+The couple standing close, facing each other lovingly, her hand resting on his chest.
+A close face-to-face moment with soft smiles and eye contact.
+The woman standing behind the man, making a peace sign while smiling at the camera.
+A playful dancing pose where the man lifts one of the woman’s hands as if spinning her.
+A relaxed, candid moment where both laugh naturally at the camera.
+Environment: neutral photo booth backdrop with soft vertical curtains, warm indoor lighting, subtle shadows, cozy and intimate atmosphere.
+Photography style: vintage Polaroid / analog photo booth aesthetic, slightly soft focus, gentle grain, mild blur, natural imperfections, warm tones, realistic skin texture.
+Lighting: soft frontal flash combined with ambient light, creating a casual, real-life snapshot feeling.
+Mood & vibe: romantic, playful, spontaneous, intimate, youthful, nostalgic.
+Composition: multi-frame vertical collage, evenly spaced images, authentic photo booth layout.
+Quality: high realism, not AI-looking, natural proportions, no distortion.
+```
+
+**中文提示词：**
+```
+使用上传的两张照片作为两人的面部参考，制作一张逼真的复古风格照相亭/宝丽来照片拼贴画，照片中的人物为同一对情侣（准确保留两人的身份）。
+这对情侣看起来自然、亲密又充满活力，多张抓拍照片仿佛是在照相亭里拍摄的。男女双方都保留了原本的面部特征、肤色和表情。
+女士：优雅妩媚，肌肤散发光泽，妆容自然，腮红轻柔，双唇水润，一头乌黑长发随意披散，略带蓬松感。身着简约的米色或浅米色抹胸连衣裙。
+男士：外表干净英俊，短黑发，留着淡淡的胡茬或刮得干干净净，身穿黑色皮夹克，内搭白色衬衫。
+拼贴画中包含的场景和姿势：
+女人笑容灿烂，男人站在她身后，顽皮地捂住了她的眼睛。
+这对情侣站得很近，彼此深情地对视着，她的手放在他的胸口。
+面对面的亲密时刻，带着柔和的微笑和眼神交流。
+站在男子身后的女子对着镜头微笑，并比出和平手势。
+一个俏皮的舞蹈姿势，男子抬起女子的一只手，仿佛要将她旋转起来。
+轻松自然的瞬间，两人对着镜头自然地笑了起来。
+环境：中性风格的拍照背景，搭配柔和的垂直窗帘、温暖的室内灯光、微妙的光影，营造出温馨私密的氛围。
+摄影风格：复古宝丽来/模拟照相亭美学，略微柔焦，轻微颗粒感，轻微模糊，自然瑕疵，暖色调，逼真的皮肤纹理。
+光线：柔和的正面闪光灯与环境光相结合，营造出一种随意、真实的快照感觉。
+氛围：浪漫、俏皮、随性、亲密、青春、怀旧。
+构图：多帧竖幅拼贴，图像间距均匀，真实的照相亭布局。
+质量：高度逼真，不像人工智能生成的，比例自然，无变形。
+```
+
+<a id="prompt-913"></a>
+## 案例 913：超逼真的 8K 街头抓拍肖像 (来源 [@Taaruk_](https://x.com/Taaruk_/status/2001656897699733967)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/913.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的 8K 街头抓拍肖像">
+</div>
+
+**提示词：**
+```
+{
+  "Objective": "Create an ultra-realistic 8K candid street portrait capturing quiet emotion and authenticity within a crowded urban environment.",
+
+  "Subject": {
+    "Gender": "Female",
+    "Appearance": {
+      "Hair": "Short blonde hair with soft, natural texture",
+      "Makeup": "Minimal, natural look",
+      "Skin": {
+        "Texture": "Realistic skin texture with subtle freckles",
+        "Highlights": "Soft natural highlights with gentle tonal transitions"
+      },
+      "Expression": "Calm, thoughtful, introspective",
+      "Gaze": "Looking slightly to the side, not directly at the camera"
+    },
+    "Wardrobe": {
+      "Top": "Simple grey knitted sweater with visible fabric weave",
+      "Bottom": "Casual jeans",
+      "Accessories": "Thin shoulder-bag strap visible across the shoulder"
+    }
+  },
+
+  "Scene_Description": {
+    "Setting": "Busy city street",
+    "Crowd": {
+      "Density": "Surrounded by a dense flow of pedestrians",
+      "Background_Treatment": "Softly blurred figures creating depth and motion"
+    },
+    "Environment": "Urban street atmosphere with natural movement"
+  },
+
+  "Lighting_and_Color": {
+    "Lighting": {
+      "Type": "Natural daylight",
+      "Quality": "Soft and even, without harsh shadows"
+    },
+    "Color_Grading": {
+      "Style": "Warm cinematic tones",
+      "Characteristics": [
+        "Natural skin tones",
+        "Muted urban background colors",
+        "Subtle film-inspired contrast"
+      ]
+    }
+  },
+
+  "Camera_and_Composition": {
+    "Shot_Type": "Candid street portrait",
+    "Depth_of_Field": "Shallow depth of field isolating the subject",
+    "Focus": "Sharp focus on the subject with background crowd softly blurred",
+    "Angle": "Eye-level, unobtrusive framing"
+  },
+
+  "Visual_Style": {
+    "Resolution": "Ultra-realistic 8K",
+    "Aesthetic": "Documentary street photography",
+    "Detail_Characteristics": [
+      "Sharp facial detail",
+      "Natural fabric texture",
+      "Soft motion blur in background",
+      "Subtle film grain for realism"
+    ]
+  },
+
+  "Mood_and_Storytelling": {
+    "Themes": [
+      "Stillness within chaos",
+      "Quiet reflection",
+      "Human presence in urban life"
+    ],
+    "Atmosphere": "Emotional, authentic, understated realism"
+  },
+
+  "Output_Requirements": {
+    "Format": "Image",
+    "Orientation": "Portrait or cinematic street frame",
+    "Quality": "Professional documentary-grade realism"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“目标”：“在拥挤的都市环境中，捕捉安静的情感和真实感，创作一张超逼真的 8K 街头抓拍肖像。”
+
+“主题”： {
+性别：女，
+“外貌”： {
+“头发”：“柔软自然的短金发”，
+“妆容”：“简约自然妆容”
+“皮肤”： {
+“纹理”：“逼真的皮肤纹理，带有细小的雀斑”，
+“高光”： “柔和自然的高光，色调过渡平缓”
+},
+“表情”：“冷静、深思熟虑、内省”
+“目光”：“略微看向一侧，而不是直视镜头”
+},
+“衣柜”： {
+“上衣”：“简约灰色针织毛衣，织物纹理清晰可见”，
+下装：休闲牛仔裤
+“配饰”：“肩上露出细细的肩包肩带”
+}
+},
+
+"场景描述": {
+“场景”：“繁忙的城市街道”，
+人群：{
+“密度”：“周围人流密集”，
+“背景处理”：“柔和模糊的人物形象，营造出深度和动感”
+},
+“环境”：“具有自然动感的都市街道氛围”
+},
+
+"照明和颜色": {
+“灯光”： {
+“类型”：“自然日光”，
+“品质”：“柔和均匀，无生硬阴影”
+},
+"Color_Grading": {
+风格：温暖的电影色调
+“特征”： [
+“自然肤色”
+“柔和的城市背景色彩”，
+“微妙的胶片风格对比”
+]
+}
+},
+
+“相机与构图”：{
+"Shot_Type": "街头抓拍肖像",
+“景深”： “浅景深突出主体”，
+“焦点”：“主体清晰对焦，背景人群柔和虚化”，
+“角度”：“视线水平，不显眼的构图”
+},
+
+"视觉样式": {
+“分辨率”：“超逼真 8K”，
+“美学”：“纪实街头摄影”，
+"Detail_Characteristics": [
+“面部细节清晰”，
+“天然面料质感”
+“背景呈现柔和的动态模糊效果”
+“细腻的胶片颗粒感，营造真实感”
+]
+},
+
+"情绪与故事讲述": {
+“主题”：[
+“混乱中的平静”
+“静静地思考”，
+“人类在城市生活中的存在”
+],
+“氛围”：“情感丰富、真实、含蓄的现实主义”
+},
+
+"输出要求": {
+"格式": "图像",
+“方向”：“竖幅或电影街景构图”，
+“质量”：“专业纪录片级别的真实感”
+}
+}
+```
+
+<a id="prompt-912"></a>
+## 案例 912：垂直三格拼贴画 (来源 [@lexx_aura](https://x.com/lexx_aura/status/2001886993836343775)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/912.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-垂直三格拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "image_structure": {
+    "layout": "Vertical three-panel collage",
+    "aspect_ratio": "Tall vertical strip",
+    "shot_type": "Close-up selfies"
+  },
+  "subject_details": {
+    "demographics": "Young woman with long, wavy brunette hair",
+    "skin": "Natural skin texture, minimal or no makeup",
+    "clothing": "Pink lace-trimmed bralette or camisole top with thin spaghetti straps",
+    "accessories": "Long manicured nails (nude/pale pink color)"
+  },
+  "environment": {
+    "setting": "Dimly lit bedroom or hotel room interior",
+    "background_elements": [
+      "Beige/cream colored walls",
+      "Heavy brown curtains on the left side",
+      "Partial view of a bed headboard in the background"
+    ]
+  },
+  "lighting_and_style": {
+    "lighting": "Warm, indoor artificial lighting, low-light conditions",
+    "aesthetic": "Candid selfie style, slightly grainy phone camera quality, early 2010s social media aesthetic, flash photography look",
+    "mood": "Casual, intimate, playful"
+  },
+  "panel_breakdown": {
+    "top_panel": {
+      "expression": "Pouting or confused, eyebrows slightly furrowed",
+      "pose": "Finger hooked over bottom lip, looking directly at camera"
+    },
+    "middle_panel": {
+      "expression": "Soft smile, looking directly at camera",
+      "overlay_effect": "Digital pink heart crown filter (Snapchat style) floating around the head"
+    },
+    "bottom_panel": {
+      "expression": "Relaxed, mouth slightly open, gazing at camera",
+      "pose": "Head tilted to the side, hand gently touching chin and lower lip"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_structure": {
+“布局”：“垂直三格拼贴画”，
+"aspect_ratio": "高竖条",
+"shot_type": "特写自拍"
+},
+"subject_details": {
+“人口统计信息”：“年轻女性，留着长长的棕色波浪卷发”，
+“肌肤”: “自然肌肤纹理，几乎不化妆”
+“服装”：“粉色蕾丝边吊带文胸或吊带背心”，
+“配饰”： “修剪整齐的长指甲（裸色/浅粉色）”
+},
+“环境”： {
+“场景”：“光线昏暗的卧室或酒店房间内部”，
+“背景元素”：[
+“米色/奶油色墙壁”，
+“左侧是厚重的棕色窗帘，”
+“背景中可以看到床头板的一部分”
+]
+},
+"lighting_and_style": {
+“照明”：“温暖的室内人工照明，光线较暗的环境”，
+“美学”：“随意的自拍风格，略带颗粒感的手机相机画质，2010 年代初期的社交媒体美学，闪光灯摄影效果”，
+“氛围”： “轻松、亲密、俏皮”
+},
+"panel_breakdown": {
+"top_panel": {
+“表情”：“撅嘴或困惑，眉毛微微皱起”，
+姿势：“手指勾住下唇，直视镜头”
+},
+"middle_panel": {
+“表情”：“柔和的微笑，直视镜头”
+"overlay_effect": "粉色爱心皇冠滤镜（Snapchat风格）漂浮在头部周围"
+},
+"bottom_panel": {
+“表情”：“放松，嘴巴微张，凝视着镜头”
+“姿势”：“头部侧倾，手轻轻触碰下巴和下唇”
+}
+}
+}
+```
+
+<a id="prompt-911"></a>
+## 案例 911：36 个穿着同一套衣服的不同人像 (来源 [@gokayfem](https://x.com/gokayfem/status/2001680146252669084)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/911.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-36 个穿着同一套衣服的不同人像">
+</div>
+
+**提示词：**
+```
+6x6 grid layout. Editorial fashion photography. Use the reference clothing item on all 36 models. Every single cell must feature a completely unique individual—no two people should look remotely similar.
+Maximize human diversity across:
+Age: Teenagers, 20s, 30s, 40s, 50s, 60s, 70s, 80s+, elderly with wrinkles and grey hair
+Body types: Extremely thin, slim, athletic, muscular, stocky, chubby, fat, plus-size, obese, petite, tall, short, broad-shouldered, narrow-framed, pear-shaped, apple-shaped, hourglass, rectangular, long-limbed, short-limbed.
+Ethnicity & skin tones: East Asian, Southeast Asian, South Asian, Middle Eastern, North African, Sub-Saharan African, West African, East African, Indigenous Australian, Pacific Islander, Native American, Indigenous South American, Scandinavian, Mediterranean, Eastern European, Western European, Caribbean, mixed race, albino. Full spectrum of skin tones from the palest to the deepest.
+Hair: Bald, shaved, buzz cut, afro, locs, braids, straight, wavy, curly, coily, long, short, grey, white, natural colors, receding hairline, thinning hair, thick full hair, hijab, head wraps, turbans.
+Features: Freckles, vitiligo, acne, scars, birthmarks, moles, gap teeth, crooked teeth, big nose, small nose, wide nose, narrow nose, round face, angular face, soft jawline, strong jawline, monolid eyes, deep-set eyes, hooded eyes, big lips, thin lips, visible disabilities, prosthetics, wheelchair users, amputees.
+Each cell: different pose, different camera angle. Poses should feel editorial and unexpected—leaning, crouching, mid-stride, arched, sprawled, seated, jumping, twisting, lounging. Camera angles vary—low angle, overhead, Dutch tilt, wide shot, tight crop, ground-level, profile, three-quarter view.
+Moody, high contrast, cinematic lighting. Varied environments—studio, architectural, urban, natural. Sharp detail, clothing as focal point. Final result should feel like the most inclusive, human-rich fashion editorial ever created—a true celebration of every single type of human body that exists.
+```
+
+**中文提示词：**
+```
+6x6网格布局。时尚摄影。所有36位模特均需穿着同一件参考服装。每个单元格中的模特必须完全不同——任何两个人都不能有任何相似之处。
+最大限度地提高人类多样性：
+年龄：青少年、20多岁、30多岁、40多岁、50多岁、60多岁、70多岁、80岁以上、有皱纹和白发的老年人
+体型：极瘦、苗条、健壮、肌肉发达、敦实、丰满、肥胖、大码、肥胖、娇小、高挑、矮小、肩宽、骨架窄、梨形、苹果形、沙漏形、矩形、四肢长、四肢短。
+种族与肤色：东亚人、东南亚人、南亚人、中东人、北非人、撒哈拉以南非洲人、西非人、东非人、澳大利亚原住民、太平洋岛民、美洲原住民、南美原住民、斯堪的纳维亚人、地中海人、东欧人、西欧人、加勒比人、混血儿、白化病患者。涵盖从最浅到最深的各种肤色。
+头发：光头、剃光头、寸头、爆炸头、脏辫、辫子、直发、波浪卷发、卷发、螺旋卷发、长发、短发、灰发、白发、自然发色、发际线后移、头发稀疏、浓密头发、头巾、头巾、头巾。
+特征：雀斑、白癜风、痤疮、疤痕、胎记、痣、牙缝、牙齿歪斜、大鼻子、小鼻子、宽鼻子、窄鼻子、圆脸、棱角分明的脸、柔和的下颌线、硬朗的下颌线、单眼皮、深陷眼窝、眼睑下垂、厚嘴唇、薄嘴唇、明显的残疾、假肢、轮椅使用者、截肢者。
+每个单元格：不同的姿势，不同的拍摄角度。姿势应具有编辑感和出人意料的特质——倾斜、蹲伏、迈步、拱背、伸展、坐姿、跳跃、扭转、慵懒。拍摄角度也多种多样——低角度、俯视、倾斜镜头、广角镜头、特写镜头、地面视角、侧面视角、四分之三侧面视角。
+营造氛围感，运用高对比度的电影级灯光。场景多样——包括摄影棚、建筑、都市和自然环境。注重细节刻画，以服装为视觉焦点。最终呈现的作品应展现出前所未有的包容性和人文关怀，真正赞美每一种人体形态。
+```
+
+<a id="prompt-910"></a>
+## 案例 910：女生四宫格照片 (来源 [@lexx_aura](https://x.com/lexx_aura/status/2001653710745739419)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/910.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女生四宫格照片">
+</div>
+
+**提示词：**
+```
+{
+  "image_layout": "2x2 grid collage featuring four distinct photographs of the same female subject.",
+  "subject_general": {
+    "gender": "Female",
+    "hair_color": "Dark brown/black",
+    "hair_style": "Long, styled in loose waves in three panels; sleek high ponytail in one panel",
+    "aesthetic": "Glamorous, influencer, trendy, luxury lifestyle"
+  },
+  "panels": [
+    {
+      "position": "top_left",
+      "setting": "Outdoors at night, dark background with illuminated green foliage",
+      "action": "Subject is holding a cake with one hand and licking frosting off the index finger of the other hand",
+      "outfit": {
+        "top": "Black halter-neck sleeveless top",
+        "jewelry": "Gold wristwatch, gold bangle bracelet, ring, small hoop earrings"
+      },
+      "props": {
+        "item": "Round white frosted cake",
+        "details": [
+          "Red cherries on top",
+          "Decorative white piping along edges",
+          "Black icing text reading 'bad bitch energy'"
+        ]
+      }
+    },
+    {
+      "position": "top_right",
+      "setting": "Daytime city street, likely an upscale shopping district (e.g., Rodeo Drive) with palm trees and storefronts visible",
+      "action": "Subject is leaning out of the open door of a black luxury car, looking at the camera",
+      "outfit": {
+        "top": "White sleeveless ribbed crop top",
+        "bottom": "Blue denim jeans",
+        "accessories": "Shoulder bag (strap visible), gold hoop earrings"
+      },
+      "lighting": "Bright natural sunlight casting shadows"
+    },
+    {
+      "position": "bottom_left",
+      "setting": "Indoor hallway, beige walls, wooden floor",
+      "action": "Full-body mirror selfie",
+      "outfit": {
+        "style": "Matching two-piece set",
+        "color": "Dark brown/chocolate",
+        "top": "Velvet/suede corset-style bustier top",
+        "bottom": "Mini skirt",
+        "accessories": "Patterned designer handbag (resembling Dior Saddle bag), stack of gold bracelets"
+      },
+      "background_details": [
+        "Large rectangular mirror with gold frame leaning against wall",
+        "Vase with pampas grass in the corner",
+        "Doorway visible in reflection"
+      ]
+    },
+    {
+      "position": "bottom_right",
+      "setting": "Inside a vehicle or outdoors, golden hour sunlight",
+      "action": "Close-up selfie, hand raised near mouth/chin",
+      "outfit": {
+        "top": "Light pink/mauve ribbed tank top",
+        "outerwear": "Beige fuzzy/sherpa jacket worn off-the-shoulder",
+        "jewelry": "Layered gold necklaces with pendants, hoop earrings"
+      },
+      "hair_styling": "Sleeked back high ponytail",
+      "background_details": "Car window frame, palm trees and blue sky visible in background"
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"image_layout": "2x2 网格拼贴，包含同一女性对象的四张不同照片。"
+"subject_general": {
+"性别": "女",
+"hair_color": "深棕色/黑色",
+"发型": "长发，分成三片，烫成蓬松的波浪卷；一片，扎成光滑的高马尾辫",
+“美学”： “魅力四射、网红、潮流、奢华生活方式”
+},
+“面板”：[
+{
+"位置": "左上",
+“场景”：“夜晚的户外，深色背景，绿色树叶在灯光下闪烁”，
+“动作”：“受试者一手拿着蛋糕，另一只手的食指正在舔掉上面的糖霜”，
+“全套服装”： {
+“上衣”： “黑色露背无袖上衣”，
+“珠宝”：金手表、金手镯、戒指、小耳环
+},
+"props": {
+“商品”: “圆形白色糖霜蛋糕”
+“细节”： [
+“上面放些红樱桃”，
+“边缘饰有白色滚边”，
+“黑色糖霜上写着‘坏女孩能量’”
+]
+}
+},
+{
+"位置": "右上角",
+“场景”：“白天的城市街道，可能是一个高档购物区（例如罗迪欧大道），可以看到棕榈树和商店橱窗”，
+“动作”：“拍摄对象从一辆黑色豪华轿车的敞开车门探出身子，看着镜头”。
+“全套服装”： {
+“上衣”：“白色无袖罗纹露脐上衣”，
+“底部”：“蓝色牛仔裤”，
+配饰：单肩包（肩带可见）、金色圆环耳环
+},
+“光线”：“明亮的自然阳光投射出阴影”
+},
+{
+"位置": "左下角",
+“场景”：“室内走廊，米色墙壁，木地板”，
+“动作”：“全身镜前自拍”，
+“全套服装”： {
+“款式”：“配套两件套”
+颜色：深棕色/巧克力色，
+“上衣”：天鹅绒/麂皮紧身胸衣式上衣，
+“下装”: “迷你裙”，
+“配饰”：“图案名牌手提包（类似迪奥马鞍包），一叠金手镯”
+},
+"background_details": [
+“一面金色边框的大长方形镜子斜靠在墙上”
+“花瓶角落里放着蒲苇草”
+“倒影中可见门口”
+]
+},
+{
+"位置": "右下角",
+“场景”：“车内或室外，日落时的金色阳光”，
+“动作”：“近距离自拍，手举到嘴/下巴附近”，
+“全套服装”： {
+上衣：浅粉色/淡紫色罗纹背心，
+“外套”：“米色毛绒/羊羔绒夹克，露肩穿着”，
+“珠宝”：“多层金项链配吊坠，圈形耳环”
+},
+"发型"："光滑的高马尾辫",
+"background_details": "背景中可以看到车窗框、棕榈树和蓝天"
+}
+]
+}
+```
+
+<a id="prompt-909"></a>
+## 案例 909：精美杂志上的文章照片 (来源 [@NanoBanana](https://x.com/NanoBanana/status/2001678061662531590)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/909.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-精美杂志上的文章照片">
+</div>
+
+**提示词：**
+```
+Use search to find how the Gemini 3 Flash launch has been received. Use this information to write a short article about it (with headings). Return a photo of the article as it appeared in a glossy magazine. Show the magazine cover (Pro Bananas), and the two page spread of the article about Gemini 3 Flash.
+```
+
+**中文提示词：**
+```
+使用搜索功能查找“Gemini 3 Flash”发布的反响。利用这些信息撰写一篇关于此次发射的短文（需包含标题）。提交一篇刊登在精美杂志上的文章照片。请展示杂志封面（Pro Bananas）以及关于“Gemini 3 Flash”的两页文章。
+```
 
 <a id="prompt-908"></a>
 ## 案例 908：标本盒与现实的穿搭美学双重奏 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/2001831802269499412)) 模型：Nano banana pro
