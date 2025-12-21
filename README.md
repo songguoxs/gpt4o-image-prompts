@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
-# Nano Banana(nanobanana)/GPT-5/GPT-4o/豆包 Image Prompts
+# Nano Banana Pro/GPT-5/Grok/豆包 Image Prompts
 
-🎉 欢迎来到 Nano Banana(nanobanana)/GPT-5/GPT‑4o/豆包 图片提示词（Prompts）精选！
+🎉 欢迎来到 Nano Banana Pro/GPT-5/Grok/豆包 图片提示词（Prompts）精选！
 
 🎉 提示词持续更新中。。。
 
@@ -33,6 +33,37 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 950：圣诞特辑-我的圣诞与自己合拍 ](#prompt-950)
+*   [案例 949：圣诞特辑-红韵点睛圣诞风尚志 ](#prompt-949)
+*   [案例 948：圣诞特辑-圣诞四格甜妹 ](#prompt-948)
+*   [案例 947：圣诞特辑-人物定格在奇幻巨型玻璃雪球里 ](#prompt-947)
+*   [案例 946：指定年份的小玩意和发明可视化 ](#prompt-946)
+*   [案例 945：将你最喜欢的角色变成收藏品 ](#prompt-945)
+*   [案例 944：超逼真的Macbook屏幕视频会议图 ](#prompt-944)
+*   [案例 943：五联宽幅胶片拼贴作品 ](#prompt-943)
+*   [案例 942：植发一年的改变图 ](#prompt-942)
+*   [案例 941：摆放着一个与本人相似的Q版模型 ](#prompt-941)
+*   [案例 940：钢铁侠可口可乐 ](#prompt-940)
+*   [案例 939：概念艺术杂志的编辑照片 ](#prompt-939)
+*   [案例 938：女性正从她的手机屏幕中走出来 ](#prompt-938)
+*   [案例 937：电影感十足的肖像摄影作品 ](#prompt-937)
+*   [案例 936：卡通画变成 Funko Pop 乙烯基人偶 ](#prompt-936)
+*   [案例 935：Y2K时代的拼贴海报 ](#prompt-935)
+*   [案例 934：女性自拍照 ](#prompt-934)
+*   [案例 933：女性在奔跑时腾空而起 ](#prompt-933)
+*   [案例 932：电影般的时尚网格图 ](#prompt-932)
+*   [案例 931：年轻女性的韩式时尚特写肖像 ](#prompt-931)
+*   [案例 930：90年代复古黑白肖像照 ](#prompt-930)
+*   [案例 929：女子面部的超近距离微距肖像 ](#prompt-929)
+*   [案例 928：女士手持一个自己的木质相框 ](#prompt-928)
+*   [案例 927：女性站在KAWS风格艺术雕塑旁 ](#prompt-927)
+*   [案例 926：金发女子跪在游艇甲板上 ](#prompt-926)
+*   [案例 925：健身房自拍照 ](#prompt-925)
+*   [案例 924：电视新闻演播室现场 ](#prompt-924)
+*   [案例 923：冬至海报 ](#prompt-923)
+*   [案例 922：产品高端商业营销设计 ](#prompt-922)
+*   [案例 921：MacBook Pro打开了X应用的照片 ](#prompt-921)
+*   [案例 920：城市渲染数字艺术海报 ](#prompt-920)
 *   [案例 919：丁香色长裙女性双版本比例对比 ](#prompt-919)
 *   [案例 918：生成一周的服装搭配 ](#prompt-918)
 *   [案例 917：用手指操纵自己的复制品 ](#prompt-917)
@@ -260,6 +291,2887 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-950"></a>
+## 案例 950：圣诞特辑-我的圣诞与自己合拍 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2002382591823896676)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/950.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-我的圣诞与自己合拍">
+</div>
+
+**提示词：**
+```
+(2-panel vertical split, twin concept, studio photography). Two panels side-by-side showing the specific character interacting with the frame edge (as if looking at herself). [CRITICAL: Keep the face identical to the source image in both panels].
+
+Left Panel: Wearing a green sweater and Santa hat, holding a Christmas cracker ready to pull, leaning right.
+Right Panel: Wearing a red sweater, holding the other end of the Christmas cracker, leaning left. Surrounded by Christmas lights.
+Props: Wrapped gifts and a snowman doll at their feet.
+Background: Yellow or teal bright studio background.
+Lighting: Flat, bright, shadowless lighting.
+Style: Fun, creative, "cloning" effect, playful narrative.
+aspect_ratio: 16:9
+```
+
+**中文提示词：**
+```
+（两格竖版分镜，双生主题，影棚拍摄）两格画面并排呈现，特定角色与画框边缘互动（仿佛在看向镜中的自己）【重要要求：两格画面中人物的面部必须与原图完全一致】
+左格：身着绿色毛衣、头戴圣诞帽，手持圣诞拉炮待拉响，身体向右倾斜右格：身着红色毛衣，握住圣诞拉炮的另一端，身体向左倾斜，周身环绕圣诞彩灯
+道具：脚边摆放包装好的礼物与雪人玩偶背景：明亮的黄色或蓝绿色影棚背景光线：均匀明亮、无阴影的打光风格：活泼新颖，带 “分身” 特效，营造趣味叙事感画面比例：16:9
+```
+
+<a id="prompt-949"></a>
+## 案例 949：圣诞特辑-红韵点睛圣诞风尚志 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2002735852284457029)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/949.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-红韵点睛圣诞风尚志">
+</div>
+
+**提示词：**
+```
+(Magazine cover layout, minimalist composition, negative space). A full-body studio shot of the specific character sitting on a tall stool. [CRITICAL: Ensure the face is exactly the same as the reference].
+
+Styling: Minimalist chic outfit (black turtleneck, jeans). A long red scarf flowing down. Wearing subtle reindeer antlers. Props: A single red Christmas bauble hanging from a string right above her hand. Snowflake light patterns projected on the background wall. Background: Solid light grey or white seamless paper. Lighting: Soft, directional light creating a clean look with defined shadows. Style: Vogue or Elle magazine style, high fashion, clean lines, modern and sophisticated.
+```
+
+**中文提示词：**
+```
+（杂志封面版式，极简构图，留白设计）特定人物坐在高脚凳上的全身棚拍造型。【重点要求：务必保证人物面部与参考图完全一致】
+造型：简约时髦穿搭（黑色高领毛衣、牛仔裤），一条红色长围巾垂坠飘动。佩戴低调的驯鹿角发饰。道具：一颗红色圣诞装饰球用细绳悬挂，恰好位于她的手上方。背景：雪花光影图案投射于背景墙面；背景采用纯色浅灰或白色无缝背景纸。光线：柔和定向光，打造干净利落的视觉效果，同时形成轮廓清晰的阴影。风格：《Vogue》或《Elle》杂志风格，高奢时尚，线条简洁，兼具现代感与精致格调。
+```
+
+<a id="prompt-948"></a>
+## 案例 948：圣诞特辑-圣诞四格甜妹 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2002730147313840161)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/948.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-圣诞四格甜妹">
+</div>
+
+**提示词：**
+```
+(Masterpiece, top quality, ultra-detailed, 8k resolution). A photorealistic 4-panel split screen grid collage featuring the same specific female character in all panels. [CRITICAL: Maintain exact facial features, preserve original face structure, consistent character reference throughout all panels]. The character has a fair complexion, natural skin texture, and bright eyes.
+Panel 1 (Top Left): The character is winking playfully, wearing plush reindeer antlers, holding a candy cane near her cheek, joyful expression.Panel 2 (Top Right): The character is wearing a red Santa hat with white fur trim, looking surprised with hands covering her mouth, eyes wide open.Panel 3 (Bottom Left): The character is blowing a kiss, holding a small wrapped gift box with a gold ribbon, wearing a cozy oversized white knitted sweater.Panel 4 (Bottom Right): The character is giving a soft smile, eyes full of affectionate gaze, wearing a Christmas reindeer accessory around her neck, dressed in a red velvet Christmas dress with white fur trim, wearing red fluffy Christmas gloves, forming a heart shape with both hands beside her cheeks.
+Environment: Solid studio background in soft pastel red or green.Lighting: Bright, high-key studio lighting, ring light reflection in eyes, soft shadows, uniform illumination.Style: Korean photobooth style, vibrant colors, sharp focus, cute and energetic atmosphere, commercial photography aesthetic.
+```
+
+**中文提示词：**
+```
+（杰作级，顶级品质，超高清细节，8K分辨率）。这是一幅逼真的四格分屏网格拼贴画，所有画面均以同一位女性角色为中心。[关键：保持面部特征的精准还原，保留原有的面部结构，所有画面均使用一致的角色参考图]。该角色肤色白皙，肤质自然，双眸明亮动人。
+第一格（左上）：角色俏皮地眨着眼，头戴毛绒驯鹿角，脸颊边放着一根拐杖糖，表情快乐。第二格（右上）：角色戴着一顶镶有白色毛边的红色圣诞帽，双手捂着嘴，睁大眼睛，一脸惊讶。第三格（左下）：角色送出一个飞吻，手里拿着一个系着金色丝带的小礼盒，身穿一件舒适的白色宽松针织衫。第四格（右下）：角色露出温柔的微笑，眼神充满爱意，脖子上戴着圣诞驯鹿饰品，身穿镶有白色毛边的红色天鹅绒圣诞连衣裙，戴着红色毛绒圣诞手套，双手放在脸颊两侧，比出一个心形。
+环境：柔和的粉红色实心影棚背景或green.Lighting ：明亮的高调影棚灯光，眼睛中环形灯反射，柔和的阴影，均匀illumination.Style ：韩式照相亭风格，鲜艳的色彩，清晰的焦点，可爱而充满活力的氛围，商业摄影美学。
+```
+
+<a id="prompt-947"></a>
+## 案例 947：圣诞特辑-人物定格在奇幻巨型玻璃雪球里 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2002370189384691980)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/947.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-人物定格在奇幻巨型玻璃雪球里">
+</div>
+
+**提示词：**
+```
+(Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
+
+Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
+
+Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
+
+Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
+
+Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.
+```
+
+**中文提示词：**
+```
+（超现实主义、奇幻艺术、微距摄影风格）。一幅充满魔幻色彩的作品，将特定人物置于一个巨大的、真人大小的玻璃雪球中。[关键：保持面部与原图一致，在玻璃变形中保持面部特征的一致性]。
+
+球体内部：人物身穿白色人造毛皮冬装，头戴红色圣诞帽，正用手接住飘落的雪花。球体内部的景象包括覆盖着白雪的微型松树，树上装饰着闪烁着红、绿、蓝、金四色圣诞彩灯。树丛中坐落着一间小木屋。球体内部弥漫着旋转的魔法闪光和雪花。
+
+地球仪外部：背景是一个模糊的、舒适的客厅，里面有一个壁炉，强调了人物位于装饰品内部。
+
+灯光：雪球内部散发着柔和的光芒，圣诞树彩灯温暖多彩的光芒与飘落雪花上清冷梦幻的蓝白色灯光交相辉映。人物的脸庞在这梦幻般的混合灯光下显得格外美丽。外部温暖的光线反射在弧形玻璃表面，折射出彩虹般的棱镜效果。
+
+技术特点：光线追踪玻璃上的反射、折射效果、清晰聚焦于人物、营造神奇氛围、空灵梦幻的美感、8K 分辨率、雪花和圣诞彩灯散景的精细细节。
+```
+
+<a id="prompt-946"></a>
+## 案例 946：指定年份的小玩意和发明可视化 (来源 [@Gdgtify](https://x.com/Gdgtify/status/2002307108050776474)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/946.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-指定年份的小玩意和发明可视化">
+</div>
+
+**提示词：**
+```
+Do this for 1983 > You are a Professional Product Photographer specializing in knolling Flat Lay photography. I will provide a Year or inventor. Step 1: The Selection.  > Identify 3 to 5 inventions from that year, plus 5-7 smaller related accessories (e.g., if the invention is a camera, include film rolls; if it's a car part, include a wrench).   
+
+Step 2: The Layout. Arrange all items on a flat, solid-colored matte background (choose a color that contrasts well with the items). 
+
+The Grid: Align everything at perfect 90-degree angles. Organize them by size and shape. 
+
+The Vibe: Deconstructed, organized, satisfying, geometric. 
+
+The Lighting:
+
+Soft, flat, overhead studio lighting (shadowless).
+
+Output:
+
+ A single 4:5 image.
+
+The Year (e.g., "1955") should be arranged using physical typography (like metal letters or cut paper) placed in the center of the grid. 
+
+Style: Wes Anderson symmetry, high-end commercial advertising, vibrant.
+```
+
+**中文提示词：**
+```
+请完成以下关于 1983 年的任务 > 您是一位专业产品摄影师，专长于轻柔的平铺摄影。我将提供一个年份或一位发明家。步骤 1：选择。  >从该年份中找出 3 到 5 项发明，以及 5 到 7 项相关的小型配件（例如，如果发明是相机，则包括胶卷；如果是汽车零件，则包括扳手）。
+
+步骤 2：布局。将所有物品排列在平整的纯色哑光背景上（选择与物品形成鲜明对比的颜色）。
+
+网格法：将所有物体对齐成完美的 90 度角。按大小和形状进行排列。
+
+氛围：解构的、有条理的、令人满意的、几何的。
+
+照明：
+
+柔和、平整的顶灯式摄影棚照明（无阴影）。
+
+输出：
+
+一张4:5比例的图片。
+
+年份（例如“1955”）应使用实体印刷品（如金属字母或剪纸）放置在网格的中心。
+
+风格：韦斯·安德森式的对称美，高端商业广告风格，充满活力。
+```
+
+<a id="prompt-945"></a>
+## 案例 945：将你最喜欢的角色变成收藏品 (来源 [@Gdgtify](https://x.com/Gdgtify/status/2002116477307044203)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/945.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将你最喜欢的角色变成收藏品">
+</div>
+
+**提示词：**
+```
+do this for Messi: <instruction>
+Relic-Loadout Kit
+Input A is a fictional or real character (image/name) OR story IP (poster/name).
+Analyze and infer: character archetype, iconic scene, signature items, and moral arc.
+Goal: Premium collector kit box with compartments (no logos; minimal text).
+Rules:
+Center compartment: mini figurine.
+Surround 10–16 relic props that teach the character arc (before/after item, symbol of sacrifice, tool of choice).
+Add a tiny “arc timeline” strip with 5 beats (icons + 1–2 words max each).
+Output: one image, 4:5 product hero shot.
+</instruction>
+```
+
+**中文提示词：**
+```
+请为梅西做这件事：</指令>
+遗物装备包
+输入 A 是虚构或真实的角色（图像/名称）或故事 IP（发布者/名称）。
+分析和推断：人物原型、标志性场景、标志性物品和道德弧线。
+目标：带隔层的优质收藏套装盒（无标志；文字极少）。
+规则：
+中间隔层：迷你人偶。
+围绕 10-16 件遗物道具来展现角色弧光（前后物品、牺牲的象征、选择的工具）。
+添加一个包含 5 个节点的“弧线时间轴”小条（每个节点最多可包含 1-2 个图标和 1-2 个单词）。
+输出：一张图片，4:5 产品主图。
+</指令>
+```
+
+<a id="prompt-944"></a>
+## 案例 944：超逼真的Macbook屏幕视频会议图 (来源 [@egeberkina](https://x.com/egeberkina/status/2002114484903800832)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/944.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的Macbook屏幕视频会议图">
+</div>
+
+**提示词：**
+```
+{
+  "task": "hyper_realistic_macbook_screen_photography",
+  "reference_logic": "exact_microsoft_teams_waiting_room_ui_macos",
+  "output": {
+    "type": "single_image",
+    "resolution": "ultra_high_resolution_8k",
+    "realism": "indistinguishable_from_real_laptop_photo",
+    "capture_style": "iphone_photo_of_macbook_screen",
+    "post_processing": "none"
+  },
+  "scene": {
+    "application": "Microsoft Teams",
+    "platform": "macOS",
+    "ui_state": "meeting_waiting_room",
+    "top_status_text": "Meeting now",
+    "center_message": "We've let people in the meeting know you're waiting.",
+    "background": "pure_black_dark_mode"
+  },
+  "ui_layout": {
+    "left_panel": {
+      "video_preview": {
+        "position": "bottom_left",
+        "aspect_ratio": "landscape",
+        "camera_toggle": "on",
+        "background_filters_button": "visible_below_preview"
+      }
+    },
+    "right_panel": {
+      "audio_section": {
+        "title": "Computer audio",
+        "selected_device": "AirPods Max",
+        "volume_slider": "horizontal_blue_indicator",
+        "mute_toggle": "off"
+      },
+      "audio_options": [
+        "Phone audio",
+        "Room audio",
+        "Don't use audio"
+      ],
+      "cancel_button": {
+        "label": "Cancel",
+        "position": "bottom_right",
+        "style": "rounded_rectangle"
+      }
+    }
+  },
+  "subject": {
+    "gender": "female",
+    "hair": {
+      "color": "natural_blonde",
+      "style": "soft_bangs_with_loose_layers",
+      "texture": "individual_strands_visible"
+    },
+    "face": {
+      "skin": "true_human_skin_texture",
+      "details": "visible_pores_micro_imperfections",
+      "retouching": "none"
+    },
+    "eyewear": {
+      "brand": "Ray-Ban",
+      "model": "Wayfarer",
+      "type": "prescription_glasses",
+      "frame_color": "black",
+      "lens_reflection": "subtle_real_world_glare"
+    },
+    "headphones": {
+      "model": "AirPods Max",
+      "color": "space_gray",
+      "fit": "natural_over_ear_position"
+    },
+    "clothing": {
+      "top": "neutral_crop_top",
+      "style": "casual_minimal"
+    },
+    "expression": "calm_focused_waiting",
+    "gaze": "slightly_downward"
+  },
+  "environment": {
+    "background": "modern_open_office",
+    "ceiling": "exposed_industrial_ducts",
+    "lighting": {
+      "type": "soft_natural_daylight",
+      "mixed_with": "indoor_office_lighting",
+      "temperature": "5200K"
+    }
+  },
+  "screen_reflection": {
+    "enabled": true,
+    "source": "same_subject_as_video_preview",
+    "reflection_type": "soft_glass_reflection",
+    "intensity": "very_subtle",
+    "opacity": 0.05,
+    "sharpness": "low",
+    "distortion": "slight_glass_warp",
+    "positioning": "offset_not_centered",
+    "visibility_rules": {
+      "ui_text": "fully_readable",
+      "icons": "unobstructed",
+      "reflection_never_overpowers_ui": true
+    },
+    "realism_notes": [
+      "not_mirror_like",
+      "not_double_face",
+      "no_symmetry",
+      "appears_only_on_dark_areas"
+    ]
+  },
+  "macos_elements": {
+    "dock": {
+      "visible": true,
+      "style": "macos_default_big_sur_or_later",
+      "reflection": "subtle",
+      "indicator_dot": "visible_under_active_apps",
+      "icons": [
+        "Finder",
+        "Mail",
+        "Calendar",
+        "Microsoft Teams",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe After Effects",
+        "Adobe Lightroom",
+        "Adobe Photoshop",
+        "Adobe Premiere Pro",
+        "App Store",
+        "System Settings"
+      ]
+    },
+    "menu_bar": {
+      "visibility": "partial_top_edge",
+      "elements": [
+        "WiFi",
+        "Battery",
+        "Time",
+        "macOS_control_icons"
+      ]
+    }
+  },
+  "camera": {
+    "device": "iPhone",
+    "angle": "slightly_off_axis",
+    "handheld": true,
+    "screen_artifacts": [
+      "soft_glass_reflection",
+      "minor_glare",
+      "fingerprint_smudges",
+      "dust_particles",
+      "moire_pattern"
+    ]
+  },
+  "color_profile": {
+    "contrast": "natural_display_contrast",
+    "saturation": "neutral_realistic",
+    "white_balance": "accurate_screen_calibrated"
+  },
+  "negative_prompt": [
+    "generic_video_call_ui",
+    "zoom_interface",
+    "google_meet_ui",
+    "fake_buttons",
+    "wrong_fonts",
+    "misaligned_panels",
+    "ai_generated_ui",
+    "blurred_text",
+    "plastic_skin",
+    "over_sharpening",
+    "mirror_reflection",
+    "double_face",
+    "incorrect_dock_icons"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"任务": "超逼真的Macbook屏幕摄影",
+"reference_logic": "exact_microsoft_teams_waiting_room_ui_macos",
+“输出”： {
+"type": "single_image",
+"分辨率": "超高分辨率_8k",
+“真实感”： “与真实笔记本电脑照片无法区分”
+"capture_style": "iphone_photo_of_macbook_screen",
+"post_processing": "无"
+},
+“场景”： {
+“应用程序”：“Microsoft Teams”，
+“平台”： “macOS”，
+"ui_state": "会议室等候室",
+"top_status_text": "正在开会",
+"center_message": "我们已经通知会议中的其他人您正在等待。"
+“背景”： “纯黑_深色模式”
+},
+"ui_layout": {
+"left_panel": {
+"video_preview": {
+"位置": "左下角",
+"aspect_ratio": "landscape",
+"camera_toggle": "开启",
+"background_filters_button": "visible_below_preview"
+}
+},
+"right_panel": {
+"audio_section": {
+标题：计算机音频，
+"selected_device": "AirPods Max",
+"音量滑块": "水平蓝色指示器",
+"mute_toggle": "关闭"
+},
+"audio_options": [
+“电话音频”，
+“房间音频”，
+“请勿使用音频”
+],
+"取消按钮": {
+标签： 取消，
+"位置": "右下角",
+"样式": "圆角矩形"
+}
+}
+},
+“主题”： {
+"性别": "女性",
+“头发”： {
+颜色：自然金发，
+"style": "soft_bangs_with_loose_layers",
+"texture": "individual_strands_visible"
+},
+“脸”： {
+"皮肤": "真实人类皮肤纹理",
+"详情": "可见毛孔微瑕疵",
+“修饰”： “无”
+},
+"眼镜": {
+品牌：雷朋，
+“型号”：“旅行者”，
+"type": "处方眼镜",
+"frame_color": "黑色",
+"lens_reflection": "subtle_real_world_glare"
+},
+“耳机”： {
+“型号”：“AirPods Max”，
+"颜色": "太空灰",
+"fit": "natural_over_ear_position"
+},
+“衣服”： {
+"上衣": "中性露脐上衣",
+风格：休闲简约
+},
+"表情": "平静专注的等待",
+“凝视”: “略微向下”
+},
+“环境”： {
+“背景”： “现代开放式办公室”
+"天花板": "裸露的工业风管",
+“灯光”： {
+"type": "柔和自然日光",
+"mixed_with": "室内办公照明",
+温度：5200K
+}
+},
+"screen_reflection": {
+“启用”：true，
+"source": "same_subject_as_video_preview",
+"reflection_type": "soft_glass_reflection",
+“强度”： “非常微妙”，
+“不透明度”：0.05，
+“锐度”: “低”
+"失真": "轻微玻璃变形",
+"定位": "offset_not_centered",
+"visibility_rules": {
+"ui_text": "完全可读",
+“图标”：“畅通无阻”，
+"reflection_never_overpowers_ui": true
+},
+"realism_notes": [
+"not_mirror_like",
+“非双面”，
+"no_symmetry",
+"仅在深色区域出现"
+]
+},
+"macos_elements": {
+"码头": {
+“可见”：是，
+"style": "macos_default_big_sur_or_later",
+“反思”：“微妙的”，
+"indicator_dot": "visible_under_active_apps",
+“图标”：[
+“发现者”，
+“邮件”，
+“日历”，
+“Microsoft Teams”，
+“Adobe Illustrator”
+“Adobe InDesign”，
+“Adobe After Effects”，
+“Adobe Lightroom”，
+“Adobe Photoshop”，
+“Adobe Premiere Pro”，
+“App Store”，
+系统设置
+]
+},
+"menu_bar": {
+"可见性": "部分顶部边缘",
+“元素”：[
+“无线上网”，
+“电池”，
+“时间”，
+"macOS_control_icons"
+]
+}
+},
+“相机”： {
+"设备": "iPhone",
+"角度": "略微偏离轴线",
+“手持式”：是，
+"screen_artifacts": [
+"soft_glass_reflection",
+“轻微眩光”，
+“指纹污迹”，
+"灰尘颗粒",
+莫尔条纹图案
+]
+},
+"color_profile": {
+"对比度": "natural_display_contrast",
+"饱和度": "中性_真实"
+“white_balance”: “accur_screen_calibrated”
+},
+"negative_prompt": [
+"generic_video_call_ui",
+"zoom_interface",
+"google_meet_ui",
+"fake_buttons",
+"wrong_fonts",
+“错位面板”，
+"ai_generated_ui",
+"模糊文本",
+"塑料皮肤",
+“过度锐化”
+"镜像反射",
+“双面”，
+"incorrect_dock_icons"
+]
+}
+```
+
+<a id="prompt-943"></a>
+## 案例 943：五联宽幅胶片拼贴作品 (来源 [@BeautyVerse_Lab](https://x.com/BeautyVerse_Lab/status/2002263911413031260)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/943.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-五联宽幅胶片拼贴作品">
+</div>
+
+**提示词：**
+```
+{
+  "project_title": "High-End Studio Fashion Editorial '5-Panel Wide Film' Collage",
+  "structure": "Asymmetric 2-column layout: Left column contains 2 stacked panels; Right column contains 3 stacked panels. Total height of both columns is identical.",
+  "aspect_ratio": "3:4",
+  "aesthetic_theme": {
+    "style": "Professional studio editorial mixed with seamless vintage film strip aesthetic",
+    "mood": "Minimalist, sophisticated, balanced yet dynamic",
+    "color_palette": [
+      "Clean whites",
+      "Sophisticated charcoals",
+      "Soft champagne gold",
+      "Deep black film borders",
+      "Neutral skin tones"
+    ],
+    "textures": [
+      "Subtle film grain",
+      "Matte celluloid finish",
+      "Seamless cyclorama wall",
+      "High-fashion fabric textures"
+    ]
+  },
+  "framing_and_borders": {
+    "type": "Integrated 5-panel wide film strip",
+    "details": [
+      "The layout is a single large rectangular film frame divided into 5 segments",
+      "Authentic film rebate with sprocket holes and frame numbers only on the FAR LEFT and FAR RIGHT outer vertical edges",
+      "The top and bottom outer edges are clean black film borders",
+      "Internal dividers: All internal lines (the central vertical divider and the horizontal lines on both sides) are simple, solid thin black lines"
+    ]
+  },
+  "subject_reference": {
+    "source": "image_1.png",
+    "instruction": "The subject's physical appearance, complete outfit, and accessories must exactly match the person in image_1.png. Maintain visual consistency across all five frames."
+  },
+  "composition_layout": {
+    "left_column_stack": {
+      "dimensions": "Two stacked vertical panels",
+      "frames": [
+        {
+          "id": "frame_top_left",
+          "type": "Full-body studio editorial shot",
+          "setting": "Clean minimalist studio",
+          "pose": "Sophisticated standing pose, showcasing the full outfit silhouette",
+          "lighting": "High-contrast rim lighting"
+        },
+        {
+          "id": "frame_bottom_left",
+          "type": "Medium-shot editorial",
+          "setting": "Minimalist studio background",
+          "pose": "Artistic sitting or leaning pose, focusing on the upper body and garment flow",
+          "lighting": "Soft directional lighting"
+        }
+      ]
+    },
+    "right_column_stack": {
+      "dimensions": "Three stacked horizontal panels matching the total height of the left column",
+      "frames": [
+        {
+          "id": "frame_top_right",
+          "type": "Close-up beauty portrait",
+          "setting": "Professional studio setup",
+          "pose": "Frontal view, elegant expression, focus on facial features",
+          "visual_effects": "Shallow depth of field, sharp focus on eyes"
+        },
+        {
+          "id": "frame_middle_right",
+          "type": "Candid BTS side-shot",
+          "setting": "Working studio environment with equipment visible",
+          "lighting": "Raw studio working lights",
+          "pose": "Relaxed, natural demeanor, perhaps looking at a monitor off-camera",
+          "props_and_details": "Visible C-stands and studio cables"
+        },
+        {
+          "id": "frame_bottom_right",
+          "type": "Dynamic detail or medium-shot",
+          "setting": "Studio corner with minimalist pedestal",
+          "lighting": "Butterfly lighting setup",
+          "pose": "Fashion-forward pose, highlighting accessories or specific outfit textures"
+        }
+      ]
+    }
+  },
+  "central_element": {
+    "type": "Signature Overlay",
+    "content": "BeautyVerse",
+    "position": "Center of the entire composition, placed on the central vertical divider",
+    "style": {
+      "appearance": "Elegant fluid cursive, translucent white ink",
+      "texture": "Fine ink stroke",
+      "scaling": "Medium-sized"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{"项目标题": "高端影棚时尚大片《五联宽幅胶片》拼贴作品","布局结构": "非对称双栏布局：左栏包含 2 个竖向堆叠的画面单元；右栏包含 3 个竖向堆叠的画面单元，两栏总高度保持一致","画幅比例": "3:4","美学主题": {"风格定位": "专业影棚大片风格融合无缝复古胶片条质感","整体氛围": "简约高级，平衡且富有动感","色彩搭配": ["纯净白色","高级炭灰色","柔和香槟金色","深邃黑色胶片边框","自然裸肤色"],"质感表现": ["细腻胶片颗粒","哑光赛璐珞质感","无缝影棚弧形背景墙","高级时装面料肌理"]},"画框与边框设计": {"边框类型": "一体化五联宽幅胶片式边框","细节说明": ["整体构图为一个大型矩形胶片画框，内部划分为 5 个画面单元","仅在最左侧和最右侧的外垂直边缘保留真实的胶片边缘留白、齿孔及画面编号","上下外边缘为简洁的纯黑胶片边框","内部分割线：所有内部线条（竖向中分割线及两侧的横向分割线）均为简洁的纯黑色细实线"]},"人物参考要求": {"参考素材": "image_1.png","执行说明": "人物的外形、全套服装及配饰必须与 image_1.png 中的人物完全一致，所有五个画面单元需保持视觉统一性"},"构图布局细则": {"左栏堆叠区域": {"尺寸规格": "两个竖向堆叠的画面单元","画面设定": [{"编号": "左上画面","拍摄类型": "全身影棚时尚大片","场景设定": "极简干净的影棚环境","姿势要求": "优雅站姿，完整展现服装廓形","灯光方案": "高对比度轮廓光"},{"编号": "左下画面","拍摄类型": "中景时尚大片","场景设定": "极简影棚背景","姿势要求": "艺术感坐姿或倚靠姿势，聚焦上半身及服装垂坠感","灯光方案": "柔和定向光"}]},"右栏堆叠区域": {"尺寸规格": "三个横向排布的画面单元，与左栏总高度保持一致","画面设定": [{"编号": "右上画面","拍摄类型": "特写美妆肖像","场景设定": "专业影棚布景","姿势要求": "正面朝向镜头，表情优雅，聚焦面部五官","视觉效果": "浅景深处理，眼部精准对焦"},{"编号": "右中画面","拍摄类型": "抓拍式幕后侧拍镜头","场景设定": "工作状态下的影棚环境，可见各类设备","灯光方案": "影棚工作实景光源","姿势要求": "状态松弛自然，可设定为看向镜头外的监视器","道具与细节": "可见 C 型支架及影棚线缆"},{"编号": "右下画面","拍摄类型": "动感细节特写或中景镜头","场景设定": "影棚角落搭配极简展示台","灯光方案": "蝶形布光方案","姿势要求": "时尚感造型姿势，突出配饰细节或服装特定肌理"}]}},"核心视觉元素": {"元素类型": "标志性叠加文字","文字内容": "BeautyVerse","摆放位置": "整个构图的正中央，置于竖向中分割线上","风格设定": {"字体外观": "流畅优雅的草书字体，半透明白色墨效","笔触质感": "纤细精致的墨迹笔触","尺寸比例": "中等字号"}}}
+```
+
+<a id="prompt-942"></a>
+## 案例 942：植发一年的改变图 (来源 [@egeberkina](https://x.com/egeberkina/status/2002465235391967688)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/942.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-植发一年的改变图">
+</div>
+
+**提示词：**
+```
+{
+  "task": "ultra_realistic_hair_transplant_progression",
+  "output": {
+    "type": "single_image_multi_stage",
+    "layout": "horizontal_timeline_grid",
+    "resolution": "ultra_high_resolution",
+    "realism": "clinical_photographic_realism",
+    "quality": "medical_documentary_photography",
+    "retouching": {
+      "skin": "minimal_medical_grade",
+      "preserve_scalp_texture": true,
+      "no_cosmetic_enhancement": true
+    }
+  },
+  "subject": {
+    "person": {
+      "gender": "male",
+      "age": "young_to_middle_adult",
+      "ethnicity": "neutral",
+      "identity": "same_patient_consistent",
+      "head_position": "identical_angle_each_stage"
+    }
+  },
+  "timeline": {
+    "stages": [
+      {
+        "label": "Pre-Op",
+        "time": "before_transplant",
+        "hair": {
+          "density": "significant_recession",
+          "pattern": "male_pattern_baldness",
+          "scalp_visibility": "high"
+        },
+        "scalp": "clean_shaved",
+        "skin_tone": "natural"
+      },
+      {
+        "label": "Day 2",
+        "time": "2_days_post_op",
+        "hair": {
+          "grafts": "fresh_implanted_visible",
+          "density": "low_evenly_spaced"
+        },
+        "scalp": "redness_micro_scabs_swelling",
+        "notes": "clearly_visible_implant_points"
+      },
+      {
+        "label": "Week 2",
+        "time": "14_days",
+        "hair": {
+          "grafts": "short_fragile_hairs",
+          "shedding": "early_phase"
+        },
+        "scalp": "reduced_redness_remaining_scabs"
+      },
+      {
+        "label": "Month 1",
+        "time": "4_weeks",
+        "hair": {
+          "shedding": "shock_loss_phase",
+          "visibility": "patchy_thin"
+        },
+        "scalp": "mostly_normal"
+      },
+      {
+        "label": "Month 3",
+        "time": "12_weeks",
+        "hair": {
+          "regrowth": "fine_new_hairs_emerging",
+          "density": "low_but_even"
+        },
+        "texture": "thin_soft"
+      },
+      {
+        "label": "Month 6",
+        "time": "6_months",
+        "hair": {
+          "density": "moderate",
+          "coverage": "clearly_improving"
+        },
+        "texture": "thicker_but_uneven_length"
+      },
+      {
+        "label": "Month 9",
+        "time": "9_months",
+        "hair": {
+          "density": "high",
+          "hairline": "natural_definition"
+        },
+        "texture": "healthy_normal_growth"
+      },
+      {
+        "label": "Month 12",
+        "time": "12_months",
+        "hair": {
+          "density": "final_result",
+          "coverage": "full_natural"
+        },
+        "texture": "mature_thick_hair",
+        "finish": "non_styled_natural"
+      }
+    ]
+  },
+  "scene": {
+    "location": "clinical_photo_room",
+    "background": {
+      "color": "neutral_light_gray",
+      "texture": "flat"
+    },
+    "consistency": "same_lighting_same_camera_same_distance"
+  },
+  "composition": {
+    "crop": "top_of_head_and_forehead",
+    "angle": "slightly_top_down",
+    "alignment": "perfect_grid_spacing",
+    "labels": "small_clean_medical_typography"
+  },
+  "camera": {
+    "camera_type": "medical_documentation_camera",
+    "lens": "85mm",
+    "aperture": "f8",
+    "sharpness": "high",
+    "distortion": "none"
+  },
+  "lighting": {
+    "type": "even_clinical_softbox",
+    "contrast": "low",
+    "shadows": "minimal",
+    "skin_accuracy": "true_to_life"
+  },
+  "negative_prompt": [
+    "instant_full_hair",
+    "fake_density",
+    "wig_like_texture",
+    "beauty_lighting",
+    "styled_hair",
+    "marketing_glow",
+    "cgi_scalp",
+    "unrealistic_speed"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"任务": "超逼真植发进展",
+“输出”： {
+"type": "single_image_multi_stage",
+"布局": "horizo​​ntal_timeline_grid",
+"分辨率": "超高分辨率",
+"realism": "clinical_photographic_realism",
+"质量": "医疗纪实摄影",
+“修饰”：{
+"皮肤": "最低医疗级",
+"preserve_scalp_texture": true,
+"no_cosmetic_enhancement": true
+}
+},
+“主题”： {
+“人”： {
+“性别”： “男”，
+“年龄”： “青年至中年”
+“种族”： “中立”，
+"identity": "same_patient_consistent",
+"head_position": "identical_angle_each_stage"
+}
+},
+"时间线": {
+“阶段”：[
+{
+标签：术前，
+"时间": "移植前",
+“头发”： {
+“密度”： “显著衰退”，
+"pattern": "male_pattern_balness",
+"scalp_visibility": "高"
+},
+"头皮": "剃光头",
+"skin_tone": "自然"
+},
+{
+标签：第 2 天，
+"time": "2_days_post_op",
+“头发”： {
+"移植体": "新鲜植入的可见体",
+"密度": "低均匀分布"
+},
+“头皮”: “发红_微痂_肿胀”
+"notes": "清晰可见的植入点"
+},
+{
+标签：第 2 周，
+"时间": "14_天",
+“头发”： {
+"移植"": "短而脆弱的头发",
+“脱落”: “早期阶段”
+},
+"头皮": "减少红肿，剩余结痂"
+},
+{
+标签： 1 月，
+"时间": "4_周",
+“头发”： {
+"脱落": "冲击损失阶段",
+"可见性": "斑驳的薄弱"
+},
+头皮：基本正常
+},
+{
+标签： “3 月”
+"时间": "12_周",
+“头发”： {
+"regrowth": "fine_new_hairs_emerging",
+“密度”： “低但均匀”
+},
+"纹理": "薄而柔软"
+},
+{
+标签：第 6 个月，
+"时间": "6_个月",
+“头发”： {
+“密度”：“中等”，
+“覆盖范围”： “明显改善”
+},
+"纹理": "较厚但长度不均匀"
+},
+{
+标签： 9 月，
+“时间”: “ 9_个月”
+“头发”： {
+“密度”：“高”，
+"发际线": "自然定义"
+},
+"texture": "healthy_normal_growth"
+},
+{
+标签：第 12 个月，
+"时间": "12_个月",
+“头发”： {
+"密度": "最终结果",
+“覆盖范围”： “全天然”
+},
+"texture": "成熟浓密的头发",
+"finish": "non_styled_natural"
+}
+]
+},
+“场景”： {
+"location": "clinical_photo_room",
+“背景”： {
+“颜色”： “中性浅灰色”
+“纹理”：“扁平”
+},
+“一致性”： “相同光照_相同相机_相同距离”
+},
+“作品”： {
+"crop": "头顶和前额",
+"角度": "略微自上而下",
+"对齐方式": "完美网格间距",
+标签： 小型_清晰_医疗排版
+},
+“相机”： {
+"camera_type": "medical_documentation_camera",
+镜头：85mm，
+光圈：f8，
+“锐度”: “高”
+“失真”： “无”
+},
+“灯光”： {
+"type": "even_clinical_softbox",
+“对比度”：“低”，
+“阴影”：“极简”，
+"skin_accuracy": "true_to_life"
+},
+"negative_prompt": [
+"instant_full_hair",
+“伪密度”，
+"wig_like_texture",
+“beauty_lighting”，
+“造型发型”，
+"marketing_glow",
+"cgi_scalp",
+"不切实际的速度"
+]
+}
+```
+
+<a id="prompt-941"></a>
+## 案例 941：摆放着一个与本人相似的Q版模型 (来源 [@rovvmut_](https://x.com/rovvmut_/status/2002037335161217483)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/941.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-摆放着一个与本人相似的Q版模型">
+</div>
+
+**提示词：**
+```
+A young man sitting casually at a modern café counter, smiling while holding a glass of iced coffee. On the table in front of him stands a small 3D chibi character version of the same man. The chibi has super-deformed proportions, a large head, big expressive eyes, and simplified facial features. It has a smooth 3D plastic or clay-like texture, soft studio lighting, and a clear shadow on the table surface. The chibi is holding a tiny glass of coffee. Warm pendant lights, wooden café interior, cinematic realistic human combined with stylized 3D chibi, shallow depth of field, vertical 9:16.
+```
+
+**中文提示词：**
+```
+一位年轻男子随意地坐在现代咖啡馆的吧台边，面带微笑，手里拿着一杯冰咖啡。他面前的桌子上摆放着一个与他本人相似的3D Q版人物模型。这个Q版人物模型比例夸张，头部较大，眼睛炯炯有神，面部特征较为简化。它拥有光滑的3D塑料或黏土质感，柔和的摄影棚灯光照射在桌面上，投射出清晰的阴影。Q版人物模型手中拿着一小杯咖啡。画面中，温暖的吊灯、木质的咖啡馆内饰、写实的人物造型与风格化的3D Q版人物模型相结合，运用了浅景深，采用9:16的竖幅构图。
+```
+
+<a id="prompt-940"></a>
+## 案例 940：钢铁侠可口可乐 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/2002013476370444766)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/940.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-钢铁侠可口可乐">
+</div>
+
+**提示词：**
+```
+[
+  {
+    "concept_id": "iron_man_coke",
+    "visual_breakdown": {
+      "focus_object": "Coca-Cola Can",
+      "character_element": "Iron Man's Gauntlet",
+      "environment": "Blurred City Skyline"
+    },
+    "artistic_direction": {
+      "lighting": "Cinematic/Metallic",
+      "mood": "technological"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Iron Man's gauntlet hovering below a floating Coca-Cola can, cinematic city background, dramatic movie poster lighting. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "hulk_pepsi",
+    "visual_breakdown": {
+      "focus_object": "Crushed Pepsi Can",
+      "character_element": "Hulk's Giant Hand",
+      "environment": "Smoky City Ruins"
+    },
+    "artistic_direction": {
+      "lighting": "Explosive/High Contrast",
+      "mood": "destructive"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Hulk's giant hand hovering over a crushed Pepsi can embedded in pavement, smoky ruins, explosive action movie style. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "thor_sprite",
+    "visual_breakdown": {
+      "focus_object": "Sprite Bottle",
+      "character_element": "Thor's Glowing Hand",
+      "environment": "Storm/Lightning"
+    },
+    "artistic_direction": {
+      "lighting": "Electric/Blue-Toned",
+      "mood": "mythological"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Thor's glowing hand holding a floating Sprite bottle amidst crackling lightning and rain, Mjolnir in background, epic poster style. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "dr_strange_fanta",
+    "visual_breakdown": {
+      "focus_object": "Fanta Bottle",
+      "character_element": "Doctor Strange's Hand",
+      "environment": "Golden Magic Portal"
+    },
+    "artistic_direction": {
+      "lighting": "Magical/Golden Bokeh",
+      "mood": "mystical"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Doctor Strange casting a spell under a spinning Fanta bottle inside a golden magic portal, mystical Sanctum background, cinematic lighting. --ar 7:9"
+    }
+  }
+]
+```
+
+**中文提示词：**
+```
+[{"概念编号": "钢铁侠_可口可乐","视觉分解": {"核心物体": "可口可乐罐","角色元素": "钢铁侠的护手","环境场景": "模糊的城市天际线"},"艺术指导": {"光影风格": "电影质感 / 金属质感","氛围基调": "科技感"},"生成指令": {"画面比例": "7:9","简洁提示词": "钢铁侠的护手悬浮于漂浮的可口可乐罐下方，电影感城市背景，戏剧化电影海报光影效果。--ar 7:9"}},{"概念编号": "绿巨人_百事可乐","视觉分解": {"核心物体": "变形的百事可乐罐","角色元素": "绿巨人的巨手","环境场景": "烟雾弥漫的城市废墟"},"艺术指导": {"光影风格": "爆炸冲击感 / 高对比度","氛围基调": "破坏性"},"生成指令": {"画面比例": "7:9","简洁提示词": "绿巨人的巨手悬浮于嵌在路面中的变形百事可乐罐上方，烟雾废墟背景，爆炸风格动作片质感。--ar 7:9"}},{"概念编号": "雷神_雪碧","视觉分解": {"核心物体": "雪碧瓶","角色元素": "雷神的发光手掌","环境场景": "暴风雨 / 闪电"},"艺术指导": {"光影风格": "电光感 / 蓝色调","氛围基调": "神话感"},"生成指令": {"画面比例": "7:9","简洁提示词": "雷神的发光手掌托着漂浮的雪碧瓶，周围电闪雷鸣、大雨倾盆，雷神之锤置于背景，史诗级海报风格。--ar 7:9"}},{"概念编号": "奇异博士_芬达","视觉分解": {"核心物体": "芬达瓶","角色元素": "奇异博士的手掌","环境场景": "金色魔法传送门"},"艺术指导": {"光影风格": "魔法质感 / 金色散景","氛围基调": "神秘感"},"生成指令": {"画面比例": "7:9","简洁提示词": "奇异博士在金色魔法传送门内，于旋转的芬达瓶下方施法，背景为神秘的圣所场景，电影质感光影效果。--ar 7:9"}}]
+```
+
+<a id="prompt-939"></a>
+## 案例 939：概念艺术杂志的编辑照片 (来源 [@AmirMushich](https://x.com/AmirMushich/status/2002029348132721016)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/939.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-概念艺术杂志的编辑照片">
+</div>
+
+**提示词：**
+```
+[BRAND NAME]: 
+A high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.
+
+**1. The Concept & Object (AI Invention):**
+Based on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.
+
+**2. Materials & Details (Hyper-Premium):**
+The object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.
+
+**3. Photography & Lighting (Cinematic Studio):**
+Shot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.
+
+**4. Environment:**
+A seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.
+
+**5. Layout & UI Elements (Strict Placement):**
+- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.
+- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: "CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25."
+```
+
+**中文提示词：**
+```
+[品牌名称]:
+这是一张高端、光鲜亮丽的概念艺术杂志的编辑照片，展示了该品牌构思和设计的独特、出人意料的功能性物品。
+
+** 1.概念与对象（人工智能发明） :**
+基于指定品牌的设计理念、历史传承和材料语汇，人工智能必须创造一款新颖的实用产品（并非标准服装、鞋履或包袋）。产品示例可以是家居用品、科技配件、工具或运动器材，并以品牌视角进行重新诠释。该产品应兼具雕塑感和实用功能。
+
+** 2. 材料与细节（超高端） :**
+这款产品采用品牌标志性的超高端、触感极佳的材质打造而成（例如，做旧珍稀皮革、拉丝航空级钛金属、雕塑哑光陶瓷、模压碳纤维或高科技时尚面料）。每个细节都力求逼真：清晰可见的缝线、微观材质纹理、精准的雕刻以及复杂的质感对比。
+
+** 3.摄影与灯光（电影工作室） :**
+使用Phase One中画幅相机和100mm微距镜头拍摄。景深极浅，主体细节清晰锐利，背景则呈现柔和细腻的散景效果。灯光采用专业的影棚柔光箱：柔和的环绕式补光，辅以精准的轮廓光，凸显物体的轮廓和材质纹理。
+
+** 4. 环境:**
+一个无缝、无可挑剔的干净的摄影棚环形背景，采用纯净、超浅的粉彩色调（例如，褪色的薄荷绿、淡腮红或灰白色），没有阴影。
+
+** 5. 布局和 UI 元素（严格放置） :**
+- **右下角:**品牌的小巧、低调、单色灰色标志。
+- **左下角:**描述发明产品的简洁单色灰色小字。字体样式类似Manrope Regular，字距非常紧凑（字距调整），行距均衡。示例格式：“概念研究：[AI插入发明产品名称]。材料：[AI插入主要材料]。2025春夏。”
+```
+
+<a id="prompt-938"></a>
+## 案例 938：女性正从她的手机屏幕中走出来 (来源 [@underwoodxie96](https://x.com/underwoodxie96/status/2002293540299420050)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/938.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女性正从她的手机屏幕中走出来">
+</div>
+
+**提示词：**
+```
+{
+
+"subject": {
+
+"description": "A hyper-realistic optical illusion photograph. A young Caucasian woman appears to be stepping out of a smartphone screen held in a hand. The screen displays the camera interface, capturing her boots, while her real upper body extends out of the phone into reality.",
+
+"mirror_rules": "Ensure the phone screen clearly shows the iOS Camera UI (shutter button, mode text). Handwritten annotations must be legible and not mirrored.",
+
+"age": "20s",
+
+"expression": {
+
+"eyes": {
+
+"look": "Alluring and playful",
+
+"energy": "Confident, direct",
+
+"direction": "Looking at the viewer"
+
+},
+
+"mouth": {
+
+"position": "Blowing a kiss or pouting",
+
+"energy": "Chic and charming"
+
+},
+
+"overall": "Lifelike, engaging interaction"
+
+},
+
+"face": {
+
+"preserve_original": "false",
+
+"makeup": "Natural glam, matte foundation, defined European features",
+
+"features": "High nose bridge, double eyelids, defined jawline"
+
+},
+
+"hair": {
+
+"color": "Dark brown",
+
+"style": "Long, loose waves, voluminous",
+
+"effect": "Realistic shine, wind-blown effect"
+
+},
+
+"body": {
+
+"frame": "Petite but proportionally realistic",
+
+"waist": "Defined",
+
+"chest": "Covered by turtleneck",
+
+"legs": "Visible INSIDE the phone screen interface wearing boots",
+
+"skin": {
+
+"visible_areas": "Face, hands",
+
+"tone": "Fair Caucasian skin",
+
+"texture": "Ultra-realistic skin texture, visible pores, natural imperfections",
+
+"lighting_effect": "Soft daylight"
+
+}
+
+},
+
+"pose": {
+
+"position": "Torso and head emerging vertically from the phone, legs displayed on the screen",
+
+"base": "Dynamic standing pose",
+
+"overall": "充满活力的随机姿势，让人感觉生命力满满"
+
+},
+
+"clothing": {
+
+"top": {
+
+"effect": "精致的穿搭，High-quality textile photography"
+
+},
+
+"bottom": {
+
+"type": "Mini Skirt and Leather Boots",
+
+"color": "Dark Grey (skirt), Brown (boots)",
+
+"details": "Boots visible on the screen beneath the UI elements"
+
+}
+
+}
+
+},
+
+"accessories": {
+
+"jewelry": "Gold rings on the photographer's hand (foreground)",
+
+"device": "Smartphone with burgundy case. The screen is ACTIVE and DETAILED: it displays the IOS Camera App Interface (white circular shutter button at bottom, 'PHOTO' text).",
+
+"prop": "On the phone screen: White handwritten-style text overlays with arrows pointing to the outfit elements (e.g., text 'suede jacket' with arrow, 'leather boots' with arrow)."
+
+},
+
+"photography": {
+
+"camera_style": "DSLR photography, Macro lens for phone details",
+
+"angle": "POV, High angle looking down at hand",
+
+"shot_type": "Composite photography",
+
+"aspect_ratio": "3:4",
+
+"texture": "Sharp screen pixels, fingerprint smudges on screen, realistic fabric texture",
+
+"lighting": "Overcast soft natural light",
+
+"depth_of_field": "Background bench blurred (Bokeh), Phone screen UI and subject sharp"
+
+},
+
+"background": {
+
+"setting": "Parisian Park in Autumn",
+
+"wall_color": "Green bench, grey ground",
+
+"elements": [
+
+"Green park bench with text 'Le silence'",
+
+"Autumn leaves"
+
+],
+
+"atmosphere": "Cinematic, realistic",
+
+"lighting": "Natural ambient light"
+
+},
+
+"the_vibe": {
+
+"energy": "Sophisticated, viral social media content",
+
+"mood": "Fashion forward",
+
+"aesthetic": "OOTD breakdown, creative edit",
+
+"authenticity": "Photorealistic texture, not CGI",
+
+"intimacy": "POV",
+
+"story": "Fashion styling breakdown",
+
+"caption_energy": "Styling brown suede & leather"
+
+},
+
+"constraints": {
+
+"must_keep": [
+
+"Caucasian ethnicity",
+
+"Photorealistic skin",
+
+"Camera UI elements on screen (shutter button)",
+
+"Handwritten text annotations on screen",
+
+"Pop-out effect"
+
+],
+
+"avoid": [
+
+"Transparent phone screen",
+
+"Blank screen",
+
+"3D render style",
+
+"Cartoon",
+
+"Plastic skin"
+
+]
+
+},
+
+"negative_prompt": [
+
+"transparent screen",
+
+"blank screen",
+
+"glass phone",
+
+"3d",
+
+"render",
+
+"cartoon",
+
+"anime",
+
+"plastic",
+
+"drawing",
+
+"illustration"
+
+]
+
+}
+```
+
+**中文提示词：**
+```
+{
+
+“主题”： {
+
+描述：一张超逼真的光学错觉照片。一位年轻的白人女性仿佛正从她手中的智能手机屏幕中走出来。屏幕显示的是相机界面，拍下了她的靴子，而她真实的上半身则从手机屏幕中延伸到现实世界。
+
+“mirror_rules”：确保手机屏幕清晰显示 iOS 相机界面（快门按钮、模式文本）。手写注释必须清晰可辨，且不能镜像翻转。
+
+年龄：20多岁，
+
+“表达”： {
+
+"眼睛": {
+
+“外观”：“迷人而俏皮”，
+
+“能量”：“自信、直接”
+
+“方向”：“看着观众”
+
+},
+
+“嘴”： {
+
+“姿势”：“飞吻或撅嘴”，
+
+“能量”：“时尚迷人”
+
+},
+
+“总体而言”：“栩栩如生、引人入胜的互动”
+
+},
+
+“脸”： {
+
+"preserve_original": "false",
+
+“妆容”：“自然光泽，哑光粉底，凸显欧洲五官”，
+
+特征：高鼻梁、双眼皮、轮廓分明的下颌线
+
+},
+
+“头发”： {
+
+“颜色”：“深棕色”，
+
+“发型”：“长而蓬松的波浪卷发”，
+
+“效果”： “逼真的光泽，风吹效果”
+
+},
+
+“身体”： {
+
+“画框”：“小巧但比例逼真”，
+
+“腰部”：“线条分明”，
+
+“胸部”： “被高领毛衣遮盖”
+
+“腿”：“在手机屏幕界面内部可以看到穿着靴子的腿”，
+
+“皮肤”： {
+
+"visible_areas": "脸部、手部",
+
+“肤色”: “白皙的白种人肤色”
+
+“质感”：“超逼真的肌肤质感，可见毛孔，自然瑕疵”，
+
+"lighting_effect": "柔和的日光"
+
+}
+
+},
+
+"姿势": {
+
+“位置”：“躯干和头部从手机中垂直伸出，腿部显示在屏幕上”，
+
+"基础": "动态站姿",
+
+"overall": "充满活力的随机姿势，让人感觉生命力饱满"
+
+},
+
+“衣服”： {
+
+“顶部”： {
+
+"effect": "精致的穿搭，高品质的纺织摄影"
+
+},
+
+“底部”： {
+
+“类型”：“迷你裙和皮靴”，
+
+颜色：深灰色（裙子），棕色（靴子）
+
+“详情”：“屏幕上用户界面元素下方可见的靴子”
+
+}
+
+}
+
+},
+
+“配件”： {
+
+“珠宝”：“摄影师手上（前景）的金戒指”，
+
+“设备”：“智能手机，酒红色手机壳。屏幕已激活且显示清晰：显示 iOS 相机应用程序界面（底部有白色圆形快门按钮，显示‘照片’字样）。”
+
+“道具”：“手机屏幕上：白色手写体文字叠加层，箭头指向服装元素（例如，文字‘麂皮夹克’带箭头，‘皮靴’带箭头）。”
+
+},
+
+“摄影”： {
+
+“camera_style”: “单反摄影，手机微距镜头，用于拍摄细节照片”
+
+“角度”：“POV，高角度向下看手”，
+
+"shot_type": "合成摄影",
+
+"aspect_ratio": "3:4",
+
+“纹理”：“清晰的屏幕像素，屏幕上的指纹污渍，逼真的织物纹理”，
+
+“光线”：“阴天柔和的自然光”，
+
+景深：背景虚化（散景），手机屏幕界面和主体清晰
+
+},
+
+“背景”： {
+
+“场景”：“秋天的巴黎公园”，
+
+"wall_color": "绿色长椅，灰色地面",
+
+“元素”：[
+
+“绿色公园长椅上写着‘寂静’”
+
+秋叶
+
+],
+
+“氛围”：“电影般的，逼真的”，
+
+“照明”：“自然环境光”
+
+},
+
+"氛围": {
+
+“能量”：“复杂、病毒式传播的社交媒体内容”，
+
+“氛围”：“时尚前卫”，
+
+“美学”：“OOTD分解，创意剪辑”
+
+“真实性”：“照片级真实纹理，而非 CGI”。
+
+“亲密感”: “POV”
+
+“故事”：“时尚造型解析”
+
+“caption_energy”： “棕色绒面革和皮革的时尚造型”
+
+},
+
+"约束": {
+
+"must_keep": [
+
+“高加索人种”
+
+“逼真的皮肤”，
+
+“屏幕上的相机用户界面元素（快门按钮）”
+
+“屏幕上的手写文字注释”
+
+“弹出效果”
+
+],
+
+“避免”： [
+
+“透明手机屏幕”，
+
+“空白屏幕”，
+
+“3D渲染风格”，
+
+“卡通片”，
+
+“塑料皮肤”
+
+]
+
+},
+
+"negative_prompt": [
+
+“透明屏幕”，
+
+“空白屏幕”，
+
+“玻璃手机”，
+
+“3d，”
+
+“使成为”，
+
+“卡通片”，
+
+“日本动画片”，
+
+“塑料”，
+
+“绘画”，
+
+“插图”
+
+]
+
+}
+```
+
+<a id="prompt-937"></a>
+## 案例 937：电影感十足的肖像摄影作品 (来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2002572543992213748)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/937.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影感十足的肖像摄影作品">
+</div>
+
+**提示词：**
+```
+cinematic portrait photography of a young woman sitting in a field at golden hour, soft natural light, silver-blonde short hair, minimal fashion with a black t-shirt and light bandana, fine art portrait style. emotional realism with calm expression, modern editorial mood, subject leaning against a mirror creating symmetrical reflection, high fashion editorial look, moody color grading, shallow depth of field, subject-isolation technique, viral visual composition, cinematic framing, contemporary visual storytelling. subtle texture in background, clean tones, artistic photography, urban stillness aesthetic blended with nature, soft contrast and gentle highlights.
+```
+
+**中文提示词：**
+```
+电影感十足的肖像摄影作品，一位年轻女子坐在田野中，沐浴在柔和的自然光下，一头银金色短发，身着黑色T恤和浅色头巾，简约时尚，展现出精致的艺术肖像风格。她神态平静，情感真挚，散发出现代时尚气息。她倚靠在镜子前，镜中映出对称的影像，营造出高级时尚大片的视觉效果。照片采用情绪化的色彩分级、浅景深和主体分离技巧，构图极具冲击力，画面充满电影感，以当代视觉叙事手法呈现。背景纹理细腻，色调干净，展现出艺术摄影的魅力，将都市的静谧与自然的和谐融合，对比柔和，高光轻柔。
+```
+
+<a id="prompt-936"></a>
+## 案例 936：卡通画变成 Funko Pop 乙烯基人偶 (来源 [@michaelrabone](https://x.com/michaelrabone/status/2002710702352421371)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/936.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通画变成 Funko Pop 乙烯基人偶">
+</div>
+
+**提示词：**
+```
+Transform this cartoon to a Funko Pop vinyl figure. Place the Funko Pop box beside the vinyl figure (side by side) with the name 'Rainbow Cheese' on box. Place vinyl figure and box on a pink surface and pink background with studio lighting.
+```
+
+**中文提示词：**
+```
+将这幅卡通画变成 Funko Pop 乙烯基人偶。将 Funko Pop 包装盒放在乙烯基人偶旁边（并排摆放），包装盒上写上“Rainbow Cheese”（彩虹奶酪）。将乙烯基人偶和包装盒放在粉色的平面和粉色的背景上，并使用摄影棚灯光照明。
+```
+
+<a id="prompt-935"></a>
+## 案例 935：Y2K时代的拼贴海报 (来源 [@0xbisc](https://x.com/0xbisc/status/2002664549930172496)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/935.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-Y2K时代的拼贴海报">
+</div>
+
+**提示词：**
+```
+{
+
+"variables": {
+
+"CITY_NAME": "Chengdu"
+
+},
+
+"image_specs": {
+
+"aspect_ratio": "4:5", "resolution": "2048x2560", "quality": "ultra", "style_strength": 0.8, "detail_level": "high", "sharpen": "medium"
+
+},
+
+"prompt": {
+
+"master_visual_brief": "A high-energy Y2K-inspired editorial collage poster with a strong paper-cut and magazine print aesthetic. The entire image has a tactile paper texture with visible cut edges and layered depth. The theme centers around the city {{CITY_NAME}}. All visual elements, including background imagery, stickers, symbols, typography, and graphic decorations, are culturally and visually inspired by {{CITY_NAME}}. The composition follows a fashion magazine cover logic with dense but controlled information, playful energy, and strong visual hierarchy. The character is designed as a dominant half-body portrait occupying most of the poster.", "photography_and_character": "Character: a randomly generated young woman aged approximately 18–25. She is fashionable, attractive, and trendy, with no fixed hairstyle, hair color, facial features, or makeup. Her appearance varies naturally but always remains stylish and visually appealing. Fashion style is Y2K-inspired street fashion with playful silhouettes, layered styling, and trendy colors. Framing is a strict half-body portrait: the image is cropped at the waist or slightly above, and the lower body is not visible at all. Only the upper torso, shoulders, neck, and head are shown. Pose and gesture: the character performs a randomly selected Y2K-style dynamic pose with strong tension and attitude, including expressive arm extensions, angular elbow bends, asymmetrical shoulder twists, or forward-reaching gestures. Body language remains bold, confident, and energetic. Facial expression: the expression is slightly playful and friendly, with a hint of cuteness layered on top of confidence. Subtle smiles, softly open lips, bright eyes, or a relaxed playful look are allowed, while the overall attitude remains fashion-forward and dynamic rather than cute-only.", "camera_and_lighting": "Editorial portrait framing with a wide-angle look at close distance, optimized for half-body composition. The camera captures only the upper torso and head, with the lower body fully cropped out of frame. Perspective supports dynamic Y2K poses without distorting facial proportions. Lighting is soft, even, and magazine-style, avoiding harsh shadows. The subject is intended to be cut out and integrated into a paper collage rather than rendered as pure realism.", "graphic_design_layout": "Center-focused editorial collage layout. At the top, the city name '{{CITY_NAME}}' appears as the main headline in bold uppercase geometric sans-serif letters. Each letter is placed on an individual colored paper rectangle and arranged in a slight arc. The large half-body character overlaps and partially covers the headline and nearby graphic elements, creating a break-the-frame effect. Surrounding the character are floating paper stickers, speech bubbles, and cut-out graphics inspired by {{CITY_NAME}} culture, including local food, landmarks, symbols, street signs, and iconic objects. The bottom section features a full-width magazine-style collage footer composed of layered paper strips, bold button-style typography, small editorial text blocks, and thumbnail-style graphics.", "background_system": "The background is a black-and-white or desaturated urban street scene from {{CITY_NAME}}, such as crowds, architecture, or city textures. Background contrast is reduced and softened with grain so it supports the composition without competing with the main subject. The background is partially obscured by the large half-body character and collage elements and maintains a printed-paper appearance rather than photographic realism.", "materials_and_textures": "A consistent paper-based aesthetic across the entire image. Visible paper grain, halftone dots, print noise, and slight ink bleed. All elements appear as physical paper cut-outs layered together. Edges are imperfect and tactile. Stickers, typography, and characters cast subtle shadows to suggest layered depth. No glossy, metallic, or digital materials are present.", "composition_and_balance": "Clear and stable visual hierarchy: top city headline '{{CITY_NAME}}', central half-body character (upper torso only), dynamic Y2K-style pose with slightly playful facial expression, surrounding city-themed stickers, and bottom magazine-style collage footer. Strong overlaps between character, typography, and stickers create depth while preserving the established layout."
+
+},
+
+"constraints": {
+
+"must_include": \[ "City name headline using {{CITY_NAME}}", "Strict half-body portrait (waist-up only)", "Lower body completely cropped out", "Y2K-style dynamic pose with strong tension", "Playful but controlled facial expression", "Paper collage and cut-out magazine aesthetic", "City-specific background and stickers related to {{CITY_NAME}}", "Full-width magazine-style collage footer", "Visible paper texture and layered depth" \], "must_avoid": \[ "Full-body view", "Visible legs, knees, thighs, or feet", "Neutral or stiff poses", "Overly cute or childish expressions", "Sexualized expressions or gestures", "Grotesque facial distortion", "Minimalist or empty layouts", "Glossy digital or 3D materials" \]
+
+},
+
+"negative_prompt": "full body, legs visible, knees, thighs, feet, stiff pose, neutral posture, childish expression, exaggerated cute face, sexualized expression, blurry face, deformed hands, extra fingers, bad anatomy, grotesque distortion, minimalist layout, flat image, hyper-realistic photography, glossy surfaces, plastic skin, dull colors, watermark, logo, unreadable text",
+
+"typography_rules": {
+
+"headline": { "text": "{{CITY_NAME}}", "font_style": "bold geometric sans-serif, uppercase", "treatment": "each letter on a separate colored paper rectangle, slightly arched, subtle shadow", "material": "printed paper cut-out" }, "supporting_text": { "style": "editorial magazine blocks, playful sticker captions, speech bubbles", "material": "paper-based printed texture" }
+
+},
+
+"rendering_notes": {
+
+"depth_layers": "background city paper layer -> mid-ground half-body character -> foreground dynamic pose, expressive face, stickers, and typography", "print_feel": "strong magazine print texture with halftone dots, paper grain, and slight ink bleed", "edge_treatment": "clearly visible imperfect cut paper edges"
+
+}
+
+}
+```
+
+**中文提示词：**
+```
+{
+
+"变量": {
+
+城市名称：成都
+
+},
+
+"image_specs": {
+
+"aspect_ratio": "4:5", "resolution": "2048x2560", "quality": "ultra", "style_strength": 0.8, "detail_level": "high", "sharpen": "medium"
+
+},
+
+“提示词”： {
+
+“视觉设计概要”： “这是一张充满活力、灵感源自Y2K时代的拼贴海报，具有强烈的剪纸和杂志印刷美感。整幅图像呈现出触感丰富的纸张纹理，可见的切割边缘和层次感。主题围绕着城市{{ CITY_NAME }}展开。所有视觉元素，包括背景图像、贴纸、符号、字体和图形装饰，都从文化和视觉上汲取灵感，源自城市{{ CITY_NAME }} 。构图遵循时尚杂志封面的逻辑，信息丰富但控制得当，充满活力，并具有清晰的视觉层次。人物被设计成占据海报大部分空间的半身肖像。” “摄影与人物”： “人物：一位随机生成的年轻女性，年龄在18至25岁之间。她时尚、迷人、潮流，没有固定的发型、发色、五官或妆容。她的外貌自然变化，但始终保持时尚和视觉吸引力。时尚风格是受Y2K时代启发的街头时尚。”俏皮的轮廓、层次丰富的造型和潮流的色彩。构图采用严格的半身像：画面裁剪至腰部或略高于腰部，下半身完全不可见。仅展现上半身、肩膀、颈部和头部。姿势和手势：人物摆出随机选择的Y2K风格动态姿势，充满张力和态度，包括富有表现力的手臂伸展、肘部角度弯曲、不对称的肩部扭转或向前伸展的动作。肢体语言大胆、自信且充满活力。面部表情：表情略带俏皮和友好，在自信之上又增添了一丝可爱。允许有淡淡的微笑、微微张开的嘴唇、明亮的眼神或轻松俏皮的表情，整体风格保持时尚前卫和动感，而非仅仅可爱。“相机和灯光”：“采用广角镜头近距离拍摄的编辑人像构图，针对半身像进行了优化。相机仅拍摄上半身和头部，下半身不可见。”人物身体完全裁剪出画面之外。透视效果支持动态的千禧年风格姿势，且不会扭曲面部比例。光线柔和均匀，采用杂志风格，避免了生硬的阴影。人物旨在被剪裁并融入纸质拼贴画中，而非以纯粹的写实手法呈现。平面设计布局：以中心为焦点的编辑拼贴画布局。顶部，城市名称“ {{城市名称}} ”以粗体大写几何无衬线字体作为主标题。每个字母都放置在单独的彩色纸质矩形上，并呈略微弧形排列。较大的半身人物与标题和附近的图形元素重叠并部分覆盖，营造出一种打破画面框架的效果。人物周围环绕着漂浮的纸质贴纸、对话气泡和剪纸图形，其灵感来自{{城市名称}}的文化，包括当地美食、地标、符号、路标和标志性物品。底部部分是一个由多层纸张组成的全宽杂志风格拼贴画页脚。条状文字、醒目的按钮式字体、小型编辑文本块和缩略图式图形。”, “背景系统”: “背景是来自{{城市名称}}的黑白或低饱和度城市街景，例如人群、建筑或城市纹理。背景对比度降低，并添加了颗粒感以柔化画面，从而在不干扰主体的情况下支持构图。背景部分被大型半身人物和拼贴元素遮挡，保持了印刷纸的外观，而非照片的真实感。”, “材质与纹理”: “整个图像保持一致的纸质美学。可见的纸张纹理、半色调网点、印刷噪点和轻微的墨迹晕染。所有元素都像是层叠在一起的实体纸片。边缘不完美且触感明显。贴纸、字体和人物投射出微妙的阴影，暗示出层次感。没有光泽、金属或数字材质。”, “构图与平衡”: “清晰稳定的视觉层次：顶部城市标题“ {{城市名称}} ”，中央半身人物（仅上半身），动态的千禧年风格姿势，略带俏皮的面部表情，周围环绕着城市主题贴纸，底部是杂志风格的拼贴页脚。人物、字体和贴纸之间的强烈重叠在保持既定布局的同时，营造出层次感。
+
+},
+
+"约束": {
+
+"必须包含：" [ "使用城市名称作为标题{{ CITY_NAME }} ", "严格的半身像（仅腰部以上）", "下半身完全裁剪", "Y2K风格的动态姿势，充满张力", "俏皮但克制的表情", "纸质拼贴和剪贴杂志风格", "与城市相关的背景和贴纸{{ CITY_NAME }} ", "全宽杂志风格拼贴页脚", "可见的纸张纹理和层次感" ], "必须避免：" [ "全身照", "可见的腿、膝盖、大腿或脚", "中性或僵硬的姿势", "过于可爱或幼稚的表情", "性化的表情或手势", "怪诞的面部扭曲", "极简主义或空白的布局", "光面数字或3D材质" ]
+
+},
+
+"negative_prompt": "全身，腿部可见，膝盖，大腿，脚，僵硬姿势，中立姿势，幼稚表情，夸张可爱表情，性化表情，模糊面部，畸形手，多余手指，解剖结构错误，怪诞扭曲，极简布局，平面图像，超写实摄影，光滑表面，塑料皮肤，暗淡色彩，水印，标志，无法辨认的文字",
+
+"typography_rules": {
+
+"标题": { "正文": " {{城市名称}} ", "字体": "粗体几何无衬线字体，大写", "处理方式": "每个字母位于单独的彩色纸矩形上，略微拱起，带有微妙的阴影", "材质": "印刷纸剪裁" }, "辅助文本": { "风格": "杂志社论版块，趣味贴纸标题，对话气泡", "材质": "纸质印刷纹理" }
+
+},
+
+"渲染注释": {
+
+"depth_layers": "背景：城市纸张层->中景：半身人物->前景：动态姿势、表情丰富的面部、贴纸和文字。"print_feel": "强烈的杂志印刷纹理，带有半色调网点、纸张纹理和轻微的墨迹晕染。"edge_treatment": "清晰可见的不完美裁切纸张边缘。"
+
+}
+
+}
+```
+
+<a id="prompt-934"></a>
+## 案例 934：女性自拍照 (来源 [@Ankit_patel211](https://x.com/Ankit_patel211/status/2002377471388442654)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/934.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女性自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "generative_directive": {
+    "technical_specifications": {
+      "format": "Mirror Selfie",
+      "device": "Smartphone Camera",
+      "device_model_prop": "iPhone 16 Pro Max",
+      "lens_type": "Wide-angle lens",
+      "aspect_ratio": "9:16",
+      "focal_priority": [
+        "Body",
+        "Hands"
+      ]
+    },
+    "subject_configuration": {
+      "demographics": "Woman",
+      "skin_appearance": "Warm and even tone",
+      "posture": {
+        "body_angle": "Slightly angled",
+        "vibe": "Relaxed, natural feeling",
+        "right_hand": "Holding phone next to face",
+        "left_arm": "Hanging naturally near body",
+        "interaction": "Holding a shoulder bag in left hand"
+      }
+    },
+    "apparel_breakdown": {
+      "garment_type": "Short Dress",
+      "color_palette": {
+        "base": "Cream-white",
+        "accent_pattern": "Pink roses and green leaves"
+      },
+      "design_elements": {
+        "straps": "Thin straps",
+        "neckline": "Softly draped",
+        "silhouette": "Fitted, highlighting waist and hips",
+        "detailing": "Gentle gathering around abdomen",
+        "hemline": "Short and slightly wavy"
+      },
+      "textile_properties": {
+        "weight": "Lightweight and fluid",
+        "elasticity": "Soft elasticity",
+        "texture": "Subtle natural sheen",
+        "drape": "Gentle drape"
+      },
+      "style_keywords": [
+        "Romantic",
+        "Feminine",
+        "Elegant"
+      ]
+    },
+    "styling_details": {
+      "accessories": {
+        "jewelry": "Thin gold bracelet",
+        "bag": "Shoulder bag"
+      },
+      "beauty": {
+        "makeup_style": "Light and natural",
+        "complexion": "Fresh",
+        "cheeks": "Soft blush",
+        "lips": "Natural pink-toned, partially visible"
+      },
+      "nails": {
+        "shape": "Almond-shaped",
+        "length": "Medium",
+        "color": "Light nude shade"
+      }
+    },
+    "scene_environment": {
+      "location_type": "Fairly bright interior",
+      "background_elements": "Smooth, minimalist white wall",
+      "lighting_setup": {
+        "source": "Natural daylight from side window",
+        "quality": "Soft, diffused",
+        "highlight_targets": [
+          "Bright tones",
+          "Refined textures",
+          "Gold accessory details"
+        ]
+      }
+    },
+    "critical_constraints": {
+      "preservation_rule": "Strictly maintain original face, facial features, proportions, skin texture, and expression. No alterations to identity."
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"generative_directive": {
+"technical_specifications": {
+"格式": "镜子自拍",
+"设备": "智能手机摄像头",
+"device_model_prop": "iPhone 16 Pro Max",
+"lens_type": "广角镜头",
+"aspect_ratio": "9:16",
+"焦点优先级": [
+“身体”，
+“手”
+]
+},
+"subject_configuration": {
+“人口统计信息”：“女性”，
+"skin_appearance": "温暖均匀的肤色",
+"姿势": {
+"body_angle": "略微倾斜",
+“氛围”：“轻松、自然的感觉”，
+"右手": "将手机举到脸旁",
+"左臂": "自然下垂于身体附近",
+“互动”：“左手拿着肩包”
+}
+},
+"apparel_breakdown": {
+"garment_type": "短裙",
+"color_palette": {
+“基色”: “乳白色”
+"accent_pattern": "粉色玫瑰和绿色叶子"
+},
+"design_elements": {
+“肩带”： “细肩带”
+“领口”：“柔软垂坠”，
+“轮廓”：“修身，凸显腰部和臀部”，
+“细节”：“腹部周围轻柔地收拢”，
+裙摆：短款，略微卷曲
+},
+"textile_properties": {
+“重量”： “轻盈流畅”
+“弹性”： “柔软弹性”，
+“质感”：“柔和自然的光泽”，
+"drape": "轻柔的垂坠"
+},
+"style_keywords": [
+“浪漫的”，
+“女性化的”，
+“优雅的”
+]
+},
+"styling_details": {
+“配件”： {
+“珠宝”：“细金手镯”，
+“包”： “肩包”
+},
+“美丽”： {
+"makeup_style": "清淡自然"
+“肤色”： “清新”，
+“脸颊”：“淡淡的红晕”，
+“嘴唇”： “自然粉色调，部分可见”
+},
+"指甲": {
+“形状”： “杏仁形”
+"长度": "中等",
+颜色：浅裸色
+}
+},
+"scene_environment": {
+"location_type": "室内光线充足",
+"background_elements": "光滑、简约的白色墙壁",
+"lighting_setup": {
+“光源”：“侧窗的自然日光”，
+“品质”：“柔和、扩散”，
+"highlight_targets": [
+“明亮的色调”，
+“精致的质感”，
+“金色配饰细节”
+]
+}
+},
+"critical_constraints": {
+"preservation_rule": "严格保持原有的面部特征、比例、皮肤纹理和表情。不得改变身份。"
+}
+}
+}
+```
+
+<a id="prompt-933"></a>
+## 案例 933：女性在奔跑时腾空而起 (来源 [@underwoodxie96](https://x.com/underwoodxie96/status/2002639331501224005)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/933.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女性在奔跑时腾空而起">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "description": "A fit young Asian woman frozen in mid-air while running, capturing a dynamic athletic moment.",
+    "mirror_rules": "N/A",
+    "age": "20s",
+    "expression": {
+      "eyes": {
+        "look": "focused ahead",
+        "energy": "determined",
+        "direction": "forward"
+      },
+      "mouth": {
+        "position": "slightly open breathing",
+        "energy": "concentrated"
+      },
+      "overall": "intense focus and athletic determination"
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "natural fresh look"
+    },
+    "hair": {
+      "color": "black",
+      "style": "high ponytail",
+      "effect": "flying back dynamically due to motion"
+    },
+    "body": {
+      "frame": "athletic and toned",
+      "waist": "visible silhouette",
+      "chest": "covered",
+      "legs": "muscular definition visible, mid-air stride",
+      "skin": {
+        "visible_areas": "legs, face, hands",
+        "tone": "warm tan",
+        "texture": "smooth with muscle definition",
+        "lighting_effect": "high contrast sunlight highlights"
+      }
+    },
+    "pose": {
+      "position": "mid-air jump",
+      "base": "levitating",
+      "overall": "dynamic running stride, one knee raised high, arms swinging"
+    },
+    "clothing": {
+      "top": {
+        "type": "long-sleeve athletic zip-up jacket",
+        "color": "pastel pink",
+        "details": "fitted, sporty seams",
+        "effect": "stretched with movement"
+      },
+      "bottom": {
+        "type": "athletic shorts",
+        "color": "pastel pink",
+        "details": "matching set"
+      }
+    }
+  },
+  "accessories": {
+    "headwear": null,
+    "jewelry": null,
+    "device": null,
+    "prop": {
+      "type": "footwear",
+      "details": "white sneakers with black swoosh logo, white crew socks"
+    }
+  },
+  "photography": {
+    "camera_style": "commercial advertising photography",
+    "angle": "low angle worm's eye view",
+    "shot_type": "full body side profile",
+    "aspect_ratio": "3:4",
+    "texture": "sharp focus, high contrast, commercial print quality",
+    "lighting": "hard daylight, direct sun, strong shadows",
+    "depth_of_field": "deep, background visible but geometric"
+  },
+  "background": {
+    "setting": "urban modern exterior",
+    "wall_color": "blue-grey glass",
+    "elements": [
+      "geometric triangular glass facade",
+      "metallic frames",
+      "reflection of runner in glass",
+      "brick pavement at bottom"
+    ],
+    "typography": {
+      "text_content": "JUST DO IT",
+      "font_style": "Massive Bold Sans-Serif (Nike style)",
+      "color": "White",
+      "position": "Center of the image",
+      "integration": "Layered text: placed behind the subject or overlaying the center with slight transparency",
+      "visual_weight": "Dominant slogan"
+    },
+    "atmosphere": "modern, clean, energetic, motivational",
+    "lighting": "bright natural sunlight"
+  },
+  "the_vibe": {
+    "energy": "explosive power",
+    "mood": "motivational",
+    "aesthetic": "urban sportswear commercial",
+    "authenticity": "high",
+    "intimacy": "distant observer",
+    "story": "morning run in the city, pushing limits",
+    "caption_energy": "Just Do It."
+  },
+  "constraints": {
+    "must_keep": [
+      "text 'JUST DO IT' clearly visible",
+      "mid-air suspension",
+      "pastel pink outfit",
+      "geometric glass background",
+      "sharp focus"
+    ],
+    "avoid": [
+      "misspelled text",
+      "text covering the face",
+      "blur",
+      "studio background",
+      "static pose"
+    ]
+  },
+  "negative_prompt": [
+    "typos",
+    "gibberish text",
+    "cluttered text",
+    "motion blur",
+    "distorted limbs",
+    "bad anatomy",
+    "extra legs",
+    "dull lighting"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+描述：一位身材健美的年轻亚裔女性在奔跑时腾空而起，定格了她充满活力的运动瞬间。
+"mirror_rules": "N/A",
+年龄：20多岁，
+“表达”： {
+"眼睛": {
+“看”：“专注于前方”，
+“能量”：“坚定的”，
+“方向”: “向前”
+},
+“嘴”： {
+“姿势”：“微微张开呼吸”，
+“能量”: “集中的”
+},
+“总体而言”：“高度专注和运动上的决心”
+},
+“脸”： {
+"preserve_original": true,
+妆容： “自然清新妆容”
+},
+“头发”： {
+“颜色：黑色”，
+“发型”：“高马尾辫”，
+“效果”：“由于运动而动态地向后飞”
+},
+“身体”： {
+“体型”： “运动型且线条优美”，
+“腰部”: “可见轮廓”，
+“胸部”： “覆盖的”，
+“腿部”：“肌肉线条清晰可见，腾空迈步”，
+“皮肤”： {
+"visible_areas": "腿、脸、手",
+“色调”：“暖棕色”，
+“质地”：“光滑，肌肉线条分明”，
+"lighting_effect": "高对比度阳光高光"
+}
+},
+"姿势": {
+“位置”：“空中跳跃”，
+“基座”：“悬浮”，
+“整体”： “动态跑步步伐，单膝高抬，双臂摆动”
+},
+“衣服”： {
+“顶部”： {
+“类型”：“长袖运动拉链夹克”，
+“颜色”： “淡粉色”，
+“细节”：“合身、运动感十足的缝线”，
+“效果”：“随着运动而拉伸”
+},
+“底部”： {
+“类型”：“运动短裤”，
+“颜色”： “淡粉色”，
+“详情”：“配套套装”
+}
+}
+},
+“配件”： {
+“头饰”：null，
+“珠宝”：null，
+“设备”：null，
+"prop": {
+"type": "鞋类",
+“细节”：“白色运动鞋，黑色耐克标志，白色船袜”
+}
+},
+“摄影”： {
+"camera_style": "商业广告摄影",
+“角度”: “低角度虫眼视图”
+"shot_type": "全身侧脸轮廓",
+"aspect_ratio": "3:4",
+“纹理”：“清晰聚焦，高对比度，商业印刷质量”，
+“照明”：“强烈的日光、直射阳光、强烈的阴影”，
+景深： “深邃，背景可见但呈几何形状”
+},
+“背景”： {
+“环境”: “都市现代外观”，
+"wall_color": "蓝灰色玻璃"
+“元素”：[
+“几何三角形玻璃幕墙”，
+“金属框架”，
+“跑步者在玻璃中的倒影”
+“底部是砖砌路面”
+],
+"排版": {
+"text_content": "JUST DO IT",
+"font_style": "Massive Bold Sans-Serif (Nike style)",
+颜色：白色，
+"位置": "图像中心",
+“整合”：“分层文本：放置在主体后面或以略微透明的方式覆盖中心”，
+"视觉权重": "主要标语"
+},
+“氛围”：“现代、干净、充满活力、令人振奋”
+“照明”：“明亮的自然阳光”
+},
+"氛围": {
+“能量”：“爆炸力”，
+“情绪”：“激励的”，
+“美学”: “都市运动服饰广告”
+“真实性”： “高”，
+“亲密”: “疏离的观察者”，
+“故事”：“城市晨跑，挑战极限”
+“caption_energy”： “Just Do It.”
+},
+"约束": {
+"must_keep": [
+“文字‘JUST DO IT’清晰可见”，
+“空中悬架”，
+“淡粉色套装”，
+“几何玻璃背景”，
+“清晰聚焦”
+],
+“避免”： [
+拼写错误的文本
+“遮住脸部的文字”，
+“模糊”，
+“摄影棚背景”，
+“静态姿势”
+]
+},
+"negative_prompt": [
+错别字，
+“乱码文本”，
+“杂乱的文本”，
+“动态模糊”，
+“肢体畸形”，
+“糟糕的解剖学”
+“额外的腿”，
+“昏暗的灯光”
+]
+}
+```
+
+<a id="prompt-932"></a>
+## 案例 932：电影般的时尚网格图 (来源 [@AIwithkhan](https://x.com/AIwithkhan/status/2002567761151864933)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/932.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影般的时尚网格图">
+</div>
+
+**提示词：**
+```
+A cinematic fashion grid showing the uploaded photo styled in different outfits: casual, formal, ethnic, streetwear, luxury, sporty. Same face, same pose, neutral background, editorial fashion layout.
+Consistent facial features and proportions across all looks, with only clothing, styling, and accessories changing.
+Soft professional studio lighting with balanced shadows for a high-end magazine feel.
+Ultra-realistic fabric textures, refined color grading, sharp details, modern fashion editorial aesthetic.
+```
+
+**中文提示词：**
+```
+一个电影般的时尚网格图，展示了上传的照片搭配不同服装的效果：休闲、正式、民族风、街头风、奢华风、运动风。同一张脸，同样的姿势，中性背景，时尚大片式的排版。
+所有造型都保持一致的面部特征和比例，只有服装、造型和配饰会发生变化。
+柔和的专业影棚灯光，搭配均衡的阴影，营造出高端杂志般的质感。
+超逼真的面料纹理、精细的色彩分级、清晰的细节、现代时尚大片美学。
+```
+
+<a id="prompt-931"></a>
+## 案例 931：年轻女性的韩式时尚特写肖像 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2002410368476627268)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/931.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女性的韩式时尚特写肖像">
+</div>
+
+**提示词：**
+```
+"subject": {
+"description": "A Korean-editorial close-up portrait of a young woman use attached photo with porcelain-white skin, captured in a fleeting instant as wind lifts her black hair mid-motion. A single narrow hard light beam strikes her face from a 45-degree diagonal angle, illuminating only the facial planes while everything else falls into deep shadow. A very faint prism/refraction rainbow appears subtly within the lit area, creating a cool, sharp, effortless swagger.", "mirror_rules": null, "age": "early 20s", "expression": { "eyes": { "look": "steady, unbothered", "energy": "cool confidence, detached", "direction": "toward the camera with a slight side gaze" }, "mouth": { "position": "slightly parted", "energy": "controlled, unapologetic" }, "overall": "cool, restrained, sharp swagger" }, "face": { "preserve_original": true, "makeup": "K-beauty clean matte look: softly structured brows, minimal eyeliner, low-saturation lips, porcelain skin with 
+}
+```
+
+**中文提示词：**
+```
+"主体"：{"描述"："参照所附照片，拍摄一位拥有瓷白肌肤的年轻女性的韩式时尚特写肖像，定格于微风拂起她黑发的动态瞬间。一道纤细的硬光光束从 45 度斜角打在她的脸上，仅照亮面部轮廓，其余所有区域均隐没于深邃阴影之中。在受光区域内，隐约浮现一道极淡的棱镜折射彩虹光斑，营造出清冷、利落且浑然天成的飒爽气场。"，"镜像规则"：无，"年龄"："二十岁出头"，"神态表情"：{"眼部"：{"眼神"："沉稳淡然"，"气质"："冷峻自信，疏离淡漠"，"视线方向"："直视镜头，略带侧视角度"},"唇部"：{"状态"："微张"，"气质"："克制沉稳，坦荡无畏"},"整体神态"："清冷克制，利落飒爽"},"面部"：{"保留原图特征"：是，"妆容"：" 韩式清透哑光妆效：眉形自然立体，眼线极简，唇色低饱和度，瓷白肌肤质感}
+```
+
+<a id="prompt-930"></a>
+## 案例 930：90年代复古黑白肖像照 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2002582470567604295)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/930.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-90年代复古黑白肖像照">
+</div>
+
+**提示词：**
+```
+Create and don't change her face.
+A highly artistic 90s vintage black and white (monochrome) portrait. It features a beautiful woman with classic facial features and long, voluminous, wavy, wind-blown black hair. She gazes off to the side with a pensive, poetic look. The woman holds a piece of ruffled white fabric or clothing against her chest, her shoulders wide open (off-shoulder). The plain, dark background provides a sharp contrast to her skin and white clothing. The image texture has a very pronounced film grain, a 35mm film aesthetic, and soft lighting that accentuates the cheekbones and hair texture. Masterpiece quality, 8k, emotional, and cinematic.
+```
+
+**中文提示词：**
+```
+保持她的容貌，不要改变她的容貌。
+这是一张极具艺术气息的90年代复古黑白肖像照。照片中的女子容貌姣好，五官经典，一头乌黑亮丽的长发随风飘扬，蓬松而富有波浪。她侧目凝视，眼神中流露出沉思和诗意。女子胸前披着一块白色褶皱布料或衣物，双肩敞开（露肩）。简洁的深色背景与她白皙的肌肤和洁白的衣衫形成鲜明对比。照片质感细腻，带有明显的胶片颗粒感，呈现出35毫米胶片的复古美感，柔和的光线突显了她的颧骨和发丝纹理。8K高清画质，情感饱满，极具电影质感，堪称艺术杰作。
+```
+
+<a id="prompt-929"></a>
+## 案例 929：女子面部的超近距离微距肖像 (来源 [@Vivekhy](https://x.com/Vivekhy/status/2002080283873714488)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/929.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子面部的超近距离微距肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_description": {
+    "subject": "Extreme close-up macro portrait of a young woman's face, partial view focusing on one eye, nose, and lips",
+    "skin_texture": "Hyper-realistic skin details, visible pores, dewy and fresh complexion, soft porcelain skin tone",
+    "eyes": "Sharp brown iris with highly detailed eyelashes, clear catchlight reflection, intense and soft gaze",
+    "hair": "Wet, messy strands of light brown hair falling naturally across the face and eye",
+    "lips": "Soft natural pink lips, subtle texture, slightly parted"
+  },
+  "artistic_style": {
+    "lighting": "Soft diffused cool lighting, cinematic blue tones, ambient soft shadows",
+    "aesthetic": "Photorealistic, Cinematic, Masterpiece, Raw photo quality, 8k resolution"
+  },
+  "camera_settings": {
+    "lens": "85mm",
+    "shot_type": "Macro / Extreme Close-up",
+    "aperture": "f/1.8 (shallow depth of field)",
+    "focus": "Sharp focus on the eye"
+  },
+  "output_parameters": {
+    "aspect_ratio": "1:1 (Square)",
+    "signature": "VIVEK HY",
+    "signature_location": "Bottom right corner"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_description": {
+“主题”：“年轻女子面部的超近距离微距肖像，局部视角，聚焦于一只眼睛、鼻子和嘴唇”，
+"skin_texture": "超逼真的皮肤细节，可见的毛孔，水润清新的肤色，柔和的瓷白肤色",
+“眼睛”：“锐利的棕色虹膜，睫毛细节丰富，眼神明亮，目光深邃而柔和”，
+“头发”：“湿漉漉的、凌乱的浅棕色头发自然地垂落在脸颊和眼睛上”，
+“嘴唇”： “柔软自然的粉红色嘴唇，质地细腻，微微张开”
+},
+"artistic_style": {
+“照明”：“柔和的漫射冷光，电影般的蓝色调，柔和的环境阴影”，
+“美学”： “照片级真实感、电影级、杰作级、原始照片质量、8K分辨率”
+},
+"camera_settings": {
+镜头：85mm，
+"shot_type": "微距/超近景",
+“光圈”: “f/1. 8 (浅景深)”，
+“聚焦”： “清晰聚焦于眼睛”
+},
+"output_parameters": {
+"aspect_ratio": "1:1 (正方形)",
+签名：VIVEK HY，
+"签名位置": "右下角"
+}
+}
+```
+
+<a id="prompt-928"></a>
+## 案例 928：女士手持一个自己的木质相框 (来源 [@AIwithSynthia](https://x.com/AIwithSynthia/status/2002578332496638452)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/928.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女士手持一个自己的木质相框">
+</div>
+
+**提示词：**
+```
+A stylish woman wearing a black fedora and white shirt stands against a soft neutral studio background, holding a wooden frame. Inside the frame is a photo watercolor portrait of herself, painted with loose brushstrokes, soft ink bleeds, and expressive splashes. The watercolor version tilts slightly, with vivid red lips and delicate facial details. Google Gemini Cinematic studio lighting, shallow depth of field, elegant editorial fashion aesthetic, fine art photography blended with watercolor illustration, ultra-high resolution, minimal composition, calm and sophisticated mood.
+```
+
+**中文提示词：**
+```
+一位身着黑色软呢帽和白色衬衫的时尚女士，站在柔和的中性色调摄影棚背景前，手持一个木质相框。相框内是一幅她本人的水彩肖像照片，笔触自由流畅，墨迹晕染自然，色彩泼洒灵动。水彩画略微倾斜，鲜艳的红唇和精致的面部细节跃然纸上。照片采用谷歌Gemini影棚灯光，浅景深，展现出优雅的时尚美学，将艺术摄影与水彩插画巧妙融合，超高分辨率，极简构图，营造出平静而精致的氛围。
+```
+
+<a id="prompt-927"></a>
+## 案例 927：女性站在KAWS风格艺术雕塑旁 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2002578056628601143)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/927.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女性站在KAWS风格艺术雕塑旁">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "Ultra realistic fashion editorial photography of a stylish young woman posing next to a gray KAWS-style art figure, One knee on the floor, one leg bent forward, body slightly angled, one arm resting casually on the statue’s head, the other hand on hip. Confident fierce expression, sharp gaze toward camera. Wearing a vibrant orange bucket hat with butterfly emblem, white fitted crop t-shirt with orange butterfly graphics, bright orange track pants with white piping, white sneakers Small orange shoulder bag, subtle tattoos visible, braided hair accents, minimal jewelry. Monochrome orange streetwear aesthetic. Minimalist indoor space with gray walls and clean floor. Soft diffused studio lighting, realistic skin texture, sharp focus, high fashion streetwear vibe, professional photography, ultra-detailed, 8K resolution. Don't change original face",
+  "negative_prompt": "low quality, blur, bad anatomy, extra fingers, extra limbs, distorted pose, cartoon, anime, illustration",
+  "parameters": {
+    "aspect_ratio": "2:3",
+    "version": "6",
+    "style": "raw",
+    "quality": 2
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：“超写实时尚大片，一位时髦的年轻女性站在一个灰色的KAWS风格艺术雕塑旁，单膝跪地，一条腿向前弯曲，身体略微倾斜，一只手臂随意地搭在雕塑的头部，另一只手叉腰。她表情自信而犀利，目光直视镜头。她戴着一顶饰有蝴蝶图案的亮橙色渔夫帽，一件印有橙色蝴蝶图案的白色修身露脐T恤，一条饰有白色滚边的亮橙色运动裤，一只白色运动鞋，一只小巧的橙色单肩包，隐约可见的纹身，编发点缀，佩戴极简的珠宝。整体呈现单色调的橙色街头服饰美学。极简主义的室内空间，灰色墙壁和干净的地板。柔和的漫射影棚灯光，逼真的皮肤纹理，清晰的焦点，高级时尚街头服饰氛围，专业摄影，超高细节，8K分辨率。请勿更改原图。”
+"negative_prompt": "低质量、模糊、解剖结构错误、多余手指、多余肢体、姿势扭曲、卡通、动漫、插画",
+“参数”： {
+"aspect_ratio": "2:3",
+版本：6，
+"风格": "原始"
+“质量”：2
+}
+}
+```
+
+<a id="prompt-926"></a>
+## 案例 926：金发女子跪在游艇甲板上 (来源 [@xmliisu](https://x.com/xmliisu/status/2002367350146773079)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/926.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金发女子跪在游艇甲板上">
+</div>
+
+**提示词：**
+```
+{ "lighting": {
+    "source": "Natural sunlight",
+    "quality": "Golden hour, soft and warm",
+    "shadows": "Soft, well-defined shadows cast by the subject and boat elements",
+    "direction": "From the right, slightly backlit",
+    "highlights": "Bright highlights on the water, boat railing, and subject's hair"
+  },
+  "background": {
+    "details": "Specific buildings, church dome, beach activity are visible",
+    "setting": "Positano, Amalfi Coast, Italy",
+    "distance": "Far",
+    "elements": [
+      "Cliffside town with colorful buildings",
+      "Sandy beach with umbrellas and people",
+      "Dark blue sea",
+      "Other boats",
+      "Lush green vegetation on the cliffs"
+    ],
+    "lighting_interaction": "Sunlight illuminates the town and cliffs, creating warm tones"
+  },
+  "typography": {
+    "color": "#2E4A7D",
+    "location": "On the side of the blue boat in the background right",
+    "font_style": "Sans-serif, uppercase, bold",
+    "description": "Boat name and registration details",
+    "text_content": "BLU RIDE"
+  },
+  "composition": {
+    "balance": "Asymmetrical balance between the subject in the foreground and the town in the background",
+    "framing": "Medium shot",
+    "perspective": "Slightly low angle, looking up towards the subject and background",
+    "leading_lines": "The boat's railing and deck lead the eye towards the subject and the town",
+    "depth_of_field": "Deep, with both subject and background in focus",
+    "rule_of_thirds": "Subject positioned in the lower right intersection"
+  },
+  "color_profile": {
+    "mood": "Warm, vibrant, luxurious",
+    "contrast": "Medium-high",
+    "saturation": "High",
+    "color_scheme": "Analogous blues and greens with warm earth tones",
+    "dominant_colors": [
+      "#2E4A7D",
+      "#F2F2F2",
+      "#C8A17B",
+      "#5A784A",
+      "#D98D6F"
+    ]
+  },
+  "technical_specs": {
+    "iso": "Low",
+    "aperture": "f/8 or smaller for deep depth of field",
+    "lens_type": "Wide-angle lens",
+    "resolution": "High",
+    "camera_type": "DSLR or mirrorless",
+    "aspect_ratio": "4:5",
+    "shutter_speed": "Fast enough to freeze motion"
+  },
+  "subject_analysis": {
+    "hair": "Blonde, wavy, wind-blown",
+    "pose": "Kneeling on the boat deck, body angled towards the camera, right hand holding sunglasses, left hand on the railing",
+    "clothing": "Black one-piece swimsuit with white trim and cutouts",
+    "expression": "Looking over sunglasses with a slight smile",
+    "accessories": "Dark sunglasses, gold bracelet, ring",
+    "subject_type": "Young woman",
+    "hands_gestures": "Right hand adjusting sunglasses, left hand resting on the railing",
+    "location_on_frame": "Foreground, center-right"
+  },
+  "artistic_elements": {
+    "mood": "Relaxed, luxurious, aspirational",
+    "style": "Lifestyle photography, candid",
+    "texture": "Smooth boat deck, textured water, rugged cliffs, fabric of the swimsuit",
+    "narrative": "A woman enjoying a luxurious boat trip along the Amalfi Coast"
+  },
+  "generation_parameters": {
+    "seed": "Random",
+    "prompt": "A lifestyle photograph of a young blonde woman kneeling on the deck of a boat, wearing a black and white swimsuit and sunglasses, looking back at the camera. In the background is the cliffside town of Positano, Italy, with colorful buildings, a beach, and the sea under golden hour sunlight. The boat is moving, with other boats visible. The style is candid and luxurious.",
+    "model_type": "Photorealistic",
+    "guidance_scale": "High",
+    "negative_prompt": "Blurry, low resolution, studio lighting, artificial, indoors, crowded, overcast"
+  }
+}
+```
+
+**中文提示词：**
+```
+{“灯光”： {
+“来源”：“自然阳光”，
+“品质”：“黄金时刻，柔和温暖”，
+“阴影”：“主体和船只元素投射出的柔和、轮廓清晰的阴影”，
+“方向”：“从右侧，略微背光”，
+“亮点”：“水面、船舷和人物头发上的明亮高光”
+},
+“背景”： {
+“细节”：“可以看到特定的建筑物、教堂圆顶和海滩活动”，
+“设置”：“意大利阿马尔菲海岸波西塔诺”
+“距离”: “远”
+“元素”：[
+“悬崖边的小镇，建筑色彩缤纷”
+“沙滩上有遮阳伞和人群”
+“深蓝色的大海”，
+“其他船只”，
+“悬崖上郁郁葱葱的植被”
+],
+"lighting_interaction": "阳光照亮城镇和悬崖，营造出温暖的色调"
+},
+"排版": {
+“颜色”: “ #2E4A7D “,
+“位置”：“在背景右侧蓝色船的侧面”，
+"font_style": "无衬线字体，大写，粗体",
+"描述": "船名和注册详情",
+"text_content": "BLU RIDE"
+},
+“作品”： {
+“平衡”：“前景主体与背景城镇之间的不对称平衡”，
+“构图”：“中景”，
+“视角”：“略微低角度，向上看向主体和背景”，
+"leading_lines": "船的栏杆和甲板引导视线看向主体和城镇",
+景深： “景深，主体和背景都清晰对焦”
+“三分法构图”：“主体位于右下角交点处”
+},
+"color_profile": {
+“氛围”：“温暖、充满活力、奢华”，
+“对比度”：“中高”
+“饱和度”: “高”
+"配色方案": "类似蓝色和绿色，搭配温暖的大地色调",
+"主色": [
+" #2E4A7D "，
+" #F2F2F2 "，
+" #C8A17B "，
+" #5A784A "，
+#D98D6F
+]
+},
+"technical_specs": {
+"iso": "低",
+“光圈”: “f /8或更小，以获得更大的景深”，
+"lens_type": "广角镜头",
+“分辨率”： “高”
+"camera_type": "单反或无反"
+"aspect_ratio": "4:5",
+"shutter_speed": "足够快，可以凝固运动"
+},
+“主题分析”：{
+“头发”：“金色的，波浪状的，被风吹乱的”，
+“姿势”：“跪在船甲板上，身体侧对着镜头，右手拿着太阳镜，左手扶着栏杆”，
+“服装”：“黑色连体泳衣，带有白色滚边和镂空设计”
+“表情”：“透过太阳镜，带着一丝微笑看着前方”，
+“配饰”：“深色太阳镜、金手镯、戒指”
+"subject_type": "年轻女子",
+“hands_gestures”: “右手调整太阳镜，左手扶在栏杆上”
+"location_on_frame": "前景，中心偏右"
+},
+“artistic_elements”：{
+“氛围”：“轻松、奢华、令人向往”
+“风格”：“生活方式摄影，抓拍”
+“质感”：“光滑的船甲板，波光粼粼的水面，崎岖的悬崖，泳衣的面料”，
+叙事：一位女士正在享受沿着阿马尔菲海岸的豪华游艇之旅
+},
+"generation_parameters": {
+“种子”： “随机”，
+提示：一张生活方式照片，一位年轻的金发女子跪在船甲板上，身穿黑白泳衣，戴着太阳镜，回头看向镜头。背景是意大利波西塔诺的悬崖小镇，色彩缤纷的建筑、沙滩和沐浴在金色阳光下的大海。船正在行驶，可以看到其他船只。风格自然而奢华。
+"model_type": "Photorealistic",
+"guidance_scale": "高",
+"negative_prompt": "模糊、低分辨率、影棚灯光、人造光、室内、拥挤、阴天"
+}
+}
+```
+
+<a id="prompt-925"></a>
+## 案例 925：健身房自拍照 (来源 [@xIrissy](https://x.com/xIrissy/status/2002372846807654508)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/925.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-健身房自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "image_analysis": {
+    "type": "Mirror Selfie",
+    "setting": "Gym / Fitness Center",
+    "subject": {
+      "gender": "Female",
+      "age_group": "Young Adult",
+      "appearance": {
+        "hair": "Long, dark, wavy",
+        "skin_tone": "Fair",
+        "expression": "Slight smile, looking at phone screen",
+        "details": "Visible sweat/sheen on skin indicating a workout"
+      },
+      "pose": "Seated on a gym bench, leaning slightly forward, holding a phone with the left hand"
+    },
+    "attire": {
+      "top": {
+        "color": "White",
+        "style": "Spaghetti strap tank top / camisole",
+        "text_content": "MayaBrynn"
+      },
+      "bottom": {
+        "color": "Beige / Tan",
+        "style": "Loose-fitting sweatpants"
+      }
+    },
+    "accessories": {
+      "phone": "iPhone (Pro model) with grey case"
+    },
+    "environment": {
+      "background_left": "Row of grey commercial treadmills",
+      "background_right": "Dumbbell rack with weights, gym equipment reflection in mirror",
+      "lighting": "Overhead artificial gym lighting",
+      "flooring": "Black rubber gym mats"
+    },
+    "technical_aspects": {
+      "perspective": "First-person reflection",
+      "focus": "Sharp on subject, slightly softer background",
+      "style": "Realistic, Social Media Aesthetic, Fitness"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_analysis": {
+类型： 镜子自拍，
+“设置”：“健身房/健身中心”，
+“主题”： {
+"性别": "女",
+"age_group": "青年人",
+“外貌”： {
+“头发”：“长，深色，波浪形”，
+"skin_tone": "白皙",
+“表情”：“微微一笑，看着手机屏幕”
+“细节”：“皮肤上有可见的汗水/光泽，表明进行过锻炼”
+},
+“姿势”：“坐在健身长凳上，身体略微前倾，左手拿着手机”
+},
+着装：{
+“顶部”： {
+颜色：白色，
+“款式”：“吊带背心/吊带衫”，
+"text_content": "MayaBrynn"
+},
+“底部”： {
+颜色：米色/棕褐色，
+款式：宽松运动裤
+}
+},
+“配件”： {
+“手机”: “iPhone（Pro 型号），灰色手机壳”
+},
+“环境”： {
+"background_left": "一排灰色的商用跑步机",
+"background_right": "哑铃架和杠铃片，健身器材在镜子中的倒影"
+“照明”：“体育馆顶棚人工照明”，
+“地板”： “黑色橡胶健身垫”
+},
+"technical_aspects": {
+“视角”: “第一人称反思”
+“焦点”：“主体清晰，背景略微柔和”，
+风格：写实、社交媒体美学、健身
+}
+}
+}
+```
+
+<a id="prompt-924"></a>
+## 案例 924：电视新闻演播室现场 (来源 [@Just_sharon7](https://x.com/Just_sharon7/status/2002615857185501519)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/924.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电视新闻演播室现场">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "person": "Young Western woman",
+    "pose": "Side profile, seated on a high white swivel bar stool, looking directly at the camera with a subtle, neutral expression",
+    "hair": "Dark blond, styled in a voluminous low side bun (chignon) with loose strands framing the face",
+    "clothing": {
+      "jacket": "Tailored bubblegum pink blazer, single-button closure, notched lapels",
+      "undershirt": "Plain white crew-neck top",
+      "trousers": "Matching bubblegum pink slim-fit dress pants",
+      "footwear": "Black canvas low-top sneakers with white soles and black laces (Vans style)"
+    }
+  },
+  "environment": {
+    "setting": "Professional television news studio or talk show set",
+    "background_elements": [
+      {
+        "type": "LED Screen",
+        "content": "Pink and white horizontal stripes with a vertical logo reading 'B NOW' in bold block letters"
+      },
+      {
+        "type": "Digital Graphic",
+        "content": "Blue circular futuristic HUD/UI interface graphic on a vertical panel"
+      }
+    ],
+    "furniture": "White modern curved bar stool with chrome pedestal base; glossy white and black reflective studio flooring"
+  },
+  "technical_details": {
+    "lighting": [
+      "High-key studio lighting",
+      "Large white softbox visible on a stand to the right",
+      "Black flag/scrim visible on the left side of the frame",
+      "Blue ambient LED accent lighting along the base of the walls"
+    ],
+    "camera_angle": "Medium full shot, eye-level, slight side-on perspective",
+    "composition": "The subject is centered vertically, positioned between studio equipment and digital screens, showing the 'behind-the-scenes' reality of the set",
+    "color_palette": {
+      "primary": "Bubblegum pink, stark white",
+      "secondary": "Deep blue, black",
+      "accents": "Chrome, neutral grey"
+    }
+  },
+  "vibe": "Professional yet candid, modern, broadcast media aesthetic"
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+“人”: “年轻的西方女性”
+“姿势”：“侧脸，坐在白色高脚旋转吧台凳上，直视镜头，表情微妙而中性”，
+“头发”：“深金色，梳成蓬松的低侧发髻（发髻），几缕碎发垂在脸颊两侧”，
+“衣服”： {
+“外套”：“修身泡泡糖粉色西装外套，单扣，缺角翻领”
+“内衣”： “纯白色圆领上衣”，
+“裤子”： “配套的泡泡糖粉色修身西裤”
+“鞋类”：“黑色帆布低帮运动鞋，白色鞋底，黑色鞋带（Vans 款式）”
+}
+},
+“环境”： {
+“场景”：“专业电视新闻演播室或脱口秀节目现场”，
+“背景元素”：[
+{
+"type": "LED屏幕",
+“内容”：“粉色和白色横条纹，带有醒目的竖排“B NOW”标志”
+},
+{
+"type": "数字图形",
+“内容”：“垂直面板上的蓝色圆形未来主义HUD/UI界面图形”
+}
+],
+“家具”：“白色现代弧形吧台凳，镀铬底座；亮白色和黑色反光工作室地板”
+},
+"technical_details": {
+“灯光”： [
+“高调影棚灯光”，
+“右侧支架上可以看到一个大型白色柔光箱，”
+“画面左侧可见黑色旗帜/幕布”，
+“沿墙底部设置蓝色环境LED重点照明”
+],
+“camera_angle”: “中景全景，平视，略微侧视”
+“构图”：“主体垂直居中，位于摄影棚设备和数字屏幕之间，展现了片场‘幕后’的真实情况。”
+"color_palette": {
+“主色”：泡泡糖粉色，纯白色，
+“次要的”: “深蓝色，黑色”
+“点缀色”：铬色、中性灰
+}
+},
+“氛围”：“专业而坦诚，现代，广播媒体美学”
+}
+```
+
+<a id="prompt-923"></a>
+## 案例 923：冬至海报 (来源 [@sundyme](https://x.com/sundyme/status/2002592213851832742)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/923.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-冬至海报">
+</div>
+
+**中文提示词：**
+```
+一个温馨的3D C4D Octane渲染场景，采用无黑色轮廓的羊毛针毡风格，具有盲盒玩具的柔和边缘审美。四只不同大小的粉彩（薄荷绿、嫩粉、淡蓝、奶油色）羊毛毡Labubu角色，身穿针织毛衣，有着标志性的圆润身体、兔耳和大眼睛，表情喜悦。它们围坐在铺着针织桌布的矮桌旁，桌上摆满热气腾腾的饺子、茶壶和餐具。一个角色正用筷子亲昵地喂另一个角色吃饺子。地面覆盖着羊毛雪和散落的心形装饰。左侧是挂着灯笼的盛开梅花枝，右侧是祥云图案。发光的羊毛心形在空中漂浮。背景是温暖的橙黄色渐变，营造出冬至家庭团聚的节日氛围。顶部是巨大、发光、毛绒质感的艺术字体“饺饺情深，岁岁安康”。中间是清晰简单的祝福语：“愿家人健康快乐，幸福安康！”。8K分辨率，高细节，暖光摄影棚照明，垂直2:3比例。
+```
+
+<a id="prompt-922"></a>
+## 案例 922：产品高端商业营销设计 (来源 [@firatbilal](https://x.com/firatbilal/status/2002424619232588218)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/922.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-产品高端商业营销设计">
+</div>
+
+**提示词：**
+```
+Create a 3×3 grid in
+3:4 aspect ratio for a high-end commercial marketing campaign using the uploaded product as the central subject.
+
+Each frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.
+
+Grid Concepts (one per cell):
+
+1. Iconic hero still life with bold composition
+
+2. Extreme macro detail highlighting material, surface, or texture
+
+3. Dynamic liquid or particle interaction surrounding the product
+
+4. Minimal sculptural arrangement with abstract forms
+
+5. Floating elements composition suggesting lightness and innovation
+
+6. Sensory close-up emphasizing tactility and realism
+
+7. Color-driven conceptual scene inspired by the product palette
+
+8. Ingredient or component abstraction (non-literal, symbolic)
+
+9. Surreal yet elegant fusion scene combining realism and imagination
+
+Visual Rules:
+Product must remain 100% accurate in shape, proportions, label, typography, color, and branding
+No distortion, deformation, or redesign of the product
+Clean separation between product and background
+
+Lighting & Style:
+Soft, controlled studio lighting
+Subtle highlights, realistic shadows
+High dynamic range, ultra-sharp focus
+Editorial luxury advertising aesthetic
+Premium sensory marketing look
+
+Overall Feel:
+Modern, refined, visually cohesive
+High-end commercial campaign
+Designed for brand websites, social grids, and digital billboards
+Hyperreal, cinematic, polished, and aspirational
+```
+
+**中文提示词：**
+```
+创建一个 3×3 的网格
+3:4 宽高比，适用于以上传产品为中心主题的高端商业营销活动。
+
+每幅画面都必须呈现独特的视觉概念，同时在所有九幅画面中保持产品的完美一致性。
+
+网格概念（每个单元格一个）：
+
+1. 构图大胆的标志性英雄静物画
+
+2. 极致的宏观细节，突出材质、表面或纹理。
+
+3. 产品周围的动态液体或颗粒相互作用
+
+4. 极简主义的抽象造型雕塑摆设
+
+5. 漂浮元素构成，暗示着轻盈和创新。
+
+6. 强调触觉和真实感的感官特写
+
+7. 以产品色卡为灵感的色彩驱动型概念场景
+
+8. 成分或组成部分抽象（非字面意义、符号意义）
+
+9. 超现实而又优雅的融合场景，兼具现实主义与想象力
+
+视觉规则：
+产品在形状、比例、标签、字体、颜色和品牌标识方面必须保持100%准确。
+产品不得有任何变形、扭曲或重新设计。
+产品与背景之间清晰分离
+
+灯光与风格：
+柔和、可控的摄影棚灯光
+微妙的高光，逼真的阴影
+高动态范围，超清晰对焦
+编辑奢华广告美学
+高端感官营销外观
+
+整体感觉：
+现代、精致、视觉上和谐统一
+高端商业推广活动
+专为品牌网站、社交媒体平台和数字广告牌而设计
+超现实的、电影般的、精致的、令人向往的
+```
+
+<a id="prompt-921"></a>
+## 案例 921：MacBook Pro打开了X应用的照片 (来源 [@marmaduke091](https://x.com/marmaduke091/status/2002348744491348365)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/921.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-MacBook Pro打开了X应用的照片">
+</div>
+
+**提示词：**
+```
+candid 3:4 still of a macbook pro with x opened on safari and this x account is mine (so don't put follow buttons there but accurate ones) as also the pfp can be seen on sidedock bar too, with next to it photobooth opened with me (this guy on pfp) selfie-ing from the webcam, do not change my face, no gibberish text, phone still, flat normal quality
+```
+
+**中文提示词：**
+```
+一张3:4比例的MacBook Pro照片，Safari浏览器打开了X应用，这个X账号是我的（所以不要放关注按钮，但要放准确的关注按钮），头像也显示在侧边栏，旁边打开了Photo Booth，我（头像上的这个人）正在用摄像头自拍，不要修改我的脸，没有乱码，手机拍摄，普通画质。
+```
+
+<a id="prompt-920"></a>
+## 案例 920：城市渲染数字艺术海报 (来源 [@op7418](https://x.com/op7418/status/2002592082125578427)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/920.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市渲染数字艺术海报">
+</div>
+
+**中文提示词：**
+```
+一张针对 [城市名称] 的城市渲染数字艺术海报。
+
+画面核心主体是一个漂浮在白云上方、形状像所选城市的并且占据画面大部分内容的微型岛屿。岛屿的形状与城市在地图上的形状相似，无缝融合城市独特的标志性地标、自然景观及文化元素。加入城市特有的鸟类、电影般的光影、鲜艳色彩、航拍视角和阳光反射效果，建筑不宜太多太密集。
+
+岛屿展现历史与现代的无缝融合。一部分是该城市最具代表性的古代历史建筑；另一部分平滑过渡为城市的地标建筑和天际线景观。
+
+岛屿漂浮浩瀚云海之上。云海采用该城市所在文化圈的传统艺术风格进行表现。
+
+立体城市拼音或英文名的 3D 文字漂浮在微型岛屿的上方，这组文字像一个生态与文化共生的微缩生态装置。
+
+在画面四周和主体周围，叠加一层极简、高雅、具有博物馆展板质感的信息排版层。主要检索相关的城市信息，主要信息使用经典的衬线字体，辅助数据可使用极细的极简无衬线体。在画面的角落，以类似古典地图集或高级杂志扉页的方式排版。用衬线体标注城市的地理坐标、别称或建城年份，以及当前的天气，作为装饰性的背景信息，整体排版留白极多，排版克制、干净、平衡，如同在欣赏一件珍贵的艺术品。
+
+风格要求： Octane Render, C4D, Isometric City, Micro World, Living Ecosystem, 8k Resolution. DreamWorks style, 3D modeling, delicate, soft light projection.
+```
 
 <a id="prompt-919"></a>
 ## 案例 919：丁香色长裙女性双版本比例对比 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/2001944607714673042)) 模型：Nano banana pro
