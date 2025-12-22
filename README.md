@@ -33,6 +33,19 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 963：圣诞特辑-圣诞姜饼跨框投喂 ](#prompt-963)
+*   [案例 962：圣诞特辑-圣诞小精灵 ](#prompt-962)
+*   [案例 961：圣诞特辑-圣诞活动邀请卡 ](#prompt-961)
+*   [案例 960：圣诞特辑-圣诞护肤品套装促销卡片 ](#prompt-960)
+*   [案例 959：电影级的增强现实视觉效果 ](#prompt-959)
+*   [案例 958：卡通风格钥匙扣 ](#prompt-958)
+*   [案例 957：高端专业平铺式产品摄影 ](#prompt-957)
+*   [案例 956：显示在2000年代初日本的手机屏幕上 ](#prompt-956)
+*   [案例 955：3D橡胶软管角色设计 ](#prompt-955)
+*   [案例 954：一张完整的产品高端宣传照 ](#prompt-954)
+*   [案例 953：普通物体转化为巨型纪念碑 ](#prompt-953)
+*   [案例 952：不同服装风格的贴纸 ](#prompt-952)
+*   [案例 951：衣服悬浮在空中 ](#prompt-951)
 *   [案例 950：圣诞特辑-我的圣诞与自己合拍 ](#prompt-950)
 *   [案例 949：圣诞特辑-红韵点睛圣诞风尚志 ](#prompt-949)
 *   [案例 948：圣诞特辑-圣诞四格甜妹 ](#prompt-948)
@@ -291,6 +304,289 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-963"></a>
+## 案例 963：圣诞特辑-圣诞姜饼跨框投喂 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2003109598232969590)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/963.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-圣诞姜饼跨框投喂">
+</div>
+
+**中文提示词：**
+```
+【关键：两边人物的面部必须与源图像完全相同】。左侧面板： 穿着带有驯鹿图案的米色毛衣，带着圣诞帽，身体右倾，手里拿着一块咬了一口的姜饼人饼干，正试图递过中间的分割线，眼神看向右侧。右侧面板： 穿着带有雪花图案的蓝色毛衣，身体左倾，张开嘴巴，手伸过分割线去接那块饼干。道具： 脚下有装饼干的铁盒和散落的糖霜。背景： 明亮的青色（Teal）摄影棚背景。灯光/风格： 平光，明亮，叙事感，俏皮。
+```
+
+<a id="prompt-962"></a>
+## 案例 962：圣诞特辑-圣诞小精灵 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2003101132378591474)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/962.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-圣诞小精灵">
+</div>
+
+**中文提示词：**
+```
+(杰作, 最高画质, 超细节, 8k分辨率). 一张照片般逼真的4格分屏拼图，所有画面为同一女性角色。[关键：保持精确的面部特征，保留原始脸部结构，整个拼图中角色完全一致]. 角色皮肤白皙，质感自然，眼神明亮。左上图：角色穿着绿色的圣诞精灵服装，戴着尖尖的精灵耳朵道具，对着镜头敬礼，表情顽皮。右上图：角色手里拿着一个巨大的玩具锤子，假装要敲打镜头，眼睛睁得圆圆的。左下图：角色正在包装礼物，嘴里咬着丝带的一端，眉头微皱显得很专注可爱。右下图：角色坐在礼物堆上，双手托腮，双脚悬空晃动，一脸满足。环境：色彩饱和的圣诞工坊背景，红绿撞色。灯光：明亮的影棚灯光，无阴影，卡通感强。风格：K-pop专辑内页风格，色彩鲜艳跳跃，清晰对焦，活泼搞怪。
+```
+
+<a id="prompt-961"></a>
+## 案例 961：圣诞特辑-圣诞活动邀请卡 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2003099057737412852)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/961.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-圣诞活动邀请卡">
+</div>
+
+**中文提示词：**
+```
+设计欢乐圣诞活动邀请卡,卡通风格,彩色气球和礼物图案,顶部大字"圣诞狂欢party",中文"时间:12月25日晚7点"、"地点:上海皇家酒店",可爱圣诞老人招手,活泼有趣风格,宽高比：9:16。
+```
+
+<a id="prompt-960"></a>
+## 案例 960：圣诞特辑-圣诞护肤品套装促销卡片 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2003096613359853946)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/960.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-圣诞特辑-圣诞护肤品套装促销卡片">
+</div>
+
+**中文提示词：**
+```
+制作一张专业的圣诞护肤品套装促销卡片,采用竖版构图设计,整体风格简约高端。背景使用柔和的渐变色,从顶部的冰雪白色过渡到底部的淡粉色,营造出清新优雅的氛围。画面中央偏上位置,精心摆放着一套高端护肤品礼盒,礼盒采用磨砂白色包装,表面压印精致的雪花纹理和品牌Logo(Dior)。礼盒呈打开状态,内部露出三瓶不同大小的护肤品瓶子,瓶身设计简约现代,搭配金色瓶盖。产品周围巧妙地摆放着圣诞装饰元素:几支新鲜的松枝、小巧的金色铃铛、几颗红色浆果,以及散落的小礼物盒,所有道具都经过精心布光,呈现出高级的产品摄影质感。卡片顶部使用纤细优雅的字体书写"圣诞礼遇 · 焕颜新生"的中文标题。中部产品下方用醒目的红色字体标注促销信息"限量礼盒装 8折优惠 买赠面膜5片",底部配有行动号召按钮样式的文字"立即抢购 数量有限",以及活动有效期"12月15日-26日"。整体设计强调产品质感和节日氛围的完美结合。宽高比9:16
+```
+
+<a id="prompt-959"></a>
+## 案例 959：电影级的增强现实视觉效果 (来源 [@oggii_0](https://x.com/oggii_0/status/2002963262812585990)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/959.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电影级的增强现实视觉效果">
+</div>
+
+**提示词：**
+```
+A dreamlike, movie-quality augmented reality visual where numerous hovering Spotify player interface cards orbit the central figure (the person shown) in a complete 3D spatial composition, with each music player card strategically placed at varying distances, some prominently positioned in front and partially covering the subject, while others float behind and alongside them, utilizing the authentic Apple Music UI/Spotify UI elements playback progress indicators and featuring songs by [Artist Name]; all cards display smooth rounded edges with subtle angular perspective shifts, presenting a translucent, frosted-glass aesthetic that radiates a gentle diffused border luminescence with measured cinematic light bloom interacting organically with the ambient lighting of the scene; the composition showcases a cool-to-neutral color palette with rich yet preserved shadow detail, strategic bursts of color from album artwork, medium-high contrast levels with gradual highlight transitions, delicate focal depth variation where nearer cards maintain crisp detail while farther ones receive gentle blur treatment, and understated motion-enhancing accents, all while keeping the subject photorealistic, centrally positioned, and authentically integrated into their physical surroundings.
+```
+
+**中文提示词：**
+```
+一个梦幻般的、电影级的增强现实视觉效果，其中众多悬浮的 Spotify 播放器界面卡片围绕中心人物（图中所示人物）旋转，构成一个完整的 3D 空间构图，每个音乐播放器卡片都经过精心布置，放置在不同的距离，有些卡片醒目地位于人物前方并部分遮挡住人物，而另一些卡片则漂浮在人物身后和旁边，利用真实的 Apple Music UI/Spotify UI 元素播放进度指示器，并展示 [艺术家姓名] 的歌曲；所有卡片都呈现出光滑的圆角边缘和微妙的角度透视变化，呈现出半透明的磨砂玻璃美感，散发出柔和的漫射边缘光晕，并带有适度的电影级光晕，与场景中的环境光自然地互动；构图展现了冷色调到中性色调的色彩，阴影细节丰富而保留，巧妙地融入了专辑封面的色彩，中高对比度与渐强的高光过渡相得益彰，景深变化细腻，近处的卡片保持清晰的细节，而远处的卡片则呈现出柔和的虚化效果，并辅以低调的动态增强效果，所有这些都保持了主体逼真、居中，并真实地融入到周围环境中。
+```
+
+<a id="prompt-958"></a>
+## 案例 958：卡通风格钥匙扣 (来源 [@r4jjesh](https://x.com/r4jjesh/status/2002893222608331014)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/958.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-卡通风格钥匙扣">
+</div>
+
+**提示词：**
+```
+{
+  "reference": "use uploaded image as facial reference, preserve original face and identity exactly",
+  "character_type": "caricature-style keychain, gender-neutral",
+  "pose": "riding a yellow scooter indoors",
+  "head_style": "oversized head with joyful, playful smile",
+  "outfit_beanie": "yellow knit beanie",
+  "outfit_top": "striped yellow-black sweater",
+  "outfit_bottom": "denim shorts",
+  "socks": "white socks",
+  "footwear": "white sneakers",
+  "keychain_detail": "blue strap labeled 'SAMMU'",
+  "lighting": "soft indoor lighting",
+  "depth_of_field": "shallow depth of field",
+  "background": "mall-like indoor environment",
+  "style": "whimsical, toy-like, premium collectible",
+  "photography": "cinematic product photography",
+  "texture": "smooth plastic, high 
+detail finish"
+}
+```
+
+**中文提示词：**
+```
+{
+“参考”：“使用上传的图片作为面部参考，精确保留原始面部和身份信息”，
+"character_type": "卡通风格钥匙扣，中性款",
+“姿势”：“在室内骑黄色滑板车”，
+"head_style": "大头，带着快乐、俏皮的笑容",
+"outfit_beanie": "黄色针织帽",
+"outfit_top": "条纹黄黑毛衣",
+"outfit_bottom": "牛仔短裤",
+“袜子”: “白袜子”，
+“鞋类”: “白色运动鞋”，
+"keychain_detail": "蓝色表带，标签为'SAMMU'",
+“照明”：“柔和的室内照明”，
+"depth_of_field": "浅景深",
+“背景”：“类似购物中心的室内环境”，
+“风格”：“异想天开、玩具般、高级收藏品”
+“摄影”: “电影化产品摄影”，
+“质感”：光滑塑料，高
+细节处理”
+}
+```
+
+<a id="prompt-957"></a>
+## 案例 957：高端专业平铺式产品摄影 (来源 [@elCarlosVega](https://x.com/elCarlosVega/status/2002824697013297266)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/957.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高端专业平铺式产品摄影">
+</div>
+
+**提示词：**
+```
+Fotografía de producto profesional estilo 'Knolling' (Flat Lay) de alta gama, representando una cápsula del tiempo del año [AÑO].
+
+Composición: Organización cenital meticulosamente alineada en una cuadrícula perfecta de 90 grados.
+Fondo: Superficie sólida mate de color [COLOR QUE CONTRASTE, EJ: AMARILLO MOSTAZA / AZUL ELÉCTRICO].
+
+Sujetos (Autogeneración Histórica): Selecciona y renderiza con precisión fotográfica los 5 objetos tecnológicos o de cultura pop más icónicos lanzados específicamente en [AÑO]. Incluye 5-7 accesorios menores correspondientes a la época (cables, medios de almacenamiento, papelería o dulces retro).
+
+Elemento Central: El año "[AÑO]" está escrito en el centro exacto de la cuadrícula utilizando tipografía física y táctil (letras de plástico recortado, madera o metal) con una fuente acorde a la década.
+
+Iluminación y Estética: Iluminación de estudio "Softbox" cenital, completamente difusa y sin sombras duras (shadowless).
+
+Estilo: Simetría obsesiva tipo Wes Anderson, vibrante, deconstruido, organizado y visualmente satisfactorio.
+Renderizado: Fotorealismo 8k, texturas de plástico y metal detalladas.
+```
+
+**中文提示词：**
+```
+高端专业“平铺式”产品摄影，代表了[年份]年的时光胶囊。
+
+构图：精心排列的天顶线构成完美的 90 度网格。
+背景：纯哑光表面，颜色为对比色[例如：芥末黄/电光蓝]。
+
+主题（历史自创）：选择并以照片般的精确度呈现[年份]发布的5件最具代表性的科技或流行文化物品。包括5-7件与该时代相符的小配件（线缆、存储介质、文具或复古糖果）。
+
+中心元素：年份“[YEAR]”用实体和触感排版（切割塑料字母、木头或金属）写在网格的正中心，字体选择与该年代相符。
+
+灯光和美学：顶部“柔光箱”摄影棚照明，完全漫射，没有硬阴影（无阴影）。
+
+风格：极致对称，韦斯·安德森式，充满活力，解构主义，井然有序，视觉上令人愉悦。
+渲染：8K 照片级真实感，精细的塑料和金属纹理。
+```
+
+<a id="prompt-956"></a>
+## 案例 956：显示在2000年代初日本的手机屏幕上 (来源 [@serena_ailab](https://x.com/serena_ailab/status/2002854097494687964)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/956.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-显示在2000年代初日本的手机屏幕上">
+</div>
+
+**提示词：**
+```
+Display the subject from the attached image on a flip phone (garakei) LCD screen from early 2000s Japan. The phone is open, with glossy pink or white shell, physical buttons, and simple beaded straps with pastel colored beads. The screen shows the image with pixelated edges and warm color saturation typical of 2000s mobile displays. Surrounded by nostalgic items like photo stickers, gel pens, and mini notebooks. Nostalgic, kawaii, emotional, soft lighting.
+```
+
+**中文提示词：**
+```
+将附图中的主题显示在2000年代初日本的翻盖手机（garakei）液晶屏幕上。手机处于打开状态，外壳是亮粉色或白色，带有实体按键和简单的串珠表带，表带上串着柔和色调的珠子。屏幕上的图像边缘略带像素化，色彩饱和度偏暖，这是2000年代手机屏幕的典型特征。周围摆放着一些充满怀旧气息的小物件，例如照片贴纸、中性笔和迷你笔记本。画面充满怀旧、可爱、温馨的氛围，灯光柔和。
+```
+
+<a id="prompt-955"></a>
+## 案例 955：3D橡胶软管角色设计 (来源 [@The_Sycomore](https://x.com/The_Sycomore/status/2002841670992502880)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/955.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D橡胶软管角色设计">
+</div>
+
+**提示词：**
+```
+[Subject], stylized 3D rubberhose character, smooth 3D render,  Solid [Color] color background, dynamic pose, soft ground shadow, bright soft lighting, modern playful design
+```
+
+**中文提示词：**
+```
+[主题]，风格化的3D橡胶软管角色，流畅的3D渲染，纯色[颜色]背景，动态姿势，柔和的地面阴影，明亮柔和的光照，现代趣味设计
+```
+
+<a id="prompt-954"></a>
+## 案例 954：一张完整的产品高端宣传照 (来源 [@AmirMushich](https://x.com/AmirMushich/status/2002793794975273279)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/954.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张完整的产品高端宣传照">
+</div>
+
+**提示词：**
+```
+[BRAND NAME] is launching a new functional wellness elixir (e.g., adaptogenic, nootropic, or natural energy drink). As the Creative Director, devise a product name and visualize a complete high-end promotional shot. The aesthetic is "Cosmic Premium"—technological, clean, and sophisticated, like top-tier Apple product photography.
+
+THE PRODUCT: Design a sculptural, multi-layered beverage bottle suspended in the center. The form is engineered and futuristic. The materials are hyper-tactile: bead-blasted titanium details, frosted borosilicate glass, and textured haptic polymer grips.
+**Crucial Color Instruction:** The liquid inside must have a distinct, natural color relevant to its invented function (e.g., vibrant turmeric yellow, deep berry red, earthy matcha green, or pale calming blue). The liquid should look real with subtle natural sediment.
+**Crucial Graphic Detail:** On the clear glass section of the bottle, apply a layer of subtle, minimalist, technical typography printed in matte white ink. This design should feel utilitarian and futuristic (e.g., small technical specs like 'SPACE GRADE FORMULA', 'BATCH: OZ-9', volume indicators, or coordinate markings), adding a functional aesthetic similar to aerospace labeling, without overwhelming the bottle's clean lines.
+
+THE ENVIRONMENT & LIGHTING: The bottle is in a seamless studio.
+**Crucial Background Instruction:** The background must be a solid, clean, very light pastel tone that is specifically chosen to complement the liquid color (e.g., a soft cool mint background for a warm orange liquid, or a pale blush background for a deep green liquid). No gradients. Ultra-soft, diffused studio lighting creates sleek highlights on metal and deep subsurface scattering in the glass and liquid.
+
+PHOTOGRAPHY STYLE: High-resolution 100mm macro lens shot. Shallow depth of field, sharp focus on bottle textures and the printed graphics on the glass, smooth pastel background bokeh. 8k resolve, hyper-realistic textures.
+
+GRAPHIC OVERLAYS: Include subtle dark gray UI elements.
+Bottom Left Corner: Very small, minimalist text (like Manrope Regular font) describing the product's name and function in two sentences.
+Bottom Right Corner: A small, minimalist dark gray logomark for [BRAND NAME].
+```
+
+**中文提示词：**
+```
+[品牌名称] 即将推出一款全新的功能性健康饮品（例如，具有适应原、益智或天然能量的饮料）。作为创意总监，请构思产品名称并构思一张完整的高端宣传照。美学风格为“宇宙级奢华”——科技感十足、简洁精致、高端大气，如同顶级苹果产品摄影作品。
+
+产品：设计一款造型独特、多层结构的饮料瓶，瓶身悬浮于中央。造型充满未来感和工程感。材质触感极佳：喷砂钛金属细节、磨砂硼硅酸盐玻璃和纹理触感聚合物握把。
+**关键颜色说明:**内装液体必须具有与其功能相符的独特、自然的颜色（例如，鲜艳的姜黄、深邃的浆果红、质朴的抹茶绿或宁静的浅蓝）。液体应呈现逼真的效果，并带有细微的天然沉淀。
+**关键图形细节:**在瓶子的透明玻璃部分，印上一层简洁、极简的哑光白色技术字体。这种设计应兼具实用性和未来感（例如，“太空级配方”、“批次: OZ-9 ”等小型技术规格、容量指示或坐标标记），增添类似航空航天标签的功能美感，同时又不破坏瓶子简洁的线条。
+
+环境与灯光：瓶子放置在一个无缝摄影棚内。
+**关键背景说明:**背景必须是纯色、干净、非常浅的粉彩色调，并且要经过精心挑选以衬托液体颜色（例如，暖橙色液体搭配柔和的薄荷绿背景，或深绿色液体搭配淡粉色背景）。禁止使用渐变色。超柔和的漫射摄影棚灯光可以在金属表面营造出光滑的高光，并在玻璃和液体表面形成深邃的散射效果。
+
+摄影风格：高分辨率100mm微距镜头拍摄。浅景深，清晰聚焦于瓶身纹理和玻璃上的印刷图案，柔和的粉彩背景虚化。8K分辨率，超逼真的纹理。
+
+图形叠加层：包含微妙的深灰色用户界面元素。
+左下角：非常小的极简文字（类似 Manrope Regular 字体），用两句话描述产品的名称和功能。
+右下角：[品牌名称] 的小型、极简的深灰色标志。
+```
+
+<a id="prompt-953"></a>
+## 案例 953：普通物体转化为巨型纪念碑 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/2002937974993088841)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/953.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-普通物体转化为巨型纪念碑">
+</div>
+
+**提示词：**
+```
+Transform [EVERYDAY OBJECT] into a massive real-world monument. Surface materials are physically accurate, with visible wear, scratches, dust, and scale references like people and vehicles. Shot from a low-angle cinematic perspective, realistic daylight, ultra-detailed textures.
+```
+
+**中文提示词：**
+```
+将[日常物品]转化为一座宏伟的现实世界纪念碑。表面材质真实还原物理细节，包括可见的磨损、划痕、灰尘以及人物和车辆等比例参照物。采用低角度电影视角拍摄，逼真的日光效果，以及超精细的纹理。
+```
+
+<a id="prompt-952"></a>
+## 案例 952：不同服装风格的贴纸 (来源 [@linxiaobei888](https://x.com/linxiaobei888/status/2003003721827987592)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/952.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-不同服装风格的贴纸">
+</div>
+
+**中文提示词：**
+```
+一个以上传照片为原型的3*3贴纸包，人物穿着不同服装和时尚风格。边缘干净裁剪，带有粗线条轮廓，姿势富有表现力，整体采用活泼的现代贴纸设计。在每个贴纸旁边采用中英文标注风格，所有贴纸保持相同的面部特征、一致的相似度和比例。
+包含教师装、传统、护士制服、街头潮牌和奇幻灵感等多种服装风格。高分辨率成品，带有柔和阴影和光泽贴纸纸张质感，适合社交分享。
+```
+
+<a id="prompt-951"></a>
+## 案例 951：衣服悬浮在空中 (来源 [@GirlsinAIArt](https://x.com/GirlsinAIArt/status/2003021477277483079)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/951.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-衣服悬浮在空中">
+</div>
+
+**提示词：**
+```
+A shape is an illusion created by placing clothes floating in the air.
+```
+
+**中文提示词：**
+```
+形状是通过将衣服悬浮在空中而产生的错觉。
+```
 
 <a id="prompt-950"></a>
 ## 案例 950：圣诞特辑-我的圣诞与自己合拍 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2002382591823896676)) 模型：Nano banana pro
