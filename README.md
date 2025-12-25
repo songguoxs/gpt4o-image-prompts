@@ -33,6 +33,11 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 979：超逼真专业的夜间烟火表演 ](#prompt-979)
+*   [案例 978：一张超写实的电影海报 ](#prompt-978)
+*   [案例 977：运动少女照片 ](#prompt-977)
+*   [案例 976：博物馆标本摄影 ](#prompt-976)
+*   [案例 975：动漫风格的数字海报 ](#prompt-975)
 *   [案例 974：圣诞特辑-蜜桃背景里的圣诞少女小心思 ](#prompt-974)
 *   [案例 973：圣诞特辑-圣诞限定大头贴，9格甜度满格 ](#prompt-973)
 *   [案例 972：圣诞特辑-美妆博主圣诞妆容教程界面 ](#prompt-972)
@@ -315,6 +320,439 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+
+
+
+
+
+<a id="prompt-979"></a>
+## 案例 979：超逼真专业的夜间烟火表演 (来源 [@dotey](https://x.com/dotey/status/2003522391654146544)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/979.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真专业的夜间烟火表演">
+</div>
+
+**提示词：**
+```
+An ultra-realistic, professional nighttime fireworks display, clearly featuring the shape "{Subject}" formed entirely from fireworks at the center of the sky. The "{Subject}" seamlessly emerges from dense spark trails, glowing embers, and dazzling radiant bursts, with smooth, precise contours and vivid clarity. It blends naturally into the surrounding firework display, appearing as an integral part of the overall spectacle, visually vibrant and photorealistic.
+Behind and around the central "{Subject}", an expansive, celebratory firework show fills the night sky with layered radial explosions, cascading spark showers, and multi-stage bursts, creating impressive depth and dimension. Background fireworks maintain a slightly lower brightness to emphasize the central "{Subject}" sharply and distinctly.
+The night sky is pure and deep navy-to-black, clear and cloudless with minimal haze or smoke. Firework colors include a sophisticated palette of gold, silver, white, red, and blue, demonstrating physically accurate light bloom, subtle glow effects, realistic particle dynamics, and natural variation in intensity and timing.
+Firework bursts softly illuminate the surrounding sky, producing gentle, cinematic-quality light falloff, capturing a realistic and immersive celebratory atmosphere.
+The image is ultra-high-resolution, sharply detailed with photographic realism, and contains no additional text or extra visual elements—only the "{Subject}" displayed distinctly through fireworks.
+
+Subject: I 💗 U
+```
+
+**中文提示词：**
+```
+一场超逼真、专业的夜间烟火表演，清晰地展现了“{主题}"的形状，该主题完全由烟火构成，位于天空的中心。“主题”从密集的火花轨迹、闪耀的余烬和耀眼的光芒中无缝地显现出来，轮廓流畅、精准，清晰生动。它与周围的烟火表演自然融合，成为整体壮观景象不可或缺的一部分，视觉效果生动逼真。
+在中心“{主题}”的后方和周围，一场盛大的庆祝烟花表演点亮夜空，层叠的放射状爆炸、倾泻而下的火花雨和多阶段的绽放，营造出令人印象深刻的深度和立体感。背景烟花的亮度略低，以突出中心“{主题}”的鲜明特色。
+夜空纯净深邃，由蓝至黑交织而成，晴朗无云，几乎没有雾霾或烟雾。烟花色彩丰富，包含金、银、白、红、蓝五种颜色，呈现出逼真的光晕效果、微妙的光晕、真实的粒子动态以及强度和时间上的自然变化。
+烟花绽放，柔和地照亮周围的天空，产生柔和的、电影般的光线衰减效果，营造出逼真而身临其境的庆祝氛围。
+图像分辨率极高，细节清晰，具有照片般的真实感，不包含任何额外的文字或视觉元素——只有通过烟花清晰显示的“{主题}”。
+
+主题：我💗 U
+```
+
+<a id="prompt-978"></a>
+## 案例 978：一张超写实的电影海报 (来源 [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2003673235142115757)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/978.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张超写实的电影海报">
+</div>
+
+**提示词：**
+```
+A hyper-realistic cinematic movie poster of a powerful female sorcerer with the same facial structure and likeness as the uploaded reference photo, bursting through a cracked Queen of Spades playing card.
+The card explodes outward with stone fragments, dust, and debris frozen mid-air.
+She wears an ornate royal maroon and gold embroidered medieval fantasy jacket, rich fabric textures, intricate detailing, regal and mystical.The sorcerer extends one hand forward toward the viewer, fingers glowing with intense magical energy, subtle golden sparks and dark arcane aura surrounding the hand.
+Intense piercing gaze, confident and dominant expression, cinematic hero framing.
+Dramatic chiaroscuro lighting, dark moody background, volumetric light rays, ultra-detailed textures, shallow cinematic depth of field.
+Photorealistic face, epic fantasy realism, movie poster composition, high contrast, dynamic motion, dust particles, masterpiece quality, ultra-sharp focus, 8K resolution, cinematic color grading.
+```
+
+**中文提示词：**
+```
+一张超写实的电影海报，描绘了一位强大的女巫，她的面部结构和外貌与上传的参考照片相同，她正从一张破裂的黑桃皇后扑克牌中破壳而出。
+卡片向外爆炸，石块碎片、尘埃和碎片在半空中凝固。
+她身穿一件华丽的皇家酒红色和金色刺绣中世纪奇幻外套，面料质感丰富，细节精致，尽显高贵神秘之感。女巫向前伸出一只手，手指闪耀着强烈的魔法能量，隐隐的金色火花和黑暗的奥术光环环绕着她的手。
+目光锐利，神态自信霸气，电影英雄般的构图。
+戏剧性的明暗对比照明，阴暗的背景，立体光线，超精细的纹理，浅景深的电影效果。
+照片级逼真的面部、史诗般的奇幻写实主义、电影海报构图、高对比度、动态效果、灰尘颗粒、杰作品质、超清晰对焦、8K分辨率、电影级色彩分级。
+```
+
+<a id="prompt-977"></a>
+## 案例 977：运动少女照片 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/2003476315828097321?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/977.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-运动少女照片">
+</div>
+
+**提示词：**
+```
+{
+  "image_prompt": {
+    "reference": {
+      "face_identity": "uploaded reference image",
+      "identity_lock": true,
+      "face_preservation": "100% identical facial structure, proportions, eyes, nose, lips, brows, skin texture, moles, and expression"
+    },
+    "subject": {
+      "gender": "female",
+      "age_range": "young adult",
+      "expression": "calm, focused, neutral competitive expression",
+      "pose": {
+        "action": "hands raised mid-clap",
+        "body_orientation": "three-quarter side profile",
+        "posture": "upright athletic stance"
+      }
+    },
+    "outfit": {
+      "top": "yellow and navy sleeveless volleyball jersey",
+      "armwear": "black compression arm sleeve on right arm",
+      "bottom": {
+        "type": "full-length black athletic pants",
+        "coverage": "legs fully covered at all times",
+        "fit": "sporty, fitted, opaque fabric"
+      },
+      "footwear": "not visible or cropped out"
+    },
+    "appearance": {
+      "hair": {
+        "style": "high ponytail with soft bangs",
+        "color": "dark brown"
+      },
+      "makeup": "natural sports makeup, light blush, subtle eyeliner",
+      "nails": "short, painted black"
+    },
+    "scene": {
+      "location": "indoor sports arena",
+      "background": "blurred volleyball court with pink and white wall panels",
+      "other_subjects": "teammates visible in soft background blur"
+    },
+    "lighting": {
+      "type": "bright indoor sports lighting",
+      "tone": "neutral and even",
+      "shadows": "soft"
+    },
+    "camera": {
+      "shot_type": "medium shot",
+      "angle": "eye-level",
+      "focus": "sharp focus on subject face and upper body",
+      "depth_of_field": "shallow background blur"
+    },
+    "constraints": {
+      "no_nudity": true,
+      "no_exposed_legs": true,
+      "legs_must_be_covered": "black pants required",
+      "no_outfit_changes": "jersey and arm sleeve remain identical",
+      "no_face_modification": true
+    },
+    "quality": {
+      "realism": "photorealistic",
+      "resolution": "8K ultra sharp",
+      "detail_level": "high"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_prompt": {
+“参考”： {
+"face_identity": "上传的参考图像",
+"identity_lock": true,
+"face_preservation": "100% 相同的面部结构、比例、眼睛、鼻子、嘴唇、眉毛、皮肤纹理、痣和表情"
+},
+“主题”： {
+"性别": "女性",
+"age_range": "青年人",
+“表情”：“冷静、专注、中立的竞争性表情”，
+"姿势": {
+“动作”：“双手在鼓掌过程中举起”，
+"body_orientation": "四分之三侧脸轮廓",
+“姿势”：“挺拔的运动姿态”
+}
+},
+“全套服装”： {
+“上衣”: “黄色和海军蓝无袖排球衫”
+“臂套”：“右臂上的黑色压缩臂套”，
+“底部”： {
+“类型”: “黑色全长运动裤”
+“覆盖范围”：“双腿始终完全被覆盖”，
+“合身”： “运动型、修身、不透明面料”
+},
+“鞋类”： “不可见或已裁剪掉”
+},
+“外貌”： {
+“头发”： {
+“发型”：“高马尾配柔和刘海”，
+颜色：深棕色
+},
+“妆容”：“自然运动妆，淡腮红，淡眼线”，
+指甲：短的，涂成黑色
+},
+“场景”： {
+地点：室内体育馆
+“背景”：“模糊的排球场，带有粉色和白色的墙板”，
+"other_subjects": "背景虚化中可见的队友"
+},
+“灯光”： {
+类型：明亮的室内运动照明，
+“色调”：“中性且均匀”，
+“阴影”：“柔和”
+},
+“相机”： {
+"shot_type": "中景镜头",
+“角度”: “视线水平”
+“焦点”: “清晰聚焦于拍摄对象的面部和上半身”，
+景深：浅背景虚化
+},
+"约束": {
+"no_nudity": true，
+"no_exposed_legs": true,
+“腿部必须遮盖”： “必须穿黑色裤子”
+"no_outfit_changes": "球衣和袖子保持不变",
+"no_face_modification": true
+},
+“质量”： {
+“写实主义”: “照片写实主义”，
+分辨率：8K 超清晰，
+"detail_level": "高"
+}
+}
+}
+```
+
+<a id="prompt-976"></a>
+## 案例 976：博物馆标本摄影 (来源 [@Gdgtify](https://x.com/Gdgtify/status/2003466876115177544?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/976.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-博物馆标本摄影">
+</div>
+
+**提示词：**
+```
+<instruction>
+Input A: user uploads an image or shares name of dish
+
+Logic  Identify the historical inventor (e.g., Raffaele Esposito or Henri Charpentier) and the exact year of origin.
+
+Task: A hyper-realistic 4:5 macro photograph of an oversized, open antique culinary codex resting on a dark velvet museum plinth. 
+
+ Left Page (The Living Diorama): 
+The left side of the book is hollowed out like a secret compartment. Inside is a breathtaking 3D miniature scene. A highly detailed figurine of the dish’s inventor is captured mid-motion in a period-accurate kitchen. Around them are microscopic versions of the 10-15 key ingredients, each in its own tiny hand-blown glass vial or micro-wooden crate. Include miniature brass cooking tools specific to the era. The scene is lit from within the "pages" by a warm, magical amber glow.
+
+ Right Page (The Technical Recipe): 
+The right page is flat, aged parchment featuring elegant, faded Spencerian calligraphy and hand-painted watercolor illustrations. 
+1. Top: The dish name in both English and its native language, with the bold "Origin Date."
+2. Middle: A vertical "Ingredient Blueprint" with hyper-detailed sketches of each raw component.
+3. Bottom: A small, detailed "Origin Map" showing the specific city of birth, styled like a 19th-century cartographic inset. 
+4. Text: Visible, legible recipe steps written in ink that looks slightly raised on the paper.
+
+Style: 
+Museum specimen photography. 85mm macro lens. The lighting should be a mix of cool gallery spotlights and the warm "internal" glow of the book's diorama. Extreme texture on the weathered leather binding and the tooth of the paper.
+Output: ONE image, 4:5 aspect ratio.
+</instruction>
+```
+
+**中文提示词：**
+```
+<指令>
+输入A：用户上传图片或分享菜品名称。
+
+逻辑推理：确定历史上的发明者（例如，拉斐尔·埃斯波西托或亨利·夏庞蒂埃）以及确切的发明年份。
+
+任务：拍摄一张超写实的 4:5 微距照片，照片内容为一本超大尺寸的、打开的古董烹饪手抄本，放置在深色天鹅绒博物馆底座上。
+
+左页（活体立体模型）：
+书的左侧被掏空，如同一个秘密隔间。里面是一个令人叹为观止的3D微缩场景。菜肴发明者的精细人偶被定格在还原时代风貌的厨房中。周围环绕着10-15种关键食材的微缩模型，每一种都装在各自独立的手工吹制玻璃瓶或微型木箱中。此外，还配有那个时代特有的微型黄铜烹饪用具。整个场景由“书页”内部散发出的温暖而迷人的琥珀色光芒照亮。
+
+右页（技术说明）：
+右页是平整的古旧羊皮纸，上面有优雅的褪色斯宾塞体书法和手绘水彩插图。
+1. 顶部：菜肴名称以英文和其原产语言标注，并加粗“起源日期”。
+2. 中间：垂直的“成分蓝图”，包含每个原材料的超详细草图。
+3. 底部：一张小而详细的“出生地地图”，显示具体的出生城市，风格类似于 19 世纪的地图插图。
+4. 文字：清晰易读的食谱步骤，用略微凸起的墨水书写在纸上。
+
+风格：
+博物馆标本摄影。使用85毫米微距镜头。灯光应结合冷色调的展厅聚光灯和书籍立体模型内部温暖的光晕。展现做旧皮革装帧和纸张纹理的极致质感。
+输出：一张图像，宽高比为 4:5。
+</指令>
+```
+
+<a id="prompt-975"></a>
+## 案例 975：动漫风格的数字海报 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/2003481349936550002?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/975.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫风格的数字海报">
+<img src="./images/975-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-动漫风格的数字海报">
+</div>
+
+**提示词：**
+```
+{
+  "posters": [
+    {
+      "title": "Italy Side Stories: City Life – Volume 1",
+      "art_style": "Anime-style digital poster, GTA V–style comic grid, nostalgic European energy",
+      "center_panel": "A relaxed character leaning on a scooter, with the Colosseum, Venice canals, and Tuscan hills layered in the background.",
+      "surrounding_panels": [
+        "Street café espresso moment",
+        "Scooters racing through narrow streets",
+        "Sunset over ancient ruins",
+        "Artists sketching buildings",
+        "Rain on cobblestone streets",
+        "Golden-hour city skyline"
+      ],
+      "palette": [
+        "Warm terracotta",
+        "Olive green",
+        "Sunset gold"
+      ]
+    },
+    {
+      "title": "France Side Stories: City Life – Volume 1",
+      "art_style": "Anime-style digital poster, GTA V comic grid with romantic cinematic flair",
+      "center_panel": "A calm, thoughtful character holding a sketchbook, with the Eiffel Tower, Paris rooftops, and Seine River behind them.",
+      "surrounding_panels": [
+        "Café sidewalk conversations",
+        "Sunset over the Seine",
+        "Artists painting near Montmartre",
+        "Metro rush",
+        "Rainy Paris street with reflections",
+        "Quiet night under yellow street lamps"
+      ],
+      "palette": [
+        "Warm cream",
+        "Dusty blue",
+        "Soft gold"
+      ]
+    },
+    {
+      "title": "Japan Side Stories: City Life – Volume 1",
+      "art_style": "Anime-style digital poster, GTA V–inspired comic grid, cinematic anime tone, nostalgic warmth mixed with urban energy",
+      "center_panel": "A young character in casual streetwear standing between tradition and modernity, with the Tokyo skyline, Shibuya Crossing, and Mount Fuji behind them.",
+      "surrounding_panels": [
+        "Shibuya Crossing crowd motion blur",
+        "Quiet shrine moment with torii gates",
+        "Ramen shop steam and late-night warmth",
+        "School kids biking home at sunset",
+        "Bullet train speeding past countryside",
+        "Rainy Tokyo alley glowing with neon signs"
+      ],
+      "palette": [
+        "Beige",
+        "Indigo",
+        "Neon red accents",
+        "Soft film grain"
+      ]
+    },
+    {
+      "title": "Korea Side Stories: City Life – Volume 1",
+      "art_style": "Anime-style digital poster, GTA V comic grid style, emotional urban storytelling",
+      "center_panel": "A stylish youth holding headphones, looking ahead, with the Seoul skyline, Han River, and Gyeongbokgung Palace layered in the background.",
+      "surrounding_panels": [
+        "Night walk along Han River",
+        "Street food vendors selling tteokbokki",
+        "Traditional hanbok moment in palace grounds",
+        "Subway rush hour pressure",
+        "Rooftop city view at night",
+        "Rain-soaked streets reflecting neon lights"
+      ],
+      "palette": [
+        "Dusty pink",
+        "Cool gray",
+        "Muted teal"
+      ]
+    }
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+“海报”： [
+{
+标题：《意大利边记：城市生活 – 第一卷》
+"art_style": "动漫风格的数字海报，GTA V 风格的漫画网格，怀旧的欧洲气息",
+"center_panel": "一个放松的人物倚靠在摩托车上，背景是罗马斗兽场、威尼斯运河和托斯卡纳山丘。"
+"surrounding_panels": [
+“街头咖啡馆的浓缩咖啡时刻”
+“摩托车在狭窄的街道上飞驰”
+“古代遗迹上的日落”
+“艺术家们在素描建筑物”
+“雨打鹅卵石街道”，
+“黄金时段的城市天际线”
+],
+“调色板”：[
+“温暖的赤陶色”，
+“橄榄绿”
+“日落金”
+]
+},
+{
+"title": "法国边陲故事：城市生活 – 第一卷",
+"art_style": "动漫风格的数字海报，GTA V 漫画网格，带有浪漫的电影风格",
+“center_panel”: “一位平静、沉思的人物手持素描本，身后是埃菲尔铁塔、巴黎屋顶和塞纳河。”
+"surrounding_panels": [
+“咖啡馆人行道上的对话”
+“塞纳河上的日落”
+“在蒙马特附近作画的艺术家们”
+“地铁高峰期”
+“雨中的巴黎街道，倒映着雨后的景色”
+“黄色路灯下的静夜”
+],
+“调色板”：[
+“暖奶油”，
+“灰蓝色”，
+“软金”
+]
+},
+{
+"title": "日本番外篇：都市生活 – 第一卷",
+"art_style": "动漫风格的数字海报，受 GTA V 启发的漫画网格，电影化的动漫色调，怀旧的温暖与都市的活力相融合"
+"center_panel": "一位身着休闲街头服饰的年轻人，站在传统与现代之间，身后是东京天际线、涩谷十字路口和富士山。"
+"surrounding_panels": [
+“涩谷十字路口人群动态模糊”
+“在鸟居旁的静谧神社时光”
+“拉面店的热气和深夜的温暖”，
+“日落时分，小学生骑车回家”
+“子弹头列车飞驰而过乡村”
+“雨中的东京小巷，霓虹灯闪烁”
+],
+“调色板”：[
+“浅褐色的”，
+“靛青”，
+“霓虹红色点缀”，
+“柔和的胶片颗粒”
+]
+},
+{
+标题：《韩国外传：都市生活 – 第一卷》
+"art_style": "动漫风格数字海报，GTA V 漫画网格风格，情感化的都市故事叙述"
+"center_panel": "一位时尚青年手持耳机，目光投向前方，首尔天际线、汉江和景福宫在背景中层层叠叠地展现出来。"
+"surrounding_panels": [
+“汉江夜行”
+“街头小贩售卖炒年糕”
+“在宫殿庭院中体验传统韩服的时刻”
+“地铁高峰时段的压力”，
+“屋顶上的夜景城市景观”
+雨水浸透的街道倒映着霓虹灯
+],
+“调色板”：[
+“灰粉色”，
+“冷灰色”，
+“柔和的蓝绿色”
+]
+}
+]
+}
+```
 
 <a id="prompt-974"></a>
 ## 案例 974：圣诞特辑-蜜桃背景里的圣诞少女小心思 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2003467449195528253)) 模型：Nano banana pro
