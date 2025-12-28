@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 998：元旦特辑-粉色的秋千童话风 ](#prompt-998)
+*   [案例 997：元旦特辑-复古旗袍名媛风 ](#prompt-997)
+*   [案例 996：3D卡通形象击碎墙壁 ](#prompt-996)
+*   [案例 995：时装设计师根据人物形象绘制草图 ](#prompt-995)
+*   [案例 994：百科全书式信息卡片 ](#prompt-994)
+*   [案例 993：专业首饰类型设计全流程展示 ](#prompt-993)
+*   [案例 992：刺绣歌曲海报 ](#prompt-992)
+*   [案例 991：超逼真的电影感肖像 ](#prompt-991)
+*   [案例 990：高级时装工作室照片拼贴画 ](#prompt-990)
+*   [案例 989：一张竖版服装海报 ](#prompt-989)
 *   [案例 988：圣诞特辑-冷艳圣诞甜酷皆在方寸间 ](#prompt-988)
 *   [案例 987：九宫格拼贴画 ](#prompt-987)
 *   [案例 986：梦幻般的电影级增强现实视觉效果 ](#prompt-986)
@@ -329,6 +339,604 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-998"></a>
+## 案例 998：元旦特辑-粉色的秋千童话风 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2005268799512309855)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/998.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-元旦特辑-粉色的秋千童话风">
+</div>
+
+**中文提示词：**
+```
+[关键：保持精确的面部特征，保留原始脸部结构，图中角色与上传参考图完全一致]
+专业工作室梦幻人像,人物展现如珍珠般润泽白皙的肌肤,淡妆突出自然红润和水蜜桃唇色。她穿着渐变粉金色纱质长裙,裙身点缀手工刺绣的金色星星和红色小花,肩部装饰白色羽毛披肩。发型是浪漫的半披半扎,后半部分编成精致的鱼骨辫盘成花朵状,用金色星月发冠、红色小玫瑰和珍珠发链装饰,前半部分卷发自然垂落。她坐在悬空的金色秋千上,双手轻握绳索,一条腿自然垂下另一条腿微曲,身体微微后仰如荡秋千姿态,裙摆随动作飘起,头部侧向一边露出甜美笑容眼神梦幻。背景是纯白渐变到粉金色的背景布,上方悬挂金色和红色星星装饰、"2026"立体数字吊坠、透明气球束,地面虚化处散落粉色和金色花瓣。柔光箱从多角度打光营造梦幻柔焦效果,顶光制造仙气光晕。Hasselblad X2D-100C拍摄,浅景深,色调粉嫩梦幻,高端工作室童话风质感。
+```
+
+<a id="prompt-997"></a>
+## 案例 997：元旦特辑-复古旗袍名媛风 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2005097871977447736)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/997.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-元旦特辑-复古旗袍名媛风">
+</div>
+
+**中文提示词：**
+```
+[关键：保持精确的面部特征，保留原始脸部结构，图中角色与上传参考图完全一致]
+精致工作室立姿肖像,人物拥有如凝脂般细腻白皙的肌肤,淡雅妆容强调通透感和裸粉唇妆。她身着传统红色凤凰刺绣旗袍,高开叉设计展现修长美腿,袖口和领口绣满金线祥云纹样,外搭金色薄纱长披风从肩部垂落至地面。发型是典雅的侧边低盘发,用金色凤凰步摇、红色珠花和长长的金色流苏装饰,发饰随动作轻微摇曳,一侧留出波浪卷发修饰脸型。她站立在红色地毯上呈经典旗袍站姿,一条腿从开叉处露出,一只手叉腰展现自信,另一只手拿着金色烟斗式长杆烟嘴优雅置于唇边,头部微侧展现精致侧颜,眼神冷艳高贵。背景是深红色天鹅绒幕布,中央悬挂金色"元旦快乐"书法大字和"2026"立体装置,两侧对称布置红色立柱、金色花瓶插梅花、复古留声机。伦勃朗光营造经典好莱坞氛围,强调明暗对比和戏剧张力。Phase One拍摄系统,色彩浓烈复古,顶级工作室vintage大片质感。
+```
+
+<a id="prompt-996"></a>
+## 案例 996：3D卡通形象击碎墙壁 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/2004968032745951651)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/996.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D卡通形象击碎墙壁">
+</div>
+
+**提示词：**
+```
+3d cartoon of a happy [character] breaking down [type of wall or object] with [hands / body / special ability], in the style of pixar. adorable [eye description], lovely colorful soft background, vibrant colors, very cute face, high detail, octane render, depth of field, cinematic lighting.
+```
+
+**中文提示词：**
+```
+一个快乐的[角色]用[手/身体/特殊能力]击碎[某种类型的墙壁或物体]的3D卡通形象，风格类似皮克斯动画。可爱的[眼睛描述]，柔和多彩的背景，鲜艳的色彩，非常可爱的脸庞，高细节，渲染效果出色，景深效果，电影级光照。
+```
+
+<a id="prompt-995"></a>
+## 案例 995：时装设计师根据人物形象绘制草图 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/2004937832163422365)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/995.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-时装设计师根据人物形象绘制草图">
+</div>
+
+**提示词：**
+```
+a fashion designer's sketch of an [elegant outfit or dress] inspired by [ character], featuring [key iconic accessory or detail]. the design includes notes in pencil and ink, emphasizing details, [delicate embroidery or pattern details], and matching accessories.
+```
+
+**中文提示词：**
+```
+一位时装设计师根据[人物]的形象绘制的[优雅服装或连衣裙]草图，以[关键标志性配饰或细节]为特色。设计图包含铅笔和墨水笔记，强调细节、[精致的刺绣或图案细节]以及配套配饰。
+```
+
+<a id="prompt-994"></a>
+## 案例 994：百科全书式信息卡片 (来源 [@yyyole](https://x.com/yyyole/status/2005135811185180757)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/994.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-百科全书式信息卡片">
+</div>
+
+**中文提示词：**
+```
+一张极简艺术风格的[芦笋]百科全书式信息卡片，
+博物馆展品级别的设计品质，信息丰富但视觉克制
+
+【整体构图 - 黄金分割布局】
+- 画面比例：2:3竖版 或 3:4方形
+- 三大视觉区域：
+  * 顶部展示区（30%）：大尺寸食材摄影 + 优雅标题排版
+  * 中部信息区（60%）：多层次信息模块网格系统
+  * 底部注释区（10%）：来源标注 + 设计细节
+
+【顶部展示区 - 视觉焦点】
+• 食材名称：超大字号，细线体/宋体，字间距加宽
+• 拉丁学名：小字号斜体，灰色调
+• 食材分类标签：极简胶囊形状标签
+• 主图：去背景食材特写，工作室灯光，微阴影
+• 原产地小型地图图示
+• 当季时间轴线条图
+
+【中部核心信息区 - 9大模块】
+
+1、营养成分详解
+   - 圆环图：卡路里、蛋白质、碳水、脂肪占比
+   - 条形图：维生素A/C/E/K含量对比
+   - 矿物质微量元素列表（钙、铁、锌等）
+   - 每100g营养数据精确标注
+   - GI值（升糖指数）可视化刻度尺
+
+2、健康功效地图
+   - 人体轮廓图标注受益部位
+   - 5-6个主要功效图标化展示
+   - 功效强度等级标识（⭐⭐⭐⭐⭐）
+   - 科学研究来源小标注
+
+3、烹饪方法矩阵
+   - 8-10种烹饪方式图标网格
+   - 每种方式最佳温度/时间参数
+   - 营养保留率百分比显示
+   - 推荐指数星级评价
+   - 难度等级色彩标识
+
+4、四季食用指南
+   - 圆形时间轮盘设计
+   - 标注最佳食用月份
+   - 不同季节功效变化说明
+   - 时令搭配建议
+
+5、黄金搭配矩阵
+   - 9宫格搭配食材小图标
+   - 搭配理由简短标注
+   - 协同增效/相克警示
+   - 经典菜品配方示例
+   - 营养互补关系连线图
+
+6、适宜人群画像
+   - 人群图标（儿童/孕妇/老人/运动员等）
+   - 推荐程度色彩编码
+   - 特殊人群剂量建议
+   - 年龄段分类指南
+
+7、禁忌与注意事项
+   - 红色警示框设计
+   - 不宜人群清晰列举
+   - 过敏源标识
+   - 药物相互作用提示
+   - 最大摄入量警戒线
+
+8、选购与储存指南
+   - 新鲜度判断要点（颜色/手感/气味）
+   - 品质等级划分图示
+   - 最佳储存温度/湿度数据
+   - 保鲜期时间轴
+   - 冷藏/冷冻/常温图标指南
+
+9、趣味知识扩展
+   - 历史小故事（起源/传说）
+   - 世界各地别名
+   - 年产量数据可视化
+   - 有机/转基因标识说明
+   - 可持续性评级
+
+【视觉系统 - 极简艺术美学】
+
+配色方案：
+- 主色：食材本身的自然色彩提取
+- 辅色：大地色系（米白/燕麦/亚麻/石墨灰）
+- 强调色：克制使用1-2个高纯度色彩
+- 背景：纯白或极浅灰（#FAFAFA）
+- 文字：深灰而非纯黑（#2C2C2C）
+
+字体系统：
+- 标题：超细线条无衬线字体（Helvetica Neue UltraLight）
+- 正文：现代几何字体（DIN/Futura）
+- 数据：等宽字体（Roboto Mono）
+- 中文：思源黑体Light/方正兰亭黑
+- 字号层级：6级字号系统（48/32/24/16/12/10pt）
+
+图标系统：
+- 统一2pt线宽
+- 圆角一致性（2px）
+- 24x24px网格对齐
+- stroke而非fill优先
+- 负空间利用
+
+布局系统：
+- 12列网格系统
+- 8pt基准网格对齐
+- 模块间距：24pt/32pt/48pt
+- 边距：页边距48pt起
+- 卡片圆角：8-12px
+- 微妙分割线：0.5pt，15%透明度
+
+质感细节：
+- 微渐变背景（3-5%色值变化）
+- 柔和投影（0 4px 24px rgba(0,0,0,0.04)）
+- 磨砂玻璃效果（backdrop-filter: blur(20px)）
+- 元素间微妙高度差异（海拔系统）
+- 数据区域淡色填充（5%透明度）
+
+【信息可视化原则】
+- 数据图表：Edward Tufte简约数据墨水原则
+- 去除非必要装饰
+- 图表网格线极淡（10%透明度）
+- 数据点精确标注
+- 趋势线平滑自然
+
+【呼吸感营造】
+- 模块间留白≥模块内容宽度的25%
+- 文字行间距1.6-1.8倍
+- 段落间距≥2行高
+- 图文组合留白法则
+
+风格关键词：
+瑞士国际主义平面设计、日本侘寂美学、包豪斯功能主义、
+斯堪的纳维亚极简主义、Dieter Rams设计哲学、
+无印良品视觉语言、Kinfolk杂志美学、
+苹果产品设计语言、Google Material Design精髓
+```
+
+<a id="prompt-993"></a>
+## 案例 993：专业首饰类型设计全流程展示 (来源 [@yyyole](https://x.com/yyyole/status/2004766562360942975)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/993.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-专业首饰类型设计全流程展示">
+</div>
+
+**中文提示词：**
+```
+专业{首饰类型}设计全流程展示 | {主材料}商业级设计过程可视化，专业设计系统文档风格。
+【主材料】：{金}（如：虎眼石、翡翠、南红玛瑙）
+【首饰类型】：{手镯}（如：手串、吊坠、戒指、耳环
+【辅材智能配置】：根据主材料自动匹配（金属配件、隔珠、弹力线等）
+
+专业珠宝设计全流程展示图 | 从概念到成品的完整设计过程
+
+项目信息板块（左上角）
+项目名称：「{主材料} {首饰类型}设计方案」
+设计师签名栏（muyang）
+项目编号和日期
+品牌Logo预留位
+金色装饰线框
+
+第一阶段：设计概念 CONCEPT DESIGN
+视觉呈现：
+灵感拼贴板（Mood Board）：{主材料}原石照片、纹理特写、色彩提取
+手绘草图：3-4个设计方案，铅笔素描风格
+文化元素融入（如虎眼石→东方瑞兽纹样）
+比例尺标注，关键尺寸备注
+标注内容：
+设计理念说明（中英双语）
+目标客群定位
+预算区间估算
+
+第二阶段：材料精选 MATERIAL CURATION
+主材料展示区：
+{主材料}原矿到成品珠粒对比
+4-6颗品质分级展示（AAAAA→A级）
+显微镜下纹理特写
+色卡比对（Pantone色号标注）
+专业珠宝托盘呈现
+辅材智能搭配区：
+金属配件：根据主材料调性选择暖色系主材（虎眼石、南红）→ 18K玫瑰金/红铜
+冷色系主材（青金石、海蓝宝）→ 925银/白金
+中性主材（黑曜石、玛瑙）→ 精钢/钛钢
+隔珠/配珠：尺寸比例协调（主珠直径的1/3-1/2）
+材质对比（如虎眼石配砗磲/椰壳）
+数量配比建议
+串线材料：手串→弹力线（克重标注）
+项链→不锈钢钢丝/K金链
+透明展示盒分格摆放
+光照：顶部柔光 + 侧面暖光，突出材质光泽
+
+第三阶段：工程图纸 TECHNICAL DRAWING
+CAD专业制图：
+三视图（正视/侧视/俯视），精确到0.1mm
+剖面图展示内部结构（如隔珠穿孔位置）
+尺寸标注线（箭头 + 数字）
+珠子排列顺序图解
+结绳工艺节点详图
+蓝图底色 + 白色线框，建筑图纸风格
+参数表格：
+| 部件 | 尺寸 | 数量 | 材质 |
+| {主材料}主珠 | Ø{X}mm | {N}颗 | 天然{主材料} |
+| 隔珠 | Ø{Y}mm | {M}颗 | {辅材} |
+| 配件 | - | 1套 | {金属材质} |
+
+第四阶段：工艺打样 PROTOTYPING
+制作过程：
+选珠配对：工匠用卡尺测量，色差比对
+打磨抛光：砂轮机/手工打磨台
+穿孔检查：专业灯光透视孔洞
+试戴调整：手腕/颈部模特展示，周长调节
+细节特写：金属扣头安装过程，微距摄影
+环境设置：
+传统工作台（木质/大理石台面）
+专业珠宝工具铺陈（镊子、放大镜、量具）
+暖色工作灯照明
+工匠手部特写（展现匠心）
+
+第五阶段：品控检验 QUALITY CONTROL
+检测场景：
+紫外线灯下检测{主材料}真伪
+电子秤精确称重（克重显示）
+游标卡尺复核尺寸
+拉力测试弹力线强度
+检验报告单特写（证书编号、检测数据）
+分屏展示：
+左侧：检测设备操作
+右侧：放大显示检测结果
+底部：合格印章/质检签字
+色调：冷色调科技感，白色实验室环境
+
+第六阶段：包装呈现 PACKAGING
+包装系统展示：
+内包装：定制绒布袋/锦盒，品牌烫金Logo
+外包装：艺术礼盒，{主材料}纹理印刷
+附件配套：材质证书卡
+保养说明书（图文并茂）
+品牌故事卡片
+擦拭布/密封袋
+构图：爆炸图式展开，层层递进
+
+第七阶段：成品大片 FINAL SHOWCASE
+
+A组-产品摄影：
+纯白背景悬浮拍摄，360°全角度
+特写镜头：{主材料}猫眼效果/晶体纹理
+金属配件反光细节
+尺寸参照物（硬币/尺子）
+专业影棚四点布光
+B组-场景应用：
+真人手腕/颈部佩戴
+生活化场景（咖啡桌、书桌、户外）
+不同光线环境（自然光/夜景灯光）
+动态展示（手部移动形成光轨）
+C组-细节放大：
+100倍微距：{主材料}内部结构
+金属接口工艺特写
+结绳编织纹理
+品牌刻印细节
+
+整体视觉规范
+布局架构
+横向时间轴：7阶段等宽分布，21:9电影比例
+流程箭头：立体金属质感，渐变发光效果
+信息层级：一级标题：粗体中文+细体英文，金色
+二级标题：黑体，12号
+正文标注：宋体/思源黑体，9号
+色彩系统
+背景基调：#F8F6F0 象牙白
+主材料色：根据{主材料}天然色提取（虎眼石→琥珀金棕）
+金属色：K金 #D4AF37
+银色 #C0C0C0
+玫瑰金 #B76E79
+强调色：深褐 #3E2723（文字/边框）
+摄影标准
+分辨率：最低4K（3840×2160）
+景深：F8-F11保持各阶段清晰
+色温：5500K标准日光
+格式：RAW原片后期，保留最大细节
+```
+
+<a id="prompt-992"></a>
+## 案例 992：刺绣歌曲海报 (来源 [@sundyme](https://x.com/sundyme/status/2005129744690675731)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/992.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-刺绣歌曲海报">
+</div>
+
+**提示词：**
+```
+Ultra-detailed album cover for \"[歌曲名称]\". Style: Huang Hai's minimalist aesthetic with HIGH-QUALITY HAND-EMBROIDERED SILK ART. Format: Vertical Poster (1:1 aspect ratio).
+
+CRITICAL: Every element must appear as hand-embroidered with visible, realistic stitching details. Show individual thread stitches, slight texture variations, and authentic embroidery craftsmanship.
+
+Visual Structure: 
+- Delicate high-end silk fabric background with subtle sheen and fine weave texture, [配色方案], occupying 75% of canvas.
+- Scene Visualization: A simplified, poetic scene of [场景描述], rendered in hand-embroidered silk with VISIBLE REALISTIC STITCHING DETAILS.
+- Scale Contrast: Tiny, barely visible silhouettes of [细节元素] at the bottom/corners.
+
+Base: Luxurious silk fabric background with subtle sheen, fine weave texture, and soft luminous quality.
+
+HAND-EMBROIDERY DETAILS: Every element must show:
+- Individual visible thread stitches with slight texture
+- Microscopic silk thread details with subtle metallic sheen
+- Realistic embroidery craftsmanship with slightly imperfect, organic stitching
+- Visible stitch patterns and thread texture variations
+- Authentic hand-embroidered appearance with natural imperfections
+The scene features soft muted colors (pale [颜色] for the [元素], muted [颜色] for the [元素], soft [颜色] for the [元素]). Realism: Extreme dimensional depth, realistic hand-embroidered stitches, tactile silk texture with visible stitch details.
+
+Color Palette: Subtle high-end [主色调] silk background. Soft muted colors for the scene (pale [颜色], muted [颜色], soft [颜色]). Elegant, refined, and sophisticated mood.
+
+Typography: 
+- Top title \"[歌曲名称]\" in minimalist elegant serif typography (hand-embroidered in subtle thread), surrounded by maximum breathing space.
+- Subtitle \"[艺术家] • [年份] • [风格类型]\" in refined font.
+- Small bilingual text \"[英文关键词] [中文关键词]\" in refined font.
+
+CRITICAL - BOTTOM DESIGN: The text must show OBVIOUS hand-embroidered style with:
+- Spacing between individual stitches visible
+- Organic, slightly imperfect stitch patterns
+- Natural texture variations in the thread
+- Hand-stitched appearance rather than dense machine embroidery
+- Clear manual embroidery craftsmanship
+
+Bottom Design: Elegant flow of musical notes intertwined with refined calligraphy showcasing TWO COHESIVE, NARRATIVE-FULL lyrics from the song:
+Line 1: \"[第一句歌词]\"\nLine 2: \"[第二句歌词]\"\nRendered in elegant [书法风格] style calligraphy with refined strokes, all hand-embroidered with VISIBLE INDIVIDUAL STITCHES. The text should show clear hand-stitched style with spacing between stitches. [音乐风格] musical notes arranged in subtle [图案] patterns. Embroidered in [主色线] and [辅色线] threads, connecting notes and text with delicate [线条类型] lines, showing OBVIOUS hand-embroidered texture with individual stitch visibility.
+
+Border: Minimal single thin line border in [边框颜色] (hand-embroidered). Corner: One small elegant [符号] symbol (hand-stitched). Photorealistic hand-embroidered silk texture with VISIBLE STITCH DETAILS, fine weave, subtle sheen, authentic embroidery craftsmanship. The text area must show OBVIOUS hand-stitched character with visible individual stitches and natural texture.
+```
+
+<a id="prompt-991"></a>
+## 案例 991：超逼真的电影感肖像 (来源 [@hx831126](https://x.com/hx831126/status/2005219164009668903)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/991.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的电影感肖像">
+</div>
+
+**中文提示词：**
+```
+超逼真的电影感肖像，高端时尚9：16画幅杂志风格摄影。
+
+发型：短发，发丝被风吹拂，飘散在脸上，以时尚的方式部分遮挡面部特征。
+
+主体：仅使用上传的面部参考图像作为主要拍摄对象。面部特征、骨骼结构和自然肤质（可见毛孔）需100%匹配。不得改变种族或性别特征。
+
+服装：黑色复古皮夹克搭配红色高领细线针织（堆叠领口），佩戴金色项链，优雅现代的造型。
+
+场景/环境：时间为冬天，街上有供暖热蒸汽，充满欧洲风格，一个复古公寓的门，门打开着，里面黑漆漆，
+
+动作/动态：前景有人快速移动，动态模糊（长曝光效果）挡住部分画面和镜头。拍摄对象保持完美清晰、沉静。拍摄对象静止，轻微仰头，看着镜头，一只手拉着高领毛衣的领子扯着挡住下颌线和嘴唇（时尚杂志模特的post）位于画面的右侧。
+
+构图：低角度仰拍人物，胸部以上竖幅肖像，主体人物位置偏右构图，线条简洁流畅
+
+相机：24mm广角镜头低角度仰拍视角，浅景深，电影感虚化效果，专业的时尚写实风格。
+
+光照：柔和的电影感光照，暖色调，营造氛围感。高光控制得当，阴影保留细节。
+
+色彩/后期：高细节，高级色彩分级，自然的肤质纹理，微妙的胶片感（无明显颗粒）。无文字、无徽标、无水印。
+```
+
+<a id="prompt-990"></a>
+## 案例 990：高级时装工作室照片拼贴画 (来源 [@miilesus](https://x.com/miilesus/status/2004620767087263838?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/990.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-高级时装工作室照片拼贴画">
+</div>
+
+**提示词：**
+```
+Create a realistic high-fashion studio photo collage featuring the same woman in six to eight different poses, using the uploaded face image as the exact facial reference (same facial structure, eyes, nose, lips, skin tone, and overall identity).
+
+The woman has a slim and elegant body, natural proportions, pale to light skin tone, a delicate oval face, soft but sharp facial features, large expressive eyes, thin lips, and a calm, confident expression. Her hair is long, black, styled in a messy bun with loose strands falling naturally around the face.
+
+Outfit: a tight black strapless mini dress, paired with sheer black thigh-high stockings, pointed-toe black stiletto heels with thin heels, and a formal black blazer worn in different ways across poses (fully worn, draped over one shoulder, hanging off one arm, or resting loosely on the arms). Accessories include a thin black choker necklace.
+
+Poses included in the collage:
+
+Standing front-facing full body pose, neutral expression, blazer hanging off the arms.
+
+Standing back-facing pose with the head turned toward the camera, blazer worn on the shoulders, legs straight.
+
+Squatting or semi-crouching pose with one leg forward, sharp gaze toward the camera.
+
+Seated pose on a black chair with legs crossed, blazer off one shoulder, elegant and composed expression.
+
+Seated low pose with knees bent, body leaning slightly forward, blazer worn on one arm only.
+
+Half-body portrait facing the camera, shoulders relaxed, clean editorial look.
+
+Environment: clean white seamless studio background with soft high-key lighting. Large softbox light placed in front and slightly to the side, creating soft shadows beneath the body. Even lighting that clearly shows fabric texture, skin detail, and shoe shine.
+
+Photography style: high-end fashion editorial, professional studio photography, ultra high-definition, sharp focus, natural skin texture, realistic shadows, no lens distortion, accurate anatomy and proportions.
+
+Composition: vertical fashion collage layout with evenly spaced images.
+
+Aspect ratio: 9:16.
+```
+
+**中文提示词：**
+```
+使用上传的面部图像作为精确的面部参考（相同的面部结构、眼睛、鼻子、嘴唇、肤色和整体特征），创建一个逼真的高级时装工作室照片拼贴画，以同一位女性的六到八个不同的姿势为特色。
+
+这位女士身材纤细优雅，比例匀称，肤色白皙，脸型精致，五官柔和却不失轮廓分明，双眼明亮动人，嘴唇纤薄，神态沉稳自信。她一头乌黑长发随意挽成一个发髻，几缕碎发自然垂落在脸颊两侧。
+
+服装：一件紧身黑色无肩带迷你连衣裙，搭配黑色薄纱过膝长袜、黑色尖头细高跟鞋，以及一件黑色正式西装外套，外套在不同姿势下以不同方式穿着（完全穿上、披在一侧肩上、挂在一侧手臂上或随意搭在手臂上）。配饰包括一条黑色细颈链。
+
+拼贴画中包含的姿势：
+
+站立式全身像，正面朝向观众，表情平静，西装外套挂在手臂上。
+
+背对镜头站立，头部转向镜头，西装外套披在肩上，双腿伸直。
+
+蹲姿或半蹲姿，一条腿向前迈出，目光锐利地看向镜头。
+
+她盘腿坐在黑色椅子上，西装外套滑落一侧肩膀，神态优雅沉稳。
+
+坐姿低位，双膝弯曲，身体略微前倾，西装外套只搭在一只胳膊上。
+
+半身像，面向镜头，肩膀放松，画面干净利落，适合杂志拍摄。
+
+环境：洁净的白色无缝摄影棚背景，柔和的高调灯光。大型柔光箱放置在前方略偏一侧，在人体下方营造出柔和的阴影。均匀的光线清晰地展现了织物纹理、肌肤细节和鞋子的光泽。
+
+摄影风格：高端时尚大片、专业影棚摄影、超高清、清晰对焦、自然肌肤纹理、逼真阴影、无镜头畸变、准确的解剖结构和比例。
+
+构图：竖版时尚拼贴布局，图片间距均匀。
+
+宽高比：9:16。
+```
+
+<a id="prompt-989"></a>
+## 案例 989：一张竖版服装海报 (来源 [@aidavid125](https://x.com/aidavid125/status/2004699464255356984)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/989.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张竖版服装海报">
+</div>
+
+**提示词：**
+```
+Using the uploaded photo as the sole character reference, generate a vertical outfit poster.
+
+【LAYOUT HARD RULES】
+- Must have exactly 6 cards only, 2 rows × 3 columns (3 columns across, 2 rows down)
+- Row 1: LOOK 1, 2, 3 | Row 2: LOOK 4, 5, 6
+- Prohibited: 9-grid, 3 rows × 2 columns, 2-column layout, extra cards, top header/title
+
+【CANVAS & LAYOUT】
+- Vertical 4:5 aspect ratio, background #F7F5F2
+- Grid occupies ≥92% of canvas height, bottom margin ≤3%
+- Outer margin 2%, spacing 1.5%, strictly aligned
+
+【CARD SPECIFICATIONS】
+- White background #FFFFFF, border-radius 5%, stroke 1px #E5E7EB
+- Top title bar: height 12%, background #F3F4F6, text color #111827
+- Sans-serif font, alignment consistent throughout
+
+【CHARACTER CONSISTENCY】
+- All 6 must be the same person in different outfits: same face, same hairstyle, same body proportions, same demeanor
+- Prohibited: switching people/changing face/altering gender features/extreme slimming or leg lengthening
+
+【PHOTOGRAPHY QUALITY】
+- Master-level studio full-body lookbook, 85mm portrait lens look
+- Softbox key light + subtle fill, natural skin texture with light retouching
+- Solid seamless background (white/light gray/off-white), no clutter
+
+【UNIFORM CROPPING】
+- 4:5 full-body, complete from head to shoes
+- Subject centered, height 88%±2%
+- Headroom 2-4%, footroom 3-5%, shoes fully visible
+- All six shots: consistent camera height/focal length/lighting/pose
+
+【OUTFIT RULES】
+- Auto-adapt based on subject age (adult/child)
+- Each look ≤3 core items, max 3 colors per outfit, accessories ≤2
+- 6 looks distinctly different, but unified style: minimal/clean/polished/easy to recreate
+
+【TITLE SETS】
+Adult: Business/Classic → Casual/Weekend → Smart Casual/Evening → Resort/Vacation → Athleisure/Active → Layered/Transitional
+Kids: Everyday/Clean → School/Polished → Weekend/Play → Party/Sweet → Active/Sporty → Layered/Cozy
+
+NEGATIVE:
+3x3, nine-grid, 9 cards, extra cards, 3 rows x 2 columns, two-column layout, big top header, page title, switching people, changing face, multiple people, lowres, blurry, plastic skin, wide-angle distortion, fisheye, warped body, extreme slimming, long legs effect, outdoor background, textured wall, cut off shoes, half body, adultification, sexy, lingerie, see-through, high heels (kids), heavy makeup (kids), watermark, cropped text
+```
+
+**中文提示词：**
+```
+以上传的照片为唯一人物参考，生成一张竖版服装海报。
+
+【布局硬性规则】
+- 必须正好有 6 张卡片，2 行 × 3 列（横向 3 列，纵向 2 行down)
+- 第 1 行：造型 1、2、3 | 第 2 行：造型 4、5、6
+- 禁止使用：9格网格、3行×2列、2栏布局、额外卡片、顶部标题/标题
+
+【画布与布局】
+- 垂直4:5宽高比，背景#F7F5F2
+- 网格占据画布高度的 92% ≥ ，底部边距为 3% ≤
+外边距 2%，行距 1.5%，严格对齐
+
+【卡片规格】
+- 白色背景#FFFFFF ，圆角 5%，描边 1px #E5E7EB
+- 顶部标题栏：高度 12%，背景色#F3F4F6 ，文本颜色 #111827
+- 无衬线字体，对齐方式始终一致
+
+【角色一致性】
+- 这6个人必须是同一个人，只是穿着不同的衣服：同样的脸，同样的发型，同样的身材比例，同样的举止。
+- 禁止：换人/改变容貌/改变性别特征/极端瘦身或拉长腿部
+
+【摄影质量】
+- 大师级影棚全身写真集，85mm 人像镜头拍摄效果
+- 柔光箱主光 + 轻微补光，自然肌肤纹理，轻微修图
+- 纯色无缝背景（白色/浅灰色/米白色），无杂物
+
+【统一裁剪】
+- 4:5 全身照，从头到脚完整呈现
+- 以受试者为中心，身高 88%±2%
+头部空间2-4%，脚部空间3-5%，鞋子完全可见
+- 所有六张照片：相机高度/焦距/光线/姿势均保持一致
+
+【穿搭规则】
+- 根据受试者年龄（成人/儿童）自动调整
+- 每套造型≤ 3件核心单品，每套服装最多3种颜色，配饰≤ 2件
+- 6 看起来截然不同，但风格统一：简约/干净/精致/易于复刻
+
+【标题集】
+成人：商务/经典→休闲/周末→商务休闲/晚装→度假/休闲→运动休闲/活力→叠穿/过渡装
+儿童：日常/干净→上学/整洁→周末/玩耍→派对/甜美→活力/运动→多层/舒适
+
+消极的：
+3x3，九宫格，9张卡片，额外卡片，3行2列，双栏布局，顶部大标题，页面标题，人物切换，换脸，多人，低分辨率，模糊，塑料皮肤，广角畸变，鱼眼，身体扭曲，极度瘦身，长腿效果，户外背景，纹理墙，鞋子被剪掉，半身，成人化，性感，内衣，透视，高跟鞋（儿童），浓妆（儿童），水印，裁剪文字
+```
 
 <a id="prompt-988"></a>
 ## 案例 988：圣诞特辑-冷艳圣诞甜酷皆在方寸间 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2004008192200921372)) 模型：Nano banana pro
