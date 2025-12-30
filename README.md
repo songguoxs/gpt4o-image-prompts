@@ -33,6 +33,35 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 1027：竖版全身节日海报 ](#prompt-1027)
+*   [案例 1026：城市景观上空绽放的壮观烟花照片 ](#prompt-1026)
+*   [案例 1025：一只人的手握着一枚细长狭长的竖版模切书签 ](#prompt-1025)
+*   [案例 1024：水果包装 ](#prompt-1024)
+*   [案例 1023：品牌商品包装 ](#prompt-1023)
+*   [案例 1022：一只手拿着一个细长的竖式镂空书签 ](#prompt-1022)
+*   [案例 1021：电商商品KV图 ](#prompt-1021)
+*   [案例 1020：帅气的9宫格海马体写真 ](#prompt-1020)
+*   [案例 1019：逼真的 Vogue 杂志封面风格的时尚肖像 ](#prompt-1019)
+*   [案例 1018：多角度特写的写真海报图 ](#prompt-1018)
+*   [案例 1017：牛肉面挂牌 ](#prompt-1017)
+*   [案例 1016：3D表情包 ](#prompt-1016)
+*   [案例 1015：中国水墨画风格邮票 ](#prompt-1015)
+*   [案例 1014：虚拟与现实的融合 ](#prompt-1014)
+*   [案例 1013：烟花在水滨城市上空勾勒出主题的形状 ](#prompt-1013)
+*   [案例 1012：迷你品牌小夜灯设计 ](#prompt-1012)
+*   [案例 1011：深红色连衣裙女生拿着白葡萄酒 ](#prompt-1011)
+*   [案例 1010：金色长卷发和白皙肤色的女子 ](#prompt-1010)
+*   [案例 1009：无肩带连衣裙女生拿着白葡萄酒杯 ](#prompt-1009)
+*   [案例 1008：2026写实摄影棚时尚肖像 ](#prompt-1008)
+*   [案例 1007：2026新年海报 ](#prompt-1007)
+*   [案例 1006：超写实俯视微距摄影 ](#prompt-1006)
+*   [案例 1005：女子仿佛从刚冲洗出来的照片中浮现出来 ](#prompt-1005)
+*   [案例 1004：冬季森林中年轻女子的3x3网格拼贴画 ](#prompt-1004)
+*   [案例 1003：现代Bento网格布局产品展示设计 ](#prompt-1003)
+*   [案例 1002：宫廷管弦乐队在一根树枝上演奏音乐 ](#prompt-1002)
+*   [案例 1001：香港维多利亚港烟花秀 ](#prompt-1001)
+*   [案例 1000：山顶观看烟花秀 ](#prompt-1000)
+*   [案例 999：手臂搭在巨大的3D汤姆猫身上 ](#prompt-999)
 *   [案例 998：元旦特辑-粉色的秋千童话风 ](#prompt-998)
 *   [案例 997：元旦特辑-复古旗袍名媛风 ](#prompt-997)
 *   [案例 996：3D卡通形象击碎墙壁 ](#prompt-996)
@@ -339,6 +368,2326 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-1027"></a>
+## 案例 1027：竖版全身节日海报 (来源 [@hellokaton](https://x.com/hellokaton/status/2003484504347079156)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1027.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-竖版全身节日海报">
+</div>
+
+**提示词：**
+```
+{
+    "language": "en",
+    "task": "image_edit",
+    "consistency_id": "user_subject_sassy_santa",
+    "input_images": [
+        {
+            "image": "{{USER_REFERENCE_IMAGE}}",
+            "use_as": "subject_identity",
+            "priority": "high"
+        }
+    ],
+    "prompt": "Create a full-body vertical 3:4 festive poster. Use the person from the uploaded reference image as the ONLY human subject (could be male or female). Preserve identity strongly: same face structure, hairstyle, skin tone, and overall likeness. Preserve the subject’s gender presentation from the reference; do not gender-swap.\n\nPOSE (LOCK THIS): a grounded swagger power-stance with BOTH FEET ON THE FLOOR (no raised leg). Wide stance, feet apart. Weight mostly on the back leg. The front foot is planted closer to the camera to create forced-perspective enlargement of the sneaker, but the sole stays fully on the ground. Knees slightly bent. Hips subtly cocked. Upper body slightly leaned back with shoulders rolled back and chest subtly forward.\n\nARMS & FACE (LOCK THIS): arms firmly and tightly crossed over the chest (no hands-on-hips). Chin slightly raised. Slight head tilt. A smug, confident, sassy expression (subtle smirk / “too cool” attitude).\n\nWARDROBE: rich red velvet Santa suit with clean white fur trim, Santa hat, white gloves, stylish black sunglasses. Keep modern clean white sneakers.\n\nSCENE: seamless bright red studio backdrop with a soft spotlight gradient behind the subject. Metallic silver confetti floating throughout the scene.\n\nREINDEER: place one realistic reindeer on the subject’s right side (camera-right), full body visible, antlers prominent, facing the camera with a cute/curious look. The reindeer wears a cozy red-and-green knitted scarf.\n\nLIGHTING & CAMERA: crisp commercial studio lighting, high detail textures (velvet, fur trim, knit scarf, reindeer fur). Low-angle wide lens look (about 20–28mm), camera near knee height, slight upward tilt. Sharp focus on subject and reindeer, mild depth of field for a premium poster feel. Photorealistic, clean, no text.",
+    "style_parameters": {
+        "render_style": "photorealistic",
+        "mood": "festive, playful, swagger, comedic",
+        "camera_look": "low-angle wide lens, forced perspective"
+    },
+    "composition": {
+        "shot_type": "full_body",
+        "camera_angle": "low_angle",
+        "subject_position": "center_left",
+        "secondary_subject_position": "right",
+        "background": "solid red seamless with subtle spotlight gradient",
+        "foreground_elements": "silver confetti"
+    },
+    "technical_specifications": {
+        "aspect_ratio": "3:4",
+        "resolution": "4k",
+        "detail_level": "high",
+        "sharpness": "high"
+    },
+    "negative_prompt": "raised leg, knee up, kicking, stepping forward mid-air, walking pose, running pose, sitting, crouching, hands on hips, hands in pockets, text, watermark, logo, brand mark, extra people, duplicate face, face distortion, different identity, gender swap, body-type change, extra limbs, extra fingers, bad hands, deformed feet, melted sunglasses, blurry subject, low resolution, cartoon, anime, painterly look, harsh artifacts",
+    "output_settings": {
+        "format": "jpg",
+        "quality": "high"
+    }
+}
+```
+
+**中文提示词：**
+```
+{
+"language": "en",
+"任务": "图像编辑",
+"consistency_id": "user_subject_sassy_santa",
+"input_images": [
+{
+"image": " {{ USER_REFERENCE_IMAGE }} ",
+"use_as": "subject_identity",
+“优先级”： “高”
+}
+],
+“提示”：创作一张3:4比例的竖版全身节日海报。使用上传的参考图片中的人物作为唯一的人体主体（可以是男性或女性）。务必保持人物特征：相同的面部结构、发型、肤色和整体相似度。保持参考图片中人物的性别特征；不要改变性别。\n\n姿势（锁定此项）：双脚着地，双脚分开站立，保持稳健自信的站姿（不要抬腿）。双脚分开站立，重心主要在后腿上。前脚靠近镜头，利用透视效果放大运动鞋，但鞋底始终与地面接触。膝盖微屈。臀部略微前倾。上身略微后倾，双肩向后舒展，胸部略微前挺。\n\n手臂和面部（锁定此项）：双臂紧紧交叉于胸前（不要双手叉腰）。下巴略微抬起。头部略微前倾。倾斜。一种沾沾自喜、自信、傲娇的表情（略带一丝微笑/“酷毙了”的态度） .\ \n服装：深红色天鹅绒圣诞老人套装，配以干净的白色毛皮饰边、圣诞帽、白色手套和时尚的黑色太阳镜。搭配现代的干净白色运动鞋。\n\n场景：无缝亮红色影棚背景，主体后方有柔和的渐变聚光灯。银色金属彩纸屑在场景中飘落。\n\n驯鹿：将一只逼真的驯鹿放在主体的右侧（相机右侧），全身可见，鹿角突出，面向镜头，眼神可爱/好奇。驯鹿戴着一条舒适的红绿相间针织围巾。\n\n灯光和相机：清晰的商业影棚灯光，高细节纹理（天鹅绒、毛皮饰边、针织围巾、驯鹿毛皮）。低角度广角镜头（约20-28mm），相机高度接近膝盖，略微向上倾斜。主体清晰对焦驯鹿，适中的景深营造出高级海报的感觉。照片级写实，画面干净，无文字。
+"style_parameters": {
+"render_style": "照片写实风格",
+“情绪”：“喜庆的、俏皮的、自信的、喜剧的”，
+"camera_look": "低角度广角镜头，强制透视"
+},
+“作品”： {
+"shot_type": "全身",
+"camera_angle": "低角度",
+"subject_position": "center_left",
+"secondary_subject_position": "右",
+“背景”: “纯红色无缝，带有微妙的聚光灯渐变”
+"前景元素": "银色彩带"
+},
+"technical_specifications": {
+"aspect_ratio": "3:4",
+分辨率：4K，
+"detail_level": "高",
+“清晰度”： “高”
+},
+"negative_prompt": "抬腿、抬膝、踢腿、空中向前迈步、行走姿势、跑步姿势、坐姿、蹲姿、双手叉腰、双手插兜、文字、水印、标志、品牌标识、额外人物、重复面孔、面部扭曲、不同身份、性别互换、体型改变、额外肢体、额外手指、残疾的手、畸形的脚、融化的太阳镜、模糊主体、低分辨率、卡通、动漫、油画风格、粗糙的瑕疵",
+"output_settings": {
+"格式": "jpg",
+“质量”： “高”
+}
+}
+```
+
+<a id="prompt-1026"></a>
+## 案例 1026：城市景观上空绽放的壮观烟花照片 (来源 [@TechieBySA](https://x.com/TechieBySA/status/2004894710729478277)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1026.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市景观上空绽放的壮观烟花照片">
+</div>
+
+**提示词：**
+```
+Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
+```
+
+**中文提示词：**
+```
+拍摄一张夜幕降临后，在水滨城市景观上空绽放的壮观烟花照片。烟花应完全按照上传的标志形状绽放，完美复刻其独特的设计、比例、色彩和轮廓。烟花中的每一种颜色都应与标志中的一模一样，并精确地放置在原标志设计中对应的位置。标志的形状在夜空映衬下的烟花编队中应清晰可见，细节丰富。画面背景应包含城市轮廓、烟花绽放的烟雾以及水面上变幻莫测的彩色倒影。照片风格需采用专业的长曝光摄影技巧，聚焦于烟花绽放的瞬间，构图需具有电影质感，并达到4K画质。
+```
+
+<a id="prompt-1025"></a>
+## 案例 1025：一只人的手握着一枚细长狭长的竖版模切书签 (来源 [@langzihan](https://x.com/langzihan/status/2003801248370442275)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1025.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一只人的手握着一枚细长狭长的竖版模切书签">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "subject": "一只人的手握着一枚细长、狭长的竖版模切书签",
+    "bookmark_design": {
+      "style": "超现实风格",
+      "content": "一张超现实的中景镜头：一位可爱亚洲女孩，长长的黑色双马尾，穿着黑白荷叶边女仆装，戴着蓬松逼真的猫耳",
+      "artistic_elements": "细腻的纹理，鲜艳的色彩，微型建筑细节"
+    },
+    "background": {
+      "setting": "浪漫的、电影感宽景镜头，真实{{location}}的天际线与风景",
+      "depth_of_field": "柔和的虚化背景，突出聚焦的书签",
+      "time_of_day": "{{time_of_day}}",
+      "lighting_effects": "与{{time_of_day}}相匹配的大气光效，金色时刻的辉光、城市灯火，或柔和的日光"
+    },
+    "composition": {
+      "framing": "手和书签的特写，垂直居中构图",
+      "vibe": "怀旧、美学、旅行灵感、诗意",
+      "color_palette": "书签艺术与现实背景之间的和谐配色"
+    },
+    "technical_specs": {
+      "quality": "8K分辨率，高度细节，照片级真实的手部，书签锐利对焦",
+      "aspect_ratio": "3:4"
+    }
+  },
+  "variables": {
+    "location": ["上海"],
+    "time_of_day": ["日出"]
+  }
+}
+```
+
+<a id="prompt-1024"></a>
+## 案例 1024：水果包装 (来源 [@berryxia](https://x.com/berryxia/status/2003836511565815965)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1024.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-水果包装">
+</div>
+
+**提示词：**
+```
+Premium Japanese-style product poster in 16:9 landscape format, editorial design showcasing kiwi juice skin packaging concept with sophisticated visual storytelling:
+
+LEFT SIDE (40% of canvas):
+- Hero product: One large kiwi juice skin package displayed vertically with dramatic soft lighting, showing ultra-realistic kiwi peel texture wrapped around rectangular container, fuzzy brown skin with thousands of fine visible hair-like fibers covering entire surface, rough natural texture, brown color with subtle variations, looks exactly like real kiwi skin stretched over package
+- Below: One cross-sectioned fresh kiwi showing vibrant green creamy flesh with black seeds radiating from white center
+- Japanese typography vertically aligned: "キウイスキン" (Kiwi Skin) in elegant thin gothic font
+- Subtitle: "果汁皮肤 / 猕猴桃" in refined style
+- Small design philosophy text in Japanese
+
+CENTER (30% of canvas):
+- Generous white negative space (Ma - 間)
+- Minimal geometric elements: delicate thin lines
+- Floating text: "自然な素材" (natural materials)
+- Subtle minimalist brand mark
+- Very subtle kiwi fuzz texture pattern in background (low opacity)
+
+RIGHT SIDE (30% of canvas):
+- Two kiwi juice skin packages arranged artistically at different angles and heights
+- One whole fresh kiwi with natural fuzzy brown skin
+- Typography: "Natural Packaging / 自然な包装"
+- Tagline: "The skin is the package / 皮膚が包装である"
+- Detail callouts pointing to fuzzy hair texture
+
+DESIGN PRINCIPLES: Abundant white space, asymmetrical balance, Wabi-sabi aesthetic, Muji/Noritake editorial minimalism
+COLOR PALETTE: brown kiwi tones, pure white background, bright green accent from flesh
+PHOTOGRAPHY: Soft diffused studio lighting, ultra-sharp macro details showing fuzzy texture, photorealistic rendering
+CRITICAL: The kiwi skin packaging must look incredibly realistic - actual organic fuzzy brown texture with thousands of tiny brown hairs, rough natural appearance, NOT plastic
+
+16:9 widescreen, high-end Japanese product poster, gallery quality
+```
+
+<a id="prompt-1023"></a>
+## 案例 1023：品牌商品包装 (来源 [@AmirMushich](https://x.com/AmirMushich/status/2003478037032239127)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1023.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-品牌商品包装">
+</div>
+
+**中文提示词：**
+```
+理想食品品牌：[此处填写食品品牌名称]
+
+任务：担任专门从事军用包装设计的平面设计专家。根据上面提供的“所需食品品牌”，创作一张虚构的即食军粮（MRE）的高保真图像。
+
+第一阶段：品牌调研
+
+找出所需食品品牌的官方标志。
+
+找出该品牌最主要的两种颜色。
+
+颜色 A（主色）：主要背景色。
+
+颜色 B（辅助色）：用于字体和图标的颜色。
+
+第二阶段：视觉执行（图像生成）
+
+生成一张单份MRE（即食口粮）包装袋的特写图像，背景为干净的纯白色。设计必须符合以下严格限制：
+
+尺寸和外形：包装袋的尺寸必须与标准美军MRE（单兵口粮）的尺寸完全一致。它应该是一个高高的竖直长方形（而不是正方形或小零食袋）。包装袋应该看起来厚实沉重，真空密封的轮廓清晰可见，并且在盛放食物的地方略微鼓起。
+
+材质与颜色：采用厚实耐用的哑光塑料，顶部和底部采用加固的压纹热封工艺。包装整体颜色必须为A色。所有文字和标识必须使用B色印刷。
+
+标志放置位置：将品牌的原样、未经修改的标志放置在左上角（替换国防部印章）。
+
+主要品牌标识：必须在袋子中心以 45 度向上倾斜的角度印上“MRE”字样的大号粗体衬线字体。
+
+字体排印与版式设计：
+
+右上角：“即食餐，个人装”，粗体无衬线字体。
+
+左上角（标志下方）：标语“战士推荐、战士测试、战士认可™ ”。
+
+右下角：列出“菜单 [随机数字]”，后面跟着 Desired Food 品牌的著名招牌菜品，全部以粗体大写字母显示。
+
+底部中心：将品牌名称作为制造商，然后是虚假地址、“美国政府财产”法律免责声明，以及最底部边缘的“无焰口粮加热器”航空安全警告。
+
+细节：在包装袋顶部中央印上“可剥离密封”字样和一个向上的小箭头。确保顶部和底部的压痕清晰可见。
+```
+
+<a id="prompt-1022"></a>
+## 案例 1022：一只手拿着一个细长的竖式镂空书签 (来源 [@firatbilal](https://x.com/firatbilal/status/2003553245499916501)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1022.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一只手拿着一个细长的竖式镂空书签">
+</div>
+
+**提示词：**
+```
+Your city
+{
+  "image_request": {
+    "subject": "A person's hand holding a long, narrow vertical die-cut bookmark",
+    "bookmark_design": {
+      "style": "Intricate layered paper-cut illustration, 3D depth, whimsical artistic style",
+      "content": "Iconic landmarks and symbols of {{location}} depicted inside the bookmark frame, some elements slightly popping out of the edges (die-cut)",
+      "artistic_elements": "Delicate textures, vibrant colors, miniature architectural details"
+    },
+    "background": {
+      "setting": "A romantic, cinematic wide shot of the actual {{location}} skyline and scenery",
+      "depth_of_field": "Soft bokeh, blurred background to emphasize the bookmark in focus",
+      "time_of_day": "{{time_of_day}}",
+      "lighting_effects": "Atmospheric lighting matching the {{time_of_day}}, golden hour glows, city lights, or soft daylight"
+    },
+    "composition": {
+      "framing": "Close-up on the hand and bookmark, centered vertically",
+      "vibe": "Nostalgic, aesthetic, travel-inspired, poetic",
+      "color_palette": "Harmonized colors between the bookmark's art and the real-world background"
+    },
+    "technical_specs": {
+      "quality": "8k resolution, highly detailed, photorealistic hand, sharp focus on bookmark",
+      "aspect_ratio": "3:4"
+    }
+  },
+  "variables": {
+    "location": ["Istanbul", "Paris", "Tokyo", "London", "Rome"],
+    "time_of_day": ["Sunrise", "Sunset", "Night with city lights", "Bright daylight"]
+  }
+}
+```
+
+**中文提示词：**
+```
+你的城市
+{
+"image_request": {
+“主题”：“一只手拿着一个细长的竖式镂空书签”，
+"书签设计": {
+“风格”：“错综复杂的层叠剪纸插画，3D立体感，异想天开的艺术风格”，
+“内容”：“书签框内描绘了{{地点}}的标志性地标和符号，部分元素略微凸出于边缘（模切）”
+艺术元素：精致的纹理、鲜艳的色彩、微缩的建筑细节
+},
+“背景”： {
+“场景”: “一个浪漫的、电影般的广角镜头，展现实际的{{地点}}天际线和风景”，
+“景深”: “柔和散景，模糊背景以突出焦点的书签”
+"time_of_day": " {{ time_of_day }} ",
+"lighting_effects": "与{{一天中的时间}}相匹配的氛围照明，例如黄金时段的光晕、城市灯光或柔和的日光"
+},
+“作品”： {
+“构图”：“手和书签的特写，垂直居中”
+“氛围”：怀旧、唯美、旅行灵感、诗意，
+"color_palette": "书签图案与现实世界背景之间的协调色彩"
+},
+"technical_specs": {
+“质量”：“8K分辨率，高度细节化，照片级逼真的手部，书签清晰对焦”，
+"aspect_ratio": "3:4"
+}
+},
+"变量": {
+地点：["伊斯坦布尔", "巴黎", "东京", "伦敦", "罗马"]
+"time_of_day": ["日出", "日落", "城市灯光下的夜晚", "明亮的白天"]
+}
+}
+```
+
+<a id="prompt-1021"></a>
+## 案例 1021：电商商品KV图 (来源 [@yanhua1010](https://x.com/yanhua1010/status/2004012045143101808)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1021.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-电商商品KV图">
+</div>
+
+**中文提示词：**
+```
+基于我给的产品图，梳理产品卖点/参数要点，然后给我输出一套统一旗舰店极简KV系统（9:16），最后生成10张详情页的完整提示词（中英双语、干净大气、至少5张细节特写），先单独生成Logo，用于后续每张海报左上角，其中文字排版风格需要统一，比如玻璃效果、3d浮雕效果，或者其他效果，提示词参考如下:
+00、LOGO生成
+提示词（中文）： 极简高端时尚品牌logo，矢量风格，干净几何形。品牌名：【"MUYANG"】。图标：细线圆形徽章，内含单支精致叶枝（负空间，现代，优雅）。配色：深苔灰绿色(#2F3A33)搭配温暖米白背景(#F3EFE6)或透明背景。字体：高端衬线体"MUYANG"，字母间距宽松，下方小字"沐阳"。无渐变、无阴影、无3D、无样机、无水印。
+01、海报01｜【产品·丝滑睡裙】主KV（Hero）
+提示词（中文）： 9:16竖版高端极简时尚海报。柔和摄影棚日光，温暖米白渐变背景（奶油/燕麦色），超干净。精致亚洲美女模特(25-30岁)，精致五官，自然裸妆，长发慵懒随意，放松优雅姿态，全身照，一只手轻轻抚摸裙摆。
+服装必须与上传的产品参考图匹配：香槟色/奶油色缎面短款吊带睡裙，细吊带，V领，裙长至大腿中部，丝滑光泽面料，保持服装设计与参考图完全一致。
+排版布局：左上角放置MUYANG logo(小号)。顶部居中巨大衬线标题(2行)："SILK SLIP DRESS" / "丝滑睡裙"(中英堆叠，干净)。左侧中部玻璃拟态信息卡(3个要点，双语)：仿真丝触感 / Silk-like touch；修身不紧绷 / Flattering fit；居家也优雅 / Elegant at home。右下角【圆角药丸CTA】："立即选购 → / SHOP NOW →"。
+负面词：cluttered, busy, multiple patterns, gradients, shadows, watermark, logo repeated, messy text, low quality, blurry, plain face, unattractive
+02、海报02｜产品场景展示
+提示词（中文）： 9:16竖版，电影质感干净时尚摄影。背景：柔和晨光透过白色纱帘的卧室，奶白色床品，极简北欧风格，温暖氛围。精致亚洲美女模特全身侧身站立，长发披肩，回眸微笑，一只手撩起发丝。使用上传的产品参考图保持香槟色短款吊带睡裙的形状、长度、面料光泽完全一致。
+文字：左上角小号MUYANG logo。左上小号优雅字体："晨光私语 / Morning Whisper"。左下大标题："慵懒的刚刚好"。标题下副标题(双语)："丝滑触肤，开启美好一天 / Silky touch, beautiful day begins."。右下角CTA药丸："了解更多 → / LEARN MORE →"。
+负面词：cluttered, busy, dark, messy room, shadows, watermark, messy text, low quality, blurry, plain face
+03、海报03｜多场景拼贴
+提示词（中文）： 9:16竖版极简拼贴海报，圆角照片块和充足负空间。背景：温暖奶油色，干净。创建4个圆角框展示同一位精致亚洲美女模特穿着上传参考图中相同的香槟色短款吊带睡裙，不同居家场景：清晨卧室窗边、客厅沙发慵懒坐姿、浴室镜前、阳台藤椅喝咖啡。所有框架中保持服装、模特完全一致。
+左上角MUYANG logo。底部大衬线标题："一裙多场景"。底部副标题(双语)："居家、约会、度假都适合 / Home, date, vacation ready."。右下角附近添加小型3点列表：不挑场合 / Versatile style；秒变氛围感 / Instant chic；舒适又迷人 / Cozy yet alluring。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry, plain face.
+04、海报04｜细节01·面料光泽（Fabric Sheen）
+提示词（中文）： 9:16竖版高端微距细节海报。背景：奶油色渐变，大量干净负空间。极近距离拍摄上传参考图中缎面面料的光泽质感，展示丝滑反光效果和柔软垂坠感，面料随身体曲线自然流动。左上角MUYANG logo。
+右侧大标题(双语)："仿真丝光泽 / Silk-like Sheen"。小文案(双语，2行)："触感细腻，像第二层肌肤 / Delicate touch, like second skin."。"自然反光更显质感 / Natural luster, premium feel."。右下角CTA药丸："了解更多 → / LEARN MORE →"。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry
+05、海报05｜细节02·细吊带与锁骨（Strap & Collarbone）
+提示词（中文）： 9:16竖版极简细节海报。背景：温暖米白，超干净。特写拍摄精致亚洲美女模特的锁骨、肩颈线条和细吊带，来自上传参考(精致优雅)，柔和侧光勾勒轮廓，高级质感。添加一个小圆角内嵌图展示完整着装轮廓(非常小，低不透明度)。
+左上角MUYANG logo。居中大衬线标题："细吊带设计"。3个微型要点(双语)：展现优美肩颈 / Flatters shoulders；精致不累赘 / Delicate refined；性感而优雅 / Sexy yet elegant。CTA药丸："立即选购 → / SHOP NOW →"。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry, plain face
+06、海报06｜细节03·V领剪裁（V-Neckline Cut）
+提示词（中文）： 9:16竖版时尚细节海报，干净摄影棚灯光。背景：淡燕麦到奶油色渐变，无纹理。近距离拍摄V领剪裁细节(从上传参考)，展示领口线条流畅性和恰到好处的深度，性感不失优雅。左上角MUYANG logo。
+左侧大标题："V领剪裁"。副标题(双语)："修饰脸型，拉长颈部线条 / Face-flattering, neck-elongating."。添加小标签行："DETAIL 03"(小号)。CTA药丸："了解更多 → / LEARN MORE →"。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry.
+07、海报07｜细节04·裙摆垂坠感（Hemline Drape）
+提示词（中文）： 9:16竖版高端细节海报。背景：极浅香槟金雾霾色，低对比。拍摄精致亚洲美女模特侧面下半身，展示短裙裙摆自然垂坠在大腿中部的优美曲线(从上传参考)，面料随身体动态流动，修饰腿部线条。
+左上角MUYANG logo。右侧标题(双语)："短款更显腿长"。小文案(双语)："恰到好处的长度，修饰比例 / Perfect length, flattering proportion."。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry, plain face
+海报08｜产品配色/型号
+提示词（中文）： 9:16竖版极简时尚情绪板。背景：温暖奶油色。左侧：全身精致亚洲美女模特穿着上传参考图中的香槟色短款吊带睡裙(干净摄影棚，自然站姿)。右侧：整齐排列受睡裙启发的配色/材质色卡(香槟金、奶油色、珍珠白、柔和米色) + 极简线条图标(月亮、羽毛、丝绸、晨露)。保持一切扁平、高端，不繁忙。
+左上角MUYANG logo。顶部大衬线："配色灵感 / COLOR INSPIRATION"。3个要点(双语)：香槟金显气质 / Champagne exudes elegance；温柔色更衬肤 / Soft tones flatter skin；低调奢华感 / Subtle luxury。CTA："了解更多 → / LEARN MORE →"。
+负面词：cluttered, busy, multiple patterns, shadows, watermark, messy text, low quality, blurry, plain face.
+09、海报09｜产品尺码/参数
+提示词（中文）： 9:16竖版极简尺码指南海报。背景：温暖米白，干净。将尺码表(S/M/L)放置为整洁的网格卡片(玻璃拟态，圆角)。内容(双语标题)："尺码参考 / SIZE GUIDE"。表格列：尺码 Size｜衣长 Length｜胸围 Bust｜腰围 Waist｜臀围 Hip。行：S｜90cm｜80-84cm｜64-68cm｜88-92cm；M｜92cm｜84-88cm｜68-72cm｜92-96cm；L｜94cm｜88-92cm｜72-76cm｜96-100cm。左上角MUYANG logo。底部小注释(双语)："手工测量，误差±2cm属正常 / Hand-measured, ±2cm variance normal."。底部贴心提示："建议参考胸围选择尺码 / Suggest sizig by bust measurement."
+负面词：no extra patterns, no clutter, no watermark
+10、海报10｜结尾信任页 质保/售后/说明
+提示词（中文）： 9:16竖版高端护理海报。背景：奶油色渐变，非常干净。
+左上角MUYANG logo。大标题："洗护指南 / CARE GUIDE"。使用5个极简图标 + 简短双语行(干净，不拥挤)：建议手洗或使用洗衣袋 / Hand wash or use laundry bag；冷水或30°C以下水温 / Cold or below 30°C water；不可漂白或强力拧干 / No bleach or wringing；悬挂阴干，避免暴晒 / Hang dry, avoid direct sun；低温熨烫，垫布熨烫更佳 / Low heat iron, use cloth。底部添加小字(双语)："悉心呵护，延长丝滑寿命 / Care well, silkiness lasts longer."。
+负面词：no clutter, no heavy texture, no watermark
+```
+
+<a id="prompt-1020"></a>
+## 案例 1020：帅气的9宫格海马体写真 (来源 [@msjiaozhu](https://x.com/msjiaozhu/status/2004194584797315341)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1020.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-帅气的9宫格海马体写真">
+</div>
+
+**提示词：**
+```
+{
+ "project_type": "Nine-grid Trendy Star Portrait Collage",
+ "aspect_ratio": "3:4",
+ "visual_style": {
+   "color_palette": "Black and white, Monochrome, High key, Bright grayscale, Clean whites, Light grays",
+   "background": "Studio background, seamless white paper, light gray concrete wall, minimalist bright space, no dark voids",
+   "lighting": [
+     "Soft frontal lighting",
+     "Butterfly lighting",
+     "Studio lighting",
+     "Flattering beauty dish light",
+     "No backlighting",
+     "No harsh shadows on face"
+   ],
+   "mood": "Trendy, Cool, Confident, Star quality, Fashion editorial, Energetic, Edgy"
+ },
+ "subject_description": {
+   "identity_consistency": "Consistent facial features across all 9 panels (based on input reference)",
+   "hair_and_grooming": [
+     "Varied trendy hairstyles",
+     "Cool messy undercut",
+     "Styled quiff",
+     "Textured crop",
+     "Slicked back modern",
+     "Designer stubble",
+     "Masculine scruff",
+     "Well-groomed beard"
+   ],
+   "styling": [
+     "Fashion forward",
+     "Streetwear vibe",
+     "Leather jacket collar",
+     "Designer hoodie",
+     "Minimalist layers",
+     "Statement accessories (e.g., single earring)"
+   ],
+   "expressions/poses": [
+     "Confident smirk",
+     "Looking off-camera coolly",
+     "Hand running through hair",
+     "Slight jaw clench",
+     "Direct confident gaze",
+     "Dynamic poses"
+   ]
+ },
+ "composition": {
+   "layout": "9-grid collage, Dynamic layout (not perfectly uniform), Mix of close-ups and medium shots",
+   "style": "Fashion magazine contact sheet, Editorial spread"
+ },
+ "technical_specs": {
+   "camera_emulation": "Medium format fashion camera",
+   "film_stock": "Kodak T-Max 400 (fine grain, sharp)",
+   "resolution": "8k, masterpiece, sharp focus"
+ },
+ "negative_prompt": [
+   "Dark background",
+   "Black void background",
+   "Backlit",
+   "Silhouette",
+   "Harsh shadows",
+   "Underexposed",
+   "Old fashioned",
+   "Dull",
+   "Uniform grid",
+   "Same hairstyle in all",
+   "Clean shaven (unless specified)"
+ ]
+}
+```
+
+<a id="prompt-1019"></a>
+## 案例 1019：逼真的 Vogue 杂志封面风格的时尚肖像 (来源 [@underwoodxie96](https://x.com/underwoodxie96/status/2004221776755376606)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1019.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逼真的 Vogue 杂志封面风格的时尚肖像">
+</div>
+
+**提示词：**
+```
+Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).
+
+A young elegant woman posing confidently, maintaining her original facial features and natural beauty. She is winking with her left eye and making a playful duck-face expression. Both hands are raised, forming a love/heart gesture near her face.
+
+She is surrounded by multiple DSLR cameras and smartphones held around her, as if paparazzi and photographers are capturing her from all directions. Some phones show her live image on their screens.
+
+Appearance & styling: flawless glowing skin, natural makeup with glossy pink lips, soft blush, subtle highlights. Light brown hair styled in a low, neat updo with a few loose strands.
+
+Outfit & accessories: elegant minimalist beige-white strapless evening dress, Louis Vuitton necklace, diamond ring, luxury fashion jewelry.
+
+Photography style: close-up to half-body fashion portrait, Vogue editorial aesthetic, cinematic professional studio lighting, soft HDR background, shallow depth of field, realistic skin texture, ultra-detailed, 8K quality.
+
+Camera & lens look: professional DSLR look, 85mm lens feel, f/1.8 aperture, crisp focus with smooth background bokeh.
+
+Composition: Vogue magazine layout with large bold logo at the top, editorial fashion cover framing, clean and elegant design.
+
+Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, not AI-looking, photographed by a professional fashion photographer.
+```
+
+**中文提示词：**
+```
+使用上传的人脸作为原始人脸参考，创作一幅逼真的 Vogue 杂志封面风格的时尚肖像（100% 保留人脸特征）。
+
+一位年轻优雅的女子自信地摆着姿势，保持着她原本的五官和自然美。她眨着左眼，俏皮地嘟起了嘴。双手高举，在脸颊旁比出一个爱心的手势。
+
+她周围摆满了单反相机和智能手机，仿佛狗仔队和摄影师正从四面八方拍摄她。有些手机屏幕上显示着她的实时影像。
+
+妆容及造型：完美无瑕的透亮肌肤，自然妆容，粉嫩水润的唇妆，柔和的腮红，以及恰到好处的高光。浅棕色头发梳成低低的利落盘发，几缕碎发自然垂落。
+
+服装及配饰：优雅简约的米白色无肩带晚礼服、路易威登项链、钻石戒指、奢华时尚珠宝。
+
+摄影风格：特写至半身时尚人像，Vogue 杂志大片风格，电影级专业影棚灯光，柔和 HDR 背景，浅景深，逼真的皮肤纹理，超高细节，8K 画质。
+
+相机和镜头外观：专业单反外观，85mm镜头手感，f/1.8光圈，对焦清晰，背景虚化柔和。
+
+构图：Vogue杂志版式，顶部醒目大logo，时尚杂志封面式边框，简洁优雅的设计。
+
+氛围与格调：俏皮又不失奢华，高级时尚美妆大片，真实自然，不像人工智能拍摄的，由专业时尚摄影师拍摄。
+```
+
+<a id="prompt-1018"></a>
+## 案例 1018：多角度特写的写真海报图 (来源 [@lijigang](https://x.com/lijigang/status/2004514549404516664)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1018.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-多角度特写的写真海报图">
+</div>
+
+**中文提示词：**
+```
+1.  画面调性 
+   
+核心气质: 日系空气感写真, 清新唯美, 高调摄影
+
+关键词: Soft Focus, Dreamy Atmosphere, Clean Minimalism, Portrait Photography, Natural Light
+
+2. 视觉逻辑
+   
+空间构建:
+- 视角: 平视视角与微距特写混合。
+- 布局: 极简主义构图，主体突出，背景留白或弱化。
+- 景深: 浅景深，背景虚化以强调主体与环境的隔离感。
+  
+3. 视觉渲染 
+   
+成像质感:
+- 光影: 极柔和的漫射光，模拟自然窗光。无死黑阴影，整体画面通透，高光部分略微过曝营造梦幻感。
+- 材质: 细腻真实的摄影质感，但在皮肤和织物处理上带有轻微的“柔光滤镜”效果。
+- 清晰度: 边缘柔和，非锐利数字渲染，追求胶片摄影的自然颗粒感。
+  
+4. 色彩系统
+   
+核心主色:
+- Sakura Pink: #F2C4CE (作为视觉主体色，柔和粉嫩)
+- Creamy White: #F9F6F0 (作为环境基调，暖白)
+- Light Wood: #D8C6A8 (作为自然点缀，原木色)
+- 色彩逻辑: 低饱和度，高明度。整体色温偏暖，营造温馨、无害的视觉心理。
+  
+5. 负向约束
+   
+绝对禁止:
+- 严禁低调暗光、强烈的明暗对比。
+- 严禁硬边缘阴影。
+- 严禁脏旧、粗糙、赛博朋克式的噪点。
+- 严禁高饱和霓虹色或人造塑料质感。
+- 严禁二次元描边或矢量扁平化处理。
+- 严禁出现任何文字。
+
+6. 画面内容
+   
+请生成多角度特写的写真海报图：
+
+下雪天，初恋男女，在学校操场上玩闹。
+```
+
+<a id="prompt-1017"></a>
+## 案例 1017：牛肉面挂牌 (来源 [@berryxia](https://x.com/berryxia/status/2004570423472562237)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1017.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-牛肉面挂牌">
+</div>
+
+**提示词：**
+```
+A premium transparent acrylic signage panel for "[品牌名称]" brand, photographed in ABSOLUTE FRONTAL VIEW with ZERO perspective distortion.
+CRITICAL CAMERA SETUP (STRICT ENFORCEMENT):
+- Camera angle: EXACTLY 0° (perfectly perpendicular to the panel surface)
+- The acrylic panel MUST be completely parallel to the camera sensor
+- NO rotation on X, Y, or Z axis
+- The panel edges MUST form perfect vertical and horizontal lines in the frame
+- Use architectural photography grid alignment to ensure perfect frontal geometry
+- NO three-quarter view, NO slight angle, NO depth perception - PURE FLAT FRONTAL
+PANEL SPECIFICATIONS:
+- Material: Ultra-clear 15mm acrylic glass with 95% transparency
+- Dimensions: 400mm × 300mm [portrait/square/landscape] orientation
+- All edges are diamond-polished with subtle rainbow light refraction
+- The panel appears to float in mid-air, suspended by invisible forces
+DESIGN LAYOUT (Hand-drawn aesthetic):
+- Brand name "[品牌名称]" in large artistic brush calligraphy at top center
+- Tagline "[品牌口号/slogan]" in elegant handwritten [语言] below the brand name
+- [核心图案描述:如咖啡枝、火锅元素、牛肉纹理等] flowing around the text
+- Small decorative [相关小图标] illustrations scattered naturally
+- All design elements are drawn with [颜色描述,如warm brown/red/etc.] ink (color: [色值]) with varying line weights (0.8-2mm)
+- The drawing has an organic, imperfect quality showing authentic hand-crafted charm
+TRANSPARENCY EFFECTS:
+- The acrylic surface has 60% opacity for drawn elements (semi-transparent, NOT solid)
+- Light passes through the panel, creating soft colored shadows on the virtual plane behind
+- The background [场景类型] environment is visible THROUGH the transparent areas
+- Subtle light refraction effects along the panel edges creating prismatic color dispersion
+BACKGROUND ENVIRONMENT:
+- A warm, inviting [具体场景描述:如specialty coffee shop/hot pot restaurant/steakhouse] interior
+- [环境细节:如wooden furniture, plants, pendant lighting/red lanterns, steam/leather seats, wine racks]
+- The background is moderately blurred (bokeh effect, f/4 aperture simulation) 
+- Background elements are recognizable but not distracting - balanced depth of field
+- [色温描述:如Warm color temperature (3200K-3800K)/Cool-warm mixed lighting]
+LIGHTING:
+- Soft, diffused natural light from the front (60% intensity)
+- Gentle rim lighting from behind the panel (30% intensity) to emphasize transparency
+- NO harsh shadows, maintaining soft and even illumination
+- Light interacts with the acrylic creating subtle internal glow
+TECHNICAL REQUIREMENTS:
+- Shot with macro lens (100mm f/2.8) for zero distortion
+- Sensor perfectly aligned with panel surface using spirit level
+- The panel occupies 70% of the frame, centered perfectly
+- Ultra-sharp focus on the hand-drawn details
+- 8K resolution, photorealistic rendering
+- Color grading: [色调描述:如warm, natural/vibrant, energetic]
+CRITICAL: The entire panel MUST be rendered in perfect frontal view with zero perspective distortion. Every line on the panel should be perfectly straight and parallel to the frame edges.
+```
+
+<a id="prompt-1016"></a>
+## 案例 1016：3D表情包 (来源 [@sundyme](https://x.com/sundyme/status/2004425000586232256)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1016.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D表情包">
+</div>
+
+**提示词：**
+```
+Create a high-quality 3D rendered anthropomorphic mascot character in a cute cartoon style inspired by Kakao Friends/LINE Friends. A cute [角色类型] character in [场景描述], [动作描述], [表情描述], detailed 3D rendering with smooth textures, soft lighting, vibrant colors, kawaii aesthetic, large head and small body proportions, clean white background with subtle shadows.
+
+Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matches the 3D character design - bold, rounded, colorful letters with a kawaii aesthetic.
+
+1:1 aspect ratio, high quality 3D rendering, photorealistic textures with cartoon stylization.  使用这个模板生成一组4个表情包
+```
+
+<a id="prompt-1015"></a>
+## 案例 1015：中国水墨画风格邮票 (来源 [@servasyy_ai](https://x.com/servasyy_ai/status/2004805605937254631)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1015.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国水墨画风格邮票">
+</div>
+
+**提示词：**
+```
+{
+  "style": "Chinese postage stamp design, Neo-Chinese ink wash painting shuimo style, official commemorative stamp series format",
+  "composition": "A vertical sheet of four connected postage stamps arranged top to bottom: spring - summer - autumn - winter. Each stamp has perforated edges and independent design while maintaining cohesive series aesthetic",
+  "overall_mood": "tranquil serene zen-like dreamy ethereal mood with gentle seasonal feeling, elegant postage stamp refinement, ample negative white space, soft natural transitions between stamps with subtle ink gradients",
+  "artistic_quality": "highly artistic masterpiece quality stamp design, subtle ink gradients, official commemorative series standard",
+  "stamp_format": {
+    "border": "each stamp has classic perforated edges (齿孔边缘) all around",
+    "margins": "clean white margins surrounding the entire stamp sheet",
+    "denomination": "¥1.20 face value printed on each stamp",
+    "issuer": "中国邮政 CHINA POST text at bottom of each stamp",
+    "series_info": "四季长卷系列 Four Seasons Series at sheet bottom",
+    "issue_year": "2025"
+  },
+  "sections": [
+    {
+      "season": "spring",
+      "stamp_label": "春 Spring",
+      "foliage": "dense soft pink cherry blossoms and tender light green willow leaves with clear rhythmic textures and veins",
+      "edges": "leaf/petal edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny young lady in pale pink flowing hanfu walking beside a white deer",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "fresh elegant pale pink and light green color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching spring theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 春 Spring label"
+    },
+    {
+      "season": "summer",
+      "stamp_label": "夏 Summer",
+      "foliage": "dense pale cyan and light green lotus leaves and pads with clear rhythmic textures and veins",
+      "edges": "leaf edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny monk in simple gray long robe walking beside a black donkey",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "fresh elegant pale cyan and light green color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching summer theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 夏 Summer label"
+    },
+    {
+      "season": "autumn",
+      "stamp_label": "秋 Autumn",
+      "foliage": "dense warm orange-red and amber maple leaves with clear rhythmic textures and veins",
+      "edges": "leaf edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny scholar in flowing indigo hanfu robe riding a white horse",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "elegant warm pale orange and soft gold color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching autumn theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 秋 Autumn label"
+    },
+    {
+      "season": "winter",
+      "stamp_label": "冬 Winter",
+      "foliage": "dense pale gray-white plum blossoms branches and sparse dark green pine needles lightly dusted with snow, clear rhythmic textures",
+      "edges": "edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny traveler in deep crimson cloak leading a white horse",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "cool elegant pale silver-gray and soft crimson color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching winter theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 冬 Winter label"
+    }
+  ],
+  "global_elements": {
+    "sheet_bottom": "series title '四季长卷系列 Four Seasons Series', issue year '2025'",
+    "bottom_right": "small text '94vanAI'",
+    "stamp_sheet_format": "four stamps connected vertically with perforated edges between each, clean white margins around entire sheet",
+    "parameters": "--ar 3:4 --stylize 400 --v 6"
+  },
+  "negative_prompt": "photorealistic, 3d render, cartoon, chibi, overly detailed face, big figures, crowded composition, heavy saturated colors, harsh thick outlines, text artifacts, watermark, signature too large, modern elements, western style, oil painting, acrylic, thick brush strokes, low contrast, busy background, sharp focus, people dominant, realistic proportions, extra animals, colorful flowers, bright lighting, harsh shadows, no perforations, modern stamp design, photo stamps, digital art style, overlapping stamps, torn edges, damaged stamps, incorrect denomination, wrong issuer name, missing borders, frameless design"
+}
+```
+
+**中文提示词：**
+```
+{
+“风格”：“中国邮票设计，新中国水墨画风格，官方纪念邮票系列格式”
+“组成”：“一张竖版邮票，由四枚相连的邮票组成，从上到下排列：春-夏-秋-冬。每枚邮票都有齿孔边缘和独立设计，同时保持系列的一致性美感。”
+"overall_mood": "宁静祥和，如禅意般梦幻空灵，带有柔和的季节感，邮票般的精致优雅，留白充足，邮票之间过渡柔和自然，墨色渐变微妙。"
+“artistic_quality”: “高度艺术化的杰作品质邮票设计，微妙的墨水渐变，官方纪念系列标准”
+"stamp_format": {
+“边框”：“每枚邮票四周都有经典的齿孔边缘”，
+“边距”: “围绕整张邮票的干净白色边距”，
+“面值”：“每枚邮票上印有¥1.20面值”，
+"issuer": "中国邮政 CHINA POST 每张邮票底部文字",
+"series_info": "四季长卷系列 四季系列位于表底部",
+"issue_year": "2025"
+},
+“章节”：[
+{
+“季节”： “春季”，
+"stamp_label": "春 Spring",
+“叶子”：“浓密的柔粉色樱花和嫩绿的柳叶，具有清晰的纹理和脉络”，
+“边缘”：“叶片/花瓣边缘逐渐模糊和消逝，营造出柔和的层次感和空灵朦胧的氛围”，
+“人物”：“身着淡粉色飘逸汉服的娇小少女，行走在一头白鹿旁边”，
+“渲染”：“人物和动物仅用最少的细墨线条勾勒轮廓，没有不必要的细节”，
+“颜色”：“清新优雅的淡粉色和浅绿色为主色调”，
+“诗句”：“简短优美的中国古代诗歌题词（4-7个字或简短对联），以精致的书法与春天的主题相呼应，巧妙地放置在邮票内。”
+“印章”： “带有优美古代中国诗句的诗意小朱红色印章（竹文红印）”
+"stamp_text": "面额 1.20 元，底部为中国邮政 CHINA POST，春标"
+},
+{
+“季节”: “夏季”，
+"stamp_label": "夏夏",
+“叶子”：“浓密的淡青色和浅绿色荷叶和莲座，具有清晰的韵律纹理和叶脉”，
+“边缘”：“叶片边缘逐渐模糊和消逝，营造出柔和的层次感和空灵朦胧的氛围”，
+“人物”：“身穿简朴灰色长袍的小和尚走在一头黑驴旁边”，
+“渲染”：“人物和动物仅用最少的细墨线条勾勒轮廓，没有不必要的细节”，
+“颜色”：“以清新优雅的淡青色和浅绿色为主色调”，
+“诗句”：“简短优美的中国古代诗歌题词（4-7个字或简短对联），以精致的书法与夏季主题相符，雅致地置于邮票内”，
+“印章”： “带有优美古代中国诗句的诗意小朱红色印章（竹文红印）”
+"stamp_text": "面额 1.20 元，底部为中国邮政 CHINA POST，夏季标签"
+},
+{
+“季节”： “秋季”，
+"stamp_label": "秋 Autumn",
+“叶子”：“浓密的暖橙红色和琥珀色枫叶，具有清晰的韵律纹理和叶脉”，
+“边缘”：“叶片边缘逐渐模糊和消逝，营造出柔和的层次感和空灵朦胧的氛围”，
+“人物”：“身着飘逸靛蓝色汉服的小书生骑着一匹白马”，
+“渲染”：“人物和动物仅用最少的细墨线条勾勒轮廓，没有不必要的细节”，
+“颜色”：“优雅温暖的浅橙色和柔和的金色为主色调”，
+“诗句”：“简短优美的中国古代诗歌题词（4-7个字或简短对联），以精致的书法与秋季主题相呼应，雅致地置于邮票内。”
+“印章”： “带有优美古代中国诗句的诗意小朱红色印章（竹文红印）”
+"stamp_text": "面额 1.20 元，底部为中国邮政 CHINA POST，秋标签"
+},
+{
+“季节”: “冬季”
+"stamp_label": "冬冬",
+“树叶”：“浓密的浅灰白色梅花枝和稀疏的深绿色松针上轻轻覆盖着一层雪，清晰的韵律纹理”，
+“边缘”：“边缘逐渐模糊和消逝，营造出柔和的层次感和空灵朦胧的氛围”，
+“人物”：“身披深红色斗篷的小小旅人牵着一匹白马”，
+“渲染”：“人物和动物仅用最少的细墨线条勾勒轮廓，没有不必要的细节”，
+“颜色”：“以清冷优雅的浅银灰色和柔和的深红色为主色调”，
+“诗句”：“简短优美的中国古代诗歌题词（4-7个字或简短对联），以精致的书法与冬季主题相契合，雅致地置于邮票内”，
+“印章”： “带有优美古代中国诗句的诗意小朱红色印章（竹文红印）”
+"stamp_text": "面额 1.20 元，底部为中国邮政 CHINA POST，冬日标签"
+}
+],
+"global_elements": {
+"sheet_bottom": "系列标题'四季长卷系列四季系列'，发行年份'2025'",
+"bottom_right": "小字 '94vanAI'",
+"stamp_sheet_format": "四枚邮票垂直连接，每枚邮票之间有穿孔边缘，整张邮票四周留有干净的白色边距",
+"参数": "--ar 3:4 --stylize 400 --v 6"
+},
+"negative_prompt": "照片级写实、3D渲染、卡通、Q版、面部细节过多、人物过大、构图拥挤、色彩饱和度过高、轮廓线粗犷、文字瑕疵、水印、签名过大、现代元素、西式风格、油画、丙烯、笔触粗重、对比度低、背景杂乱、焦点清晰、人物占主导、比例写实、动物过多、色彩鲜艳的花朵、光线明亮、阴影生硬、无齿孔、现代邮票设计、照片邮票、数字艺术风格、邮票重叠、边缘撕裂、邮票破损、面值错误、发行人名称错误、缺少边框、无边框设计"
+}
+```
+
+<a id="prompt-1014"></a>
+## 案例 1014：虚拟与现实的融合 (来源 [@berryxia](https://x.com/berryxia/status/2005233233605398681)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1014.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-虚拟与现实的融合">
+</div>
+
+**提示词：**
+```
+A premium vertical split concept poster for [品牌名称] [产品名称], showing ONE [产品] split in half - left side realistic, right side deconstructed.
+
+TOP SECTION - BRANDING:
+- [品牌名称] official logo at top center ([品牌色])
+- "[产品名称]" in large bold [字体风格] font in [颜色]
+- Subtitle: "[产品Slogan]" in elegant serif font
+- Optional secondary tagline
+
+CENTRAL DESIGN - ONE SINGLE [产品] SPLIT VERTICALLY DOWN THE MIDDLE:
+
+LEFT HALF OF THE [产品] (50%): Ultra-realistic photographic half
+- Left 50% of the [产品] shown in ultra-realistic photography style
+- Photorealistic [关键材质1: 如金属/皮革/食材] texture visible on left edge
+- Half of [关键特征1: 如屏幕/面包/表面] with realistic reflections
+- Left portion of [关键特征2: 如键盘/配件/层次] showing individual details
+- Half of [关键特征3] visible with material accuracy
+- Professional product photography lighting
+- Perfect vertical cut through the exact center of the [产品]
+- Every detail ultra-realistic: [材质细节列表]
+- [可选: 烟雾/水珠/光晕] effect for atmosphere
+
+RIGHT HALF OF THE [产品] (50%): Stylized [tech/culinary/artistic] deconstruction
+- Right 50% of the [产品] exploding into [解构类型] components
+- [组件1] floating away individually [具体描述]
+- [组件2] fragments showing [内部结构/发光效果]
+- [组件3] pieces with glowing [颜色] [元素: 如芯片/食材/零件]
+- [组件4] separating geometrically
+- [内部结构] and internal components visible
+- [品牌元素/Logo] piece glowing independently
+- [Warm golden/Cool blue/Neon multi-color] tech/artistic lighting effects
+- Geometric [tech lines/motion lines/artistic trails], [holographic patterns/particle effects/ingredient splashes]
+- Components floating outward in organized dynamic composition
+- Illustrated/stylized art treatment (not photorealistic)
+- [根据类型: 科技感电路/美食解构/时尚元素/机械零件]
+
+THE SPLIT: Clean vertical line down the exact center of the [产品], one continuous [产品] transitioning seamlessly from realistic (left) to deconstructed [风格] art (right)
+
+BACKGROUND: [深色/浅色] gradient ([色值1] to [色值2]) with [carbon fiber/wood/concrete/fabric] texture and [颜色] light particles
+
+LIGHTING: Left side = professional studio lighting with [warm/cool/natural] tone | Right side = [warm/cool/neon] glow with [颜色] accents creating dramatic contrast
+
+VERTICAL DIVIDING LINE: Subtle [golden/silver/blue/red] glow ([色值]) marking the center split of the [产品]
+
+BOTTOM SECTION - PRODUCT FEATURES (arranged horizontally with icons):
+- "[特点1]" with [icon描述] icon
+- "[特点2]" with [icon描述] icon
+- "[特点3]" with [icon描述] icon
+- "[特点4]" with [icon描述] icon
+Typography in [字体风格] font with decorative divider lines
+
+COLOR PALETTE: [主色调列表]
+
+COMPOSITION: One single [产品] centered vertically, split perfectly down the middle - left half ultra-realistic photography, right half exploding into stylized [解构类型] components
+
+STYLE: Seamless transition from photorealistic product to illustrated [tech/culinary/fashion/mechanical] deconstruction within ONE unified [产品]
+
+MOOD: [Premium/Appetizing/Innovative/Nostalgic], [dramatic/elegant/energetic], official brand advertising quality
+
+TEXT STYLE: Mix of bold display fonts and elegant serifs, [品牌色] colors
+
+Quality: Commercial advertising standard, 4K resolution, dramatic visual impact
+```
+
+<a id="prompt-1013"></a>
+## 案例 1013：烟花在水滨城市上空勾勒出主题的形状 (来源 [@AllaAisling](https://x.com/AllaAisling/status/2005299702015918358)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1013.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-烟花在水滨城市上空勾勒出主题的形状">
+</div>
+
+**提示词：**
+```
+Fireworks form the shape of [SUBJECT] in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of [SUBJECT], clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.
+```
+
+**中文提示词：**
+```
+夜空中，烟花在水滨城市上空勾勒出[主题]的形状。设计灵感源自[主题]的色彩、比例和轮廓，在漆黑的夜空中清晰可见，引人注目。采用长曝光技术，以逼真的烟花摄影手法，展现了烟雾轨迹、城市天际线轮廓以及水面上的绚丽倒影。画面构图极具电影感，细节清晰锐利，呈现超高分辨率4K画质。
+```
+
+<a id="prompt-1012"></a>
+## 案例 1012：迷你品牌小夜灯设计 (来源 [@underwoodxie96](https://x.com/underwoodxie96/status/2005266319772684676)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1012.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-迷你品牌小夜灯设计">
+</div>
+
+**提示词：**
+```
+The creative poster features a box of fries transformed into a nightlight in the center. The golden fries act as light, reflecting off the wall behind the outlet and casting a yellow glow on the McDonald's logo. Below the logo, the words "open 24 hours" are displayed in tiny white print, directly announcing McDonald's 24-hour operation with its most recognizable element. The bottom right corner displays the McDonald's logo, and at the bottom center, in tiny print, is the word "Underwood Dessert."
+```
+
+**中文提示词：**
+```
+这张创意海报的中心是一个薯条盒，它被巧妙地改造成了一盏小夜灯。金黄色的薯条如同灯光，反射在插座后面的墙壁上，为麦当劳的标志投射出一片温暖的黄色光晕。标志下方，用白色小字写着“24小时营业”，直接用麦当劳最具辨识度的元素宣告了其24小时营业的理念。海报右下角是麦当劳的标志，而正下方中央，用极小的字体写着“Underwood Dessert”。
+```
+
+<a id="prompt-1011"></a>
+## 案例 1011：深红色连衣裙女生拿着白葡萄酒 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/2005332751759675820)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1011.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-深红色连衣裙女生拿着白葡萄酒">
+</div>
+
+**提示词：**
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on a warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking toward the side"
+      },
+      "wardrobe": {
+        "primary": "Fitted deep red strapless dress",
+        "accents": "Matching draped scarf detail"
+      },
+      "interactions": {
+        "right_hand": "Holding a white wine glass",
+        "left_hand": "Holding a clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant restaurant interior",
+      "atmosphere": "High-end upscale evening",
+      "architectural_details": [
+        "Gold accents",
+        "Strategic mirrors",
+        "Fine dining table setting"
+      ]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow (bokeh background)",
+      "focus_points": [
+        "Facial features",
+        "Wine glass"
+      ]
+    },
+    "post_processing": {
+      "vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"请求参数": {
+"aspect_ratio": "9:16",
+"identity_preservation": {
+"mode": "严格",
+"target": "reference_face_retention",
+"特征": "仅自然相似"
+}
+},
+"视觉构成": {
+“主题”： {
+“实体”： “女人”，
+"姿势": {
+“主体”：“坐在暖色调的长椅上”，
+“定位”：“成熟稳重的形象”，
+“凝视”： “看向侧面”
+},
+“衣柜”： {
+“主打款”： “修身深红色无肩带连衣裙”
+点缀：与之相配的垂坠围巾细节
+},
+"交互": {
+“右手”： “拿着一杯白葡萄酒”
+"左手": "拿着手拿包"
+}
+},
+“环境”： {
+“环境”：“优雅的餐厅内部”，
+“氛围”：“高端高档的夜晚”，
+"architectural_details": [
+“金色点缀”，
+“战略镜像”，
+“精致的餐桌布置”
+]
+}
+},
+"technical_direction": {
+“灯光”： {
+“来源”： “温暖的钨”
+“阴影”：“柔和的阴影”，
+“skin_finish”： “柔和光泽”
+},
+"光学": {
+"lens_emulation": "35mm 定焦镜头",
+"depth_of_field": "浅景深（散景背景）",
+"focus_points": [
+“面部特征”，
+酒杯
+]
+},
+"post_processing": {
+“氛围”: “高端编辑风格”
+"color_grading": "写实/电影化",
+“质地”： [
+“天然皮肤纹理”，
+“柔和的胶片颗粒”
+]
+}
+},
+"质量保证": {
+"negative_prompt_array": [
+“过度锐化”
+“人工智能制品”，
+“变形的玻璃”，
+“额外的手指”，
+“扭曲的珠宝”，
+“奇怪的倒影”，
+“文本”，
+“水印”，
+“低分辨率”
+“面部特征扭曲”
+]
+}
+}
+```
+
+<a id="prompt-1010"></a>
+## 案例 1010：金色长卷发和白皙肤色的女子 (来源 [@lexx_aura](https://x.com/lexx_aura/status/2004591904386580688?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1010.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-金色长卷发和白皙肤色的女子">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_data": {
+    "subject": {
+      "description": "Young woman with long, wavy blonde hair and a light fair skin",
+      "features": "Natural skin texture with visible tan lines on the chest, slight flush on cheeks, soft smile, navel piercing, light freckles.",
+      "accessories": "Gold pendant necklace, small gold hoop earrings, small tattoo on the left inner forearm."
+    },
+    "clothing": {
+      "outfit": "Matching yellow two-piece loungewear set.",
+      "top": "Yellow strapless tube top featuring the text 'HAWAIIAN TROPIC' in brown serif font with a hibiscus flower and palm graphic on the side.",
+      "bottoms": "Matching yellow shorts visible at the waist and thigh area."
+    },
+    "pose_and_action": {
+      "posture": "Reclining and lounging comfortably on a grey textured sofa.",
+      "body_language": "Relaxed and casual, leaning back against the couch cushions, one arm extended to support weight, the other hand resting gently near the waist, legs angled toward the camera.",
+      "expression": "Friendly, relaxed, and engaging eye contact."
+    },
+    "environment": {
+      "setting": "Modern living room interior.",
+      "furniture": "Dark grey fabric sofa with a textured weave.",
+      "background": "Grey walls with decorative panel molding (wainscoting).",
+      "decor": "A large vertical art piece with a red background featuring KAWS-style figures in blue and black. A second framed abstract art piece with gold and black tones. A modern linear wall sconce light."
+    },
+    "lighting": {
+      "type": "Soft, diffused indoor mix.",
+      "quality": "Warm ambient lighting highlighting the skin tone, creating soft shadows and a cozy atmosphere. Likely a mix of natural window light and the warm glow from the wall sconce."
+    },
+    "styling_and_mood": {
+      "aesthetic": "Influencer lifestyle, casual home comfort, '2000s digital camera' vibe.",
+      "mood": "Chill, playful, confident, comfortable."
+    },
+    "camera_specifications": {
+      "angle": "Eye-level, slightly angled from the side.",
+      "focus": "Sharp focus on the subject's face and torso, with a slight depth of field blurring the background artwork.",
+      "lens_suggestion": "35mm or 50mm portrait lens.",
+      "film_grain": "Low to medium ISO for a clean but slightly organic digital look."
+    },
+    "technical_modifiers": [
+      "Ultra Photorealistic",
+      "8k resolution",
+      "Raw photo",
+      "Hyper-detailed skin texture",
+      "Subsurface scattering",
+      "Volumetric lighting",
+      "Nano Banana Pro optimized",
+      "Masterpiece"
+    ]
+  }
+} 2:3
+```
+
+**中文提示词：**
+```
+{
+"prompt_data": {
+“主题”： {
+描述：一位有着金色长卷发和白皙肤色的年轻女子。
+“特征”：“肌肤纹理自然，胸部有明显的晒痕，双颊略带红晕，笑容温柔，有肚脐环，有淡淡的雀斑。”
+“配饰”：“金吊坠项链，小金耳环，左前臂内侧的小纹身。”
+},
+“衣服”： {
+“套装”：“配套的黄色两件套家居服。”
+“上衣”：“黄色无肩带抹胸上衣，侧面印有棕色衬线字体的‘夏威夷热带’字样，以及芙蓉花和棕榈树图案。”
+“下装”：“腰部和大腿处可见配套的黄色短裤。”
+},
+"pose_and_action": {
+“姿势”：“舒适地斜倚在灰色纹理沙发上。”
+“肢体语言”：“放松随意，靠在沙发垫上，一只手臂伸出支撑身体，另一只手轻轻放在腰间，双腿朝向镜头。”
+“表情”：“友好、轻松、引人入胜的眼神交流。”
+},
+“环境”： {
+“场景”：“现代客厅内部。”
+“家具”：“深灰色布艺沙发，带有纹理编织图案。”
+“背景”： “灰色墙壁，带有装饰性镶板（护墙板）。”
+“装饰品”：“一幅大型竖幅艺术作品，红色背景，饰以KAWS风格的蓝色和黑色人物图案。另一幅装裱好的抽象艺术作品，以金色和黑色为主色调。一盏现代简约的线性壁灯。”
+},
+“灯光”： {
+类型：柔和、扩散的室内混合香型。
+“品质”：“温暖的氛围灯光突出肤色，营造出柔和的阴影和温馨的氛围。可能是自然窗光和壁灯温暖光芒的混合。”
+},
+"styling_and_mood": {
+“美学”：“网红生活方式、休闲居家舒适感、‘2000年代数码相机’风格。”
+“情绪”：“轻松、活泼、自信、舒适。”
+},
+"camera_specifications": {
+“角度”：“与视线齐平，略微侧向倾斜。”
+“焦点”：“清晰对焦于人物的面部和躯干，略微虚化背景画作。”
+镜头建议：35mm 或 50mm 人像镜头。
+"film_grain": "低到中等 ISO，营造干净但略带自然感的数码外观。"
+},
+"technical_modifiers": [
+“超逼真”
+“8K分辨率”，
+“原始照片”，
+“超精细的皮肤纹理”，
+“次表面散射”
+“体积照明”，
+“Nano Banana Pro 优化版”，
+“杰作”
+]
+}
+2:3
+```
+
+<a id="prompt-1009"></a>
+## 案例 1009：无肩带连衣裙女生拿着白葡萄酒杯 (来源 [@KeorUnreal](https://x.com/KeorUnreal/status/2005369201914151024?referrer=grok.com)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1009.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-无肩带连衣裙女生拿着白葡萄酒杯">
+</div>
+
+**提示词：**
+```
+{
+  "request_parameters": {
+    "aspect_ratio": "9:16",
+    "identity_preservation": {
+      "mode": "strict",
+      "target": "reference_face_retention",
+      "features": "natural_likeness_only"
+    }
+  },
+  "visual_composition": {
+    "subject": {
+      "entity": "Woman",
+      "pose": {
+        "body": "Seated on warm-toned banquette",
+        "orientation": "Sophisticated profile",
+        "gaze": "Looking to front"
+      },
+      "wardrobe": {
+        "primary": "Fitted short glitter white strapless dress",
+        "accents": "Deep necklace and stockings"
+      },
+      "interactions": {
+        "right_hand": "Holding white wine glass",
+        "left_hand": "Holding clutch bag"
+      }
+    },
+    "environment": {
+      "setting": "Elegant french restaurant",
+      "atmosphere": "High-end evening",
+      "architectural_details": ["Gold accents", "Mirrors", "Fine dining table"]
+    }
+  },
+  "technical_direction": {
+    "lighting": {
+      "source": "Warm tungsten",
+      "shading": "Soft shadows",
+      "skin_finish": "Subtle glow"
+    },
+    "optics": {
+      "lens_emulation": "35mm prime",
+      "depth_of_field": "Shallow bokeh",
+      "focus_points": ["Face", "Wine glass"]
+    },
+    "post_processing": {
+"vibe": "High-end editorial",
+      "color_grading": "Realistic / Cinematic",
+      "texture": [
+        "Natural skin grain",
+        "Gentle film grain"
+      ]
+    }
+  },
+  "quality_assurance": {
+    "negative_prompt_array": [
+      "over-sharpening",
+      "AI artifacts",
+      "deformed glass",
+      "extra fingers",
+      "warped jewelry",
+      "weird reflections",
+      "text",
+      "watermark",
+      "low-resolution",
+      "distorted facial features"
+    ]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"请求参数": {
+"aspect_ratio": "9:16",
+"identity_preservation": {
+"mode": "严格",
+"target": "reference_face_retention",
+"特征": "仅自然相似"
+}
+},
+"视觉构成": {
+“主题”： {
+“实体”： “女人”，
+"姿势": {
+“主体”：“坐在暖色调的长椅上”，
+“定位”：“成熟稳重的形象”，
+“凝视”： “看向前方”
+},
+“衣柜”： {
+“主打款”： “修身短款闪亮白色无肩带连衣裙”
+点缀：深色项链和长筒袜
+},
+"交互": {
+"右手："拿着白葡萄酒杯"
+"左手": "拿着手拿包"
+}
+},
+“环境”： {
+“环境”：“优雅的法式餐厅”，
+“氛围”：“高端晚宴”，
+"architectural_details": ["金色装饰", "镜子", "精致餐桌"]
+}
+},
+"technical_direction": {
+“灯光”： {
+“来源”： “温暖的钨”
+“阴影”：“柔和的阴影”，
+“skin_finish”： “柔和光泽”
+},
+"光学": {
+"lens_emulation": "35mm 定焦镜头",
+"depth_of_field": "浅散景",
+"focus_points": ["脸", "酒杯"]
+},
+"post_processing": {
+“氛围”: “高端编辑风格”
+"color_grading": "写实/电影化",
+“质地”： [
+“天然皮肤纹理”，
+“柔和的胶片颗粒”
+]
+}
+},
+"质量保证": {
+"negative_prompt_array": [
+“过度锐化”
+“人工智能制品”，
+“变形的玻璃”，
+“额外的手指”，
+“扭曲的珠宝”，
+“奇怪的倒影”，
+“文本”，
+“水印”，
+“低分辨率”
+“面部特征扭曲”
+]
+}
+}
+```
+
+<a id="prompt-1008"></a>
+## 案例 1008：2026写实摄影棚时尚肖像 (来源 [@xmiiru_](https://x.com/xmiiru_/status/2005530723847934103)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1008.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2026写实摄影棚时尚肖像">
+</div>
+
+**提示词：**
+```
+{
+  "type": "image_prompt",
+  "description": "High-resolution photorealistic studio fashion portrait",
+  "subject": {
+    "gender": "adult woman",
+    "hair": "long light brown hair with golden blonde highlights, loose curls",
+    "expression": "playful, cheeky, thinking face, lips pursed",
+    "pose": "looking off to the side, shoulders relaxed"
+  },
+  "outfit": {
+    "hat": "gold shimmering party hat",
+    "dress": "gold sequin party dress with modern asymmetric neckline cutout"
+  },
+  "props": {
+    "balloons": "gold foil balloons shaped as numbers 20 and 26, one in each hand, raised near shoulders"
+  },
+  "environment": {
+    "setting": "clean studio",
+    "background": "neutral beige backdrop",
+    "lighting": "soft studio lighting with gentle shadows"
+  },
+  "details": {
+    "realism": "editorial-quality photorealism",
+    "textures": "visible skin texture, detailed hair strands, sharp sequin detail",
+    "materials": "metallic balloon shine with realistic creases and highlights"
+  },
+  "constraints": [
+    "no text",
+    "no logos",
+    "no branding",
+    "no watermarks"
+  ]
+}
+```
+
+**中文提示词：**
+```
+{
+"type": "image_prompt",
+描述：高分辨率照片级写实摄影棚时尚肖像
+“主题”： {
+“性别”: “成年女性”
+“头发”：“长长的浅棕色头发，带有金色挑染，蓬松的卷发”，
+“表情”：“顽皮、俏皮、思考的表情，嘴唇紧抿”，
+“姿势”：“看向一侧，肩膀放松”
+},
+“全套服装”： {
+“帽子”：“闪闪发光的金色派对帽”，
+“连衣裙”： “金色亮片派对连衣裙，现代不对称领口镂空设计”
+},
+"props": {
+“气球”：“两只手中各拿着一个金色箔纸气球，形状分别为数字 20 和 26，举到肩膀附近”
+},
+“环境”： {
+“设置”：“干净的工作室”，
+“背景”： “中性米色背景”，
+“灯光”：“柔和的影棚灯光，带有淡淡的阴影”
+},
+“细节”： {
+“写实主义”: “编辑级照片写实主义”，
+“纹理”：“可见的皮肤纹理、细致的发丝、清晰的亮片细节”，
+“材质”：“金属质感的气球，带有逼真的褶皱和高光”
+},
+“约束”：[
+“无文本”，
+“无标志”，
+“无品牌标识”
+“无水印”
+]
+}
+```
+
+<a id="prompt-1007"></a>
+## 案例 1007：2026新年海报 (来源 [@op7418](https://x.com/op7418/status/2005486114510180545)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1007.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-2026新年海报">
+</div>
+
+**提示词：**
+```
+{
+    "applicable_models": [
+        "Seedream",
+        "Nano Banana Pro"
+    ],
+    "subject": {
+        "IP_Name": "Enter the names of your favorite games, novels, movies, or TV shows.",
+        "description": "A visually striking, masterpiece-level 3D New Year's greeting card poster based on [IP Name]. Vertical composition with a deep, window-like groove in the center.",
+        "material_style": "Felt and coarse knitting wool texture, realistic and delicate, blind box toy texture.",
+        "central_character": {
+            "identity": "A cute Q-version felt Pony (representing the Year of the Horse)",
+            "expression": "Naive and charming (憨态可掬), festive",
+            "clothing": "Red festive vest, traditional tiger-head hat",
+            "action": "Standing in the center as a festival messenger"
+        },
+        "secondary_characters": {
+            "identity": "Classic characters from the IP (Q-version felt style)",
+            "clothing": "Traditional festive Tang suit or Hanfu",
+            "action": "Interacting within the scene, adding story elements"
+        },
+        "scene_elements": {
+            "architecture": "Iconic buildings from the IP in Q-version felt, arranged with depth and layers",
+            "ground": "Thick creamy knitted snow",
+            "vegetation": "Peach tree or Kumquat tree hung with red lanterns, Chinese knots, and blessing cards",
+            "props": "Scattered felt firecrackers, gold ingots, snow-covered shrubs"
+        }
+    },
+    "accessories": {
+        "title_design": {
+            "structure": "Independent 3D volumetric letters suspended in mid-air (No background plate/card)",
+            "main_text": {
+                "content": "Happy New Year",
+                "font_style": "3D fluid art font, thick glass volume"
+            },
+            "sub_text": {
+                "content": "新年快乐",
+                "font_style": "Bold Chinese Calligraphy (中国书法), 3D extruded strokes"
+            },
+            "material_properties": {
+                "type": "Matte Frosted Glass (applied directly to the text volume)",
+                "color": "Deep red to light red gradient",
+                "surface": "Soft matte finish, semi-transparent",
+                "optical_effects": "Dreamy colorful caustics casting shadows onto the felt scene below"
+            }
+        },
+        "bottom_layout": {
+            "content": "Random classic quote related to New Year, blessings, or hope",
+            "font_style": "Large, elegant Western Handwritten Serif, rich ink color",
+            "source_note": "Small Chinese font citing the source"
+        }
+    },
+    "photography": {
+        "renderer": "C4D, Octane Render",
+        "resolution": "8K",
+        "camera_style": "Macro photography perspective",
+        "shot_type": "Vertical Poster, Close-up on miniature",
+        "depth_of_field": "Shallow depth of field (background bokeh)",
+        "lighting": "Soft and uniform, breathing light effect, atmospheric depth",
+        "texture_quality": "Masterpiece, rich details, mixture of felt and frosted glass"
+    },
+    "background": {
+        "setting": "Oriental ink wash void environment with flowing light mist",
+        "colors": "Elegant pale champagne gold or high-grade soft mist red",
+        "external_decor": [
+            "Red velvet silk ribbons dancing in the air",
+            "Fluid gold lines",
+            "Blooming red plum branches",
+            "Strings of festive red lanterns",
+            "Plump persimmons or hawthorn berries",
+            "Crystal clear geometric snowflakes",
+            "Glowing gold copper coin strings"
+        ],
+        "atmosphere": "Explosive festive atmosphere, dynamic composition",
+        "positioning": "Card appears suspended in clouds with soft shadow at the bottom"
+    },
+    "the_vibe": {
+        "mood": "Festive, Oriental, Warm, Exquisite, Joyful",
+        "culture": "Chinese New Year, Year of the Horse",
+        "aesthetic": "High-end commercial design, Cuteness mixed with elegance"
+    },
+    "constraints": {
+        "must_keep": [
+            "Felt texture",
+            "Chinese New Year elements",
+            "Year of the Horse Pony",
+            "Volumetric glass text (No signboard)",
+            "Calligraphy text",
+            "Ink wash background"
+        ],
+        "avoid": [
+            "Santa Claus",
+            "Christmas trees",
+            "Western Christmas decorations",
+            "Real photography style",
+            "Flat 2D illustration",
+            "Rectangular glass plate behind text",
+            "Signboard",
+            "Text on a card"
+        ]
+    },
+    "negative_prompt": [
+        "Santa Claus",
+        "Christmas tree",
+        "rectangular background plate",
+        "glass sign",
+        "text box",
+        "holding a sign",
+        "photorealistic human",
+        "low resolution",
+        "blurry",
+        "flat colors",
+        "dark",
+        "horror",
+        "distorted text"
+    ]
+}
+```
+
+<a id="prompt-1006"></a>
+## 案例 1006：超写实俯视微距摄影 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/2005681873612165251)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1006.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实俯视微距摄影">
+</div>
+
+**提示词：**
+```
+Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads: "INSERT TEXT". Bottom right has a timestamp '3:33 PM' and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.
+```
+
+**中文提示词：**
+```
+超写实俯视微距摄影。一个细长的浅绿色 WhatsApp 对话框充当餐桌。两个真人（缩小到极小比例）坐在桌子的两端。他们并非塑料人偶；他们拥有清晰可见的皮肤纹理、自然的头发和逼真的衣褶。他们正在享用看起来新鲜烹制的真正食物，而不是橡皮泥。对话框内的文字显示为：“插入文字”。右下角显示时间戳“下午 3:33”和蓝色勾号。背景完全被高密度、无缝的 WhatsApp 涂鸦图案（线条艺术图标）覆盖，没有一丝空白，如同原版 WhatsApp 的密集壁纸。专业影棚灯光，8K 分辨率，清晰对焦。
+```
+
+<a id="prompt-1005"></a>
+## 案例 1005：女子仿佛从刚冲洗出来的照片中浮现出来 (来源 [@hellokaton](https://x.com/hellokaton/status/2003381235331268757)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1005.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子仿佛从刚冲洗出来的照片中浮现出来">
+</div>
+
+**提示词：**
+```
+{
+    "subject": {
+        "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant photo (Polaroid-style) lying on a small cafe table. In the instant photo frame, her full outfit is visible; in reality, her upper body and head rise out of the glossy print, casting a real shadow onto the table.",
+        "reference_image_rules": {
+            "use_uploaded_reference_portrait": true,
+            "preserve_identity": true,
+            "preserve_hairline_and_facial_structure": true,
+            "no_face_morphing": true
+        },
+        "age": "20s",
+        "expression": {
+            "eyes": {
+                "look": "Playful and confident",
+                "direction": "Looking at the viewer"
+            },
+            "mouth": {
+                "position": "Pouting or blowing a kiss",
+                "energy": "Chic and charming"
+            },
+            "overall": "Lifelike, engaging interaction"
+        },
+        "hair": {
+            "style": "Long, loose waves",
+            "effect": "Realistic shine, slight wind movement"
+        },
+        "pose": {
+            "position": "Upper torso emerging out of the instant photo, one hand slightly forward as if stepping into reality",
+            "overall": "Energetic, spontaneous, full of life"
+        },
+        "clothing": {
+            "top": "High-neck knit turtleneck, premium textile detail",
+            "bottom": "Mini skirt and leather boots (boots visible clearly inside the instant photo)"
+        }
+    },
+    "mirror_rules": "All handwritten annotations must be perfectly legible and NOT mirrored. Keep printed text on the instant photo frame readable.",
+    "props": {
+        "instant_photo": {
+            "look": "Glossy Polaroid print with subtle fingerprint smudges and micro-scratches",
+            "frame_text": "Small printed caption line at the bottom of the frame (readable, not mirrored)"
+        },
+        "annotations_on_print": [
+            {
+                "text": "leather boots",
+                "style": "white handwritten marker",
+                "arrow_to": "boots inside the print"
+            },
+            {
+                "text": "clean turtleneck",
+                "style": "white handwritten marker",
+                "arrow_to": "top inside the print"
+            },
+            {
+                "text": "mini skirt",
+                "style": "white handwritten marker",
+                "arrow_to": "skirt inside the print"
+            }
+        ]
+    },
+    "photography": {
+        "camera_style": "DSLR photorealism, macro lens for print texture",
+        "shot_type": "Forced-perspective composite realism",
+        "angle": "Top-down 3/4 angle, close and intimate POV",
+        "aspect_ratio": "3:4",
+        "lighting": "Soft overcast daylight, natural shadows",
+        "depth_of_field": "Shallow DOF, the instant photo and her face sharp, background cafe bokeh"
+    },
+    "background": {
+        "setting": "Paris sidewalk cafe in autumn",
+        "elements": [
+            "small espresso cup",
+            "fallen leaves",
+            "stone pavement",
+            "soft distant pedestrians bokeh"
+        ]
+    },
+    "the_vibe": {
+        "mood": "Fashion-forward, viral illusion",
+        "story": "OOTD breakdown escaping the photo",
+        "authenticity": "Photoreal texture, not CGI"
+    },
+    "constraints": {
+        "must_keep": [
+            "Use uploaded reference portrait identity",
+            "Photorealistic skin texture",
+            "Instant photo looks physically real",
+            "Handwritten annotations readable",
+            "Strong pop-out illusion with real shadows"
+        ],
+        "avoid": [
+            "3D render style",
+            "cartoon",
+            "plastic skin",
+            "blurred or mirrored text",
+            "fake glossy CGI print"
+        ]
+    },
+    "negative_prompt": [
+        "3d",
+        "render",
+        "cgi",
+        "cartoon",
+        "anime",
+        "plastic skin",
+        "illegible text",
+        "mirrored text",
+        "oversharpened halos",
+        "uncanny face"
+    ]
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+描述：一张超逼真的光学错觉照片。上传的参考肖像中的女子仿佛从一张刚冲洗出来的拍立得照片（宝丽来风格）中浮现出来，照片放在一张小咖啡桌上。在拍立得照片的相框中，她的全身衣着清晰可见；而实际上，她的上半身和头部从光亮的照片中浮现出来，在桌面上投下真实的阴影。
+"reference_image_rules": {
+"use_uploaded_reference_portrait": true,
+"preserve_identity": true,
+"preserve_hairline_and_facial_structure": true,
+"no_face_morphing": true
+},
+年龄：20多岁，
+“表达”： {
+"眼睛": {
+外表：活泼自信
+“方向”：“看着观众”
+},
+“嘴”： {
+“姿势”：“撅嘴或飞吻”，
+“能量”：“时尚迷人”
+},
+“总体而言”：“栩栩如生、引人入胜的互动”
+},
+“头发”： {
+风格：长长的、蓬松的波浪卷发，
+“效果”：“逼真的光泽，轻微的风动”
+},
+"姿势": {
+“姿势”：“上半身从即时照片中浮现出来，一只手微微向前伸出，仿佛正步入现实。”
+总体评价：精力充沛、率真、充满活力
+},
+“衣服”： {
+上衣：高领针织衫，优质面料细节
+“下装”：“迷你裙和皮靴（照片中可以清晰地看到靴子）”
+}
+},
+“mirror_rules”：所有手写注释必须清晰可辨，且不得镜像。请保持即时照片相框上的打印文字清晰可读。
+"props": {
+"instant_photo": {
+“外观”：“光亮的宝丽来照片，带有细微的指纹污渍和微划痕”，
+"frame_text": "位于画框底部的小型印刷标题行（可读，非镜像）"
+},
+"annotations_on_print": [
+{
+文本：皮靴，
+“风格”: “白色手写马克笔”，
+"arrow_to": "打印内部的启动"
+},
+{
+文本：干净的高领毛衣，
+“风格”: “白色手写马克笔”，
+"arrow_to": "打印内容的顶部"
+},
+{
+文本：迷你裙，
+“风格”: “白色手写马克笔”，
+"arrow_to": "裙边在印刷品内"
+}
+]
+},
+“摄影”： {
+“camera_style”: “DSLR 真实感，用于打印纹理的微距镜头”
+"shot_type": "强制透视合成真实感",
+“角度”：“俯视 3/4 角度，近距离亲密视角”，
+"aspect_ratio": "3:4",
+“光线”：“柔和的阴天日光，自然的阴影”，
+"depth_of_field": "浅景深，即时成像照片，她的脸部清晰，背景是咖啡馆散景"
+},
+“背景”： {
+“场景”: “秋天的巴黎街边咖啡馆”
+“元素”：[
+“小杯浓缩咖啡”，
+“落叶”，
+“石板路”，
+“柔和的远景行人散景”
+]
+},
+"氛围": {
+“氛围”：“时尚前卫，病毒式传播的错觉”，
+“故事”：“OOTD 解析，摆脱照片的束缚”
+“真实性”：“照片级纹理，而非 CGI”
+},
+"约束": {
+"must_keep": [
+“使用上传的参考肖像身份”，
+“逼真的皮肤纹理”，
+“即时照片看起来非常逼真”，
+“手写批注清晰可辨”
+“强烈的立体感，带有真实的阴影”
+],
+“避免”： [
+“3D渲染风格”，
+“卡通片”，
+“塑料皮肤”，
+“模糊或镜像文字”，
+“仿光泽 CGI 印刷”
+]
+},
+"negative_prompt": [
+“3d，”
+“使成为”，
+“cgi”，
+“卡通片”，
+“日本动画片”，
+“塑料皮肤”，
+“无法辨认的文字”，
+“镜像文本”，
+“过度锐化的光晕”，
+“怪异的脸”
+]
+}
+```
+
+<a id="prompt-1004"></a>
+## 案例 1004：冬季森林中年轻女子的3x3网格拼贴画 (来源 [@oggii_0](https://x.com/oggii_0/status/2005494640347336753)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1004.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-冬季森林中年轻女子的3x3网格拼贴画">
+</div>
+
+**提示词：**
+```
+{
+  "subject": "3x3 grid collage of young woman in winter forest",
+  "clothing": "Brown teddy coat, white crop top, grey sweatpants, beige boots, brown beanie",
+  "hair": "Long wavy brown, wearing beanie",
+  "face": "Happy, laughing, smiling, candid expressions",
+  "accessories": "Black SUV car in background",
+  "environment": "Snowy forest road, pine trees, winter day",
+  "lighting": "Soft overcast daylight",
+  "camera": "Collage of full body, close-up, high angle, and rear view shots",
+  "style": "Lifestyle collage, social media photo dump, energetic, winter travel, photorealistic"
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”：“冬季森林中年轻女子的3x3网格拼贴画”，
+“服装”：棕色泰迪熊外套、白色露脐上衣、灰色运动裤、米色靴子、棕色针织帽，
+“头发”：“棕色长卷发，戴着毛线帽”，
+“脸部”：“快乐、大笑、微笑、坦率的表情”，
+“配件”：“背景中的黑色SUV汽车”
+“环境”：“白雪皑皑的林间小路，松树，冬日”，
+“照明”：“柔和的阴天日光”，
+“相机”：“全身照、特写、高角度和后视图的拼贴照片”，
+“风格”：生活方式拼贴、社交媒体照片合集、充满活力、冬季旅行、照片写实
+}
+```
+
+<a id="prompt-1003"></a>
+## 案例 1003：现代Bento网格布局产品展示设计 (来源 [@berryxia](https://x.com/berryxia/status/2005842541141451133)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1003.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代Bento网格布局产品展示设计">
+</div>
+
+**中文提示词：**
+```
+现代Bento网格布局产品展示设计,采用磨砂亚克力透明玻璃材质。适用于任何产品类型(食物/药品/科技产品/元素等)。
+
+【布局结构】8个模块,非对称Bento网格排列,横向landscape格式:
+
+模块1: 【3D玻璃产品主体展示】(中等尺寸1x1,占20-25%空间)
+
+- 3D透明玻璃/亚克力材质的[产品名称]雕塑
+
+- [产品特色]:
+
+* 食物 → 展示切面/内部结构(如番茄种子腔室、胡萝卜横切面)
+
+* 药品 → 药片/胶囊的透明玻璃形态
+
+* 科技产品 → 产品外观的玻璃艺术化呈现
+
+- 材质效果: 透明红橙/蓝色/绿色等[产品主色]玻璃,光泽表面,光线折射,真实反射
+
+- 正下方文字标注: "[中文产品名] / [English Name]"
+
+- 不占用过多空间,为信息模块留足展示区域
+
+模块2: 【核心功效/特点】(标准卡片1x1)
+
+标题: "核心功效" 或 "核心特点" 或 "主要功能"
+
+内容: 4个核心卖点,用 "/" 分隔
+
+- 食物 → "抗氧化延缓衰老 / 保护心血管健康 / 美白护肤养颜 / 促进消化吸收"
+
+- 药品 → "解热镇痛 / 抗炎消肿 / 抗血小板聚集 / 预防心血管疾病"
+
+- 科技 → "主动降噪 / 空间音频 / 自适应均衡 / 20小时续航"
+
+配合简洁图标
+
+模块3: 【使用方法/应用场景】(标准卡片1x1)
+
+标题: "食用方法" 或 "使用方法" 或 "应用场景"
+
+内容: 4种使用方式/场景
+
+- 食物 → "生食: 沙拉凉拌 / 熟食: 炒蛋炖汤 / 加工: 酱料榨汁 / 搭配: 鸡蛋牛肉"
+
+- 药品 → "口服: 餐后温水送服 / 剂量: 成人100mg / 频次: 每日1-2次 / 疗程: 遵医嘱"
+
+- 科技 → "音乐欣赏 / 通勤降噪 / 居家办公 / 观影娱乐"
+
+配合场景图标
+
+模块4: 【关键数据/参数】(标准卡片1x1)
+
+标题: "营养价值" 或 "技术参数" 或 "产品规格"
+
+内容: 5个关键数据点
+
+- 食物 → "热量 [X]千卡/100克 / 维生素C [X]毫克 / [特色成分] 丰富 / 膳食纤维 [X]克 / 钾 [X]毫克"
+
+- 药品 → "成分: [化学式] / 规格: [X]mg / 起效时间: [X]分钟 / 半衰期: [X]小时 / 代谢途径: [途径]"
+
+- 科技 → "芯片: [型号] / 续航: [X]小时 / 重量: [X]克 / 驱动单元: [规格] / 充电: [X]小时"
+
+配合简洁数据可视化图表
+
+模块5: 【适用人群/目标用户】(标准卡片1x1)
+
+标题: "适合人群" 或 "目标用户" 或 "适用场景"
+
+内容: 分为推荐(✓)和警示(⚠️)两部分
+
+- 食物 → "✓ 心血管疾病患者 / ✓ 美容养颜需求者 / ✓ 减肥瘦身人群 / ✓ 便秘消化不良 / ⚠️ 慎用: 肾功能不全 / 胃酸过多 / 空腹食用"
+
+- 药品 → "✓ 发热患者 / ✓ 轻中度疼痛 / ✓ 炎症性疾病 / ⚠️ 禁忌: 孕妇 / 哮喘患者 / 胃溃疡"
+
+- 科技 → "✓ 音乐发烧友 / ✓ 商务人士 / ✓ 通勤人群 / ✓ 内容创作者"
+
+用绿色✓和琥珀色⚠️区分
+
+模块6: 【注意事项/使用指南】(标准卡片1x1)
+
+标题: "食用注意" 或 "使用注意" 或 "重要提示"
+
+内容: 4条重要提醒事项
+
+- 食物 → "不宜空腹食用以免刺激胃黏膜 / 未成熟[产品]含[有毒物质]禁食 / 不宜长时间高温烹煮保留营养 / [特殊人群]需控制摄入量"
+
+- 药品 → "需餐后服用避免胃部不适 / 不可与[禁忌药物]同服 / 服药期间避免饮酒 / 出现过敏反应立即停药就医"
+
+- 科技 → "首次使用需配对设备 / 避免极端温度环境 / 定期清洁保养 / 长期不用请充电保存"
+
+配合警示图标
+
+模块7: 【特殊指标】(标准卡片1x1)
+
+标题: 根据产品类型调整
+
+- 食物 → "嘌呤含量" 显示 "[X]毫克/100克" + "低嘌呤食物 ✓" + "痛风患者友好"
+
+- 药品 → "不良反应" 列举常见副作用
+
+- 科技 → "兼容性" 显示支持的系统/设备
+
+配合指示器或图标
+
+模块8: 【趣味知识/产品洞察】(标准卡片1x1)
+
+标题: "冷知识" 或 "产品故事" 或 "有趣事实"
+
+内容: 2-3条有趣的知识点
+
+- 食物 → "[产品]加热后[成分]吸收率提升X倍 / [产品]原产[地区]已有[X]年历史 / 未成熟[产品]含[有害物质]"
+
+- 药品 → "[产品]是世界上使用最广泛的[类别]之一 / 每年全球生产超过[X]吨 / [发明年份]年由[人名]发明"
+
+- 科技 → "[产品]采用[技术]专利技术 / [品牌]首次将[功能]应用于消费级产品 / 全球销量突破[X]万台"
+
+【磨砂亚克力材质规格】(CRITICAL 核心灵魂):
+
+卡片材质效果:
+
+- 透明度: 80-85% 半透明(TRANSLUCENT),可以看穿卡片看到背景
+
+- 磨砂效果: 柔和的frosted glass blur模糊,backdrop-filter风格
+
+- 底色调: 轻微白色/奶油色霜化效果(15-20%不透明度),提升可读性但保持透明
+
+- 边框: 细致的发光边框,捕捉光线反射
+
+- 阴影: 柔和的分层阴影,营造浮空深度感
+
+- 玻璃物理: 真实的玻璃边缘高光、光线折射、表面反射效果
+
+- 视觉特征: 背景渐变可以透过卡片清晰看见,像真实的磨砂亚克力板
+
+重要: 卡片必须保持TRANSLUCENT透明质感,不能变成不透明白卡片!
+
+【色彩方案】:
+
+基础色彩配比: 90% 中性色 + 10% 产品主题色点缀
+
+- 基础层: 透明玻璃、浅灰色、米白色
+
+- 文字色: 中等深灰 #3A3A3A (柔和但清晰,适合透明背景)
+
+- 主题色点缀(10%使用):
+
+* 食物 → 产品天然色(番茄红橙、胡萝卜橙、菠菜绿等)
+
+* 药品 → 医疗蓝、药品白、红十字标志色
+
+* 科技 → 品牌主色(Apple银灰蓝、小米橙、华为红等)
+
+- 点缀位置: 仅用于关键图标、重要数字、警示符号、3D主体
+
+- 警示色: 琥珀橙 #FF9800 用于⚠️警告内容
+
+- 肯定色: 绿色 #4CAF50 用于✓推荐内容
+
+【背景设置】:
+
+- 类型: 柔和渐变,2-3个相近色过渡
+
+- 产品色调适配:
+
+* 食物 → 奶油白-淡桃红-浅橙色(温暖色调)
+
+* 药品 → 浅灰白-淡蓝-医疗白(清洁专业)
+
+* 科技 → 太空灰-银白-淡蓝(科技感)
+
+- 装饰元素: 极度柔和的抽象形状,可透过玻璃卡片隐约看见
+
+- 重要: 背景要柔和不抢眼,通过透明卡片可见但不干扰阅读
+
+【排版布局】:
+
+- 格式: 横向 landscape 16:9 或类似比例
+
+- 网格类型: 非对称Bento网格,卡片大小不一
+
+- 空间分配:
+
+* 3D玻璃主体: 20-25% (中等尺寸,不过度占用)
+
+* 信息卡片: 75-80% (7个标准卡片)
+
+- 卡片间距: 适度留白,不拥挤,呼吸感良好
+
+- 视觉层次: 通过卡片大小、位置、色彩点缀建立信息优先级
+
+- 阅读流: 从左上3D主体开始,自然流向各信息卡片
+
+【文字规范】:
+
+- 语言: 全中文内容(产品名可双语标注)
+
+- 字体层级:
+
+* 模块标题: 粗体,大号
+
+* 正文内容: 常规体,中号
+
+* 数据数字: 粗体,突出显示
+
+- 可读性: 中等深灰文字在磨砂玻璃上清晰易读
+
+- 单位规范:
+
+* 重量: 克、千克、毫克
+
+* 能量: 千卡、卡路里
+
+* 时间: 分钟、小时、天
+
+* 容量: 毫升、升
+
+【图标风格】:
+
+- 类型: 极简线条图标 (line icons)
+
+- 尺寸: 小巧不喧宾夺主
+
+- 颜色: 浅灰线条,关键图标用主题色点缀
+
+- 用途: 辅助说明,增强视觉识别
+
+【使用方法】:
+
+1. 将 [产品名称] 替换为实际产品
+
+2. 根据产品类型(食物/药品/科技)选择对应的内容示例
+
+3. 填充8个模块的具体信息
+
+4. 调整主题色为产品代表色
+
+5. 确保保持磨砂亚克力的透明质感
+
+【质量标准】:
+
+✓ 透明度正确(80-85%,可看穿)
+
+✓ 磨砂模糊效果明显但不过度
+
+✓ 背景可透过卡片看见
+
+✓ 3D主体占比适中(20-25%)
+
+✓ 信息完整(8个模块内容齐全)
+
+✓ 全中文显示清晰
+
+✓ 色彩克制优雅(90%中性+10%点缀)
+
+✓ 排版舒适不拥挤
+
+✓ 玻璃质感真实(边缘高光、反射、折射)
+
+【典型应用示例】:
+
+食物: 🍅西红柿、🥕胡萝卜、🍎苹果、🥑牛油果
+
+药品: 💊阿司匹林、维生素C、布洛芬、青霉素
+
+科技: 🎧AirPods Max、iPhone、MacBook、特斯拉
+
+元素: ⚛️碳、氧、氢、氮
+```
+
+<a id="prompt-1002"></a>
+## 案例 1002：宫廷管弦乐队在一根树枝上演奏音乐 (来源 [@Ok_shuai](https://x.com/Ok_shuai/status/2005487775597088895)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1002.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-宫廷管弦乐队在一根树枝上演奏音乐">
+</div>
+
+**提示词：**
+```
+{
+"subject": {
+"description": "A Tang dynasty Chinese court orchestra performing music on a branch of an Agan tree, with musicians playing pipa, erhu, flute, ruan, and horse-hoof lute, musicians and birds casually scattered, some standing, some sitting.",
+"mirror_rules": null,
+"age": null,
+"expression": {
+"eyes": {
+"look": null,
+"energy": null,
+"direction": null
+},
+"mouth": {
+"position": null,
+"energy": null
+},
+"overall": null
+},
+"face": {
+"preserve_original": false,
+"makeup": null
+},
+"hair": {
+"color": null,
+"style": null,
+"effect": null
+},
+"body": {
+"frame": null,
+"waist": null,
+"chest": null,
+"legs": null,
+"skin": {
+"visible_areas": null,
+"tone": null,
+"texture": null,
+"lighting_effect": null
+}
+},
+"pose": {
+"position": "mixed (some standing, some sitting)",
+"base": "on a branch of an Agan tree",
+"overall": "performing music, playing pipa, erhu, flute, ruan, and horse-hoof lute"
+},
+"clothing": {
+"top": {
+"type": "Tang dynasty court clothing",
+"color": null,
+"details": null,
+"effect": null
+},
+"bottom": {
+"type": null,
+"color": null,
+"details": null
+}
+}
+},
+"accessories": {
+"jewelry": null,
+"headwear": null,
+"device": null,
+"prop": "pipa, erhu, flute, ruan, horse-hoof lute"
+},
+"photography": {
+"camera_style": null,
+"angle": null,
+"shot_type": null,
+"aspect_ratio": null,
+"texture": null,
+"lighting": "even soft gentle lighting",
+"depth_of_field": null
+},
+"background": {
+"setting": "camel-brown stage canvas",
+"wall_color": "camel brown stage canvas, color code #E7B5C3D",
+"elements": [
+"Agan tree branch",
+"birds"
+],
+"atmosphere": null,
+"lighting": "even soft gentle lighting"
+},
+"the_vibe": {
+"energy": null,
+"mood": null,
+"aesthetic": "Song dynasty aesthetics, minimalist, realistic",
+"authenticity": null,
+"intimacy": null,
+"story": "A Tang dynasty Chinese court orchestra performing music on a branch of an Agan tree, musicians and birds casually scattered, some standing, some sitting.",
+"caption_energy": "Tang court orchestra on a tree branch"
+},
+"constraints": {
+"must_keep": [
+"Tang dynasty court orchestra",
+"musicians playing pipa, erhu, flute, ruan, and horse-hoof lute",
+"Agan tree branch",
+"musicians and birds casually scattered, some standing, some sitting",
+"camel-brown stage canvas with color code #E7B5C3D"
+],
+"avoid": []
+},
+"negative_prompt": [
+"nsfw",
+"low quality",
+"text",
+"watermark"
+]
+}
+```
+
+<a id="prompt-1001"></a>
+## 案例 1001：香港维多利亚港烟花秀 (来源 [@LufzzLiz](https://x.com/LufzzLiz/status/2005286056850251802)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1001.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-香港维多利亚港烟花秀">
+</div>
+
+**中文提示词：**
+```
+{
+  "template_name": "新年城市天际线庆典 (人物定制版)",
+  "description": "一个孩子俯瞰城市天际线的电影式镜头。支持基于参考图的人物形象定制、视角切换（正面/背面）以及自定义动作。画面中包含定制的烟花特效和巨大的“2026”字样。新增全局构图设定：采用鸟瞰远景视角，镜头与人物呈60度角，确保人物不遮挡城市夜景；人物服装风格与目标城市文化或地标元素相呼应。",
+  "prompt_template": "一个令人惊艳的电影式镜头，采用鸟瞰远景构图，镜头与人物呈60度角，巧妙避开人物对背景的遮挡，完整展现壮丽的城市天际线。基于参考图片中的孩子形象，人物以{view_orientation}出现在画面中，头戴一顶奇趣的派对帽，身穿与{target_city_short}文化或地标相呼应的节日服装，站在高耸的山峰之巅。人物当前的动作为：{character_action}。背景是令人叹为观止的{target_city}城市夜景，标志性的城市地标在繁星点点的夜空下清晰可见。整个天空被{city_fireworks_effect}点亮。巨大的、闪耀的金色烟花在中心清晰地拼出了“2026”的字样。8K 分辨率，照片级真实感，电影颗粒感，营造出梦幻、宏大且充满希望的氛围，展现了高度精细的城市夜景。",
+  "input_variables": {
+    "target_city": {
+      "type": "string",
+      "description": "庆祝活动的城市名称和主要地标描述。",
+      "default_value": "上海夜景，东方明珠塔、外滩和蜿蜒的黄浦江"
+    },
+    "target_city_short": {
+      "type": "string",
+      "description": "目标城市的简称或关键词，用于描述服装风格匹配（如'上海'、'巴黎'、'东京'等）。",
+      "default_value": "上海"
+    },
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "烟花的风格、形状、颜色和氛围的描述。",
+      "default_value": "一场壮观的迪士尼风格烟花表演，以米老鼠形状的烟花、童话般的柔和色彩、闪闪发光的魔法粉尘和梦幻般的层叠火花为特色"
+    },
+    "view_orientation": {
+      "type": "string",
+      "description": "人物相对于镜头的朝向。推荐：'背面剪影' 或 '正面（面带惊奇的笑容）'。",
+      "default_value": "背面剪影"
+    },
+    "character_action": {
+      "type": "string",
+      "description": "人物的具体肢体动作。",
+      "default_value": "双手高举过头顶，向着天空张开，身体微微后仰，充满惊奇和兴奋"
+    }
+  },
+  "full_prompt_example": "一个令人惊艳的电影式镜头，采用鸟瞰远景构图，镜头与人物呈60度角，巧妙避开人物对背景的遮挡，完整展现壮丽的城市天际线。基于参考图片中的孩子形象，人物以背面剪影出现在画面中，头戴一顶奇趣的派对帽，身穿与上海文化或地标相呼应的节日服装，站在高耸的山峰之巅。人物当前的动作为：双手高举过头顶，向着天空张开，身体微微后仰，充满惊奇和兴奋。背景是令人叹为观止的上海夜景，东方明珠塔、外滩和蜿蜒的黄浦江在繁星点点的夜空下清晰可见。整个天空被一场壮观的迪士尼风格烟花表演点亮，以米老鼠形状的烟花、童话般的柔和色彩、闪闪发光的魔法粉尘和梦幻般的层叠火花为特色。巨大的、闪耀的金色烟花在中心清晰地拼出了“2026”的字样。8K 分辨率，照片级真实感，电影颗粒感，营造出梦幻、宏大且充满希望的氛围，展现了高度精细的城市夜景。"
+}
+城市：香港维多利亚港
+人物：参考图片｜正面照。服装需替换与背景城市保持一致
+动作: 双手过肩比心
+```
+
+<a id="prompt-1000"></a>
+## 案例 1000：山顶观看烟花秀 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/1000.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-山顶观看烟花秀">
+</div>
+
+**提示词：**
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+城市：夏威夷
+```
+
+<a id="prompt-999"></a>
+## 案例 999：手臂搭在巨大的3D汤姆猫身上 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/2005816508602278010)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/999.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-手臂搭在巨大的3D汤姆猫身上">
+</div>
+
+**提示词：**
+```
+"image_generation":(
+"quality": "hyper-realistic", 
+"face": ("preserve_original": true, "reference_match'": true), 
+"subject":{
+"description": "A stylish person with the same face.", 
+“clothing":{
+"Top": ("type": "knitted sweater", "color": "light grey (Tom Theme) ". }
+"pants": ("type": "high-waisted jeans", "color": "denim blue".
+"shoes":("type": "high-top sneakers", "color": "white")
+"pose": "standing with arm around a giant 3D Tom while Jerry
+sits on Tom's shoulder", 
+"expression": "fun, mischievous"
+"character_element":{
+"name": "Tom & Jerry", 
+"type': "3D photorealistic duo", 
+"interaction': "Tom poses confidently, Jerry looks playful"
+"environment-( "background'. (clean grey-blue backdrop"}
+}
+```
+
+**中文提示词：**
+```
+"image_generation" :(
+“质量”：“超逼真”，
+“face”: ("preserve_original": true, "reference_match": true),
+“主题” :{
+描述：一个穿着时尚但长相雷同的人。
+“服装” :{
+上衣：（类型：针织毛衣，颜色：浅灰色（汤姆主题））。
+"裤子": "类型": "高腰牛仔裤", "颜色": "牛仔蓝"
+“鞋子” :( “类型”：“高帮运动鞋”，“颜色”：“白色”）
+“姿势”： “手臂搭在巨大的3D汤姆猫身上，而杰瑞……”
+坐在汤姆的肩膀上”，
+“表达方式”：“有趣，调皮”
+"character_element" :{
+"name": "汤姆和杰瑞",
+“type”: “3D 逼真双人组”
+“互动”：“汤姆自信地摆姿势，杰瑞看起来很顽皮”
+"环境-("背景" . (干净的灰蓝色背景"}
+}
+```
 
 <a id="prompt-998"></a>
 ## 案例 998：元旦特辑-粉色的秋千童话风 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/2005268799512309855)) 模型：Nano banana pro
