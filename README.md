@@ -7,7 +7,7 @@
 
 🎉 在线演示地址：https://opennana.com/awesome-prompt-gallery/
 
-- [Emu](https://image.tinchak0207.xyz) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
+- [Eimu](https://eimu.art) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
 
 ## 🆕 项目改造说明
 - 新增 `scripts/generate-dataset.js`，可将仓库内的 Markdown 案例自动解析为结构化的 `data/prompts.json` 数据集，包含来源、图片、提示词、示例、备注及自动生成的分类标签。
@@ -1552,7 +1552,7 @@ Alignment: Center the figure perfectly. Maintain wide negative space around the 
       "format": "2x2 Seamless Grid (Zero Gap)",
       "aspect_ratio": "3:4",
       "composite_mode": "Perfectly fused edges / No white borders / No gutters",
-      "engine_mode": "Analog Film Emulation / K-Pop Visual Aesthetic"
+      "engine_mode": "Analog Film Eimulation / K-Pop Visual Aesthetic"
     }
   },
   "biometric_anchor": {
